@@ -1,0 +1,21 @@
+0
+" Collect statistical data on artefacts shape, size, volume etc on a large number of AFM images."
+3D nuclei or cellular segmentation 
+3D reconstruction
+"3D reconstructions, automated advanced segmentation methods"
+Clustering. I still don't trust a single clustering algorithm to be correct.
+Correlative microscopy/data atlas- matching datasets across techniques
+Easier software front end
+"Extracting forces, sptPALM (localization microscopy), deep learning"
+Extraction of 3D properties of objects in volume.
+"I wish it was easier to get intensity vs time trajectories from movies (drift correction, background identification, segmenting particles, fitting with 2D Gaussians, and sometimes normalizing to an individual fluorophore)"
+"Image autocorrelation for SIMS, 3D imaging in SIMS."
+Integrated Density
+"Inverse problems, and specifically phase imaging"
+Ptychography :-)
+Segmenting non-round particles that have some overlap
+"Tomographic reconstruction, 2D image analysis in terms of producing statistics from your intensity map in a standard SEM image "
+"With a terrible contrast, it is bad to look for a contour. What can be done here? Think more about the illumination in the visual experiment =)))"
+counting 
+handling large datasets/automation
+segmentation and tracking

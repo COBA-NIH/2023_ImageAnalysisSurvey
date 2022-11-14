@@ -1,0 +1,72 @@
+0
+ 
+-
+-
+/
+"A huge number of cell biologists feel like they are too busy to learn new computational tools.  However, most of them are comfortable with ImageJ/Fiji.  If you make it an easy plugin in Fiji, people will use it.  If they need to download the latest version of python, chances are a big chunk of them will stick with the worse but easier to run existing solution."
+"Adding any guides or standards for developers (e.g., documentation, interaction on image.sc) would be great. "
+"Again we need to improve the environment for software developers that want to work in image data analysis:
+More (serious) Funding capable of attracting excellent Sofware developers to the exciting field of open BioImage informatics
+"
+"As someone who has learnt image analysis independently, I can see why there is such a learning gap between biologists and image analysts. It is something you either have to spend a lot of time reading up on, or have a dedicated image analyst on team. The midpoint is being instructed/ taught, but to be honest I think if someone wants to learn all they need is on the internet and ready. "
+Central organisation as N/EUBIAS would be great to have (again)
+Core facilities need to act as nodes to facilitate communication between biologists and developers 
+Engage with imaging cores. Let the facility scientists become the voice for your tools. Train them for them to train others. Facility scientists are the folks that see most traffic of users. 
+"Every analysis tool should have a clear pipeline which you can fiddle with in an informed manner. Most biologists are broadly asking the same thing from image analysis and ultimately a single package should be able to achieve this. 
+
+Oh! better integration of python with Fiji. Fiji macro language is whacky. 
+
+Finally, not a fan of being lumped in with undergrads. undergrads and postgrads have very distinct different needs. "
+Great study. Thanks for doing it.
+"I am a big fan of the open-ness of the BioImage Analysis community. However, in all its proliferative glory, I find it difficult to keep up to date with all the new developments at the moment, and this is only going to get worse... "
+"I am a pathologist using image analysis in my research pathology service. I was surprised by the lack of mention of pathology in this survey, given the critical role pathology plays in tissue based image analysis and the common use of image analysis by many research pathologists. Pathologists often do not feel represented in organizations and efforts such as those represented by this survey, which tend to focus more on biologists, therefore we tend to work among ourselves to discuss and learn about image analysis and develop new methods, but I think pathologists and biologists could benefit from more interactions between each groups on image analysis. This is already happening in some places, for example the image.sc Qupath forum."
+"I am not sure if this already exists, but I would love to be in some kind of Boston-based slack group or discord server or forum of some kind that consists of people knowledgeable about image analysis."
+"I am power user of many open source packages, but we should advocate for more funding of image analysis software development and engineering positions. CZI is a doing a great job."
+"I apologize if I am coming across harsh about the conference. I'm sure it was hugely successful and helpful for most of your attendees. However, there is a segment of your attendees that probably felt left out because they didn't understand the jargon or because of the enormous effort it was to prepare for the workshops that then didn't even do the thing they thought the software package was designed to do. Yes, some of this is on the amateur user but beyond hours of reading how are we supposed to bridge that gap? I watched 15 hours of Robert Hansen teaching image analysis class on YouTube and while that was hugely helpful. It wasn't enough to get me up to speed for the conference. "
+"I have been analyzing pollen in the microscope >30 years and now I want to use digital images to analyze the pollen, much to learn "
+"I have first hand experienced that anything more advanced than a post doc is not accepted to image analysis workshops. In addition, basic coding experience is required. That excludes most junior group leaders and older PIs. That means their labs are naturally not using advanced techniques."
+"I really think that a major issue at this point is the abundance of image analysis solutions. There are SO many! It's great that there are so many options, but it makes it really difficult to choose - especially when each one is in its own little ecosystem with its own interface, libraries, etc. "
+"I see innumerable exciting and interesting looking new tools being developed, but frequently struggle to implement them due to my limited expertise with programming.  And this is as someone who worked in the computer industry for years and is certainly in the top 5% of my colleagues (biologists) with respect to knowledge and comfort with computers (i.e. I'm not afraid of the command line).  So while it's great that someone's developed a python routine to do something useful with images, unless it's wrapped in a nice UI and easily downloaded installer (that works on Macs as well as Windows), it probably won't be used by many people."
+I think also just getting people to realize that images are data is a big challenge. and there is always just the challenge of stopping people from making their images small jpgs (shudder -.-) and getting them to realize how the destroy their data.
+"I wish journals had stricter reporting standards for microscopy images and analysis methods. Too many papers say ""images were analyzed in ImageJ"" with no further explanation (and no citation for the software).  "
+"I work for a commercial image analysis product's sales team. I would say most people come to us with 'traditional' image analysis problems that are not easily addressed by tutorials. Object separation and segmentation are the most common needs. Visualization and measurements are also crucial, but require the segmentation to be good. There are some very exciting recent advancements to object detection and separation, but these are generally published in a rapid prototype manner that are not easily ported to commercial tools. For example, these environments are downloaded as Jupyter or ipynb notebooks. It is difficult to port such code to another tool. Breaking down a useful method like stardist or PolarMask++ into components that can be ported is very helpful when one tries to integrate these tools into other programs."
+"I work in industry, where it feels they are also playing catch up on how to store, share and analyse images. They have different priorities (would love to just buy the solution to their problems), but I think it is clear the field moves faster than industry, and often we would like to use opensource/published tools. I wonder how industry coul dbe better involved support this (btw, happy to be contacted, i am Merrick Strotton @ UCB)"
+I would like to propose special programs that offer training and scholarships particularly to Microscopy facility staff
+I would love to have access to a cost friendly imaging course. The only one I am aware is about 10K which is 1/5 of my startup package.
+"I'm an amateur analyst, I run a facility, I wish there was someone who would be happy to remotely run an analysis when it's clear what is asked for is beyond my capability."
+I'm someone who came to image analysis (with ImageJ) with very little guidance or relevant background. I wouldn't say I have a great grasp of it but I'm able to do some basics now. It's been a real uphill battle teaching myself!
+"Image analysis is very complex. From a facility perspective, it would be helpful if there is a common repository where pipelines/workflows could be shared with examples (CellProfiler's webpage on tutorials is excellent). That makes the average user more likely to run analysis by themselves.  "
+"Image analysis, scripting and data visualization must be a core part of graduate curriculum at almost STEM department. This is 2022, not having such courses is not training graduate students at this point."
+ImageJ scripting is an incredibly powerful tool that can be used for free by anyone.  I think organizations such as this should support its use (and other tools like it).
+"It would be great to try and include some of the SPM/AFM community, who are traditionally not good at developing or sharing data analysis tools!"
+It’s difficult to stay up to date of all the tools. Training the people using them is essential. Really enjoyed the in person neubias training where as a microscopist you interact with tool developers. The online trainingschools were also very useful but in-person is more bidirectional. 
+"Jupyter notebooks are closer to what can work for general audiences. Needs some more streamlining.
+
+Boo for Fiji, image.sc is not friendly for non coders and not interactive, should be more like discord"
+Keep up the good work
+Less python
+MONEY FOR DATA ANALYSIS. There are no real dedicated funding streams or career paths for data analysts (ARISE is a welcome change)
+Maybe a session/workshop at MMC/similar on an intro to github would be useful?
+"Multi-photon microscopy is the primary workhorse of many neuroscience labs, yet markedly different from conventional wide-field fluorescence microscopy. Please keep it on your radar."
+My lab is in desperate need of image analysis assistance.
+"Networking and community building is super importamt, image analysts have very important role in all the above, funding is needed for tools development and maintanance, and also for building the analysts community and support training by amalysts - NEUBIAS model should revive and get funded"
+No
+No
+No
+"None of Image analysis is easy. Stop looking for silver-bullet easy solutions. Embrace the experts and give them money, kudos and applause."
+Nope
+Open access and free softwares are crucial and we are thankful for them
+"People will lose their interest in the field if the experts are not open to teach and help them. If topics are explained without deconstructing the logic behind them, new users will be scared away from them. This will ultimately mean that we'll develop tools to be used by experts who also prefer to develop their own tools, thus creating an unnecessary sea of software tools that are used by no one. It'll be a private club for a selected few with no interest in bridging the gap between users and developers. Which is not so different from the beginnings of scientific groups (case in point, the London royal society in 17th Century. Throughout history, Science has always been the hobby of the rich/privileged. A fact that does not seem likely to be changed anytime soon)"
+"Quantitative image analysis needs to be recognised as an integral part of any imaging workflow, essential to unlock new insights into biological processes. With advanced analysis software tools being very time-consuming to learn and to appropriately apply for 'typical' experimental researcher, this calls for support by dedicated image data analysts, e.g. to develop bespoke analysis workflows and data visualisation solutions. Imaging facilities would be ideal to provide this support. However, when operating as SRFs with full cost recovery, funding such positions is almost impossible. In addition, bioinformaticians are highly seeded after in the industry and academic jobs are comparably unattractive. Thus, I fear a lot of potential for better-quality higher-impact research goes to waste. Funders should consider this. "
+Still missing is a tool that allows you to equalize the brightness of the image with a gradient in any direction. What we have does not work as we would like
+Thank you for all you do. You are appreciated.
+Thank you guys for your great work on CellProfiler!
+Thanks for holding this conference! I've learned a lot.
+"The survey is biased against coders and in favour of scipters, library useers and tool users. You only give choices about what tools or libraries are used - but i mostly code my own solutions from image analysis theory using C. Me and others like me don't get an appropriate box to tick. Your responses will therefore be biased to tool/library users - unless of course that is your intended audience in which case it doesn't matter."
+There is often a Bio-imaging focus that obscures the usefulness of many approaches in other disciplines.
+There's a lot of overlapping functionality between different open-source bioimage analysis software. Is there a good way to consolidate these by application and make sure the ones available are used/rigorously tested by more people? I feel that the best software is software that has been used by lots of people for a while. This is the only way to get rid of bugs.
+We need a dictionary to translate between computational and biological terms (e.g. cell segmentation => instance segmentation)
+"We need checklists for image analysis pipelines (like list out metadata and parameters, don't just say you used a package)"
+Web browser based solutions are nice
+"if it cannot be installed by a computer illiterate person, then it's not a friendly tool for biologists.  If more than one thing has to be downloaded from github, forget about it. "
+nope

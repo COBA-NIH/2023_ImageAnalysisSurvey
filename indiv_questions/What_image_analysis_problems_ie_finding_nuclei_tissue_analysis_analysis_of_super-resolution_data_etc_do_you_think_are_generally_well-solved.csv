@@ -1,0 +1,271 @@
+0
+2D
+"2D CLEM, connectomics wiring diagrams"
+"2D analysis, we seem to hit a hurdle when moving to 3D"
+2D in vitro cell segmentation
+2D nuclear segmentation 
+2D object identification
+"2D segmentation for fluorescence images, specially nuclei that display an homogeneous label"
+"2D segmentation of nuclei and other ""solid"" organelles. Cell counting."
+"3D & 4D visualization, stitching & image registration"
+?
+Almost anythng for mammalian cells
+"Basic analysis of fluorescence intensity, simple segmentation "
+Basic manual quantitation (none of the above listed problems)
+Basic segmentation esp in cell culture
+Cell & nuclear segmentation
+Cell Counting
+"Cell counting, gel semi quantitation, AUD analysis "
+"Cell counting, tissue analysis"
+Cell morphology
+Cell morphology analysis 
+Cell segmentation
+"Cell segmentation (cellpose, KNIME workflows w/training data, etc. - lots of options and documentation out there)."
+Cell segmentation (single cells in culture)
+Cell segmentation on well labeled items. Quantification of cells. Rendering of 3D data. 
+Cells
+Classification based on cytoplasmic stains
+Classifying cellular types
+Count cells
+"Counting cellls, mean fluorescence intensity, distance between 2 spots"
+Counting dapi-labeled nuclei is generally well solved until your application is particularly hard or your sample prep is bad or your images are dim or etc...
+Counting mono-nucleated cells
+"Counting particles, co-localization, measuring"
+"Counting well separated yeast cells. Otherwise, users keep wanting more and more, so we have to push it futher"
+Cultured mammalian flat cell analysis as opposed to cells in embryos
+DAPI staining
+"Deconvolution, single-molecule localization"
+Denoising
+Denoising
+Denoising 
+Detecting cell nuclei
+"Does that not depend on image quality, labelling etc?"
+Don't know
+"Every tissue has a different challenge, sometimes even finding the nuclei can be difficult "
+"Everything depends on segmentation, which is always problematic in real samples"
+Finding Nuclei
+Finding and analysing small spots
+Finding and segmenting nuclei and cell boundaries and 
+"Finding cells, tracking cell nuclei over time, counting nuclei"
+Finding mammalian cell nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei
+Finding nuclei 
+Finding nuclei and not complex shapes
+Finding nuclei and well stained organelles
+Finding nuclei in monolayers
+Finding nuclei is getting better but not in tissue or cleared brains
+Finding nuclei stained with DAPI and then quantify Cytoplasm/Nucleus
+"Finding nuclei, basic automated quantification of fluorescence"
+"Finding nuclei, finding cells"
+"Finding nuclei, identifying isolated objects"
+"Finding nuclei, image registration, segmentation"
+"Finding nuclei, manual thresholding for area/percent calculation, manual counting"
+Finding nuclei/Roi
+"Finding round nuclei, sparse to dense (but not extremly dense)"
+"Finding spots/features/cells/nuclei/puncta, measuring sizes/volumes."
+Finding ultra high contrast nuclei in sparse images
+"Finding, counting, measuring clearly defined structures. Automating analysis of datasets with limited variability."
+For all of them I had to rely on some extent of human intervention in the analysis.
+Gross structural analysis
+HCS Data Analysis
+Hard to answer this ~ Image analysis can always be improved and it depends largely on the image
+"I have an easy time with: finding nuclei, counting segmented cells, background correction, measuring fluorescence intensity within a selection."
+I think almost every step of image analysis still has plenty of improvement to be had.
+"I would argue no single problem has been, ""solved"". However, I think great progress has been made on non-purely threshold based analysis, nuclear identification, cell segmentation, and phase-contrast analysis. Great strides have also recently been made with respect to handling large data sets (though still a long way to go)."
+Image analysis as I understand it is all a work in progress.
+Image visualization in 2D and 3D
+Localisation of proteins
+Locating sample
+"Many 2D problems, especially in cultured eukaryotic cells or monotypic tissue types. Colocalization of two signals."
+Mononucleated cell detection
+Most 2D analysis is well solved. 
+Most basic cell and tissue segmentation problems where contrast is high
+Most things in 2D seem better solved than in 3D or higher dimensions (e.g. cell or nucleus segmentation of sparse 2D cells in culture)
+N A
+None
+"None, though finding nuclei in 2D works well."
+Normal tissue segmentation 
+Not confident to answer
+Nuclear and cellular segmentation and separation in cell culture images
+Nuclear segmentation; particle tracking; registration/alignment
+Nuclei
+Nuclei and foci counting
+Nuclei detection (yay stardist)
+Nuclei detection /high contrast tissue selection
+Nuclei segmentation
+Nuclei segmentation and analysis
+"Nuclei segmentation seems to be well-solved... but even for that, finding the right tool is not so easy, the vastness of the field (and the high number of solutions) is confusing."
+"Nuclei segmentation, semi automated user guided segmentation "
+"Nuclei segmentation, tracking"
+"Nuclei tracking, cell border segmentation, filopodia segmentation, organelle segmentation"
+Nuclei with Stardist
+"Nuclei/cell segmentation, object tracking"
+Nucleus detection and stain deconvolution
+Nucleus segmentation is pretty good.
+Optical imaging data
+Outlining single round cells and detecting tissue outline
+Quantifying things that are easily to isolate and identify
+Resolution
+"Segment nuclei and segment cells, counting nuclei/cells"
+Segmentation
+Segmentation
+Segmentation and quantification.
+Segmentation of cells
+Segmentation of fluorescence images
+"Segmentation of fluorescent images, morphological analysis of segmented images"
+"Segmentation, intensity measurements"
+"Segmentation, measuring signal intensity"
+"Segmentation, object classification, 2D analyses"
+"Segmentation, object detection, particle tracking"
+Segmenting
+"Segmenting Nuclei, single particle tracking, shallow learning (e.g. Weka)"
+Segmenting cells using fluorescent imaging.
+Segmenting nuclei or other bright and spaced out samples
+"Segmenting nuclei, tracking blobs"
+Simple segmentation counting things is cell profiler is easy to show people an get off the ground
+"Small image analysis (<50 Mb), nuclei detection, marker-based watershed, denoising"
+Tissue analysis
+"Tissue detection, Nuclei detection within defined image types/cell types (multinucleated macrophages don't count)"
+Tissues background
+"Training with large datasets, counting in low density images, easy segmentation of different image parts"
+When cell around 10 um and above and do not overlap.
+"Within our scope (mostly rod shaped bacteria) there's some improvement possible for 2D segmentation, cell tracking, and 2D SMLM by simultaneously considering xyzt but pretty close to optimal."
+automated segmentation of fluorescence imaging
+basic segmentation of large objects
+"basic thresholding, counting, intensity measures, machine learning approaches"
+cell and nuclei segmentation
+cell counting
+"cellcounting, cell measurements"
+classic or AI segmentation of stereotyped cells/subcellular compartments in images with high S:N
+cluster analysis in STORM
+co localization
+counting and tracking in 2D
+"counting cells, 2D cell shape analysis"
+counting nuclei
+counting nuclei
+"counting number of dead cells/nuclei/spheres, determining % of area that is occupied by cells"
+deconvolution
+defining nuclei
+denoising
+detecting (not segmenting) nuclei
+finding and tracking round high snr objects
+finding common organelles
+finding most structures that are well defined using fluorescent biomarkers
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei
+finding nuclei 
+finding nuclei (thanks to cellpose/stardist)
+finding nuclei (unless they are too close together)
+finding nuclei and other fluorescent labelled organelles
+finding nuclei and particle size in a sparse sample
+finding nuclei and watershed cells with very consistent cytosolic marker
+finding nuclei for common stain types
+finding nuclei for well separated cells
+finding nuclei in 2D
+"finding nuclei, cell count"
+"finding nuclei, counting nuclei"
+"finding nuclei, counting spot and foci, colocalization"
+"finding nuclei, finding cells"
+"finding nuclei, finding spots, "
+"finding nuclei, localiying dots"
+"finding nuclei, puncta detection"
+"finding nuclei, qunatitative analysis"
+"finding nuclei, some forms of tracking"
+"finding nuclei, tracking spots/cells in 2D, measuring intensities within nuclei"
+"finding sparse nuclei, tracking puncta in 3D + time"
+finding uclei if threshhold is possible
+fluo quantifications
+fluorescence nucleus segmentation
+fluorescence segmentation and analysis
+fluoresence for cells
+identifying discrete objects from low background
+"identifying objects/nuclei in static cell culture micrographs, large batch analysis"
+image segmentation
+measuring in 2D
+molecule detection
+moving cells
+none that work across all datasets
+nuc finding in boring cell types
+"nuceli + spot counting, confluency (growth rates)"
+nuceli segmentation
+"nuclear segmentation, simple cell segmentation"
+nuclei
+nuclei and mitochondria
+nuclei counting is well solved. 
+nuclei detection and tracking
+nuclei segmentation
+nuclei segmentation
+nuclei segmentation
+nuclei segmentation
+nuclei segmentation
+nuclei segmentation
+nuclei segmentation in 2D
+nuclei segmentation in fluorescence images
+"nuclei segmentation, bandpass filtering for background/noise reduction, basic deconvolution"
+"nuclei segmentation, enumerate objects within other objects, distances between objects"
+"nuclei segmentation, intensity analysis that follows."
+"nuclei segmentation, particle tracking"
+"nucleus segmentation, cell counting, cell segmentation"
+"nucleus-based segmentation, STORM-PALM-SMLM, RICS"
+particle analysis
+particle counting
+"plenty, but always room for improvement"
+"puncta analysis, nuclei analysis, filament tracing"
+"registration, segmentation"
+"roi for contrasting regions of an image, nuclei or whole cell counting if non-overlapping"
+segmentation
+segmentation and tracking
+"segmentation in 2D , tracking , color deconvolution, machine learning with random forest,"
+segmentation of fluorescently-labelled nuclei
+segmentation of nuclei and counting
+"segmentation, finding nuclei, tracking cells (neutrophils). "
+segmenting basic cell compartments
+"segmenting cells in 2D fixed images, counting objects etc"
+segmenting large and bright objects
+segmenting nuclei
+simple image enhancement; thresholding/segmentation; morphometry/measurement 
+"spot detection, tracking, "
+"super-resolution, denoising"
+"tracking cells, segmentation of fluorescent data"
+"very little is ""generally"" solved"
+well separated objects of non varying intensity 
+well-separated non-overlapping objects

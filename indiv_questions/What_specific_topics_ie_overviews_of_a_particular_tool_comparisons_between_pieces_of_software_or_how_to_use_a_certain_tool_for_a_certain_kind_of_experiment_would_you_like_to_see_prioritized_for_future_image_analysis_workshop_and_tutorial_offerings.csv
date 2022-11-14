@@ -1,0 +1,234 @@
+0
+3D analysis
+3D processing
+3D tissue segmentation
+A comparison of deep learning with more standard techniques for doing similar tasks
+"A waterfall /workflow of recommendations for analysis tools, starting from particular imaging modalities."
+AI in bioimage analysis
+AI/DL approaches for segmentation
+"Advanced FIJI. Cellprofiler (and others) - top tips, compare and contrast. "
+Advanced scripting languages and methods!
+"Advanced tutorials, advanced macro scripting, focus on a specific image type or sample type "
+All listed suggestions would be useful 
+An expansion of the HyperSpy workshops to applications beyond the TEM focus.
+Analysis provenance
+Any discussion of imageJ and how to utilize the vast tools in there is always great because it is an accessible platform for the most imaging scientists.  
+Anything around ImageJ because everyone has access to it
+"Appropriate use of machine learning models for biologists would be good, there is a lot of power there but it's not always the most accessible."
+Automated image analysis
+Automating image analysis using software
+"Automating workflows, best practices/methods of reducing investigator bias"
+Basic scripting and coding
+Best approach/software for different types of problems. Overviews of new tools.
+"Building napari plugins for plug and play modules of numerous analysis tools with cooperating file formats (cellprofiler, cellpose, aics structure segmenter, tracking plugins)"
+Cell segmentation
+"Co transport analysis. Cell body imaging of small cell body such as that of
+C.elegans."
+Co-localization tools e fluorescence quantification
+Coding for image analysis of high content/high number
+Colocalisation
+Colocalization analysis - software and methods
+"Colocalization, Cell morphology quantificarion"
+"Comparison between different software for cell segmentation (and cell shape analysis) in epithelial tissues. Comparison of free and commercial software for 3D cell tracking analysis - similar to the various ""analysis challenges"" that have been performed in previous years but showing off the findings as a workshop/webinar."
+Comparison between different softwares.
+Comparison of deconvolution outputs and the artefacts they can create.
+Comparison of single cell segmentation scripts
+Comparisons / different routes to solving similar problems.
+Comparisons between different segmentation tools and how to optimize them
+"Comparisons between pieces of software and which is suitable for what data sets, how to use certain tools, explanations of automated aspects of specific tools (e.g. segmenting algorithms)"
+Comparisons between software and how they can work together would be useful
+"Comparisons between software, deep learning approaches that are accessible to life scientists with moderate experience with coding;   deep learning approaches that can be made available to users of a core facility"
+Comparisons of popular image analysis software: CellProfiler vs Cellpose vs QuPath vs others.
+"Comparisons, challenges "
+"Comparisons, highlight software that replaces old packages, "
+Course on image analysis using Python and Napari for beginners.
+Data science
+Deep learning
+Deep learning and artificial intelligence
+Deep learning applications
+"Deep learning for microscopy, napari, 3D annotation, CLIJ, Clesperanto"
+Deep-learning based solutions
+"Definitely deeplearning for biologists... How to use DeepImageJ, CSBDeep, UNet, etc; BigData processing, analysis, visualization and management."
+Depends on ongoing projects
+Different approaches to perform the same analysis (pros and cons).
+Difficult to prioritise as all topics can be useful.
+Dream3D for large and/or complex datasets e.g. strained material
+"Estimating error (computational and experimental) of methods when applied to my own data, discussion of pitfalls, available test data sets, getting started guides"
+"Focus on open source options, not software where access is an issue. "
+"For my personal work, a topic on making high-level image analysis techniques and pipelines accessible for users (e.g. using GUIs, or guidance on how to structure instructions) would be greatly beneficial for myself, and a lot of other analysts that perform similar roles to me)"
+Full Python walkthroughs for biological questions aimed at beginners (with Jupyter notebooks and good documentation and reasoning for tool/module/filter use)
+General data labelling - not only bboxes and class labels for CNN's but also those for GNN's. Also gaussian processes and auto encoders as I've heard they could be quite useful
+General good practices and specialized analysis tool in terms of quantification of images
+General theory
+"Generalist tutorials on segmentation - a wide overview of the many tools and techniques, from classical non-ML approaches to the deep learning approaches, would be immensely valuable to many people who are beginners."
+Gentle introductions for non-experts. Application-specific workflows that do not dwell much on theory and instead focus on insight (key in commercial).
+"Getting to grips with Python. The absolute basics. How to install it, which instal method to use. Why there seem to be some many options."
+Goal-focussed tutorials that explore how to address a specific problem (e.g. classifying cells in tissues based on morphology) rather than what a particular tool can do. A good tutorial suggests a pipeline and introduces the required tools but also explains where one could deviate and what the limitations of the particular approach would be.
+How to be sure you're using the correct tool. What is the underlying algorithm and why is this correct for my particular image analysis problem?
+How to do « good » image analysis / integration of the AI in image analysis
+How to improve use of specific tool
+How to take an image for image analysis. Most problems I've seen from end users are simply they do not understand what is needed for successful segmentation of their samples
+How to use a certain tool for a certain experiment.
+How to use a certain tool for a certain kind of experiment
+How to use a certain tool for a certain kind of experiment. Challenging dataset examples. What is good enough?
+How to use a certian tool for a certain kind of experiment
+How to use certain softwares for certain kinds of experiments.
+How to use certain tools
+How to use certain tools and comparisons between different tools
+How to use current tools for live cell data - segmentation of objects and analysis of intensities over time etc
+How to use libraries of codes opened through deposit such as Github
+"How to use python to process large volume imaging data (e.g. segmentation, tracking)"
+"How to use tools, very basic coding for beginners (thresholding, simple calculations to increase throughput instead of manual calculations)."
+"How-to use particular plugins or tools from software, with people bringing their data"
+"I am not used to conferences so that might actually be common. I would say some kind of presentation of a particular field, like a review, and then a debate/discussion between experts. "
+"I can only speak to my experience using ImageJ, but an issue I have is that tutorials all seem to be with older versions of the software than I have and sometimes there are discrepancies. I guess it's hard to make video tutorials for a software that updates so frequently. But that might be something to try to address. Other than that, a lot of my issues come from working with images of cells with a non-round/branched morphology, so tutorials addressing analyzing structures with different morphologies from round particles could be helpful."
+I don't know
+"I need to learn python so I can use napari, "
+"I think 1) best practices in choosing FPs for specific applications - live cell, confocal, etc, and 2) a detailed breakdown of the ""IdentifyPrimaryObjects"" function of CellProfiler and how to compartmentalize it into its own modules (gaussian filter, threshold, fill holes, etc) would be super helpful."
+I think a workshop on how to acquire images and do labelling for machine learning would be useful.
+"I think general image analysis workshops are lacking and sometimes the offers are ""too specific/niche/specialized"" which might be off putting for new attendees."
+"I think it is more beneficial to cover a topic (e.g., ""Cell Segmentation in 3D...""), introduce the problem and the best/current ways to analyze the data and future directions. "
+I think the key to success is education and training (thorough training) of users and a LOT of expectation management.
+I wish there were more videos of people explaining how to use my specific software (CellSens)
+"I would like to learn how to better use ImageJ tools, especially for 3d image analysis"
+I would like to see better ways to customise background subtraction techniques. Intensity analysis of images where the SNR is not as good is something I'd like to learn.
+"I would love to see more about tracking over time -- but not only about the tracking itself, more about the subsequent analysis of the data and visualization. Especially detection of similarity profiles over time and cluster detection."
+"I would love to see more theory on how to solve a particular problem with different software.  So, less like ""this is how you segment endosomes in ilastik,"" and more like: ""here are some concepts to bear in mind when trying to segment endosomes, and here are five different workflows in different programs to do it."" That way I can develop an idea of the strengths and weakness of various approaches (and not simply use the method that I was taught because it's the only think I know)."
+"I'd love intermediate level. Most of the conferences I see are either very basic Fiji/python or full on heavy program development. Right now I'm trying to bridge the gap between those two spaces and finding it quite difficult to find the right resource. Or even a course/seminar on how to move from primarily lab-based to primarily computational and what roles are available.
+
+I'd also love sessions on how to initiate image analysis. You've collected a dataset, how do you decide what to extract from your images. Or which existing script to adapt for your use. What are the best practices the experts in the field use for this?"
+"I'd really like a broad overview of 4D-STEM tools (ie, ptych vs NBED etc)"
+Image Analysis Workflow and strategy (especially by using open source software).
+Image J macros / Python 
+Image analysis for research pathology
+Image analysis theory
+Image analysis theory. Limitations of pre-made tools. Pros and Cons of Open source vs commercial tools. Dangers of closed source tools. Importance of study design to include analysis methods from prior to any hardware selection and image capture.
+Image analysis without coding for beginners
+Image segmentation and how to extract biological information from your data.
+Image-based profiling 
+ImageJ for AFM (maybe too niche for this). Scikitimage/Python interactive tutorials/workshops
+Imaris vs public software
+Improved DICOM workflows for batch processing
+"In depth tutorial with examples of scikit-image, OpenCV, tools and modules available in Python"
+It is often very hard to judge if an approach is obsolete and there may be a newer more fitting tool that may be out there. Coming up with the best search terms is a big hurdle.
+"It may seem elementary to you, but I would note clustering"
+Learning how to automate image analysis processes for big data using coding
+Low cost densitometry image information.
+Low deep learning floor difficulty
+Machine learning training
+"Machine learning, overview of which tools to use when, the theory or considerations of using different image analysis tools/algorithms "
+Managing image data for scientific reproducibility. Designing image analysis pipelines. How to deal with giant data datasets in the age of high throughout/semi-automated imaging. Why No One is Willing to Fix the UI/UX problems in imageJ. Why you should stop trying to do image analysis on a crappy laptop screen. Deconvolution for Those Who Don't (Apparently) believe in Math.
+More Deep Learning
+More Python coding. 
+"More basics of how to get in Napari and scripting. I miss some brige - its either using commercial tools and GUI or coding, the jump between that is big and we are expected to learn ourselves"
+More detailed video tutorials of tools like ImageJ as well as how to process images to make them ready for publication would be great.
+"More script orientated tools (Python, R, ...)"
+"More software and plugin development, particularly ImageJ2/ImgLib2 development"
+More topics on best practices for development would be useful to me
+Multiplex analysis
+"Multiplex data, spatial analysis - whole worklows, spatial statistics theory, rna/fish analysis , building worklows for speciific problems,   data science from images,
+ latest advanced tools and methods
+How to use certain tools, advanced scriptimg/automation,    overviews and comparisons as well "
+"My job at the moment involves a lot of tomogram processing so I'll say: tomogram pre-processing (motion correction, alignment, CTF estimation, CTF correction, noise filtering), particle picking, feature extraction, and sub-tomogram averaging.
+
+I'm also very interested in neural networks and machine learning to data mine/ classify."
+Napari
+"Napari (and other Python offerings), QuPath"
+Napari and Python
+Napari and pyhton
+"Not sure, we definitely need to know how to handle massive amounts of calcium imaging data."
+Nothing in particular
+Objective comparisons between various software for segmentation of objects from EM and volume EM data
+"Open source scriptable software. People need to learn them rather than sticking to point and click tools. Point and click is fine for initial exploration and that's it. The reason is scripts, which are based on open source tools, are reproducible and contribute to open science. Other methods do not."
+Open-source and user-friendly options 
+"Overview of ""failure"" stroies when describes ability of tool to do its job - this will show the limits of this specific tool and users would be prepared for such outcome in curtain scenarios. Description of validation workflow for the tool would be useful."
+"Overview of particular tools, ML/AI approaches mostly"
+"Overview of software that can be used for whole slide analysis and step-by-step description of HOW to use it to batch process samples. Software used for multiplexed immunofluorescence, how to register images, etc."
+Overviews of particular tools and in-depth explanations of image processing workflows are the most useful tutorials
+Practical examples are always very good for teaching purposes. 
+Principles of and rigor in image shelties. Quality control and bias. 
+Processing pipeline generation
+Protocols for plant biology
+Python and napari 
+QuPath and basic ImageJ/FIJI analysis 
+Quality assurance of images
+Quantitative analysis of fluorescence ; imageJ
+Reconstruction of images in Optical Super-Resolution Microscopy such as STORM. Autofocusing techniques in Microscopy. Image analysis of HYPERSPECTRAL IMAGING. 
+SPT analysis - there are a lot of tools available but choosing the right one is very intimidating for a new user!
+"Segmentation of images, deep learning for image analysis"
+"Setting a benchmark of best practice, guidelines of how to approach common problems."
+Software 
+Spatial analysis 
+Spatial relationships 
+Start with making people an expert in 2D and then expand upon 3D and time. 
+Subcellular structures analysis and deep learning / training set 
+Sustainable development
+Teaching core computer vision and programming concepts and paradigm to facility staff how want to delve deep into Image Analysis
+"There might be example of several applications, solved by different software platforms "
+Topostats!
+Training on open source tools for beginning undergraduate and early graduate students
+"Tutorials about how to use Fiji plugins, Icy or video tutorials"
+Unification of image data management and processing pipelines (enough of having to piece together different tools and moving disconnection datasets around)
+Use of Cellprofiler-Analyst in addition to the cellprofiler database properties
+Use of deep learning for solving complex segmentation problems
+Using ImageJ/FIJI.  MatLab scripts + ImageJ
+Using open source tool for image analysis
+Various
+"Walking through a workflow from raw image to visualization, while explaining the thinking behind tool selection and parameter choice"
+"What do I need to know about setting up anaconda? I have broken it twice now and have found help to get it working, but I broke it because I didn't (and still don't really)know how the foundation (supporting software packages) needed to be set up."
+Workflows that use different software.  E.g. Fiji to Ilastik to CellProfiler
+Workshops on microscopy related to food analysis would be great! 
+acceleration of of algorithms using gpus 
+advanced segmentation and automation functions.
+"aligning SEM images to create 3D volume, how to segment cells or organelles in 2D and 3D"
+all of it. How toos are particularly useful
+analysis of chemotaxis and polarisation
+"analysis of complex images factoring in single cells, region-based, and spatial factors "
+"basic introduction to scripting in, e.g., python/napari"
+"basic procedures/scripts, something that provides you with the basic skillset that you can use later to solve your own problems."
+big data
+build up customized plugin (imageJ or other powerful software)
+comparison between software possibilities and intro to solving a particular kind of experiment
+comparisons between pieces of software
+comparisons between pieces of software
+"comparisons between pieces of software, 3D visualization and segmentation using deep learning, big data processing"
+"data management (!), properties of a ""good"" image for analysis, limitations of image analysis, limitations of deep learning, overview of tools AND how they relate to each other"
+data mining strategies
+deep learning
+deep learning implementation in analysis pipelines using something that actually works on hardware available to general users 
+"deep learning, scripting"
+focus on new tools and new approaches
+how to analyze organelle shape and size from a confocal image using image analysis software.
+"how to choose which open source software(s) to use, i.e. pros and cons of each"
+how to get started with using scripts/macros in FIJI and other open source software for non-coding people
+how to import and use scripts in common software packages
+how to improve image resolution
+how to use a certain tool for a certain kind of experiment
+how to use a certain tool for a certain kind of experiment
+machine learning and deep learning
+"machine learning, it's such a hot topic but so hard to establish. There needs to be a: this is how to set it up from scratch/establish a pre-trained model locally. Usually everything is prepared and one can dive into coding but that is not the only learning curve. The second learning curve is not available if one does not get over the first hump."
+napari
+napari 
+"napari, cellfinder, cellpose"
+not sure
+not sure.
+"often tools can be inaccessible because I don't understand the basics (like I couldn't figure out how to download a program or don't know how to modify a macro to make it more general). Or like, I don't know how to get someones code on github into a thing I can use. What do I click on, what do I need to download? These are SUPER basic but are huge limiting factors for me and many of my labmates. "
+open source tools for 3D data analysis
+"overview of tool for complete beginner, step-by-step use of the software regarding image analysis from
+basic to advance analysis. Include cell count, flourescence intensity measurement, cell shape, organelle shape ( like mitochondria in my case!), etc Tutorial with example taking an image and doing the analysis! 
+'Help' could be more in layman language when introducing the functions of the software."
+overviews and comparisons between software
+"overviews, using specific tools for specific questions, how to choose the best software tool or package for your data. "
+people need to learn how to take data properly and save it properly for analysis and learn it is a give and take between imaging and analysis
+"regional segregation of tissues, point distance measures, thickness measures, focal vs regional signal intensity"
+scripting for beginners
+"segmentation, counting, tracking"
+"specific pipelines to solve specific problems, especially for 3D segmentation"
+specific use of tools or challenging datasets
+"standards, standards, standards (like NGFF, but more tools and workflows that work with it)"
+step by step image analysis guide.
+super resolution applications and immunofluorescent image analysis
+teaching Python/Napari based scripting
+tutorials on new tools are always helpful
+"using open source software - extracting data and inputing/formating in such a way to work with opensource. Advanced applications - FLIM with phasor approach, FCS"
+"what to use for difficult datasets (for high quality images there are many existing solutions), strategies for data pre-processing for segmentation, training NN for segmentation and communicating between platforms (sending results from one to be used in another)"
