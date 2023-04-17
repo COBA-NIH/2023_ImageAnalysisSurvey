@@ -1,0 +1,3026 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="209.80118mm"
+   height="153.60985mm"
+   viewBox="0 0 209.80118 153.60985"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Figure1.svg">
+  <defs
+     id="defs2">
+    <g
+       class="clips"
+       id="g1749" />
+    <g
+       class="gradients"
+       id="g1751" />
+    <g
+       class="patterns"
+       id="g1753" />
+    <g
+       class="clips"
+       id="g1852" />
+    <clipPath
+       id="legend6f22e1">
+      <rect
+         width="281"
+         height="201"
+         x="0"
+         y="0"
+         id="rect1854" />
+    </clipPath>
+    <clipPath
+       id="clipPath2172"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="stroke-width:0.99999994"
+         y="45.714283"
+         x="89.999985"
+         height="282.85715"
+         width="617.14288"
+         id="rect2174" />
+    </clipPath>
+    <clipPath
+       id="clipPath2178"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="stroke-width:0.99999994"
+         y="45.714283"
+         x="89.999985"
+         height="276.85715"
+         width="597.99994"
+         id="rect2180" />
+    </clipPath>
+    <g
+       id="g1293"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip4d3bfcxyplot">
+        <rect
+           id="rect1281"
+           height="320"
+           width="222"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip4d3bfcx"
+         class="axesclip">
+        <rect
+           id="rect1284"
+           height="500"
+           width="222"
+           y="0"
+           x="248" />
+      </clipPath>
+      <clipPath
+         id="clip4d3bfcy"
+         class="axesclip">
+        <rect
+           id="rect1287"
+           height="320"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip4d3bfcxy"
+         class="axesclip">
+        <rect
+           id="rect1290"
+           height="320"
+           width="222"
+           y="100"
+           x="248" />
+      </clipPath>
+    </g>
+    <g
+       id="g1295"
+       class="gradients" />
+    <g
+       id="g1297"
+       class="patterns" />
+    <g
+       id="g1908"
+       class="clips" />
+    <clipPath
+       id="legend4d3bfc">
+      <rect
+         id="rect1910"
+         y="0"
+         x="0"
+         height="225"
+         width="214" />
+    </clipPath>
+    <g
+       id="g3366"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip96e809xyplot">
+        <rect
+           id="rect3354"
+           height="320"
+           width="872"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip96e809x"
+         class="axesclip">
+        <rect
+           id="rect3357"
+           height="500"
+           width="872"
+           y="0"
+           x="248" />
+      </clipPath>
+      <clipPath
+         id="clip96e809y"
+         class="axesclip">
+        <rect
+           id="rect3360"
+           height="320"
+           width="1200"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip96e809xy"
+         class="axesclip">
+        <rect
+           id="rect3363"
+           height="320"
+           width="872"
+           y="100"
+           x="248" />
+      </clipPath>
+    </g>
+    <g
+       id="g3368"
+       class="gradients" />
+    <g
+       id="g3370"
+       class="patterns" />
+    <g
+       id="g3981"
+       class="clips" />
+    <clipPath
+       id="legend96e809">
+      <rect
+         id="rect3983"
+         y="0"
+         x="0"
+         height="225"
+         width="214" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4598">
+      <rect
+         id="rect4600"
+         width="1163.2968"
+         height="445.47623"
+         x="2.2641012e-07"
+         y="2.1059659e-05"
+         style="stroke-width:1.60128152" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="398.14281"
+     inkscape:cy="179.0012"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.49138237,-0.25089061)">
+    <g
+       transform="translate(-1.2473109,-0.41577761)"
+       id="layer1-2"
+       inkscape:label="Layer 1">
+      <g
+         clip-path="url(#clipPath2178)"
+         transform="matrix(0.26458333,0,0,0.26458333,4.9136934,-11.428569)"
+         id="g2168">
+        <rect
+           clip-path="url(#clipPath2172)"
+           x="0"
+           y="0"
+           width="700"
+           height="400"
+           style="fill:#ffffff;fill-opacity:1"
+           id="rect1747" />
+        <g
+           class="bglayer"
+           id="g1756" />
+        <g
+           class="layer-below"
+           id="g1762">
+          <g
+             class="imagelayer"
+             id="g1758" />
+          <g
+             class="shapelayer"
+             id="g1760" />
+        </g>
+        <g
+           class="cartesianlayer"
+           id="g1764" />
+        <g
+           class="polarlayer"
+           id="g1766" />
+        <g
+           class="smithlayer"
+           id="g1768" />
+        <g
+           class="ternarylayer"
+           id="g1770" />
+        <g
+           class="geolayer"
+           id="g1772" />
+        <g
+           class="funnelarealayer"
+           id="g1774" />
+        <g
+           class="pielayer"
+           id="g1842">
+          <g
+             class="trace"
+             style="opacity:1;stroke-linejoin:round"
+             id="g1840">
+            <g
+               class="slice"
+               id="g1782">
+              <path
+                 inkscape:connector-curvature="0"
+                 class="surface"
+                 d="M 240.5,210 V 100 a 110,110 0 0 1 107.03793,84.64489 z"
+                 style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                 id="path1776" />
+              <g
+                 class="slicetext"
+                 id="g1780">
+                <text
+                   data-notex="1"
+                   class="slicetext"
+                   transform="rotate(-51.663286,310.42731,-213.07815)"
+                   x="0"
+                   y="0"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   id="text1778">21.3%</text>
+              </g>
+            </g>
+            <g
+               class="slice"
+               id="g1790">
+              <path
+                 inkscape:connector-curvature="0"
+                 class="surface"
+                 d="M 240.5,210 145.35425,154.79777 A 110,110 0 0 1 240.5,100 Z"
+                 style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                 id="path1784" />
+              <g
+                 class="slicetext"
+                 id="g1788">
+                <text
+                   data-notex="1"
+                   class="slicetext"
+                   transform="rotate(60.060852,-32.235084,251.60386)"
+                   x="0"
+                   y="0"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                   id="text1786">16.6%</text>
+              </g>
+            </g>
+            <g
+               class="slice"
+               id="g1798">
+              <path
+                 inkscape:connector-curvature="0"
+                 class="surface"
+                 d="m 240.5,210 -101.66025,42.01421 a 110,110 0 0 1 6.5145,-97.21644 z"
+                 style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                 id="path1792" />
+              <g
+                 class="slicetext"
+                 id="g1796">
+                <text
+                   data-notex="1"
+                   class="slicetext"
+                   transform="translate(168.93414,215.5)"
+                   x="0"
+                   y="0"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                   id="text1794">14.6%</text>
+              </g>
+            </g>
+            <g
+               class="slice"
+               id="g1806">
+              <path
+                 inkscape:connector-curvature="0"
+                 class="surface"
+                 d="m 240.5,210 -31.11285,105.50825 a 110,110 0 0 1 -70.5474,-63.49404 z"
+                 style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                 id="path1800" />
+              <g
+                 class="slicetext"
+                 id="g1804">
+                <text
+                   data-notex="1"
+                   class="slicetext"
+                   transform="rotate(-48.01217,397.11878,-89.332771)"
+                   x="0"
+                   y="0"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                   id="text1802">14.2%</text>
+              </g>
+            </g>
+            <g
+               class="slice"
+               id="g1814">
+              <path
+                 inkscape:connector-curvature="0"
+                 class="surface"
+                 d="m 240.5,210 57.90754,93.52388 a 110,110 0 0 1 -89.02039,11.98437 z"
+                 style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                 id="path1808" />
+              <g
+                 class="slicetext"
+                 id="g1812">
+                <text
+                   data-notex="1"
+                   class="slicetext"
+                   transform="rotate(82.332657,-38.291214,280.15942)"
+                   x="0"
+                   y="0"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                   id="text1810">13.4%</text>
+              </g>
+            </g>
+            <g
+               class="slice"
+               id="g1822">
+              <path
+                 inkscape:connector-curvature="0"
+                 class="surface"
+                 d="m 240.5,210 103.6691,36.77932 a 110,110 0 0 1 -45.76156,56.74456 z"
+                 style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                 id="path1816" />
+              <g
+                 class="slicetext"
+                 id="g1820">
+                <text
+                   data-notex="1"
+                   class="slicetext"
+                   transform="rotate(38.884381,-221.79907,547.15468)"
+                   x="0"
+                   y="0"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                   id="text1818">10.8%</text>
+              </g>
+            </g>
+            <g
+               class="slice"
+               id="g1830">
+              <path
+                 inkscape:connector-curvature="0"
+                 class="surface"
+                 d="m 240.5,210 108.66212,-17.10393 a 110,110 0 0 1 -4.99302,53.88325 z"
+                 style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                 id="path1824" />
+              <g
+                 class="slicetext"
+                 id="g1828">
+                <text
+                   data-notex="1"
+                   class="slicetext"
+                   transform="translate(325.079,215.5)"
+                   x="0"
+                   y="0"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                   id="text1826">7.91%</text>
+              </g>
+            </g>
+            <g
+               class="slice"
+               id="g1838">
+              <path
+                 inkscape:connector-curvature="0"
+                 class="surface"
+                 d="m 240.5,210 107.03793,-25.35511 a 110,110 0 0 1 1.62419,8.25118 z"
+                 style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                 id="path1832" />
+              <g
+                 class="slicetext"
+                 id="g1836">
+                <text
+                   data-notex="1"
+                   class="slicetext"
+                   transform="translate(375.3664,193.93788)"
+                   x="0"
+                   y="0"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                   id="text1834">1.22%</text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           class="iciclelayer"
+           id="g1844" />
+        <g
+           class="treemaplayer"
+           id="g1846" />
+        <g
+           class="sunburstlayer"
+           id="g1848" />
+        <g
+           class="glimages"
+           id="g1850" />
+        <g
+           class="layer-above"
+           id="g1862">
+          <g
+             class="imagelayer"
+             id="g1858" />
+          <g
+             class="shapelayer"
+             id="g1860" />
+        </g>
+        <g
+           class="infolayer"
+           id="g2022">
+          <g
+             class="legend"
+             pointer-events="all"
+             transform="translate(407.42,100)"
+             id="g2016">
+            <rect
+               class="bg"
+               width="281"
+               height="201"
+               x="0"
+               y="0"
+               style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+               id="rect1864" />
+            <g
+               class="scrollbox"
+               clip-path="url(#legend6f22e1)"
+               id="g2012">
+              <g
+                 class="groups"
+                 id="g2010">
+                <g
+                   class="traces"
+                   transform="translate(0,16.9)"
+                   style="opacity:1"
+                   id="g1882">
+                  <text
+                     class="legendtext"
+                     x="40"
+                     y="6.2399998"
+                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                     id="text1866">Undergraduate/Graduate student</text>
+                  <g
+                     class="layers"
+                     style="opacity:1"
+                     id="g1878">
+                    <g
+                       class="legendfill"
+                       id="g1868" />
+                    <g
+                       class="legendlines"
+                       id="g1870" />
+                    <g
+                       class="legendsymbols"
+                       id="g1876">
+                      <g
+                         class="legendpoints"
+                         id="g1874">
+                        <path
+                           inkscape:connector-curvature="0"
+                           class="legendpie"
+                           d="M 6,6 H -6 V -6 H 6 Z"
+                           transform="translate(20)"
+                           style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                           id="path1872" />
+                      </g>
+                    </g>
+                  </g>
+                  <rect
+                     class="legendtoggle"
+                     x="0"
+                     y="-11.9"
+                     width="275.39062"
+                     height="23.799999"
+                     style="fill:#000000;fill-opacity:0"
+                     id="rect1880" />
+                </g>
+                <g
+                   class="traces"
+                   transform="translate(0,40.7)"
+                   style="opacity:1"
+                   id="g1900">
+                  <text
+                     class="legendtext"
+                     x="40"
+                     y="6.2399998"
+                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                     id="text1884">Facility staff</text>
+                  <g
+                     class="layers"
+                     style="opacity:1"
+                     id="g1896">
+                    <g
+                       class="legendfill"
+                       id="g1886" />
+                    <g
+                       class="legendlines"
+                       id="g1888" />
+                    <g
+                       class="legendsymbols"
+                       id="g1894">
+                      <g
+                         class="legendpoints"
+                         id="g1892">
+                        <path
+                           inkscape:connector-curvature="0"
+                           class="legendpie"
+                           d="M 6,6 H -6 V -6 H 6 Z"
+                           transform="translate(20)"
+                           style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                           id="path1890" />
+                      </g>
+                    </g>
+                  </g>
+                  <rect
+                     class="legendtoggle"
+                     x="0"
+                     y="-11.9"
+                     width="275.39062"
+                     height="23.799999"
+                     style="fill:#000000;fill-opacity:0"
+                     id="rect1898" />
+                </g>
+                <g
+                   class="traces"
+                   transform="translate(0,64.5)"
+                   style="opacity:1"
+                   id="g1918">
+                  <text
+                     class="legendtext"
+                     x="40"
+                     y="6.2399998"
+                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                     id="text1902">Postdoctoral fellow</text>
+                  <g
+                     class="layers"
+                     style="opacity:1"
+                     id="g1914">
+                    <g
+                       class="legendfill"
+                       id="g1904" />
+                    <g
+                       class="legendlines"
+                       id="g1906" />
+                    <g
+                       class="legendsymbols"
+                       id="g1912">
+                      <g
+                         class="legendpoints"
+                         id="g1910">
+                        <path
+                           inkscape:connector-curvature="0"
+                           class="legendpie"
+                           d="M 6,6 H -6 V -6 H 6 Z"
+                           transform="translate(20)"
+                           style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                           id="path1908" />
+                      </g>
+                    </g>
+                  </g>
+                  <rect
+                     class="legendtoggle"
+                     x="0"
+                     y="-11.9"
+                     width="275.39062"
+                     height="23.799999"
+                     style="fill:#000000;fill-opacity:0"
+                     id="rect1916" />
+                </g>
+                <g
+                   class="traces"
+                   transform="translate(0,88.3)"
+                   style="opacity:1"
+                   id="g1936">
+                  <text
+                     class="legendtext"
+                     x="40"
+                     y="6.2399998"
+                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                     id="text1920">Research scientist</text>
+                  <g
+                     class="layers"
+                     style="opacity:1"
+                     id="g1932">
+                    <g
+                       class="legendfill"
+                       id="g1922" />
+                    <g
+                       class="legendlines"
+                       id="g1924" />
+                    <g
+                       class="legendsymbols"
+                       id="g1930">
+                      <g
+                         class="legendpoints"
+                         id="g1928">
+                        <path
+                           inkscape:connector-curvature="0"
+                           class="legendpie"
+                           d="M 6,6 H -6 V -6 H 6 Z"
+                           transform="translate(20)"
+                           style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                           id="path1926" />
+                      </g>
+                    </g>
+                  </g>
+                  <rect
+                     class="legendtoggle"
+                     x="0"
+                     y="-11.9"
+                     width="275.39062"
+                     height="23.799999"
+                     style="fill:#000000;fill-opacity:0"
+                     id="rect1934" />
+                </g>
+                <g
+                   class="traces"
+                   transform="translate(0,112.1)"
+                   style="opacity:1"
+                   id="g1954">
+                  <text
+                     class="legendtext"
+                     x="40"
+                     y="6.2399998"
+                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                     id="text1938">Principal investigator</text>
+                  <g
+                     class="layers"
+                     style="opacity:1"
+                     id="g1950">
+                    <g
+                       class="legendfill"
+                       id="g1940" />
+                    <g
+                       class="legendlines"
+                       id="g1942" />
+                    <g
+                       class="legendsymbols"
+                       id="g1948">
+                      <g
+                         class="legendpoints"
+                         id="g1946">
+                        <path
+                           inkscape:connector-curvature="0"
+                           class="legendpie"
+                           d="M 6,6 H -6 V -6 H 6 Z"
+                           transform="translate(20)"
+                           style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                           id="path1944" />
+                      </g>
+                    </g>
+                  </g>
+                  <rect
+                     class="legendtoggle"
+                     x="0"
+                     y="-11.9"
+                     width="275.39062"
+                     height="23.799999"
+                     style="fill:#000000;fill-opacity:0"
+                     id="rect1952" />
+                </g>
+                <g
+                   class="traces"
+                   transform="translate(0,135.9)"
+                   style="opacity:1"
+                   id="g1972">
+                  <text
+                     class="legendtext"
+                     x="40"
+                     y="6.2399998"
+                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                     id="text1956">Facility director</text>
+                  <g
+                     class="layers"
+                     style="opacity:1"
+                     id="g1968">
+                    <g
+                       class="legendfill"
+                       id="g1958" />
+                    <g
+                       class="legendlines"
+                       id="g1960" />
+                    <g
+                       class="legendsymbols"
+                       id="g1966">
+                      <g
+                         class="legendpoints"
+                         id="g1964">
+                        <path
+                           inkscape:connector-curvature="0"
+                           class="legendpie"
+                           d="M 6,6 H -6 V -6 H 6 Z"
+                           transform="translate(20)"
+                           style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                           id="path1962" />
+                      </g>
+                    </g>
+                  </g>
+                  <rect
+                     class="legendtoggle"
+                     x="0"
+                     y="-11.9"
+                     width="275.39062"
+                     height="23.799999"
+                     style="fill:#000000;fill-opacity:0"
+                     id="rect1970" />
+                </g>
+                <g
+                   class="traces"
+                   transform="translate(0,159.7)"
+                   style="opacity:1"
+                   id="g1990">
+                  <text
+                     class="legendtext"
+                     x="40"
+                     y="6.2399998"
+                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                     id="text1974">Image/data analyst</text>
+                  <g
+                     class="layers"
+                     style="opacity:1"
+                     id="g1986">
+                    <g
+                       class="legendfill"
+                       id="g1976" />
+                    <g
+                       class="legendlines"
+                       id="g1978" />
+                    <g
+                       class="legendsymbols"
+                       id="g1984">
+                      <g
+                         class="legendpoints"
+                         id="g1982">
+                        <path
+                           inkscape:connector-curvature="0"
+                           class="legendpie"
+                           d="M 6,6 H -6 V -6 H 6 Z"
+                           transform="translate(20)"
+                           style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                           id="path1980" />
+                      </g>
+                    </g>
+                  </g>
+                  <rect
+                     class="legendtoggle"
+                     x="0"
+                     y="-11.9"
+                     width="275.39062"
+                     height="23.799999"
+                     style="fill:#000000;fill-opacity:0"
+                     id="rect1988" />
+                </g>
+                <g
+                   class="traces"
+                   transform="translate(0,183.5)"
+                   style="opacity:1"
+                   id="g2008">
+                  <text
+                     class="legendtext"
+                     x="40"
+                     y="6.2399998"
+                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                     id="text1992">Clinician</text>
+                  <g
+                     class="layers"
+                     style="opacity:1"
+                     id="g2004">
+                    <g
+                       class="legendfill"
+                       id="g1994" />
+                    <g
+                       class="legendlines"
+                       id="g1996" />
+                    <g
+                       class="legendsymbols"
+                       id="g2002">
+                      <g
+                         class="legendpoints"
+                         id="g2000">
+                        <path
+                           inkscape:connector-curvature="0"
+                           class="legendpie"
+                           d="M 6,6 H -6 V -6 H 6 Z"
+                           transform="translate(20)"
+                           style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                           id="path1998" />
+                      </g>
+                    </g>
+                  </g>
+                  <rect
+                     class="legendtoggle"
+                     x="0"
+                     y="-11.9"
+                     width="275.39062"
+                     height="23.799999"
+                     style="fill:#000000;fill-opacity:0"
+                     id="rect2006" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="scrollbar"
+               rx="20"
+               ry="3"
+               width="0"
+               height="0"
+               x="0"
+               y="0"
+               style="fill:#808ba4;fill-opacity:1"
+               id="rect2014" />
+          </g>
+          <g
+             class="g-gtitle"
+             id="g2020">
+            <text
+               class="gtitle"
+               x="560"
+               y="80"
+               dy="0.69999999em"
+               style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000"
+               id="text2018">Role</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4594"
+       transform="matrix(0.17898586,0,0,0.17330207,1.5497157,76.658778)"
+       clip-path="url(#clipPath4598)">
+      <rect
+         id="rect3352"
+         style="fill:#ffffff;fill-opacity:1"
+         height="500"
+         width="1200"
+         y="0"
+         x="0" />
+      <g
+         id="g3375"
+         class="bglayer">
+        <rect
+           id="rect3373"
+           style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+           height="320"
+           width="872"
+           y="100"
+           x="248"
+           class="bg" />
+      </g>
+      <g
+         id="g3381"
+         class="layer-below">
+        <g
+           id="g3377"
+           class="imagelayer" />
+        <g
+           id="g3379"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g3959"
+         class="cartesianlayer">
+        <g
+           id="g3957"
+           class="subplot xy">
+          <g
+             id="g3387"
+             class="layer-subplot">
+            <g
+               id="g3383"
+               class="shapelayer" />
+            <g
+               id="g3385"
+               class="imagelayer" />
+          </g>
+          <g
+             id="g3393"
+             class="minor-gridlayer">
+            <g
+               id="g3389"
+               class="x" />
+            <g
+               id="g3391"
+               class="y" />
+          </g>
+          <g
+             id="g3407"
+             class="gridlayer">
+            <g
+               id="g3403"
+               class="x">
+              <path
+                 id="path3395"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(447.13)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path3397"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(646.27)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path3399"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(845.4)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path3401"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(1044.54)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g3405"
+               class="y" />
+          </g>
+          <g
+             id="g3411"
+             class="zerolinelayer">
+            <path
+               id="path3409"
+               style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+               d="M 0,100 V 420"
+               transform="translate(248)"
+               class="xzl zl crisp"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             id="path3413"
+             class="xlines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3415"
+             class="ylines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <g
+             id="g3417"
+             class="overlines-below" />
+          <g
+             id="g3419"
+             class="xaxislayer-below" />
+          <g
+             id="g3421"
+             class="yaxislayer-below" />
+          <g
+             id="g3423"
+             class="overaxes-below" />
+          <g
+             id="g3889"
+             clip-path="url(#clip96e809xyplot)"
+             transform="translate(248,100)"
+             class="plot">
+            <g
+               id="g3887"
+               class="barlayer mlayer">
+              <g
+                 id="g3475"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3473"
+                   class="points">
+                  <g
+                     id="g3429"
+                     class="point">
+                    <path
+                       id="path3425"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,316 v -32 h 3.98 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3427"
+                       transform="matrix(0.44687719,0,0,0.44687719,1.99,302.45782)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">1</text>
+                  </g>
+                  <g
+                     id="g3435"
+                     class="point">
+                    <path
+                       id="path3431"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,276 v -32 h 51.78 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3433"
+                       transform="translate(39.78,265.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">13</text>
+                  </g>
+                  <g
+                     id="g3441"
+                     class="point">
+                    <path
+                       id="path3437"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,156 v -32 h 79.65 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3439"
+                       transform="translate(67.65,145.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">20</text>
+                  </g>
+                  <g
+                     id="g3447"
+                     class="point">
+                    <path
+                       id="path3443"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,236 v -32 h 23.9 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3445"
+                       transform="translate(16.3375,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">6</text>
+                  </g>
+                  <g
+                     id="g3453"
+                     class="point">
+                    <path
+                       id="path3449"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 0,76 V 44 h 87.62 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3451"
+                       transform="translate(75.71375,65.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">22</text>
+                  </g>
+                  <g
+                     id="g3459"
+                     class="point">
+                    <path
+                       id="path3455"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 0,116 V 84 h 87.62 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3457"
+                       transform="translate(75.71375,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">22</text>
+                  </g>
+                  <g
+                     id="g3465"
+                     class="point">
+                    <path
+                       id="path3461"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,196 v -32 h 79.65 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3463"
+                       transform="translate(67.65,185.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">20</text>
+                  </g>
+                  <g
+                     id="g3471"
+                     class="point">
+                    <path
+                       id="path3467"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 0,36 V 4 h 91.6 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3469"
+                       transform="translate(79.6,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">23</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3525"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3523"
+                   class="points">
+                  <g
+                     id="g3479"
+                     class="point">
+                    <path
+                       id="path3477"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 3.98,316 v -32 0 z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g3485"
+                     class="point">
+                    <path
+                       id="path3481"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 51.78,276 v -32 h 3.98 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3483"
+                       transform="matrix(0.44687719,0,0,0.44687719,53.77,262.45782)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">1</text>
+                  </g>
+                  <g
+                     id="g3491"
+                     class="point">
+                    <path
+                       id="path3487"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 79.65,156 V 124 H 91.6 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3489"
+                       transform="matrix(0.65996534,0,0,0.65996534,85.588908,143.62981)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">3</text>
+                  </g>
+                  <g
+                     id="g3497"
+                     class="point">
+                    <path
+                       id="path3493"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 23.9,236 v -32 h 47.79 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3495"
+                       transform="translate(59.78375,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">12</text>
+                  </g>
+                  <g
+                     id="g3503"
+                     class="point">
+                    <path
+                       id="path3499"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 87.62,76 V 44 h 19.91 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3501"
+                       transform="translate(99.9675,65.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">5</text>
+                  </g>
+                  <g
+                     id="g3509"
+                     class="point">
+                    <path
+                       id="path3505"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 87.62,116 V 84 h 15.93 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3507"
+                       transform="translate(95.9875,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">4</text>
+                  </g>
+                  <g
+                     id="g3515"
+                     class="point">
+                    <path
+                       id="path3511"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 79.65,196 v -32 h 19.92 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3513"
+                       transform="translate(92.0075,185.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">5</text>
+                  </g>
+                  <g
+                     id="g3521"
+                     class="point">
+                    <path
+                       id="path3517"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 91.6,36 V 4 h 39.83 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3519"
+                       transform="translate(119.43,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3577"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3575"
+                   class="points">
+                  <g
+                     id="g3531"
+                     class="point">
+                    <path
+                       id="path3527"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 3.98,316 v -32 h 3.99 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3529"
+                       transform="matrix(0.448,0,0,0.448,5.975,302.464)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">1</text>
+                  </g>
+                  <g
+                     id="g3537"
+                     class="point">
+                    <path
+                       id="path3533"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 55.76,276 v -32 h 7.96 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3535"
+                       transform="matrix(0.22007018,0,0,0.22007018,59.74,261.21039)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">2</text>
+                  </g>
+                  <g
+                     id="g3543"
+                     class="point">
+                    <path
+                       id="path3539"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 91.6,156 v -32 h 23.9 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3541"
+                       transform="translate(107.9375,145.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">6</text>
+                  </g>
+                  <g
+                     id="g3549"
+                     class="point">
+                    <path
+                       id="path3545"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 71.69,236 v -32 h 55.76 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3547"
+                       transform="translate(115.45,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">14</text>
+                  </g>
+                  <g
+                     id="g3555"
+                     class="point">
+                    <path
+                       id="path3551"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 107.53,76 V 44 h 11.95 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3553"
+                       transform="matrix(0.65996534,0,0,0.65996534,113.46891,63.629809)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">3</text>
+                  </g>
+                  <g
+                     id="g3561"
+                     class="point">
+                    <path
+                       id="path3557"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 103.55,116 V 84 h 15.93 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3559"
+                       transform="translate(111.9175,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">4</text>
+                  </g>
+                  <g
+                     id="g3567"
+                     class="point">
+                    <path
+                       id="path3563"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 99.57,196 v -32 h 31.86 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3565"
+                       transform="translate(123.8675,185.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">8</text>
+                  </g>
+                  <g
+                     id="g3573"
+                     class="point">
+                    <path
+                       id="path3569"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 131.43,36 V 4 h 31.86 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3571"
+                       transform="translate(155.7275,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">8</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3627"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3625"
+                   class="points">
+                  <g
+                     id="g3581"
+                     class="point">
+                    <path
+                       id="path3579"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 7.97,316 v -32 0 z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g3587"
+                     class="point">
+                    <path
+                       id="path3583"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 63.72,276 v -32 h 11.95 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3585"
+                       transform="matrix(0.65996534,0,0,0.65996534,69.658908,263.62981)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">3</text>
+                  </g>
+                  <g
+                     id="g3593"
+                     class="point">
+                    <path
+                       id="path3589"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 115.5,156 v -32 h 39.82 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3591"
+                       transform="translate(143.32,145.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10</text>
+                  </g>
+                  <g
+                     id="g3599"
+                     class="point">
+                    <path
+                       id="path3595"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 127.45,236 v -32 h 79.65 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3597"
+                       transform="translate(195.1,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">20</text>
+                  </g>
+                  <g
+                     id="g3605"
+                     class="point">
+                    <path
+                       id="path3601"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 119.48,76 V 44 h 47.79 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3603"
+                       transform="translate(155.36375,65.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">12</text>
+                  </g>
+                  <g
+                     id="g3611"
+                     class="point">
+                    <path
+                       id="path3607"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 119.48,116 V 84 h 27.88 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3609"
+                       transform="translate(139.7975,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">7</text>
+                  </g>
+                  <g
+                     id="g3617"
+                     class="point">
+                    <path
+                       id="path3613"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 131.43,196 v -32 h 35.84 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3615"
+                       transform="translate(159.7075,185.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">9</text>
+                  </g>
+                  <g
+                     id="g3623"
+                     class="point">
+                    <path
+                       id="path3619"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 163.29,36 V 4 h 59.74 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3621"
+                       transform="translate(211.03,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">15</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3679"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3677"
+                   class="points">
+                  <g
+                     id="g3633"
+                     class="point">
+                    <path
+                       id="path3629"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 7.97,316 v -32 h 19.91 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3631"
+                       transform="translate(20.3175,305.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">5</text>
+                  </g>
+                  <g
+                     id="g3639"
+                     class="point">
+                    <path
+                       id="path3635"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 75.67,276 v -32 h 7.97 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3637"
+                       transform="matrix(0.22119298,0,0,0.22119298,79.655,261.21656)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">2</text>
+                  </g>
+                  <g
+                     id="g3645"
+                     class="point">
+                    <path
+                       id="path3641"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 155.32,156 v -32 h 19.92 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3643"
+                       transform="translate(167.6775,145.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">5</text>
+                  </g>
+                  <g
+                     id="g3651"
+                     class="point">
+                    <path
+                       id="path3647"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 207.1,236 V 204 H 231 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3649"
+                       transform="translate(223.4375,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">6</text>
+                  </g>
+                  <g
+                     id="g3657"
+                     class="point">
+                    <path
+                       id="path3653"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 167.27,76 V 44 h 15.93 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3655"
+                       transform="translate(175.6375,65.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">4</text>
+                  </g>
+                  <g
+                     id="g3663"
+                     class="point">
+                    <path
+                       id="path3659"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 147.36,116 V 84 h 15.93 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3661"
+                       transform="translate(155.7275,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">4</text>
+                  </g>
+                  <g
+                     id="g3669"
+                     class="point">
+                    <path
+                       id="path3665"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 167.27,196 v -32 h 7.97 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3667"
+                       transform="matrix(0.22119298,0,0,0.22119298,171.255,181.21656)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">2</text>
+                  </g>
+                  <g
+                     id="g3675"
+                     class="point">
+                    <path
+                       id="path3671"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 223.03,36 V 4 h 47.79 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3673"
+                       transform="translate(258.91375,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">12</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3731"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3729"
+                   class="points">
+                  <g
+                     id="g3685"
+                     class="point">
+                    <path
+                       id="path3681"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 27.88,316 v -32 h 11.95 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3683"
+                       transform="matrix(0.65996534,0,0,0.65996534,33.818908,303.62981)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">3</text>
+                  </g>
+                  <g
+                     id="g3691"
+                     class="point">
+                    <path
+                       id="path3687"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 83.64,276 v -32 h 11.94 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3689"
+                       transform="matrix(0.65885615,0,0,0.65885615,89.573969,263.62371)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">3</text>
+                  </g>
+                  <g
+                     id="g3697"
+                     class="point">
+                    <path
+                       id="path3693"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 175.24,156 v -32 h 27.88 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3695"
+                       transform="translate(195.5575,145.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">7</text>
+                  </g>
+                  <g
+                     id="g3703"
+                     class="point">
+                    <path
+                       id="path3699"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 231,236 v -32 h 59.74 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3701"
+                       transform="translate(278.74,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">15</text>
+                  </g>
+                  <g
+                     id="g3709"
+                     class="point">
+                    <path
+                       id="path3705"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 183.2,76 V 44 h 39.83 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3707"
+                       transform="translate(211.03,65.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10</text>
+                  </g>
+                  <g
+                     id="g3715"
+                     class="point">
+                    <path
+                       id="path3711"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 163.29,116 V 84 h 39.83 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3713"
+                       transform="translate(191.12,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10</text>
+                  </g>
+                  <g
+                     id="g3721"
+                     class="point">
+                    <path
+                       id="path3717"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 175.24,196 v -32 h 27.88 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3719"
+                       transform="translate(195.5575,185.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">7</text>
+                  </g>
+                  <g
+                     id="g3727"
+                     class="point">
+                    <path
+                       id="path3723"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 270.82,36 V 4 h 75.67 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3725"
+                       transform="translate(334.49,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">19</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3783"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3781"
+                   class="points">
+                  <g
+                     id="g3737"
+                     class="point">
+                    <path
+                       id="path3733"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 39.83,316 v -32 h 3.98 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3735"
+                       transform="matrix(0.44687719,0,0,0.44687719,41.82,302.45782)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">1</text>
+                  </g>
+                  <g
+                     id="g3743"
+                     class="point">
+                    <path
+                       id="path3739"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 95.58,276 v -32 h 47.8 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3741"
+                       transform="translate(131.47375,265.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">12</text>
+                  </g>
+                  <g
+                     id="g3749"
+                     class="point">
+                    <path
+                       id="path3745"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 203.12,156 v -32 h 67.7 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3747"
+                       transform="translate(258.82,145.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">17</text>
+                  </g>
+                  <g
+                     id="g3755"
+                     class="point">
+                    <path
+                       id="path3751"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 290.74,236 v -32 h 31.86 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3753"
+                       transform="translate(315.0375,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">8</text>
+                  </g>
+                  <g
+                     id="g3761"
+                     class="point">
+                    <path
+                       id="path3757"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 223.03,76 V 44 h 71.69 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3759"
+                       transform="translate(282.72,65.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">18</text>
+                  </g>
+                  <g
+                     id="g3767"
+                     class="point">
+                    <path
+                       id="path3763"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 203.12,116 V 84 h 87.62 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3765"
+                       transform="translate(278.83375,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">22</text>
+                  </g>
+                  <g
+                     id="g3773"
+                     class="point">
+                    <path
+                       id="path3769"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 203.12,196 v -32 h 83.63 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3771"
+                       transform="translate(274.84375,185.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">21</text>
+                  </g>
+                  <g
+                     id="g3779"
+                     class="point">
+                    <path
+                       id="path3775"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 346.49,36 V 4 h 79.66 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3777"
+                       transform="translate(414.15,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">20</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3833"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3831"
+                   class="points">
+                  <g
+                     id="g3787"
+                     class="point">
+                    <path
+                       id="path3785"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 43.81,316 v -32 0 z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g3793"
+                     class="point">
+                    <path
+                       id="path3789"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 143.38,276 v -32 h 47.79 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3791"
+                       transform="translate(179.26375,265.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">12</text>
+                  </g>
+                  <g
+                     id="g3799"
+                     class="point">
+                    <path
+                       id="path3795"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 270.82,156 v -32 h 39.83 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3797"
+                       transform="translate(298.65,145.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10</text>
+                  </g>
+                  <g
+                     id="g3805"
+                     class="point">
+                    <path
+                       id="path3801"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 322.6,236 v -32 h 51.77 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3803"
+                       transform="translate(362.37,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">13</text>
+                  </g>
+                  <g
+                     id="g3811"
+                     class="point">
+                    <path
+                       id="path3807"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 294.72,76 V 44 h 63.72 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3809"
+                       transform="translate(346.44,65.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">16</text>
+                  </g>
+                  <g
+                     id="g3817"
+                     class="point">
+                    <path
+                       id="path3813"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 290.74,116 V 84 h 79.65 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3815"
+                       transform="translate(358.39,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">20</text>
+                  </g>
+                  <g
+                     id="g3823"
+                     class="point">
+                    <path
+                       id="path3819"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 286.75,196 v -32 h 67.71 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3821"
+                       transform="translate(342.46,185.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">17</text>
+                  </g>
+                  <g
+                     id="g3829"
+                     class="point">
+                    <path
+                       id="path3825"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 426.15,36 V 4 h 79.65 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3827"
+                       transform="translate(493.8,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">20</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3885"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g3883"
+                   class="points">
+                  <g
+                     id="g3839"
+                     class="point">
+                    <path
+                       id="path3835"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 43.81,316 v -32 h 7.97 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3837"
+                       transform="translate(59.233125,305.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">2</text>
+                  </g>
+                  <g
+                     id="g3845"
+                     class="point">
+                    <path
+                       id="path3841"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 191.17,276 v -32 h 163.29 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3843"
+                       transform="translate(342.55375,265.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">41</text>
+                  </g>
+                  <g
+                     id="g3851"
+                     class="point">
+                    <path
+                       id="path3847"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 310.65,156 v -32 h 254.89 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3849"
+                       transform="translate(553.54,145.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">64</text>
+                  </g>
+                  <g
+                     id="g3857"
+                     class="point">
+                    <path
+                       id="path3853"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 374.37,236 v -32 h 83.64 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3855"
+                       transform="translate(446.10375,225.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">21</text>
+                  </g>
+                  <g
+                     id="g3863"
+                     class="point">
+                    <path
+                       id="path3859"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 358.44,76 V 44 h 234.98 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3861"
+                       transform="translate(581.42,65.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">59</text>
+                  </g>
+                  <g
+                     id="g3869"
+                     class="point">
+                    <path
+                       id="path3865"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 370.39,116 V 84 h 195.15 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3867"
+                       transform="translate(553.54,105.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">49</text>
+                  </g>
+                  <g
+                     id="g3875"
+                     class="point">
+                    <path
+                       id="path3871"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 354.46,196 v -32 h 191.17 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3873"
+                       transform="translate(533.63,185.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">48</text>
+                  </g>
+                  <g
+                     id="g3881"
+                     class="point">
+                    <path
+                       id="path3877"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 505.8,36 V 4 h 322.6 v 32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text3879"
+                       transform="translate(816.49375,25.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">81</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g3891"
+             class="overplot" />
+          <path
+             id="path3893"
+             style="fill:none"
+             d="M 0,0"
+             class="xlines-above crisp"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3895"
+             style="fill:none"
+             d="M 0,0"
+             class="ylines-above crisp"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g3897"
+             class="overlines-above" />
+          <g
+             id="g3919"
+             class="xaxislayer-above">
+            <g
+               id="g3901"
+               class="xtick">
+              <text
+                 id="text3899"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(248)"
+                 y="437"
+                 x="0">0</text>
+            </g>
+            <g
+               id="g3905"
+               class="xtick">
+              <text
+                 id="text3903"
+                 transform="translate(447.13)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">50</text>
+            </g>
+            <g
+               id="g3909"
+               class="xtick">
+              <text
+                 id="text3907"
+                 transform="translate(646.27)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">100</text>
+            </g>
+            <g
+               id="g3913"
+               class="xtick">
+              <text
+                 id="text3911"
+                 transform="translate(845.4)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">150</text>
+            </g>
+            <g
+               id="g3917"
+               class="xtick">
+              <text
+                 id="text3915"
+                 transform="translate(1044.54)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">200</text>
+            </g>
+          </g>
+          <g
+             id="g3953"
+             class="yaxislayer-above">
+            <g
+               id="g3923"
+               class="ytick">
+              <text
+                 id="text3921"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,400)"
+                 y="5.5999999"
+                 x="247">Clinician</text>
+            </g>
+            <g
+               id="g3927"
+               class="ytick">
+              <text
+                 id="text3925"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,360)"
+                 y="5.5999999"
+                 x="247">Facility director</text>
+            </g>
+            <g
+               id="g3931"
+               class="ytick">
+              <text
+                 id="text3929"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,320)"
+                 y="5.5999999"
+                 x="247">Image/data analyst</text>
+            </g>
+            <g
+               id="g3935"
+               class="ytick">
+              <text
+                 id="text3933"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,280)"
+                 y="5.5999999"
+                 x="247">Research scientist</text>
+            </g>
+            <g
+               id="g3939"
+               class="ytick">
+              <text
+                 id="text3937"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,240)"
+                 y="5.5999999"
+                 x="247">Facility staff</text>
+            </g>
+            <g
+               id="g3943"
+               class="ytick">
+              <text
+                 id="text3941"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,200)"
+                 y="5.5999999"
+                 x="247">Principal investigator</text>
+            </g>
+            <g
+               id="g3947"
+               class="ytick">
+              <text
+                 id="text3945"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,160)"
+                 y="5.5999999"
+                 x="247">Postdoctoral fellow</text>
+            </g>
+            <g
+               id="g3951"
+               class="ytick">
+              <text
+                 id="text3949"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,120)"
+                 y="5.5999999"
+                 x="247">Undergraduate/Graduate student</text>
+            </g>
+          </g>
+          <g
+             id="g3955"
+             class="overaxes-above" />
+        </g>
+      </g>
+      <g
+         id="g3961"
+         class="polarlayer" />
+      <g
+         id="g3963"
+         class="smithlayer" />
+      <g
+         id="g3965"
+         class="ternarylayer" />
+      <g
+         id="g3967"
+         class="geolayer" />
+      <g
+         id="g3969"
+         class="funnelarealayer" />
+      <g
+         id="g3971"
+         class="pielayer" />
+      <g
+         id="g3973"
+         class="iciclelayer" />
+      <g
+         id="g3975"
+         class="treemaplayer" />
+      <g
+         id="g3977"
+         class="sunburstlayer" />
+      <g
+         id="g3979"
+         class="glimages" />
+      <g
+         id="g3991"
+         class="layer-above">
+        <g
+           id="g3987"
+           class="imagelayer" />
+        <g
+           id="g3989"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g4173"
+         class="infolayer">
+        <g
+           id="g4163"
+           transform="translate(897.28,188.6)"
+           pointer-events="all"
+           class="legend">
+          <rect
+             id="rect3993"
+             style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+             y="0"
+             x="0"
+             height="225"
+             width="214"
+             class="bg" />
+          <g
+             id="g4159"
+             clip-path="url(#legend96e809)"
+             class="scrollbox">
+            <g
+               id="g4157"
+               class="groups">
+              <g
+                 id="g4011"
+                 style="opacity:1"
+                 transform="translate(0,16.9)"
+                 class="traces">
+                <text
+                   id="text3995"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Cell/Molecular Biology</text>
+                <g
+                   id="g4007"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g3997"
+                     class="legendfill" />
+                  <g
+                     id="g3999"
+                     class="legendlines" />
+                  <g
+                     id="g4005"
+                     class="legendsymbols">
+                    <g
+                       id="g4003"
+                       class="legendpoints">
+                      <path
+                         id="path4001"
+                         style="fill:#ff97ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4009"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g4029"
+                 style="opacity:1"
+                 transform="translate(0,40.7)"
+                 class="traces">
+                <text
+                   id="text4013"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Physics/Biophysics</text>
+                <g
+                   id="g4025"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g4015"
+                     class="legendfill" />
+                  <g
+                     id="g4017"
+                     class="legendlines" />
+                  <g
+                     id="g4023"
+                     class="legendsymbols">
+                    <g
+                       id="g4021"
+                       class="legendpoints">
+                      <path
+                         id="path4019"
+                         style="fill:#b6e880;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4027"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g4047"
+                 style="opacity:1"
+                 transform="translate(0,64.5)"
+                 class="traces">
+                <text
+                   id="text4031"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Chemistry/Biochemistry</text>
+                <g
+                   id="g4043"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g4033"
+                     class="legendfill" />
+                  <g
+                     id="g4035"
+                     class="legendlines" />
+                  <g
+                     id="g4041"
+                     class="legendsymbols">
+                    <g
+                       id="g4039"
+                       class="legendpoints">
+                      <path
+                         id="path4037"
+                         style="fill:#ff6692;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4045"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g4065"
+                 style="opacity:1"
+                 transform="translate(0,88.3)"
+                 class="traces">
+                <text
+                   id="text4049"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Statistics/Biostatistics</text>
+                <g
+                   id="g4061"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g4051"
+                     class="legendfill" />
+                  <g
+                     id="g4053"
+                     class="legendlines" />
+                  <g
+                     id="g4059"
+                     class="legendsymbols">
+                    <g
+                       id="g4057"
+                       class="legendpoints">
+                      <path
+                         id="path4055"
+                         style="fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4063"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g4083"
+                 style="opacity:1"
+                 transform="translate(0,112.1)"
+                 class="traces">
+                <text
+                   id="text4067"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Medicine</text>
+                <g
+                   id="g4079"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g4069"
+                     class="legendfill" />
+                  <g
+                     id="g4071"
+                     class="legendlines" />
+                  <g
+                     id="g4077"
+                     class="legendsymbols">
+                    <g
+                       id="g4075"
+                       class="legendpoints">
+                      <path
+                         id="path4073"
+                         style="fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4081"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g4101"
+                 style="opacity:1"
+                 transform="translate(0,135.9)"
+                 class="traces">
+                <text
+                   id="text4085"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Computer science</text>
+                <g
+                   id="g4097"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g4087"
+                     class="legendfill" />
+                  <g
+                     id="g4089"
+                     class="legendlines" />
+                  <g
+                     id="g4095"
+                     class="legendsymbols">
+                    <g
+                       id="g4093"
+                       class="legendpoints">
+                      <path
+                         id="path4091"
+                         style="fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4099"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g4119"
+                 style="opacity:1"
+                 transform="translate(0,159.7)"
+                 class="traces">
+                <text
+                   id="text4103"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Computer vision</text>
+                <g
+                   id="g4115"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g4105"
+                     class="legendfill" />
+                  <g
+                     id="g4107"
+                     class="legendlines" />
+                  <g
+                     id="g4113"
+                     class="legendsymbols">
+                    <g
+                       id="g4111"
+                       class="legendpoints">
+                      <path
+                         id="path4109"
+                         style="fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4117"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g4137"
+                 style="opacity:1"
+                 transform="translate(0,183.5)"
+                 class="traces">
+                <text
+                   id="text4121"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Deep learning</text>
+                <g
+                   id="g4133"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g4123"
+                     class="legendfill" />
+                  <g
+                     id="g4125"
+                     class="legendlines" />
+                  <g
+                     id="g4131"
+                     class="legendsymbols">
+                    <g
+                       id="g4129"
+                       class="legendpoints">
+                      <path
+                         id="path4127"
+                         style="fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4135"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g4155"
+                 style="opacity:1"
+                 transform="translate(0,207.3)"
+                 class="traces">
+                <text
+                   id="text4139"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Developmental Biology</text>
+                <g
+                   id="g4151"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g4141"
+                     class="legendfill" />
+                  <g
+                     id="g4143"
+                     class="legendlines" />
+                  <g
+                     id="g4149"
+                     class="legendsymbols">
+                    <g
+                       id="g4147"
+                       class="legendpoints">
+                      <path
+                         id="path4145"
+                         style="fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect4153"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="208.03125"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+            </g>
+          </g>
+          <rect
+             id="rect4161"
+             style="fill:#808ba4;fill-opacity:1"
+             y="0"
+             x="0"
+             height="0"
+             width="0"
+             ry="3"
+             rx="20"
+             class="scrollbar" />
+        </g>
+        <g
+           id="g4167"
+           class="g-gtitle">
+          <text
+             id="text4165"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             dy="0.69999999em"
+             y="50"
+             x="600"
+             class="gtitle">Role Based Training &amp; Experience</text>
+        </g>
+        <g
+           id="g4169"
+           class="g-xtitle" />
+        <g
+           id="g4171"
+           class="g-ytitle" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.9687505"
+       y="7.8104177"
+       id="text4604"><tspan
+         sodipodi:role="line"
+         id="tspan4602"
+         x="3.9687505"
+         y="7.8104177"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.26458332">A)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.3108473"
+       y="88.81012"
+       id="text4604-1"><tspan
+         sodipodi:role="line"
+         id="tspan4602-3"
+         x="4.3108473"
+         y="88.81012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.26458332">B)</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Figure4.svg">
+  <defs
+     id="defs2">
+    <g
+       id="g230"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipd9ce71xyplot">
+        <rect
+           id="rect218"
+           height="260"
+           width="283" />
+      </clipPath>
+      <clipPath
+         id="clipd9ce71x"
+         class="axesclip">
+        <rect
+           id="rect221"
+           height="400"
+           width="283"
+           y="0"
+           x="337" />
+      </clipPath>
+      <clipPath
+         id="clipd9ce71y"
+         class="axesclip">
+        <rect
+           id="rect224"
+           height="260"
+           width="700"
+           y="60"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipd9ce71xy"
+         class="axesclip">
+        <rect
+           id="rect227"
+           height="260"
+           width="283"
+           y="60"
+           x="337" />
+      </clipPath>
+    </g>
+    <g
+       id="g232"
+       class="gradients" />
+    <g
+       id="g234"
+       class="patterns" />
+    <g
+       id="g395"
+       class="clips" />
+    <g
+       id="g739"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipb944b8xyplot">
+        <rect
+           id="rect727"
+           height="260"
+           width="151" />
+      </clipPath>
+      <clipPath
+         id="clipb944b8x"
+         class="axesclip">
+        <rect
+           id="rect730"
+           height="400"
+           width="151"
+           y="0"
+           x="419" />
+      </clipPath>
+      <clipPath
+         id="clipb944b8y"
+         class="axesclip">
+        <rect
+           id="rect733"
+           height="260"
+           width="650"
+           y="60"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipb944b8xy"
+         class="axesclip">
+        <rect
+           id="rect736"
+           height="260"
+           width="151"
+           y="60"
+           x="419" />
+      </clipPath>
+    </g>
+    <g
+       id="g741"
+       class="gradients" />
+    <g
+       id="g743"
+       class="patterns" />
+    <g
+       id="g898"
+       class="clips" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1027">
+      <rect
+         id="rect1029"
+         width="608.92596"
+         height="375.05795"
+         x="-1.3626032e-05"
+         y="1.0655728e-07"
+         style="stroke-width:1.9479233" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1033">
+      <rect
+         id="rect1035"
+         width="664.8385"
+         height="381.23196"
+         x="-8.891858e-07"
+         y="1.4150833e-06"
+         style="stroke-width:1.88746536" />
+    </clipPath>
+    <g
+       id="g1255"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip5e990bxyplot">
+        <rect
+           id="rect1243"
+           height="184"
+           width="240" />
+      </clipPath>
+      <clipPath
+         id="clip5e990bx"
+         class="axesclip">
+        <rect
+           id="rect1246"
+           height="400"
+           width="240"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip5e990by"
+         class="axesclip">
+        <rect
+           id="rect1249"
+           height="184"
+           width="400"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip5e990bxy"
+         class="axesclip">
+        <rect
+           id="rect1252"
+           height="184"
+           width="240"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g1257"
+       class="gradients" />
+    <g
+       id="g1259"
+       class="patterns" />
+    <g
+       id="g1414"
+       class="clips" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1549">
+      <rect
+         id="rect1551"
+         width="357.74649"
+         height="344.36618"
+         x="6.3380375"
+         y="18.309855"
+         style="stroke-width:0.99999994" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1555">
+      <rect
+         id="rect1557"
+         width="623.27258"
+         height="370.23398"
+         x="24.241306"
+         y="12.185598"
+         style="stroke-width:1.61039734" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="295.40826"
+     inkscape:cy="1041.6901"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g523"
+       transform="matrix(0.13172862,0,0,0.14014773,-2.2616427,0.15137098)"
+       clip-path="url(#clipPath1555)">
+      <rect
+         id="rect216"
+         style="fill:#ffffff;fill-opacity:1"
+         height="400"
+         width="700"
+         y="0"
+         x="0" />
+      <g
+         id="g239"
+         class="bglayer">
+        <rect
+           id="rect237"
+           style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+           height="260"
+           width="283"
+           y="60"
+           x="337"
+           class="bg" />
+      </g>
+      <g
+         id="g245"
+         class="layer-below">
+        <g
+           id="g241"
+           class="imagelayer" />
+        <g
+           id="g243"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g373"
+         class="cartesianlayer">
+        <g
+           id="g371"
+           class="subplot xy">
+          <g
+             id="g251"
+             class="layer-subplot">
+            <g
+               id="g247"
+               class="shapelayer" />
+            <g
+               id="g249"
+               class="imagelayer" />
+          </g>
+          <g
+             id="g257"
+             class="minor-gridlayer">
+            <g
+               id="g253"
+               class="x" />
+            <g
+               id="g255"
+               class="y" />
+          </g>
+          <g
+             id="g271"
+             class="gridlayer">
+            <g
+               id="g267"
+               class="x">
+              <path
+                 id="path259"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,60 V 320"
+                 transform="translate(396.61)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path261"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,60 V 320"
+                 transform="translate(456.22)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path263"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,60 V 320"
+                 transform="translate(515.84)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path265"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,60 V 320"
+                 transform="translate(575.45)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g269"
+               class="y" />
+          </g>
+          <g
+             id="g275"
+             class="zerolinelayer">
+            <path
+               id="path273"
+               style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+               d="M 0,60 V 320"
+               transform="translate(337)"
+               class="xzl zl crisp"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             id="path277"
+             class="xlines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <path
+             id="path279"
+             class="ylines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <g
+             id="g281"
+             class="overlines-below" />
+          <g
+             id="g283"
+             class="xaxislayer-below" />
+          <g
+             id="g285"
+             class="yaxislayer-below" />
+          <g
+             id="g287"
+             class="overaxes-below" />
+          <g
+             id="g319"
+             clip-path="url(#clipd9ce71xyplot)"
+             transform="translate(337,60)"
+             class="plot">
+            <g
+               id="g317"
+               class="barlayer mlayer">
+              <g
+                 id="g315"
+                 style="opacity:1"
+                 class="trace bars">
+                <g
+                   id="g313"
+                   class="points">
+                  <g
+                     id="g293"
+                     class="point">
+                    <path
+                       id="path289"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,123.5 v -52 h 183.01 v 52 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text291"
+                       transform="translate(166.55687,103)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">307</text>
+                  </g>
+                  <g
+                     id="g299"
+                     class="point">
+                    <path
+                       id="path295"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,188.5 v -52 h 149.63 v 52 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text297"
+                       transform="translate(133.27062,168)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">251</text>
+                  </g>
+                  <g
+                     id="g305"
+                     class="point">
+                    <path
+                       id="path301"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,58.5 v -52 h 268.85 v 52 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text303"
+                       transform="translate(252.49063,38)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">451</text>
+                  </g>
+                  <g
+                     id="g311"
+                     class="point">
+                    <path
+                       id="path307"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,253.5 v -52 h 140.68 v 52 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text309"
+                       transform="translate(124.22688,233)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">236</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g321"
+             class="overplot" />
+          <path
+             id="path323"
+             style="fill:none"
+             d="M 0,0"
+             class="xlines-above crisp"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path325"
+             style="fill:none"
+             d="M 0,0"
+             class="ylines-above crisp"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g327"
+             class="overlines-above" />
+          <g
+             id="g349"
+             class="xaxislayer-above">
+            <g
+               id="g331"
+               class="xtick">
+              <text
+                 id="text329"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(337)"
+                 y="337"
+                 x="0">0</text>
+            </g>
+            <g
+               id="g335"
+               class="xtick">
+              <text
+                 id="text333"
+                 transform="translate(396.61)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="337"
+                 x="0">100</text>
+            </g>
+            <g
+               id="g339"
+               class="xtick">
+              <text
+                 id="text337"
+                 transform="translate(456.22)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="337"
+                 x="0">200</text>
+            </g>
+            <g
+               id="g343"
+               class="xtick">
+              <text
+                 id="text341"
+                 transform="translate(515.84)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="337"
+                 x="0">300</text>
+            </g>
+            <g
+               id="g347"
+               class="xtick">
+              <text
+                 id="text345"
+                 transform="translate(575.45)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="337"
+                 x="0">400</text>
+            </g>
+          </g>
+          <g
+             id="g367"
+             class="yaxislayer-above">
+            <g
+               id="g353"
+               class="ytick">
+              <text
+                 id="text351"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,287.5)"
+                 y="5.5999999"
+                 x="336">Computational libraries and scripts</text>
+            </g>
+            <g
+               id="g357"
+               class="ytick">
+              <text
+                 id="text355"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,222.5)"
+                 y="5.5999999"
+                 x="336">Other commercial software</text>
+            </g>
+            <g
+               id="g361"
+               class="ytick">
+              <text
+                 id="text359"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,157.5)"
+                 y="5.5999999"
+                 x="336">Commercial software with the microscope</text>
+            </g>
+            <g
+               id="g365"
+               class="ytick">
+              <text
+                 id="text363"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,92.5)"
+                 y="5.5999999"
+                 x="336">Open source point-and-click software</text>
+            </g>
+          </g>
+          <g
+             id="g369"
+             class="overaxes-above" />
+        </g>
+      </g>
+      <g
+         id="g375"
+         class="polarlayer" />
+      <g
+         id="g377"
+         class="smithlayer" />
+      <g
+         id="g379"
+         class="ternarylayer" />
+      <g
+         id="g381"
+         class="geolayer" />
+      <g
+         id="g383"
+         class="funnelarealayer" />
+      <g
+         id="g385"
+         class="pielayer" />
+      <g
+         id="g387"
+         class="iciclelayer" />
+      <g
+         id="g389"
+         class="treemaplayer" />
+      <g
+         id="g391"
+         class="sunburstlayer" />
+      <g
+         id="g393"
+         class="glimages" />
+      <g
+         id="g402"
+         class="layer-above">
+        <g
+           id="g398"
+           class="imagelayer" />
+        <g
+           id="g400"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g414"
+         class="infolayer">
+        <g
+           id="g406"
+           class="g-gtitle">
+          <text
+             id="text404"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             dy="0.69999999em"
+             y="20"
+             x="350"
+             class="gtitle">Commonly used image analysis tools</text>
+        </g>
+        <g
+           id="g410"
+           class="g-xtitle">
+          <text
+             id="text408"
+             style="font-weight:normal;font-size:19px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             y="368.29999"
+             x="478.5"
+             class="xtitle">counts</text>
+        </g>
+        <g
+           id="g412"
+           class="g-ytitle" />
+      </g>
+    </g>
+    <g
+       id="g1023"
+       transform="matrix(0.1336038,0,0,0.13836918,80.053239,0.56551554)"
+       clip-path="url(#clipPath1027)">
+      <rect
+         id="rect725"
+         style="fill:#ffffff;fill-opacity:1"
+         height="400"
+         width="650"
+         y="0"
+         x="0" />
+      <g
+         id="g748"
+         class="bglayer">
+        <rect
+           id="rect746"
+           style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+           height="260"
+           width="151"
+           y="60"
+           x="419"
+           class="bg" />
+      </g>
+      <g
+         id="g754"
+         class="layer-below">
+        <g
+           id="g750"
+           class="imagelayer" />
+        <g
+           id="g752"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g876"
+         class="cartesianlayer">
+        <g
+           id="g874"
+           class="subplot xy">
+          <g
+             id="g760"
+             class="layer-subplot">
+            <g
+               id="g756"
+               class="shapelayer" />
+            <g
+               id="g758"
+               class="imagelayer" />
+          </g>
+          <g
+             id="g766"
+             class="minor-gridlayer">
+            <g
+               id="g762"
+               class="x" />
+            <g
+               id="g764"
+               class="y" />
+          </g>
+          <g
+             id="g778"
+             class="gridlayer">
+            <g
+               id="g774"
+               class="x">
+              <path
+                 id="path768"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,60 V 320"
+                 transform="translate(463.41)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path770"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,60 V 320"
+                 transform="translate(507.82)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path772"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,60 V 320"
+                 transform="translate(552.24)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g776"
+               class="y" />
+          </g>
+          <g
+             id="g782"
+             class="zerolinelayer">
+            <path
+               id="path780"
+               style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+               d="M 0,60 V 320"
+               transform="translate(419)"
+               class="xzl zl crisp"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             id="path784"
+             class="xlines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <path
+             id="path786"
+             class="ylines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <g
+             id="g788"
+             class="overlines-below" />
+          <g
+             id="g790"
+             class="xaxislayer-below" />
+          <g
+             id="g792"
+             class="yaxislayer-below" />
+          <g
+             id="g794"
+             class="overaxes-below" />
+          <g
+             id="g826"
+             clip-path="url(#clipb944b8xyplot)"
+             transform="translate(419,60)"
+             class="plot">
+            <g
+               id="g824"
+               class="barlayer mlayer">
+              <g
+                 id="g822"
+                 style="opacity:1"
+                 class="trace bars">
+                <g
+                   id="g820"
+                   class="points">
+                  <g
+                     id="g800"
+                     class="point">
+                    <path
+                       id="path796"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,188.5 v -52 h 12.88 v 52 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text798"
+                       transform="translate(24.78625,168)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">29</text>
+                  </g>
+                  <g
+                     id="g806"
+                     class="point">
+                    <path
+                       id="path802"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,253.5 v -52 h 11.1 v 52 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text804"
+                       transform="translate(23.00625,233)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">25</text>
+                  </g>
+                  <g
+                     id="g812"
+                     class="point">
+                    <path
+                       id="path808"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,58.5 v -52 h 143.45 v 52 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text810"
+                       transform="translate(126.99687,38)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">323</text>
+                  </g>
+                  <g
+                     id="g818"
+                     class="point">
+                    <path
+                       id="path814"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,123.5 v -52 h 34.2 v 52 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text816"
+                       transform="translate(22.2,103)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">77</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g828"
+             class="overplot" />
+          <path
+             id="path830"
+             style="fill:none"
+             d="M 0,0"
+             class="xlines-above crisp"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path832"
+             style="fill:none"
+             d="M 0,0"
+             class="ylines-above crisp"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g834"
+             class="overlines-above" />
+          <g
+             id="g852"
+             class="xaxislayer-above">
+            <g
+               id="g838"
+               class="xtick">
+              <text
+                 id="text836"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(419)"
+                 y="337"
+                 x="0">0</text>
+            </g>
+            <g
+               id="g842"
+               class="xtick">
+              <text
+                 id="text840"
+                 transform="translate(463.41)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="337"
+                 x="0">100</text>
+            </g>
+            <g
+               id="g846"
+               class="xtick">
+              <text
+                 id="text844"
+                 transform="translate(507.82)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="337"
+                 x="0">200</text>
+            </g>
+            <g
+               id="g850"
+               class="xtick">
+              <text
+                 id="text848"
+                 transform="translate(552.24)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="337"
+                 x="0">300</text>
+            </g>
+          </g>
+          <g
+             id="g870"
+             class="yaxislayer-above">
+            <g
+               id="g856"
+               class="ytick">
+              <text
+                 id="text854"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,287.5)"
+                 y="5.5999999"
+                 x="418">Other commercial software</text>
+            </g>
+            <g
+               id="g860"
+               class="ytick">
+              <text
+                 id="text858"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,222.5)"
+                 y="5.5999999"
+                 x="418">Commercial software that comes with my microscope</text>
+            </g>
+            <g
+               id="g864"
+               class="ytick">
+              <text
+                 id="text862"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,157.5)"
+                 y="5.5999999"
+                 x="418">Computational libraries and scripts</text>
+            </g>
+            <g
+               id="g868"
+               class="ytick">
+              <text
+                 id="text866"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,92.5)"
+                 y="5.5999999"
+                 x="418">Open source point-and-click software</text>
+            </g>
+          </g>
+          <g
+             id="g872"
+             class="overaxes-above" />
+        </g>
+      </g>
+      <g
+         id="g878"
+         class="polarlayer" />
+      <g
+         id="g880"
+         class="smithlayer" />
+      <g
+         id="g882"
+         class="ternarylayer" />
+      <g
+         id="g884"
+         class="geolayer" />
+      <g
+         id="g886"
+         class="funnelarealayer" />
+      <g
+         id="g888"
+         class="pielayer" />
+      <g
+         id="g890"
+         class="iciclelayer" />
+      <g
+         id="g892"
+         class="treemaplayer" />
+      <g
+         id="g894"
+         class="sunburstlayer" />
+      <g
+         id="g896"
+         class="glimages" />
+      <g
+         id="g905"
+         class="layer-above">
+        <g
+           id="g901"
+           class="imagelayer" />
+        <g
+           id="g903"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g917"
+         class="infolayer">
+        <g
+           id="g909"
+           class="g-gtitle">
+          <text
+             id="text907"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             dy="0.69999999em"
+             y="20"
+             x="325"
+             class="gtitle">Most used image analysis tools</text>
+        </g>
+        <g
+           id="g913"
+           class="g-xtitle">
+          <text
+             id="text911"
+             style="font-weight:normal;font-size:19px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             y="368.29999"
+             x="494.5"
+             class="xtitle">counts</text>
+        </g>
+        <g
+           id="g915"
+           class="g-ytitle" />
+      </g>
+    </g>
+    <g
+       id="g1545"
+       transform="matrix(0.11852082,0,0,0.15665663,166.14451,-1.9607482)"
+       clip-path="url(#clipPath1549)">
+      <rect
+         id="rect1241"
+         style="fill:#ffffff;fill-opacity:1"
+         height="400"
+         width="400"
+         y="0"
+         x="0" />
+      <g
+         id="g1264"
+         class="bglayer">
+        <rect
+           id="rect1262"
+           style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+           height="184"
+           width="240"
+           y="100"
+           x="80"
+           class="bg" />
+      </g>
+      <g
+         id="g1270"
+         class="layer-below">
+        <g
+           id="g1266"
+           class="imagelayer" />
+        <g
+           id="g1268"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g1392"
+         class="cartesianlayer">
+        <g
+           id="g1390"
+           class="subplot xy">
+          <g
+             id="g1276"
+             class="layer-subplot">
+            <g
+               id="g1272"
+               class="shapelayer" />
+            <g
+               id="g1274"
+               class="imagelayer" />
+          </g>
+          <g
+             id="g1282"
+             class="minor-gridlayer">
+            <g
+               id="g1278"
+               class="x" />
+            <g
+               id="g1280"
+               class="y" />
+          </g>
+          <g
+             id="g1294"
+             class="gridlayer">
+            <g
+               id="g1284"
+               class="x" />
+            <g
+               id="g1292"
+               class="y">
+              <path
+                 id="path1286"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 320"
+                 transform="translate(0,233.19)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path1288"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 320"
+                 transform="translate(0,182.37)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path1290"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 320"
+                 transform="translate(0,131.56)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+          <g
+             id="g1298"
+             class="zerolinelayer">
+            <path
+               id="path1296"
+               style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+               d="M 80,0 H 320"
+               transform="translate(0,284)"
+               class="yzl zl crisp"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             id="path1300"
+             class="xlines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1302"
+             class="ylines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <g
+             id="g1304"
+             class="overlines-below" />
+          <g
+             id="g1306"
+             class="xaxislayer-below" />
+          <g
+             id="g1308"
+             class="yaxislayer-below" />
+          <g
+             id="g1310"
+             class="overaxes-below" />
+          <g
+             id="g1342"
+             clip-path="url(#clip5e990bxyplot)"
+             transform="translate(80,100)"
+             class="plot">
+            <g
+               id="g1340"
+               class="barlayer mlayer">
+              <g
+                 id="g1338"
+                 style="opacity:1"
+                 class="trace bars">
+                <g
+                   id="g1336"
+                   class="points">
+                  <g
+                     id="g1316"
+                     class="point">
+                    <path
+                       id="path1312"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 126,184 V 9.2 h 48 V 184 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1314"
+                       transform="translate(150,26.2)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">172</text>
+                  </g>
+                  <g
+                     id="g1322"
+                     class="point">
+                    <path
+                       id="path1318"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 186,184 V 59 h 48 v 125 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1320"
+                       transform="translate(209.95312,76)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">123</text>
+                  </g>
+                  <g
+                     id="g1328"
+                     class="point">
+                    <path
+                       id="path1324"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 66,184 V 79.32 h 48 V 184 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1326"
+                       transform="translate(89.953125,96.32)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">103</text>
+                  </g>
+                  <g
+                     id="g1334"
+                     class="point">
+                    <path
+                       id="path1330"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 6,184 V 87.45 H 54 V 184 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1332"
+                       transform="translate(29.953125,104.45)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">95</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g1344"
+             class="overplot" />
+          <path
+             id="path1346"
+             style="fill:none"
+             d="M 0,0"
+             class="xlines-above crisp"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1348"
+             style="fill:none"
+             d="M 0,0"
+             class="ylines-above crisp"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g1350"
+             class="overlines-above" />
+          <g
+             id="g1368"
+             class="xaxislayer-above">
+            <g
+               id="g1354"
+               class="xtick">
+              <text
+                 id="text1352"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,55,498.26279)"
+                 y="301"
+                 x="0">Often</text>
+            </g>
+            <g
+               id="g1358"
+               class="xtick">
+              <text
+                 id="text1356"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,85,610.22432)"
+                 y="301"
+                 x="0">Most of the time</text>
+            </g>
+            <g
+               id="g1362"
+               class="xtick">
+              <text
+                 id="text1360"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,115,722.18584)"
+                 y="301"
+                 x="0">Sometimes</text>
+            </g>
+            <g
+               id="g1366"
+               class="xtick">
+              <text
+                 id="text1364"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,145,834.14737)"
+                 y="301"
+                 x="0">Never</text>
+            </g>
+          </g>
+          <g
+             id="g1386"
+             class="yaxislayer-above">
+            <g
+               id="g1372"
+               class="ytick">
+              <text
+                 id="text1370"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,284)"
+                 y="5.5999999"
+                 x="79">0</text>
+            </g>
+            <g
+               id="g1376"
+               class="ytick">
+              <text
+                 id="text1374"
+                 transform="translate(0,233.19)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">50</text>
+            </g>
+            <g
+               id="g1380"
+               class="ytick">
+              <text
+                 id="text1378"
+                 transform="translate(0,182.37)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">100</text>
+            </g>
+            <g
+               id="g1384"
+               class="ytick">
+              <text
+                 id="text1382"
+                 transform="translate(0,131.56)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">150</text>
+            </g>
+          </g>
+          <g
+             id="g1388"
+             class="overaxes-above" />
+        </g>
+      </g>
+      <g
+         id="g1394"
+         class="polarlayer" />
+      <g
+         id="g1396"
+         class="smithlayer" />
+      <g
+         id="g1398"
+         class="ternarylayer" />
+      <g
+         id="g1400"
+         class="geolayer" />
+      <g
+         id="g1402"
+         class="funnelarealayer" />
+      <g
+         id="g1404"
+         class="pielayer" />
+      <g
+         id="g1406"
+         class="iciclelayer" />
+      <g
+         id="g1408"
+         class="treemaplayer" />
+      <g
+         id="g1410"
+         class="sunburstlayer" />
+      <g
+         id="g1412"
+         class="glimages" />
+      <g
+         id="g1421"
+         class="layer-above">
+        <g
+           id="g1417"
+           class="imagelayer" />
+        <g
+           id="g1419"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g1437"
+         class="infolayer">
+        <g
+           id="g1429"
+           class="g-gtitle">
+          <text
+             id="text1427"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             dy="0em"
+             y="50"
+             x="200"
+             class="gtitle">
+            <tspan
+               id="tspan1423"
+               y="50"
+               x="200"
+               dy="0em"
+               class="line">Frequency of script usage </tspan>
+            <tspan
+               id="tspan1425"
+               y="50"
+               x="200"
+               dy="1.3em"
+               class="line"> for image analysis</tspan>
+          </text>
+        </g>
+        <g
+           id="g1431"
+           class="g-xtitle" />
+        <g
+           id="g1435"
+           class="g-ytitle">
+          <text
+             id="text1433"
+             style="font-weight:normal;font-size:19px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             y="192"
+             x="23.996876"
+             transform="rotate(-90,23.996875,192)"
+             class="ytitle">Counts</text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.7624998"
+       y="61.256248"
+       id="text1561"><tspan
+         sodipodi:role="line"
+         id="tspan1559"
+         x="4.7624998"
+         y="61.256248"
+         style="font-size:4.23333311px;stroke-width:0.26458332">D)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="87.445824"
+       y="5.0240235"
+       id="text1561-5"
+       inkscape:transform-center-x="-5.0270833"
+       inkscape:transform-center-y="-16.933333"><tspan
+         sodipodi:role="line"
+         id="tspan1559-9"
+         x="87.445824"
+         y="5.0240235"
+         style="font-size:4.23333311px;stroke-width:0.26458332">B)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="161.87436"
+       y="4.7594399"
+       id="text1561-5-9"
+       inkscape:transform-center-x="-5.0270833"
+       inkscape:transform-center-y="-16.933333"><tspan
+         sodipodi:role="line"
+         id="tspan1559-9-9"
+         x="161.87436"
+         y="4.7594399"
+         style="font-size:4.23333311px;stroke-width:0.26458332">C)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.4833255"
+       y="4.2302732"
+       id="text1561-6"><tspan
+         sodipodi:role="line"
+         id="tspan1559-6"
+         x="6.4833255"
+         y="4.2302732"
+         style="font-size:4.23333311px;stroke-width:0.26458332">A)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="101.46874"
+       y="64.819855"
+       id="text1561-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan1559-6-6"
+         x="101.46874"
+         y="64.819855"
+         style="font-size:4.23333311px;stroke-width:0.26458332">E)</tspan></text>
+  </g>
+</svg>

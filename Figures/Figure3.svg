@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Figure3.svg">
+  <defs
+     id="defs2">
+    <g
+       class="clips"
+       id="g755">
+      <clipPath
+         id="clipda04c8xyplot"
+         class="plotclip">
+        <rect
+           width="118"
+           height="320"
+           id="rect743" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipda04c8x">
+        <rect
+           x="361"
+           y="0"
+           width="118"
+           height="500"
+           id="rect746" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipda04c8y">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="320"
+           id="rect749" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipda04c8xy">
+        <rect
+           x="361"
+           y="100"
+           width="118"
+           height="320"
+           id="rect752" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g757" />
+    <g
+       class="patterns"
+       id="g759" />
+    <g
+       class="clips"
+       id="g1326" />
+    <clipPath
+       id="legendda04c8">
+      <rect
+         width="207"
+         height="153"
+         x="0"
+         y="0"
+         id="rect1328" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g2601">
+      <clipPath
+         id="clipedaec4xyplot"
+         class="plotclip">
+        <rect
+           width="902"
+           height="320"
+           id="rect2589" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipedaec4x">
+        <rect
+           x="361"
+           y="0"
+           width="902"
+           height="500"
+           id="rect2592" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipedaec4y">
+        <rect
+           x="0"
+           y="100"
+           width="1500"
+           height="320"
+           id="rect2595" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipedaec4xy">
+        <rect
+           x="361"
+           y="100"
+           width="902"
+           height="320"
+           id="rect2598" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2603" />
+    <g
+       class="patterns"
+       id="g2605" />
+    <g
+       class="clips"
+       id="g3190" />
+    <clipPath
+       id="legendedaec4">
+      <rect
+         width="207"
+         height="153"
+         x="0"
+         y="0"
+         id="rect3192" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g4846">
+      <clipPath
+         id="clipc6d344xyplot"
+         class="plotclip">
+        <rect
+           width="412"
+           height="320"
+           id="rect4834" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipc6d344x">
+        <rect
+           x="361"
+           y="0"
+           width="412"
+           height="500"
+           id="rect4837" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipc6d344y">
+        <rect
+           x="0"
+           y="100"
+           width="1000"
+           height="320"
+           id="rect4840" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipc6d344xy">
+        <rect
+           x="361"
+           y="100"
+           width="412"
+           height="320"
+           id="rect4843" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g4848" />
+    <g
+       class="patterns"
+       id="g4850" />
+    <g
+       class="clips"
+       id="g5435" />
+    <clipPath
+       id="legendc6d344">
+      <rect
+         width="207"
+         height="153"
+         x="0"
+         y="0"
+         id="rect5437" />
+    </clipPath>
+    <clipPath
+       id="clipPath5958"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="stroke-width:1.17195821"
+         y="19.480515"
+         x="8.8383837"
+         height="440.4762"
+         width="989.89899"
+         id="rect5960" />
+    </clipPath>
+    <g
+       id="g2020"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip43d3acxyplot">
+        <rect
+           id="rect2008"
+           height="320"
+           width="759" />
+      </clipPath>
+      <clipPath
+         id="clip43d3acx"
+         class="axesclip">
+        <rect
+           id="rect2011"
+           height="500"
+           width="759"
+           y="0"
+           x="361" />
+      </clipPath>
+      <clipPath
+         id="clip43d3acy"
+         class="axesclip">
+        <rect
+           id="rect2014"
+           height="320"
+           width="1200"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip43d3acxy"
+         class="axesclip">
+        <rect
+           id="rect2017"
+           height="320"
+           width="759"
+           y="100"
+           x="361" />
+      </clipPath>
+    </g>
+    <g
+       id="g2022"
+       class="gradients" />
+    <g
+       id="g2024"
+       class="patterns" />
+    <g
+       id="g2609"
+       class="clips" />
+    <clipPath
+       id="legend43d3ac">
+      <rect
+         id="rect2611"
+         y="0"
+         x="0"
+         height="153"
+         width="207" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3136">
+      <rect
+         id="rect3138"
+         width="1161.5385"
+         height="405.73248"
+         x="-1.0989287"
+         y="41.560505"
+         style="stroke-width:1.30952108" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3142">
+      <rect
+         id="rect3144"
+         width="1128.8621"
+         height="407.85092"
+         x="-1.0989286"
+         y="41.560505"
+         style="stroke-width:1.25429344" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="400"
+     inkscape:cy="520"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3128"
+       transform="matrix(0.1851735,0,0,0.25435578,0.98274283,-6.7423925)"
+       clip-path="url(#clipPath3142)">
+      <rect
+         id="rect2006"
+         style="fill:#ffffff;fill-opacity:1"
+         height="500"
+         width="1200"
+         y="0"
+         x="0"
+         clip-path="url(#clipPath3136)" />
+      <g
+         id="g2029"
+         class="bglayer">
+        <rect
+           id="rect2027"
+           style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+           height="320"
+           width="759"
+           y="100"
+           x="361"
+           class="bg" />
+      </g>
+      <g
+         id="g2035"
+         class="layer-below">
+        <g
+           id="g2031"
+           class="imagelayer" />
+        <g
+           id="g2033"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g2587"
+         class="cartesianlayer">
+        <g
+           id="g2585"
+           class="subplot xy">
+          <g
+             id="g2041"
+             class="layer-subplot">
+            <g
+               id="g2037"
+               class="shapelayer" />
+            <g
+               id="g2039"
+               class="imagelayer" />
+          </g>
+          <g
+             id="g2047"
+             class="minor-gridlayer">
+            <g
+               id="g2043"
+               class="x" />
+            <g
+               id="g2045"
+               class="y" />
+          </g>
+          <g
+             id="g2063"
+             class="gridlayer">
+            <g
+               id="g2059"
+               class="x">
+              <path
+                 id="path2049"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(501.28)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path2051"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(641.56)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path2053"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(781.85)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path2055"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(922.13)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path2057"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 0,100 V 420"
+                 transform="translate(1062.41)"
+                 class="xgrid crisp"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g2061"
+               class="y" />
+          </g>
+          <g
+             id="g2067"
+             class="zerolinelayer">
+            <path
+               id="path2065"
+               style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+               d="M 0,100 V 420"
+               transform="translate(361)"
+               class="xzl zl crisp"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             id="path2069"
+             class="xlines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <path
+             id="path2071"
+             class="ylines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <g
+             id="g2073"
+             class="overlines-below" />
+          <g
+             id="g2075"
+             class="xaxislayer-below" />
+          <g
+             id="g2077"
+             class="yaxislayer-below" />
+          <g
+             id="g2079"
+             class="overaxes-below" />
+          <g
+             id="g2501"
+             clip-path="url(#clip43d3acxyplot)"
+             transform="translate(361,100)"
+             class="plot">
+            <g
+               id="g2499"
+               class="barlayer mlayer">
+              <g
+                 id="g2149"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g2147"
+                   class="points">
+                  <g
+                     id="g2085"
+                     class="point">
+                    <path
+                       id="path2081"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 0,84.36 V 61.09 h 131.87 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2083"
+                       transform="translate(115.41688,78.225)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">188</text>
+                  </g>
+                  <g
+                     id="g2091"
+                     class="point">
+                    <path
+                       id="path2087"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 0,113.45 V 90.18 h 78.56 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2089"
+                       transform="translate(62.794375,107.315)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">112</text>
+                  </g>
+                  <g
+                     id="g2097"
+                     class="point">
+                    <path
+                       id="path2093"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 0,26.18 V 2.91 h 178.16 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2095"
+                       transform="translate(161.70687,20.045)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">254</text>
+                  </g>
+                  <g
+                     id="g2103"
+                     class="point">
+                    <path
+                       id="path2099"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 0,55.27 V 32 h 110.82 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2101"
+                       transform="translate(94.366875,49.135)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">158</text>
+                  </g>
+                  <g
+                     id="g2109"
+                     class="point">
+                    <path
+                       id="path2105"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,142.55 v -23.28 h 136.78 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2107"
+                       transform="translate(120.32688,136.41)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">195</text>
+                  </g>
+                  <g
+                     id="g2115"
+                     class="point">
+                    <path
+                       id="path2111"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,200.73 v -23.28 h 77.16 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2113"
+                       transform="translate(61.300625,194.59)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">110</text>
+                  </g>
+                  <g
+                     id="g2121"
+                     class="point">
+                    <path
+                       id="path2117"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 0,288 V 264.73 H 18.94 V 288 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2119"
+                       transform="matrix(0,0.76117647,-0.76117647,0,5.2835294,276.32932)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">27</text>
+                  </g>
+                  <g
+                     id="g2127"
+                     class="point">
+                    <path
+                       id="path2123"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,317.09 v -23.27 h 14.73 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2125"
+                       transform="matrix(0,0.51352941,-0.51352941,0,4.5405882,305.455)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">21</text>
+                  </g>
+                  <g
+                     id="g2133"
+                     class="point">
+                    <path
+                       id="path2129"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,171.64 v -23.28 h 54.01 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2131"
+                       transform="translate(42.01,165.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">77</text>
+                  </g>
+                  <g
+                     id="g2139"
+                     class="point">
+                    <path
+                       id="path2135"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,229.82 v -23.27 h 31.56 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2137"
+                       transform="translate(19.56,223.685)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">45</text>
+                  </g>
+                  <g
+                     id="g2145"
+                     class="point">
+                    <path
+                       id="path2141"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 0,258.91 v -23.27 h 14.73 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2143"
+                       transform="matrix(0,0.51352941,-0.51352941,0,4.5405882,247.275)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">21</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g2219"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g2217"
+                   class="points">
+                  <g
+                     id="g2155"
+                     class="point">
+                    <path
+                       id="path2151"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 131.87,84.36 V 61.09 h 101.7 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2153"
+                       transform="translate(217.11687,78.225)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">145</text>
+                  </g>
+                  <g
+                     id="g2161"
+                     class="point">
+                    <path
+                       id="path2157"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 78.56,113.45 V 90.18 h 70.14 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2159"
+                       transform="translate(132.24687,107.315)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">100</text>
+                  </g>
+                  <g
+                     id="g2167"
+                     class="point">
+                    <path
+                       id="path2163"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 178.16,26.18 V 2.91 h 140.28 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2165"
+                       transform="translate(301.98687,20.045)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">200</text>
+                  </g>
+                  <g
+                     id="g2173"
+                     class="point">
+                    <path
+                       id="path2169"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 110.82,55.27 V 32 h 85.57 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2171"
+                       transform="translate(180.03062,49.135)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">122</text>
+                  </g>
+                  <g
+                     id="g2179"
+                     class="point">
+                    <path
+                       id="path2175"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 136.78,142.55 V 119.27 H 148 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2177"
+                       transform="matrix(0,0.30705882,-0.30705882,0,140.70118,130.89561)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">16</text>
+                  </g>
+                  <g
+                     id="g2185"
+                     class="point">
+                    <path
+                       id="path2181"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 77.16,200.73 v -23.28 h 5.61 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2183"
+                       transform="matrix(0.62225303,0,0,0.62225303,79.930971,192.51239)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">8</text>
+                  </g>
+                  <g
+                     id="g2191"
+                     class="point">
+                    <path
+                       id="path2187"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 18.94,288 v -23.27 h 0.7 V 288 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2189"
+                       transform="matrix(0.07859649,0,0,0.07859649,19.29,276.79728)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">1</text>
+                  </g>
+                  <g
+                     id="g2197"
+                     class="point">
+                    <path
+                       id="path2193"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 14.73,317.09 v -23.27 h 2.81 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2195"
+                       transform="matrix(0.31168111,0,0,0.31168111,16.117955,307.16925)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">4</text>
+                  </g>
+                  <g
+                     id="g2203"
+                     class="point">
+                    <path
+                       id="path2199"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 54.01,171.64 v -23.28 h 29.46 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2201"
+                       transform="translate(71.56375,165.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">42</text>
+                  </g>
+                  <g
+                     id="g2209"
+                     class="point">
+                    <path
+                       id="path2205"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 31.56,229.82 v -23.27 h 23.85 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2207"
+                       transform="matrix(0.99685864,0,0,0.99685864,43.438272,223.66772)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">34</text>
+                  </g>
+                  <g
+                     id="g2215"
+                     class="point">
+                    <path
+                       id="path2211"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 14.73,258.91 v -23.27 h 9.82 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2213"
+                       transform="matrix(0,0.22470588,-0.22470588,0,18.404118,247.26447)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">14</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g2289"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g2287"
+                   class="points">
+                  <g
+                     id="g2225"
+                     class="point">
+                    <path
+                       id="path2221"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 233.57,84.36 V 61.09 h 31.56 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2223"
+                       transform="translate(253.13,78.225)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">45</text>
+                  </g>
+                  <g
+                     id="g2231"
+                     class="point">
+                    <path
+                       id="path2227"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 148.7,113.45 V 90.18 h 15.43 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2229"
+                       transform="matrix(0,0.55470588,-0.55470588,0,153.36412,101.815)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">22</text>
+                  </g>
+                  <g
+                     id="g2237"
+                     class="point">
+                    <path
+                       id="path2233"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 318.44,26.18 V 2.91 h 169.04 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2235"
+                       transform="translate(471.12063,20.045)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">241</text>
+                  </g>
+                  <g
+                     id="g2243"
+                     class="point">
+                    <path
+                       id="path2239"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 196.39,55.27 V 32 h 73.65 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2241"
+                       transform="translate(253.58688,49.135)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">105</text>
+                  </g>
+                  <g
+                     id="g2249"
+                     class="point">
+                    <path
+                       id="path2245"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 148,142.55 v -23.28 h 23.14 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2247"
+                       transform="matrix(0,0.96502618,-0.96502618,0,154.62963,130.86476)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">33</text>
+                  </g>
+                  <g
+                     id="g2255"
+                     class="point">
+                    <path
+                       id="path2251"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 82.77,200.73 v -23.28 h 32.26 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2253"
+                       transform="translate(103.03,194.59)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">46</text>
+                  </g>
+                  <g
+                     id="g2261"
+                     class="point">
+                    <path
+                       id="path2257"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 19.64,288 v -23.27 h 2.81 V 288 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2259"
+                       transform="matrix(0.31168111,0,0,0.31168111,21.027955,278.07925)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">4</text>
+                  </g>
+                  <g
+                     id="g2267"
+                     class="point">
+                    <path
+                       id="path2263"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 17.54,317.09 v -23.27 h 2.1 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2265"
+                       transform="matrix(0.23292894,0,0,0.23292894,18.577262,306.73611)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">3</text>
+                  </g>
+                  <g
+                     id="g2273"
+                     class="point">
+                    <path
+                       id="path2269"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 83.47,171.64 v -23.28 h 37.17 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2271"
+                       transform="translate(108.64,165.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">53</text>
+                  </g>
+                  <g
+                     id="g2279"
+                     class="point">
+                    <path
+                       id="path2275"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 55.41,229.82 v -23.27 h 11.93 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2277"
+                       transform="matrix(0,0.34882353,-0.34882353,0,59.456471,218.16865)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">17</text>
+                  </g>
+                  <g
+                     id="g2285"
+                     class="point">
+                    <path
+                       id="path2281"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 24.55,258.91 v -23.27 h 15.43 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2283"
+                       transform="matrix(0,0.55470588,-0.55470588,0,29.214118,247.275)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">22</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g2359"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g2357"
+                   class="points">
+                  <g
+                     id="g2295"
+                     class="point">
+                    <path
+                       id="path2291"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 265.13,84.36 V 61.09 H 296 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2293"
+                       transform="translate(284,78.225)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">44</text>
+                  </g>
+                  <g
+                     id="g2301"
+                     class="point">
+                    <path
+                       id="path2297"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 164.13,113.45 V 90.18 h 19.64 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2299"
+                       transform="matrix(0,0.80235294,-0.80235294,0,169.53706,101.77739)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">28</text>
+                  </g>
+                  <g
+                     id="g2307"
+                     class="point">
+                    <path
+                       id="path2303"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 487.48,26.18 V 2.91 h 129.76 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2305"
+                       transform="translate(600.78687,20.045)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">185</text>
+                  </g>
+                  <g
+                     id="g2313"
+                     class="point">
+                    <path
+                       id="path2309"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 270.04,55.27 V 32 h 70.14 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2311"
+                       transform="translate(323.72687,49.135)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">100</text>
+                  </g>
+                  <g
+                     id="g2319"
+                     class="point">
+                    <path
+                       id="path2315"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 171.14,142.55 v -23.28 h 6.32 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2317"
+                       transform="matrix(0.03549393,0,0,0.03549393,174.29806,131.10522)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">9</text>
+                  </g>
+                  <g
+                     id="g2325"
+                     class="point">
+                    <path
+                       id="path2321"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 115.03,200.73 v -23.28 h 7.02 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2323"
+                       transform="matrix(0,0.06,-0.06,0,118.21,189.08719)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10</text>
+                  </g>
+                  <g
+                     id="g2331"
+                     class="point">
+                    <path
+                       id="path2327"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 22.45,288 v -23.27 h 1.4 V 288 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2329"
+                       transform="matrix(0.15719298,0,0,0.15719298,23.15,277.22956)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">2</text>
+                  </g>
+                  <g
+                     id="g2337"
+                     class="point">
+                    <path
+                       id="path2333"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 19.64,317.09 v -23.27 h 2.1 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2335"
+                       transform="matrix(0.23292894,0,0,0.23292894,20.677262,306.73611)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">3</text>
+                  </g>
+                  <g
+                     id="g2343"
+                     class="point">
+                    <path
+                       id="path2339"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 120.64,171.64 v -23.28 h 18.94 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2341"
+                       transform="matrix(0,0.76117647,-0.76117647,0,125.92353,159.96432)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">27</text>
+                  </g>
+                  <g
+                     id="g2349"
+                     class="point">
+                    <path
+                       id="path2345"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 67.34,229.82 v -23.27 h 13.32 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2347"
+                       transform="matrix(0,0.43058824,-0.43058824,0,71.631765,218.16482)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">19</text>
+                  </g>
+                  <g
+                     id="g2355"
+                     class="point">
+                    <path
+                       id="path2351"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 39.98,258.91 V 235.64 H 50.5 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2353"
+                       transform="matrix(0,0.26588235,-0.26588235,0,43.777647,247.26254)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">15</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g2429"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g2427"
+                   class="points">
+                  <g
+                     id="g2365"
+                     class="point">
+                    <path
+                       id="path2361"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 296,84.36 V 61.09 h 7.71 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2363"
+                       transform="matrix(0.10285714,0,0,0.10285714,299.855,73.290714)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">11</text>
+                  </g>
+                  <g
+                     id="g2371"
+                     class="point">
+                    <path
+                       id="path2367"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 183.77,113.45 V 90.18 h 3.51 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2369"
+                       transform="matrix(0.38932409,0,0,0.38932409,185.50371,103.95628)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">5</text>
+                  </g>
+                  <g
+                     id="g2377"
+                     class="point">
+                    <path
+                       id="path2373"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 617.24,26.18 V 2.91 h 49.1 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2375"
+                       transform="translate(654.34,20.045)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">70</text>
+                  </g>
+                  <g
+                     id="g2383"
+                     class="point">
+                    <path
+                       id="path2379"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 340.18,55.27 V 32 h 25.25 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2381"
+                       transform="translate(353.43,49.135)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">36</text>
+                  </g>
+                  <g
+                     id="g2389"
+                     class="point">
+                    <path
+                       id="path2385"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 177.46,142.55 v -23.28 h 2.8 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2387"
+                       transform="matrix(0.31057192,0,0,0.31057192,178.84302,132.61815)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">4</text>
+                  </g>
+                  <g
+                     id="g2395"
+                     class="point">
+                    <path
+                       id="path2391"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 122.05,200.73 v -23.28 h 11.22 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2393"
+                       transform="matrix(0,0.30705882,-0.30705882,0,125.97118,189.07561)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">16</text>
+                  </g>
+                  <g
+                     id="g2401"
+                     class="point">
+                    <path
+                       id="path2397"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 23.85,288 v -23.27 h 0.7 V 288 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2399"
+                       transform="translate(32.003125,281.865)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">1</text>
+                  </g>
+                  <g
+                     id="g2407"
+                     class="point">
+                    <path
+                       id="path2403"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 21.74,317.09 v -23.27 h 1.41 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2405"
+                       transform="matrix(0.15831579,0,0,0.15831579,22.445,306.32574)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">2</text>
+                  </g>
+                  <g
+                     id="g2413"
+                     class="point">
+                    <path
+                       id="path2409"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 139.58,171.64 v -23.28 h 7.72 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2411"
+                       transform="matrix(0.10345865,0,0,0.10345865,143.44,160.56902)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">11</text>
+                  </g>
+                  <g
+                     id="g2419"
+                     class="point">
+                    <path
+                       id="path2415"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 80.66,229.82 v -23.27 h 2.11 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2417"
+                       transform="matrix(0.23403813,0,0,0.23403813,81.702201,219.47221)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">3</text>
+                  </g>
+                  <g
+                     id="g2425"
+                     class="point">
+                    <path
+                       id="path2421"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 50.5,258.91 v -23.27 h 6.31 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2423"
+                       transform="matrix(0.03438475,0,0,0.03438475,53.65312,247.46412)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">9</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g2497"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g2495"
+                   class="points">
+                  <g
+                     id="g2435"
+                     class="point">
+                    <path
+                       id="path2431"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 303.71,84.36 V 61.09 h 6.31 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2433"
+                       transform="translate(317.47312,78.225)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">9</text>
+                  </g>
+                  <g
+                     id="g2441"
+                     class="point">
+                    <path
+                       id="path2437"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 187.28,113.45 V 90.18 h 2.8 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2439"
+                       transform="translate(197.53312,107.315)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">4</text>
+                  </g>
+                  <g
+                     id="g2447"
+                     class="point">
+                    <path
+                       id="path2443"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 666.34,26.18 V 2.91 h 54.71 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2445"
+                       transform="translate(709.05,20.045)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">78</text>
+                  </g>
+                  <g
+                     id="g2453"
+                     class="point">
+                    <path
+                       id="path2449"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 365.43,55.27 V 32 h 23.15 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2451"
+                       transform="translate(400.48625,49.135)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">33</text>
+                  </g>
+                  <g
+                     id="g2459"
+                     class="point">
+                    <path
+                       id="path2455"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 180.26,142.55 v -23.28 h 7.72 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2457"
+                       transform="translate(199.2925,136.41)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">11</text>
+                  </g>
+                  <g
+                     id="g2465"
+                     class="point">
+                    <path
+                       id="path2461"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 133.27,200.73 v -23.28 h 19.64 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2463"
+                       transform="translate(164.81625,194.59)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">28</text>
+                  </g>
+                  <g
+                     id="g2469"
+                     class="point">
+                    <path
+                       id="path2467"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0px;stroke-opacity:1"
+                       d="M 0,0 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2475"
+                     class="point">
+                    <path
+                       id="path2471"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 23.15,317.09 v -23.27 h 0.7 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2473"
+                       transform="translate(31.303125,310.955)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">1</text>
+                  </g>
+                  <g
+                     id="g2481"
+                     class="point">
+                    <path
+                       id="path2477"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 147.3,171.64 v -23.28 h 7.71 v 23.28 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2479"
+                       transform="translate(166.3225,165.5)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">11</text>
+                  </g>
+                  <g
+                     id="g2487"
+                     class="point">
+                    <path
+                       id="path2483"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 82.77,229.82 v -23.27 h 1.4 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2485"
+                       transform="translate(91.623125,223.685)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">2</text>
+                  </g>
+                  <g
+                     id="g2493"
+                     class="point">
+                    <path
+                       id="path2489"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 56.81,258.91 v -23.27 h 5.62 v 23.27 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text2491"
+                       transform="translate(69.883125,252.775)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">8</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g2503"
+             class="overplot" />
+          <path
+             id="path2505"
+             style="fill:none"
+             d="M 0,0"
+             class="xlines-above crisp"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path2507"
+             style="fill:none"
+             d="M 0,0"
+             class="ylines-above crisp"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g2509"
+             class="overlines-above" />
+          <g
+             id="g2535"
+             class="xaxislayer-above">
+            <g
+               id="g2513"
+               class="xtick">
+              <text
+                 id="text2511"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(361)"
+                 y="437"
+                 x="0">0</text>
+            </g>
+            <g
+               id="g2517"
+               class="xtick">
+              <text
+                 id="text2515"
+                 transform="translate(501.28)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">200</text>
+            </g>
+            <g
+               id="g2521"
+               class="xtick">
+              <text
+                 id="text2519"
+                 transform="translate(641.56)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">400</text>
+            </g>
+            <g
+               id="g2525"
+               class="xtick">
+              <text
+                 id="text2523"
+                 transform="translate(781.85)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">600</text>
+            </g>
+            <g
+               id="g2529"
+               class="xtick">
+              <text
+                 id="text2527"
+                 transform="translate(922.13)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">800</text>
+            </g>
+            <g
+               id="g2533"
+               class="xtick">
+              <text
+                 id="text2531"
+                 transform="translate(1062.41)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="437"
+                 x="0">1000</text>
+            </g>
+          </g>
+          <g
+             id="g2581"
+             class="yaxislayer-above">
+            <g
+               id="g2539"
+               class="ytick">
+              <text
+                 id="text2537"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,405.45)"
+                 y="5.5999999"
+                 x="360">Imaging flow cytometry</text>
+            </g>
+            <g
+               id="g2543"
+               class="ytick">
+              <text
+                 id="text2541"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,376.36)"
+                 y="5.5999999"
+                 x="360">Imaging mass spectrometry</text>
+            </g>
+            <g
+               id="g2547"
+               class="ytick">
+              <text
+                 id="text2545"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,347.27)"
+                 y="5.5999999"
+                 x="360">Other</text>
+            </g>
+            <g
+               id="g2551"
+               class="ytick">
+              <text
+                 id="text2549"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,318.18)"
+                 y="5.5999999"
+                 x="360">Autofluorescence imaging (ie FLIM)</text>
+            </g>
+            <g
+               id="g2555"
+               class="ytick">
+              <text
+                 id="text2553"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,289.09)"
+                 y="5.5999999"
+                 x="360">Electron microscopy</text>
+            </g>
+            <g
+               id="g2559"
+               class="ytick">
+              <text
+                 id="text2557"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,260)"
+                 y="5.5999999"
+                 x="360">Superresolution (PALM/STORM)</text>
+            </g>
+            <g
+               id="g2563"
+               class="ytick">
+              <text
+                 id="text2561"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,230.91)"
+                 y="5.5999999"
+                 x="360">Histological tissue sections</text>
+            </g>
+            <g
+               id="g2567"
+               class="ytick">
+              <text
+                 id="text2565"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,201.82)"
+                 y="5.5999999"
+                 x="360">Brightfield/DIC/phase-contrast automated</text>
+            </g>
+            <g
+               id="g2571"
+               class="ytick">
+              <text
+                 id="text2569"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,172.73)"
+                 y="5.5999999"
+                 x="360">Brightfield/DIC/phase-contrast manually acquired</text>
+            </g>
+            <g
+               id="g2575"
+               class="ytick">
+              <text
+                 id="text2573"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,143.64)"
+                 y="5.5999999"
+                 x="360">Fluorescent images automated</text>
+            </g>
+            <g
+               id="g2579"
+               class="ytick">
+              <text
+                 id="text2577"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,114.55)"
+                 y="5.5999999"
+                 x="360">Fluorescent images manually acquired</text>
+            </g>
+          </g>
+          <g
+             id="g2583"
+             class="overaxes-above" />
+        </g>
+      </g>
+      <g
+         id="g2589"
+         class="polarlayer" />
+      <g
+         id="g2591"
+         class="smithlayer" />
+      <g
+         id="g2593"
+         class="ternarylayer" />
+      <g
+         id="g2595"
+         class="geolayer" />
+      <g
+         id="g2597"
+         class="funnelarealayer" />
+      <g
+         id="g2599"
+         class="pielayer" />
+      <g
+         id="g2601-4"
+         class="iciclelayer" />
+      <g
+         id="g2603-0"
+         class="treemaplayer" />
+      <g
+         id="g2605-4"
+         class="sunburstlayer" />
+      <g
+         id="g2607"
+         class="glimages" />
+      <g
+         id="g2619"
+         class="layer-above">
+        <g
+           id="g2615"
+           class="imagelayer" />
+        <g
+           id="g2617"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g2747"
+         class="infolayer">
+        <g
+           id="g2737"
+           transform="translate(905.41,260.6)"
+           pointer-events="all"
+           class="legend">
+          <rect
+             id="rect2621"
+             style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+             y="0"
+             x="0"
+             height="153"
+             width="207"
+             class="bg" />
+          <g
+             id="g2733"
+             clip-path="url(#legend43d3ac)"
+             class="scrollbox">
+            <g
+               id="g2731"
+               class="groups">
+              <g
+                 id="g2639"
+                 style="opacity:1"
+                 transform="translate(0,16.9)"
+                 class="traces">
+                <text
+                   id="text2623"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">3D(SPIM/largevolume)</text>
+                <g
+                   id="g2635"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2625"
+                     class="legendfill" />
+                  <g
+                     id="g2627"
+                     class="legendlines" />
+                  <g
+                     id="g2633"
+                     class="legendsymbols">
+                    <g
+                       id="g2631"
+                       class="legendpoints">
+                      <path
+                         id="path2629"
+                         style="fill:#19d3f3;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2637"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="201.82812"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2657"
+                 style="opacity:1"
+                 transform="translate(0,40.7)"
+                 class="traces">
+                <text
+                   id="text2641"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">3Dlargevolume+time</text>
+                <g
+                   id="g2653"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2643"
+                     class="legendfill" />
+                  <g
+                     id="g2645"
+                     class="legendlines" />
+                  <g
+                     id="g2651"
+                     class="legendsymbols">
+                    <g
+                       id="g2649"
+                       class="legendpoints">
+                      <path
+                         id="path2647"
+                         style="fill:#ffa15a;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2655"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="201.82812"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2675"
+                 style="opacity:1"
+                 transform="translate(0,64.5)"
+                 class="traces">
+                <text
+                   id="text2659"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">3D+time</text>
+                <g
+                   id="g2671"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2661"
+                     class="legendfill" />
+                  <g
+                     id="g2663"
+                     class="legendlines" />
+                  <g
+                     id="g2669"
+                     class="legendsymbols">
+                    <g
+                       id="g2667"
+                       class="legendpoints">
+                      <path
+                         id="path2665"
+                         style="fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2673"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="201.82812"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2693"
+                 style="opacity:1"
+                 transform="translate(0,88.3)"
+                 class="traces">
+                <text
+                   id="text2677"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">3D(&lt;3000x3000x100)</text>
+                <g
+                   id="g2689"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2679"
+                     class="legendfill" />
+                  <g
+                     id="g2681"
+                     class="legendlines" />
+                  <g
+                     id="g2687"
+                     class="legendsymbols">
+                    <g
+                       id="g2685"
+                       class="legendpoints">
+                      <path
+                         id="path2683"
+                         style="fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2691"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="201.82812"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2711"
+                 style="opacity:1"
+                 transform="translate(0,112.1)"
+                 class="traces">
+                <text
+                   id="text2695"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">2D+time</text>
+                <g
+                   id="g2707"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2697"
+                     class="legendfill" />
+                  <g
+                     id="g2699"
+                     class="legendlines" />
+                  <g
+                     id="g2705"
+                     class="legendsymbols">
+                    <g
+                       id="g2703"
+                       class="legendpoints">
+                      <path
+                         id="path2701"
+                         style="fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2709"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="201.82812"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2729"
+                 style="opacity:1"
+                 transform="translate(0,135.9)"
+                 class="traces">
+                <text
+                   id="text2713"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">2D</text>
+                <g
+                   id="g2725"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2715"
+                     class="legendfill" />
+                  <g
+                     id="g2717"
+                     class="legendlines" />
+                  <g
+                     id="g2723"
+                     class="legendsymbols">
+                    <g
+                       id="g2721"
+                       class="legendpoints">
+                      <path
+                         id="path2719"
+                         style="fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2727"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="201.82812"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+            </g>
+          </g>
+          <rect
+             id="rect2735"
+             style="fill:#808ba4;fill-opacity:1"
+             y="0"
+             x="0"
+             height="0"
+             width="0"
+             ry="3"
+             rx="20"
+             class="scrollbar" />
+        </g>
+        <g
+           id="g2741"
+           class="g-gtitle">
+          <text
+             id="text2739"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             dy="0.69999999em"
+             y="50"
+             x="600"
+             class="gtitle">What kinds of images do you commonly want to analyze?</text>
+        </g>
+        <g
+           id="g2743"
+           class="g-xtitle" />
+        <g
+           id="g2745"
+           class="g-ytitle" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.96875"
+       y="7.0166664"
+       id="text3132"><tspan
+         sodipodi:role="line"
+         id="tspan3130"
+         x="3.96875"
+         y="7.0166664"
+         style="stroke-width:0.26458332">A)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.7816813"
+       y="112.35804"
+       id="text3132-0"><tspan
+         sodipodi:role="line"
+         id="tspan3130-1"
+         x="3.7816813"
+         y="112.35804"
+         style="stroke-width:0.26458332">B)</tspan></text>
+  </g>
+</svg>
