@@ -1,0 +1,3178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="199.08379mm"
+   height="175.12898mm"
+   viewBox="0 0 199.08379 175.12898"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Figure7.svg">
+  <defs
+     id="defs2">
+    <g
+       id="g489"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipd6835bxyplot">
+        <rect
+           id="rect477"
+           height="453"
+           width="503"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipd6835bx"
+         class="axesclip">
+        <rect
+           id="rect480"
+           height="700"
+           width="503"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd6835by"
+         class="axesclip">
+        <rect
+           id="rect483"
+           height="453"
+           width="800"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipd6835bxy"
+         class="axesclip">
+        <rect
+           id="rect486"
+           height="453"
+           width="503"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g491"
+       class="gradients" />
+    <g
+       id="g493"
+       class="patterns" />
+    <g
+       id="g828"
+       class="clips" />
+    <clipPath
+       id="legendd6835b">
+      <rect
+         id="rect830"
+         y="0"
+         x="0"
+         height="106"
+         width="195" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1175">
+      <rect
+         id="rect1177"
+         width="773"
+         height="655"
+         x="9.7142696"
+         y="29.428574"
+         style="stroke-width:0.99427736" />
+    </clipPath>
+    <g
+       id="g1658"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip8a442fxyplot">
+        <rect
+           id="rect1646"
+           height="492"
+           width="501"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip8a442fx"
+         class="axesclip">
+        <rect
+           id="rect1649"
+           height="700"
+           width="501"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip8a442fy"
+         class="axesclip">
+        <rect
+           id="rect1652"
+           height="492"
+           width="800"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip8a442fxy"
+         class="axesclip">
+        <rect
+           id="rect1655"
+           height="492"
+           width="501"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g1660"
+       class="gradients" />
+    <g
+       id="g1662"
+       class="patterns" />
+    <g
+       id="g1997"
+       class="clips" />
+    <clipPath
+       id="legend8a442f">
+      <rect
+         id="rect1999"
+         y="0"
+         x="0"
+         height="106"
+         width="197" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2344">
+      <rect
+         id="rect2346"
+         width="774"
+         height="655.00006"
+         x="8.9999952"
+         y="29.999996"
+         style="stroke-width:0.99912226" />
+    </clipPath>
+    <g
+       id="g2673"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip0c6bc7xyplot">
+        <rect
+           id="rect2661"
+           height="232"
+           width="540"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip0c6bc7x"
+         class="axesclip">
+        <rect
+           id="rect2664"
+           height="700"
+           width="540"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip0c6bc7y"
+         class="axesclip">
+        <rect
+           id="rect2667"
+           height="232"
+           width="700"
+           y="60"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip0c6bc7xy"
+         class="axesclip">
+        <rect
+           id="rect2670"
+           height="232"
+           width="540"
+           y="60"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g2675"
+       class="gradients" />
+    <g
+       id="g2677"
+       class="patterns" />
+    <g
+       id="g2892"
+       class="clips" />
+    <clipPath
+       id="legend0c6bc7">
+      <rect
+         id="rect2894"
+         y="0"
+         x="0"
+         height="83"
+         width="275" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3128">
+      <rect
+         id="rect3130"
+         width="615.00006"
+         height="611"
+         x="10.999995"
+         y="50.999992"
+         style="stroke-width:0.97070712" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="385.71427"
+     inkscape:cy="269.47622"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1147"
+     inkscape:window-height="1095"
+     inkscape:window-x="762"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.779767,-2.6699397)">
+    <g
+       id="g1171"
+       transform="matrix(0.13152844,0,0,0.13152844,3.779767,2.6699397)">
+      <rect
+         id="rect475"
+         style="fill:#ffffff;fill-opacity:1"
+         height="700"
+         width="800"
+         y="0"
+         x="0"
+         clip-path="url(#clipPath1175)" />
+      <g
+         id="g498"
+         class="bglayer">
+        <rect
+           id="rect496"
+           style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+           height="453"
+           width="503"
+           y="100"
+           x="80"
+           class="bg" />
+      </g>
+      <g
+         id="g504"
+         class="layer-below">
+        <g
+           id="g500"
+           class="imagelayer" />
+        <g
+           id="g502"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g806"
+         class="cartesianlayer">
+        <g
+           id="g804"
+           class="subplot xy">
+          <g
+             id="g510"
+             class="layer-subplot">
+            <g
+               id="g506"
+               class="shapelayer" />
+            <g
+               id="g508"
+               class="imagelayer" />
+          </g>
+          <g
+             id="g516"
+             class="minor-gridlayer">
+            <g
+               id="g512"
+               class="x" />
+            <g
+               id="g514"
+               class="y" />
+          </g>
+          <g
+             id="g532"
+             class="gridlayer">
+            <g
+               id="g518"
+               class="x" />
+            <g
+               id="g530"
+               class="y">
+              <path
+                 id="path520"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 583"
+                 transform="translate(0,466.93)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path522"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 583"
+                 transform="translate(0,380.86)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path524"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 583"
+                 transform="translate(0,294.79)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path526"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 583"
+                 transform="translate(0,208.72)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path528"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 583"
+                 transform="translate(0,122.65)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+          <g
+             id="g536"
+             class="zerolinelayer">
+            <path
+               id="path534"
+               style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+               d="M 80,0 H 583"
+               transform="translate(0,553)"
+               class="yzl zl crisp"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             id="path538"
+             class="xlines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <path
+             id="path540"
+             class="ylines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <g
+             id="g542"
+             class="overlines-below" />
+          <g
+             id="g544"
+             class="xaxislayer-below" />
+          <g
+             id="g546"
+             class="yaxislayer-below" />
+          <g
+             id="g548"
+             class="overaxes-below" />
+          <g
+             id="g736"
+             clip-path="url(#clipd6835bxyplot)"
+             transform="translate(80,100)"
+             class="plot">
+            <g
+               id="g734"
+               class="barlayer mlayer">
+              <g
+                 id="g594"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g592"
+                   class="points">
+                  <g
+                     id="g554"
+                     class="point">
+                    <path
+                       id="path550"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 438.33,453 V 316.15 h 57.48 V 453 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text552"
+                       transform="translate(467.07,333.15)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">31.8%</text>
+                  </g>
+                  <g
+                     id="g560"
+                     class="point">
+                    <path
+                       id="path556"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 222.76,453 V 255.04 h 57.48 V 453 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text558"
+                       transform="translate(251.5,272.04)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">46.0%</text>
+                  </g>
+                  <g
+                     id="g566"
+                     class="point">
+                    <path
+                       id="path562"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 7.19,453 V 155.2 H 64.67 V 453 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text564"
+                       transform="translate(35.93,172.2)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">69.2%</text>
+                  </g>
+                  <g
+                     id="g572"
+                     class="point">
+                    <path
+                       id="path568"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 294.61,453 V 258.48 H 352.1 V 453 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text570"
+                       transform="translate(323.355,275.48)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">45.2%</text>
+                  </g>
+                  <g
+                     id="g578"
+                     class="point">
+                    <path
+                       id="path574"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 366.47,453 V 272.25 h 57.49 V 453 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text576"
+                       transform="translate(395.215,289.25)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">42.0%</text>
+                  </g>
+                  <g
+                     id="g584"
+                     class="point">
+                    <path
+                       id="path580"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 150.9,453 V 211.14 h 57.49 V 453 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text582"
+                       transform="translate(179.645,228.14)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">56.2%</text>
+                  </g>
+                  <g
+                     id="g590"
+                     class="point">
+                    <path
+                       id="path586"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 79.04,453 V 207.7 h 57.49 V 453 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text588"
+                       transform="translate(107.785,224.7)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">57.0%</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g640"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g638"
+                   class="points">
+                  <g
+                     id="g600"
+                     class="point">
+                    <path
+                       id="path596"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 438.33,316.15 V 185.32 h 57.48 v 130.83 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text598"
+                       transform="translate(467.07,202.32)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">30.4%</text>
+                  </g>
+                  <g
+                     id="g606"
+                     class="point">
+                    <path
+                       id="path602"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 222.76,255.04 V 91.08 h 57.48 v 163.96 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text604"
+                       transform="translate(251.5,108.08)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">38.1%</text>
+                  </g>
+                  <g
+                     id="g612"
+                     class="point">
+                    <path
+                       id="path608"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 7.19,155.2 V 60.09 h 57.48 v 95.11 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text610"
+                       transform="translate(35.93,77.09)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">22.1%</text>
+                  </g>
+                  <g
+                     id="g618"
+                     class="point">
+                    <path
+                       id="path614"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 294.61,258.48 V 109.15 h 57.49 v 149.33 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text616"
+                       transform="translate(323.355,126.15)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">34.7%</text>
+                  </g>
+                  <g
+                     id="g624"
+                     class="point">
+                    <path
+                       id="path620"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 366.47,272.25 v -124.8 h 57.49 v 124.8 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text622"
+                       transform="translate(395.215,164.45)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">29.0%</text>
+                  </g>
+                  <g
+                     id="g630"
+                     class="point">
+                    <path
+                       id="path626"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 150.9,211.14 V 89.78 h 57.49 v 121.36 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text628"
+                       transform="translate(179.645,106.78)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">28.2%</text>
+                  </g>
+                  <g
+                     id="g636"
+                     class="point">
+                    <path
+                       id="path632"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 79.04,207.7 V 73.43 h 57.49 V 207.7 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text634"
+                       transform="translate(107.785,90.43)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">31.2%</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g686"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g684"
+                   class="points">
+                  <g
+                     id="g646"
+                     class="point">
+                    <path
+                       id="path642"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 438.33,185.32 V 57.08 h 57.48 v 128.24 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text644"
+                       transform="translate(467.07,74.08)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">29.8%</text>
+                  </g>
+                  <g
+                     id="g652"
+                     class="point">
+                    <path
+                       id="path648"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 222.76,91.08 V 30.83 h 57.48 v 60.25 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text650"
+                       transform="translate(251.5,47.83)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">14.0%</text>
+                  </g>
+                  <g
+                     id="g658"
+                     class="point">
+                    <path
+                       id="path654"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 7.19,60.09 V 28.67 h 57.48 v 31.42 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text656"
+                       transform="translate(35.93,45.67)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">7.3%</text>
+                  </g>
+                  <g
+                     id="g664"
+                     class="point">
+                    <path
+                       id="path660"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 294.61,109.15 V 37.71 h 57.49 v 71.44 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text662"
+                       transform="translate(323.355,54.71)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">16.6%</text>
+                  </g>
+                  <g
+                     id="g670"
+                     class="point">
+                    <path
+                       id="path666"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 366.47,147.45 V 48.04 h 57.49 v 99.41 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text668"
+                       transform="translate(395.215,65.04)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">23.1%</text>
+                  </g>
+                  <g
+                     id="g676"
+                     class="point">
+                    <path
+                       id="path672"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 150.9,89.78 V 28.67 h 57.49 v 61.11 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text674"
+                       transform="translate(179.645,45.67)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">14.2%</text>
+                  </g>
+                  <g
+                     id="g682"
+                     class="point">
+                    <path
+                       id="path678"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 79.04,73.43 V 29.11 h 57.49 v 44.32 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text680"
+                       transform="translate(107.785,46.11)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10.3%</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g732"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g730"
+                   class="points">
+                  <g
+                     id="g692"
+                     class="point">
+                    <path
+                       id="path688"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 438.33,57.08 v -34 h 57.48 v 34 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text690"
+                       transform="translate(467.07,40.08)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">7.9%</text>
+                  </g>
+                  <g
+                     id="g698"
+                     class="point">
+                    <path
+                       id="path694"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 222.76,30.83 v -7.75 h 57.48 v 7.75 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text696"
+                       transform="translate(251.5,17.08)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">1.8%</text>
+                  </g>
+                  <g
+                     id="g704"
+                     class="point">
+                    <path
+                       id="path700"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 7.19,28.67 v -6.02 h 57.48 v 6.02 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text702"
+                       transform="translate(35.93,16.65)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">1.4%</text>
+                  </g>
+                  <g
+                     id="g710"
+                     class="point">
+                    <path
+                       id="path706"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 294.61,37.71 V 23.08 h 57.49 v 14.63 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text708"
+                       transform="translate(323.355,17.08)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">3.4%</text>
+                  </g>
+                  <g
+                     id="g716"
+                     class="point">
+                    <path
+                       id="path712"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 366.47,48.04 V 22.65 h 57.49 v 25.39 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text714"
+                       transform="translate(395.215,39.65)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">5.9%</text>
+                  </g>
+                  <g
+                     id="g722"
+                     class="point">
+                    <path
+                       id="path718"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 150.9,28.67 v -6.02 h 57.49 v 6.02 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text720"
+                       transform="translate(179.645,16.65)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">1.4%</text>
+                  </g>
+                  <g
+                     id="g728"
+                     class="point">
+                    <path
+                       id="path724"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 79.04,29.11 v -6.03 h 57.49 v 6.03 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text726"
+                       transform="translate(107.785,17.08)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">1.4%</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g738"
+             class="overplot" />
+          <path
+             id="path740"
+             style="fill:none"
+             d="M 0,0"
+             class="xlines-above crisp"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path742"
+             style="fill:none"
+             d="M 0,0"
+             class="ylines-above crisp"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g744"
+             class="overlines-above" />
+          <g
+             id="g774"
+             class="xaxislayer-above">
+            <g
+               id="g748"
+               class="xtick">
+              <text
+                 id="text746"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,57.965,778.32833)"
+                 y="570"
+                 x="0">Topics related to sub discipline</text>
+            </g>
+            <g
+               id="g752"
+               class="xtick">
+              <text
+                 id="text750"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,93.895,912.42091)"
+                 y="570"
+                 x="0">Visualization of results</text>
+            </g>
+            <g
+               id="g756"
+               class="xtick">
+              <text
+                 id="text754"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,129.82,1046.4948)"
+                 y="570"
+                 x="0">Analyzing large images</text>
+            </g>
+            <g
+               id="g760"
+               class="xtick">
+              <text
+                 id="text758"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,165.75,1180.5874)"
+                 y="570"
+                 x="0">Image analysis practices</text>
+            </g>
+            <g
+               id="g764"
+               class="xtick">
+              <text
+                 id="text762"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,201.68,1314.68)"
+                 y="570"
+                 x="0">Specific software tool</text>
+            </g>
+            <g
+               id="g768"
+               class="xtick">
+              <text
+                 id="text766"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,237.605,1448.7539)"
+                 y="570"
+                 x="0">Deep learning for image analysis</text>
+            </g>
+            <g
+               id="g772"
+               class="xtick">
+              <text
+                 id="text770"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,273.535,1582.8465)"
+                 y="570"
+                 x="0">Image analysis theory</text>
+            </g>
+          </g>
+          <g
+             id="g800"
+             class="yaxislayer-above">
+            <g
+               id="g778"
+               class="ytick">
+              <text
+                 id="text776"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,553)"
+                 y="5.5999999"
+                 x="79">0</text>
+            </g>
+            <g
+               id="g782"
+               class="ytick">
+              <text
+                 id="text780"
+                 transform="translate(0,466.93)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">20</text>
+            </g>
+            <g
+               id="g786"
+               class="ytick">
+              <text
+                 id="text784"
+                 transform="translate(0,380.86)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">40</text>
+            </g>
+            <g
+               id="g790"
+               class="ytick">
+              <text
+                 id="text788"
+                 transform="translate(0,294.79)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">60</text>
+            </g>
+            <g
+               id="g794"
+               class="ytick">
+              <text
+                 id="text792"
+                 transform="translate(0,208.72)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">80</text>
+            </g>
+            <g
+               id="g798"
+               class="ytick">
+              <text
+                 id="text796"
+                 transform="translate(0,122.65)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">100</text>
+            </g>
+          </g>
+          <g
+             id="g802"
+             class="overaxes-above" />
+        </g>
+      </g>
+      <g
+         id="g808"
+         class="polarlayer" />
+      <g
+         id="g810"
+         class="smithlayer" />
+      <g
+         id="g812"
+         class="ternarylayer" />
+      <g
+         id="g814"
+         class="geolayer" />
+      <g
+         id="g816"
+         class="funnelarealayer" />
+      <g
+         id="g818"
+         class="pielayer" />
+      <g
+         id="g820"
+         class="iciclelayer" />
+      <g
+         id="g822"
+         class="treemaplayer" />
+      <g
+         id="g824"
+         class="sunburstlayer" />
+      <g
+         id="g826"
+         class="glimages" />
+      <g
+         id="g838"
+         class="layer-above">
+        <g
+           id="g834"
+           class="imagelayer" />
+        <g
+           id="g836"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g932"
+         class="infolayer">
+        <g
+           id="g920"
+           transform="translate(593.06,100)"
+           pointer-events="all"
+           class="legend">
+          <rect
+             id="rect840"
+             style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+             y="0"
+             x="0"
+             height="106"
+             width="195"
+             class="bg" />
+          <g
+             id="g916"
+             clip-path="url(#legendd6835b)"
+             class="scrollbox">
+            <g
+               id="g914"
+               class="groups">
+              <g
+                 id="g858"
+                 style="opacity:1"
+                 transform="translate(0,16.9)"
+                 class="traces">
+                <text
+                   id="text842"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Notatallinterested</text>
+                <g
+                   id="g854"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g844"
+                     class="legendfill" />
+                  <g
+                     id="g846"
+                     class="legendlines" />
+                  <g
+                     id="g852"
+                     class="legendsymbols">
+                    <g
+                       id="g850"
+                       class="legendpoints">
+                      <path
+                         id="path848"
+                         style="fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect856"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="189.42188"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g876"
+                 style="opacity:1"
+                 transform="translate(0,40.7)"
+                 class="traces">
+                <text
+                   id="text860"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Somewhatinterested</text>
+                <g
+                   id="g872"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g862"
+                     class="legendfill" />
+                  <g
+                     id="g864"
+                     class="legendlines" />
+                  <g
+                     id="g870"
+                     class="legendsymbols">
+                    <g
+                       id="g868"
+                       class="legendpoints">
+                      <path
+                         id="path866"
+                         style="fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect874"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="189.42188"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g894"
+                 style="opacity:1"
+                 transform="translate(0,64.5)"
+                 class="traces">
+                <text
+                   id="text878"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Moderatelyinterested</text>
+                <g
+                   id="g890"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g880"
+                     class="legendfill" />
+                  <g
+                     id="g882"
+                     class="legendlines" />
+                  <g
+                     id="g888"
+                     class="legendsymbols">
+                    <g
+                       id="g886"
+                       class="legendpoints">
+                      <path
+                         id="path884"
+                         style="fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect892"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="189.42188"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g912"
+                 style="opacity:1"
+                 transform="translate(0,88.3)"
+                 class="traces">
+                <text
+                   id="text896"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Veryinterested</text>
+                <g
+                   id="g908"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g898"
+                     class="legendfill" />
+                  <g
+                     id="g900"
+                     class="legendlines" />
+                  <g
+                     id="g906"
+                     class="legendsymbols">
+                    <g
+                       id="g904"
+                       class="legendpoints">
+                      <path
+                         id="path902"
+                         style="fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect910"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="189.42188"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+            </g>
+          </g>
+          <rect
+             id="rect918"
+             style="fill:#808ba4;fill-opacity:1"
+             y="0"
+             x="0"
+             height="0"
+             width="0"
+             ry="3"
+             rx="20"
+             class="scrollbar" />
+        </g>
+        <g
+           id="g924"
+           class="g-gtitle">
+          <text
+             id="text922"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             dy="0em"
+             y="50"
+             x="400"
+             class="gtitle">How interested are you in learning more about the following topics</text>
+        </g>
+        <g
+           id="g926"
+           class="g-xtitle" />
+        <g
+           id="g930"
+           class="g-ytitle">
+          <text
+             id="text928"
+             style="font-weight:normal;font-size:19px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             y="326.5"
+             x="23.996876"
+             transform="rotate(-90,23.996875,326.5)"
+             class="ytitle">Percent</text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2340"
+       transform="matrix(0.12347827,0,0,0.12347827,105.56021,2.6699397)">
+      <rect
+         id="rect1644"
+         style="fill:#ffffff;fill-opacity:1"
+         height="700"
+         width="800"
+         y="0"
+         x="0"
+         clip-path="url(#clipPath2344)" />
+      <g
+         id="g1667"
+         class="bglayer">
+        <rect
+           id="rect1665"
+           style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+           height="492"
+           width="501"
+           y="100"
+           x="80"
+           class="bg" />
+      </g>
+      <g
+         id="g1673"
+         class="layer-below">
+        <g
+           id="g1669"
+           class="imagelayer" />
+        <g
+           id="g1671"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g1975"
+         class="cartesianlayer">
+        <g
+           id="g1973"
+           class="subplot xy">
+          <g
+             id="g1679"
+             class="layer-subplot">
+            <g
+               id="g1675"
+               class="shapelayer" />
+            <g
+               id="g1677"
+               class="imagelayer" />
+          </g>
+          <g
+             id="g1685"
+             class="minor-gridlayer">
+            <g
+               id="g1681"
+               class="x" />
+            <g
+               id="g1683"
+               class="y" />
+          </g>
+          <g
+             id="g1701"
+             class="gridlayer">
+            <g
+               id="g1687"
+               class="x" />
+            <g
+               id="g1699"
+               class="y">
+              <path
+                 id="path1689"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 581"
+                 transform="translate(0,498.61)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path1691"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 581"
+                 transform="translate(0,405.23)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path1693"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 581"
+                 transform="translate(0,311.84)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path1695"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 581"
+                 transform="translate(0,218.45)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path1697"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 581"
+                 transform="translate(0,125.07)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+          <g
+             id="g1705"
+             class="zerolinelayer">
+            <path
+               id="path1703"
+               style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+               d="M 80,0 H 581"
+               transform="translate(0,592)"
+               class="yzl zl crisp"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             id="path1707"
+             class="xlines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1709"
+             class="ylines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <g
+             id="g1711"
+             class="overlines-below" />
+          <g
+             id="g1713"
+             class="xaxislayer-below" />
+          <g
+             id="g1715"
+             class="yaxislayer-below" />
+          <g
+             id="g1717"
+             class="overaxes-below" />
+          <g
+             id="g1905"
+             clip-path="url(#clip8a442fxyplot)"
+             transform="translate(80,100)"
+             class="plot">
+            <g
+               id="g1903"
+               class="barlayer mlayer">
+              <g
+                 id="g1763"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g1761"
+                   class="points">
+                  <g
+                     id="g1723"
+                     class="point">
+                    <path
+                       id="path1719"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 365.01,492 v -84.51 h 57.26 V 492 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1721"
+                       transform="translate(393.64,424.49)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">18.1%</text>
+                  </g>
+                  <g
+                     id="g1729"
+                     class="point">
+                    <path
+                       id="path1725"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 7.16,492 V 217.44 H 64.41 V 492 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1727"
+                       transform="translate(35.785,234.44)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">58.8%</text>
+                  </g>
+                  <g
+                     id="g1735"
+                     class="point">
+                    <path
+                       id="path1731"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 78.73,492 V 274.88 h 57.26 V 492 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1733"
+                       transform="translate(107.36,291.88)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">46.5%</text>
+                  </g>
+                  <g
+                     id="g1741"
+                     class="point">
+                    <path
+                       id="path1737"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 293.44,492 V 395.34 H 350.7 V 492 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1739"
+                       transform="translate(322.07,412.34)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">20.7%</text>
+                  </g>
+                  <g
+                     id="g1747"
+                     class="point">
+                    <path
+                       id="path1743"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 150.3,492 V 310.36 h 57.26 V 492 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1745"
+                       transform="translate(178.93,327.36)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">38.9%</text>
+                  </g>
+                  <g
+                     id="g1753"
+                     class="point">
+                    <path
+                       id="path1749"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 221.87,492 V 383.2 h 57.26 V 492 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1751"
+                       transform="translate(250.5,400.2)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">23.3%</text>
+                  </g>
+                  <g
+                     id="g1759"
+                     class="point">
+                    <path
+                       id="path1755"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 436.59,492 v -84.51 h 57.25 V 492 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1757"
+                       transform="translate(465.215,424.49)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">18.1%</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1809"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g1807"
+                   class="points">
+                  <g
+                     id="g1769"
+                     class="point">
+                    <path
+                       id="path1765"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 365.01,407.49 V 251.06 h 57.26 v 156.43 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1767"
+                       transform="translate(393.64,268.06)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">33.5%</text>
+                  </g>
+                  <g
+                     id="g1775"
+                     class="point">
+                    <path
+                       id="path1771"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 7.16,217.44 V 78.3 h 57.25 v 139.14 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1773"
+                       transform="translate(35.785,95.3)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">29.8%</text>
+                  </g>
+                  <g
+                     id="g1781"
+                     class="point">
+                    <path
+                       id="path1777"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 78.73,274.88 V 146 h 57.26 v 128.88 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1779"
+                       transform="translate(107.36,163)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">27.6%</text>
+                  </g>
+                  <g
+                     id="g1787"
+                     class="point">
+                    <path
+                       id="path1783"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 293.44,395.34 V 232.39 h 57.26 v 162.95 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1785"
+                       transform="translate(322.07,249.39)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">34.9%</text>
+                  </g>
+                  <g
+                     id="g1793"
+                     class="point">
+                    <path
+                       id="path1789"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 150.3,310.36 v -114.4 h 57.26 v 114.4 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1791"
+                       transform="translate(178.93,212.96)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">24.5%</text>
+                  </g>
+                  <g
+                     id="g1799"
+                     class="point">
+                    <path
+                       id="path1795"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 221.87,383.2 V 223.05 h 57.26 V 383.2 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1797"
+                       transform="translate(250.5,240.05)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">34.3%</text>
+                  </g>
+                  <g
+                     id="g1805"
+                     class="point">
+                    <path
+                       id="path1801"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 436.59,407.49 V 277.68 h 57.25 v 129.81 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1803"
+                       transform="translate(465.215,294.68)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">27.8%</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1855"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g1853"
+                   class="points">
+                  <g
+                     id="g1815"
+                     class="point">
+                    <path
+                       id="path1811"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 365.01,251.06 V 71.29 h 57.26 v 179.77 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1813"
+                       transform="translate(393.64,88.29)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">38.5%</text>
+                  </g>
+                  <g
+                     id="g1821"
+                     class="point">
+                    <path
+                       id="path1817"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 7.16,78.3 V 27.87 H 64.41 V 78.3 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1819"
+                       transform="translate(35.785,44.87)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10.8%</text>
+                  </g>
+                  <g
+                     id="g1827"
+                     class="point">
+                    <path
+                       id="path1823"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 78.73,146 V 54.95 h 57.26 V 146 Z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1825"
+                       transform="translate(107.36,71.95)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">19.5%</text>
+                  </g>
+                  <g
+                     id="g1833"
+                     class="point">
+                    <path
+                       id="path1829"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 293.44,232.39 V 75.03 h 57.26 v 157.36 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1831"
+                       transform="translate(322.07,92.03)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">33.7%</text>
+                  </g>
+                  <g
+                     id="g1839"
+                     class="point">
+                    <path
+                       id="path1835"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 150.3,195.96 V 77.36 h 57.26 v 118.6 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1837"
+                       transform="translate(178.93,94.36)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">25.4%</text>
+                  </g>
+                  <g
+                     id="g1845"
+                     class="point">
+                    <path
+                       id="path1841"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 221.87,223.05 V 82.97 h 57.26 v 140.08 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1843"
+                       transform="translate(250.5,99.97)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">30.0%</text>
+                  </g>
+                  <g
+                     id="g1851"
+                     class="point">
+                    <path
+                       id="path1847"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 436.59,277.68 V 104.45 h 57.25 v 173.23 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1849"
+                       transform="translate(465.215,121.45)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">37.1%</text>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1901"
+                 style="opacity:1;shape-rendering:crispEdges"
+                 class="trace bars">
+                <g
+                   id="g1899"
+                   class="points">
+                  <g
+                     id="g1861"
+                     class="point">
+                    <path
+                       id="path1857"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 365.01,71.29 V 25.07 h 57.26 v 46.22 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1859"
+                       transform="translate(393.64,42.07)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">9.9%</text>
+                  </g>
+                  <g
+                     id="g1867"
+                     class="point">
+                    <path
+                       id="path1863"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 7.16,27.87 v -2.8 h 57.25 v 2.8 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1865"
+                       transform="translate(35.785,19.07)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-outside">0.6%</text>
+                  </g>
+                  <g
+                     id="g1873"
+                     class="point">
+                    <path
+                       id="path1869"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 78.73,54.95 V 24.6 h 57.26 v 30.35 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1871"
+                       transform="translate(107.36,41.6)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">6.5%</text>
+                  </g>
+                  <g
+                     id="g1879"
+                     class="point">
+                    <path
+                       id="path1875"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 293.44,75.03 V 24.6 h 57.26 v 50.43 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1877"
+                       transform="translate(322.07,41.6)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">10.8%</text>
+                  </g>
+                  <g
+                     id="g1885"
+                     class="point">
+                    <path
+                       id="path1881"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 150.3,77.36 V 25.07 h 57.26 v 52.29 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1883"
+                       transform="translate(178.93,42.07)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">11.2%</text>
+                  </g>
+                  <g
+                     id="g1891"
+                     class="point">
+                    <path
+                       id="path1887"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 221.87,82.97 v -57.9 h 57.26 v 57.9 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1889"
+                       transform="translate(250.5,42.07)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">12.4%</text>
+                  </g>
+                  <g
+                     id="g1897"
+                     class="point">
+                    <path
+                       id="path1893"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 436.59,104.45 V 25.07 h 57.25 v 79.38 z"
+                       inkscape:connector-curvature="0" />
+                    <text
+                       id="text1895"
+                       transform="translate(465.215,42.07)"
+                       style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                       y="0"
+                       x="0"
+                       data-notex="1"
+                       class="bartext bartext-inside">17.0%</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g1907"
+             class="overplot" />
+          <path
+             id="path1909"
+             style="fill:none"
+             d="M 0,0"
+             class="xlines-above crisp"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1911"
+             style="fill:none"
+             d="M 0,0"
+             class="ylines-above crisp"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g1913"
+             class="overlines-above" />
+          <g
+             id="g1943"
+             class="xaxislayer-above">
+            <g
+               id="g1917"
+               class="xtick">
+              <text
+                 id="text1915"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,57.895,817.06708)"
+                 y="609"
+                 x="0">Written tutorials</text>
+            </g>
+            <g
+               id="g1921"
+               class="xtick">
+              <text
+                 id="text1919"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,93.68,950.61852)"
+                 y="609"
+                 x="0">Video tutorial</text>
+            </g>
+            <g
+               id="g1925"
+               class="xtick">
+              <text
+                 id="text1923"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,129.465,1084.17)"
+                 y="609"
+                 x="0">Office hours</text>
+            </g>
+            <g
+               id="g1929"
+               class="xtick">
+              <text
+                 id="text1927"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,165.25,1217.7214)"
+                 y="609"
+                 x="0">One day seminar</text>
+            </g>
+            <g
+               id="g1933"
+               class="xtick">
+              <text
+                 id="text1931"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,201.035,1351.2728)"
+                 y="609"
+                 x="0">Interactive webinar</text>
+            </g>
+            <g
+               id="g1937"
+               class="xtick">
+              <text
+                 id="text1935"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,236.82,1484.8243)"
+                 y="609"
+                 x="0">Best practices articles</text>
+            </g>
+            <g
+               id="g1941"
+               class="xtick">
+              <text
+                 id="text1939"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(30,272.605,1618.3757)"
+                 y="609"
+                 x="0">Multiday workshop</text>
+            </g>
+          </g>
+          <g
+             id="g1969"
+             class="yaxislayer-above">
+            <g
+               id="g1947"
+               class="ytick">
+              <text
+                 id="text1945"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,592)"
+                 y="5.5999999"
+                 x="79">0</text>
+            </g>
+            <g
+               id="g1951"
+               class="ytick">
+              <text
+                 id="text1949"
+                 transform="translate(0,498.61)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">20</text>
+            </g>
+            <g
+               id="g1955"
+               class="ytick">
+              <text
+                 id="text1953"
+                 transform="translate(0,405.23)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">40</text>
+            </g>
+            <g
+               id="g1959"
+               class="ytick">
+              <text
+                 id="text1957"
+                 transform="translate(0,311.84)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">60</text>
+            </g>
+            <g
+               id="g1963"
+               class="ytick">
+              <text
+                 id="text1961"
+                 transform="translate(0,218.45)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">80</text>
+            </g>
+            <g
+               id="g1967"
+               class="ytick">
+              <text
+                 id="text1965"
+                 transform="translate(0,125.07)"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="5.5999999"
+                 x="79">100</text>
+            </g>
+          </g>
+          <g
+             id="g1971"
+             class="overaxes-above" />
+        </g>
+      </g>
+      <g
+         id="g1977"
+         class="polarlayer" />
+      <g
+         id="g1979"
+         class="smithlayer" />
+      <g
+         id="g1981"
+         class="ternarylayer" />
+      <g
+         id="g1983"
+         class="geolayer" />
+      <g
+         id="g1985"
+         class="funnelarealayer" />
+      <g
+         id="g1987"
+         class="pielayer" />
+      <g
+         id="g1989"
+         class="iciclelayer" />
+      <g
+         id="g1991"
+         class="treemaplayer" />
+      <g
+         id="g1993"
+         class="sunburstlayer" />
+      <g
+         id="g1995"
+         class="glimages" />
+      <g
+         id="g2007"
+         class="layer-above">
+        <g
+           id="g2003"
+           class="imagelayer" />
+        <g
+           id="g2005"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g2101"
+         class="infolayer">
+        <g
+           id="g2089"
+           transform="translate(591.02,100)"
+           pointer-events="all"
+           class="legend">
+          <rect
+             id="rect2009"
+             style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+             y="0"
+             x="0"
+             height="106"
+             width="197"
+             class="bg" />
+          <g
+             id="g2085"
+             clip-path="url(#legend8a442f)"
+             class="scrollbox">
+            <g
+               id="g2083"
+               class="groups">
+              <g
+                 id="g2027"
+                 style="opacity:1"
+                 transform="translate(0,16.9)"
+                 class="traces">
+                <text
+                   id="text2011"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Notatallpreferable</text>
+                <g
+                   id="g2023"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2013"
+                     class="legendfill" />
+                  <g
+                     id="g2015"
+                     class="legendlines" />
+                  <g
+                     id="g2021"
+                     class="legendsymbols">
+                    <g
+                       id="g2019"
+                       class="legendpoints">
+                      <path
+                         id="path2017"
+                         style="fill:#87ceeb;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2025"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="191.29688"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2045"
+                 style="opacity:1"
+                 transform="translate(0,40.7)"
+                 class="traces">
+                <text
+                   id="text2029"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Somewhatpreferable</text>
+                <g
+                   id="g2041"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2031"
+                     class="legendfill" />
+                  <g
+                     id="g2033"
+                     class="legendlines" />
+                  <g
+                     id="g2039"
+                     class="legendsymbols">
+                    <g
+                       id="g2037"
+                       class="legendpoints">
+                      <path
+                         id="path2035"
+                         style="fill:#6495ed;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2043"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="191.29688"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2063"
+                 style="opacity:1"
+                 transform="translate(0,64.5)"
+                 class="traces">
+                <text
+                   id="text2047"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Moderatelypreferable</text>
+                <g
+                   id="g2059"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2049"
+                     class="legendfill" />
+                  <g
+                     id="g2051"
+                     class="legendlines" />
+                  <g
+                     id="g2057"
+                     class="legendsymbols">
+                    <g
+                       id="g2055"
+                       class="legendpoints">
+                      <path
+                         id="path2053"
+                         style="fill:#1e90ff;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2061"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="191.29688"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2081"
+                 style="opacity:1"
+                 transform="translate(0,88.3)"
+                 class="traces">
+                <text
+                   id="text2065"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Verypreferable</text>
+                <g
+                   id="g2077"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2067"
+                     class="legendfill" />
+                  <g
+                     id="g2069"
+                     class="legendlines" />
+                  <g
+                     id="g2075"
+                     class="legendsymbols">
+                    <g
+                       id="g2073"
+                       class="legendpoints">
+                      <path
+                         id="path2071"
+                         style="fill:#4169e1;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2079"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="191.29688"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+            </g>
+          </g>
+          <rect
+             id="rect2087"
+             style="fill:#808ba4;fill-opacity:1"
+             y="0"
+             x="0"
+             height="0"
+             width="0"
+             ry="3"
+             rx="20"
+             class="scrollbar" />
+        </g>
+        <g
+           id="g2093"
+           class="g-gtitle">
+          <text
+             id="text2091"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             dy="0em"
+             y="50"
+             x="400"
+             class="gtitle">How preferable do you find each of these instructional methods</text>
+        </g>
+        <g
+           id="g2095"
+           class="g-xtitle" />
+        <g
+           id="g2099"
+           class="g-ytitle">
+          <text
+             id="text2097"
+             style="font-weight:normal;font-size:19px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             y="346"
+             x="23.996876"
+             transform="rotate(-90,23.996875,346)"
+             class="ytitle">Percent</text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3124"
+       transform="matrix(0.12549723,0,0,0.12549723,65.297151,91.544748)">
+      <rect
+         id="rect2659"
+         style="fill:#ffffff;fill-opacity:1"
+         height="700"
+         width="700"
+         y="0"
+         x="0"
+         clip-path="url(#clipPath3128)" />
+      <g
+         id="g2682"
+         class="bglayer">
+        <rect
+           id="rect2680"
+           style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+           height="232"
+           width="540"
+           y="60"
+           x="80"
+           class="bg" />
+      </g>
+      <g
+         id="g2688"
+         class="layer-below">
+        <g
+           id="g2684"
+           class="imagelayer" />
+        <g
+           id="g2686"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g2870"
+         class="cartesianlayer">
+        <g
+           id="g2868"
+           class="subplot xy">
+          <g
+             id="g2694"
+             class="layer-subplot">
+            <g
+               id="g2690"
+               class="shapelayer" />
+            <g
+               id="g2692"
+               class="imagelayer" />
+          </g>
+          <g
+             id="g2700"
+             class="minor-gridlayer">
+            <g
+               id="g2696"
+               class="x" />
+            <g
+               id="g2698"
+               class="y" />
+          </g>
+          <g
+             id="g2712"
+             class="gridlayer">
+            <g
+               id="g2702"
+               class="x" />
+            <g
+               id="g2710"
+               class="y">
+              <path
+                 id="path2704"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 620"
+                 transform="translate(0,249.24)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path2706"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 620"
+                 transform="translate(0,186.91)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path2708"
+                 style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+                 d="M 80,0 H 620"
+                 transform="translate(0,62.25)"
+                 class="ygrid crisp"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+          <g
+             id="g2716"
+             class="zerolinelayer">
+            <path
+               id="path2714"
+               style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+               d="M 80,0 H 620"
+               transform="translate(0,124.58)"
+               class="yzl zl crisp"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             id="path2718"
+             class="xlines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <path
+             id="path2720"
+             class="ylines-below"
+             d=""
+             inkscape:connector-curvature="0" />
+          <g
+             id="g2722"
+             class="overlines-below" />
+          <g
+             id="g2724"
+             class="xaxislayer-below" />
+          <g
+             id="g2726"
+             class="yaxislayer-below" />
+          <g
+             id="g2728"
+             class="overaxes-below" />
+          <g
+             id="g2788"
+             clip-path="url(#clip0c6bc7xyplot)"
+             transform="translate(80,60)"
+             class="plot">
+            <g
+               id="g2786"
+               class="barlayer mlayer">
+              <g
+                 id="g2752"
+                 style="opacity:1"
+                 class="trace bars">
+                <g
+                   id="g2750"
+                   class="points">
+                  <g
+                     id="g2732"
+                     class="point">
+                    <path
+                       id="path2730"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 229.5,64.58 v 46.75 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2736"
+                     class="point">
+                    <path
+                       id="path2734"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 319.5,64.58 v 31.16 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2740"
+                     class="point">
+                    <path
+                       id="path2738"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 409.5,64.58 v 21.81 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2744"
+                     class="point">
+                    <path
+                       id="path2742"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 364.5,64.58 v 24.93 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2748"
+                     class="point">
+                    <path
+                       id="path2746"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 274.5,64.58 v 40.51 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g2784"
+                 style="opacity:1"
+                 class="trace bars">
+                <g
+                   id="g2782"
+                   class="points">
+                  <g
+                     id="g2756"
+                     class="point">
+                    <path
+                       id="path2754"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 112.5,64.58 v 121.54 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2760"
+                     class="point">
+                    <path
+                       id="path2758"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 472.5,64.58 v 18.7 h 18 v -18.7 z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2764"
+                     class="point">
+                    <path
+                       id="path2762"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 202.5,64.58 v 59.21 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2768"
+                     class="point">
+                    <path
+                       id="path2766"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 22.5,64.58 V 220.4 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2772"
+                     class="point">
+                    <path
+                       id="path2770"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="M 517.5,64.58 V 11.6 h 18 v 52.98 z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2776"
+                     class="point">
+                    <path
+                       id="path2774"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 157.5,64.58 v 68.56 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                  <g
+                     id="g2780"
+                     class="point">
+                    <path
+                       id="path2778"
+                       style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                       d="m 67.5,64.58 v 127.77 h 18 V 64.58 Z"
+                       inkscape:connector-curvature="0" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g2790"
+             class="overplot" />
+          <path
+             id="path2792"
+             style="fill:none"
+             d="M 0,0"
+             class="xlines-above crisp"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path2794"
+             style="fill:none"
+             d="M 0,0"
+             class="ylines-above crisp"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g2796"
+             class="overlines-above" />
+          <g
+             id="g2846"
+             class="xaxislayer-above">
+            <g
+               id="g2800"
+               class="xtick">
+              <text
+                 id="text2798"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,51.25,351.25)"
+                 y="307"
+                 x="0">Interactive webinar</text>
+            </g>
+            <g
+               id="g2804"
+               class="xtick">
+              <text
+                 id="text2802"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,73.75,373.75)"
+                 y="307"
+                 x="0">Multiday workshop</text>
+            </g>
+            <g
+               id="g2808"
+               class="xtick">
+              <text
+                 id="text2806"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,96.25,396.25)"
+                 y="307"
+                 x="0">Best practices articles</text>
+            </g>
+            <g
+               id="g2812"
+               class="xtick">
+              <text
+                 id="text2810"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,118.75,418.75)"
+                 y="307"
+                 x="0">In-person seminar/ One day workshop</text>
+            </g>
+            <g
+               id="g2816"
+               class="xtick">
+              <text
+                 id="text2814"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,141.25,441.25)"
+                 y="307"
+                 x="0">Video tutorials</text>
+            </g>
+            <g
+               id="g2820"
+               class="xtick">
+              <text
+                 id="text2818"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,163.75,463.75)"
+                 y="307"
+                 x="0">Image analysis theory</text>
+            </g>
+            <g
+               id="g2824"
+               class="xtick">
+              <text
+                 id="text2822"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,186.25,486.25)"
+                 y="307"
+                 x="0">Deep learning for image analysis</text>
+            </g>
+            <g
+               id="g2828"
+               class="xtick">
+              <text
+                 id="text2826"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,208.75,508.75)"
+                 y="307"
+                 x="0">Image analysis practices</text>
+            </g>
+            <g
+               id="g2832"
+               class="xtick">
+              <text
+                 id="text2830"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,231.25,531.25)"
+                 y="307"
+                 x="0">Particular software tool</text>
+            </g>
+            <g
+               id="g2836"
+               class="xtick">
+              <text
+                 id="text2834"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,253.75,553.75)"
+                 y="307"
+                 x="0">Image analysis practices related to particular subdiscipline</text>
+            </g>
+            <g
+               id="g2840"
+               class="xtick">
+              <text
+                 id="text2838"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,276.25,576.25)"
+                 y="307"
+                 x="0">Written tutorials</text>
+            </g>
+            <g
+               id="g2844"
+               class="xtick">
+              <text
+                 id="text2842"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:start;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="rotate(90,298.75,598.75)"
+                 y="307"
+                 x="0">Office hours</text>
+            </g>
+          </g>
+          <g
+             id="g2864"
+             class="yaxislayer-above">
+            <g
+               id="g2850"
+               class="ytick">
+              <text
+                 id="text2848"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 transform="translate(0,249.24)"
+                 y="4.9000001"
+                 x="79">−0.4</text>
+            </g>
+            <g
+               id="g2854"
+               class="ytick">
+              <text
+                 id="text2852"
+                 transform="translate(0,186.91)"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="4.9000001"
+                 x="79">−0.2</text>
+            </g>
+            <g
+               id="g2858"
+               class="ytick">
+              <text
+                 id="text2856"
+                 transform="translate(0,124.58)"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="4.9000001"
+                 x="79">0</text>
+            </g>
+            <g
+               id="g2862"
+               class="ytick">
+              <text
+                 id="text2860"
+                 transform="translate(0,62.25)"
+                 style="font-size:14px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+                 y="4.9000001"
+                 x="79">0.2</text>
+            </g>
+          </g>
+          <g
+             id="g2866"
+             class="overaxes-above" />
+        </g>
+      </g>
+      <g
+         id="g2872"
+         class="polarlayer" />
+      <g
+         id="g2874"
+         class="smithlayer" />
+      <g
+         id="g2876"
+         class="ternarylayer" />
+      <g
+         id="g2878"
+         class="geolayer" />
+      <g
+         id="g2880"
+         class="funnelarealayer" />
+      <g
+         id="g2882"
+         class="pielayer" />
+      <g
+         id="g2884"
+         class="iciclelayer" />
+      <g
+         id="g2886"
+         class="treemaplayer" />
+      <g
+         id="g2888"
+         class="sunburstlayer" />
+      <g
+         id="g2890"
+         class="glimages" />
+      <g
+         id="g2902"
+         class="layer-above">
+        <g
+           id="g2898"
+           class="imagelayer" />
+        <g
+           id="g2900"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g2962"
+         class="infolayer">
+        <g
+           id="g2952"
+           transform="translate(344.6,204.36)"
+           pointer-events="all"
+           class="legend">
+          <rect
+             id="rect2904"
+             style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+             y="0"
+             x="0"
+             height="83"
+             width="275"
+             class="bg" />
+          <g
+             id="g2948"
+             clip-path="url(#legend0c6bc7)"
+             class="scrollbox">
+            <text
+               id="text2906"
+               style="font-size:19px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+               y="24.700001"
+               x="2"
+               class="legendtitletext">Category</text>
+            <g
+               id="g2926"
+               class="groups">
+              <g
+                 id="g2924"
+                 style="opacity:1"
+                 transform="translate(0,41.6)"
+                 class="traces">
+                <text
+                   id="text2908"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Interest for future workshops</text>
+                <g
+                   id="g2920"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2910"
+                     class="legendfill" />
+                  <g
+                     id="g2912"
+                     class="legendlines" />
+                  <g
+                     id="g2918"
+                     class="legendsymbols">
+                    <g
+                       id="g2916"
+                       class="legendpoints">
+                      <path
+                         id="path2914"
+                         style="fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2922"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="269.45312"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+            </g>
+            <g
+               id="g2946"
+               class="groups">
+              <g
+                 id="g2944"
+                 style="opacity:1"
+                 transform="translate(0,65.4)"
+                 class="traces">
+                <text
+                   id="text2928"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Preferable instructional methods</text>
+                <g
+                   id="g2940"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2930"
+                     class="legendfill" />
+                  <g
+                     id="g2932"
+                     class="legendlines" />
+                  <g
+                     id="g2938"
+                     class="legendsymbols">
+                    <g
+                       id="g2936"
+                       class="legendpoints">
+                      <path
+                         id="path2934"
+                         style="fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendundefined"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2942"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="269.45312"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+            </g>
+          </g>
+          <rect
+             id="rect2950"
+             style="fill:#808ba4;fill-opacity:1"
+             y="0"
+             x="0"
+             height="0"
+             width="0"
+             ry="3"
+             rx="20"
+             class="scrollbar" />
+        </g>
+        <g
+           id="g2954"
+           class="g-gtitle" />
+        <g
+           id="g2956"
+           class="g-xtitle" />
+        <g
+           id="g2960"
+           class="g-ytitle">
+          <text
+             id="text2958"
+             style="font-weight:normal;font-size:17px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             y="176"
+             x="24.459375"
+             transform="rotate(-90,24.459375,176)"
+             class="ytitle">Fold change</text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.5866361"
+       y="8.1281338"
+       id="text3138"><tspan
+         sodipodi:role="line"
+         id="tspan3136"
+         x="5.5866361"
+         y="8.1281338"
+         style="stroke-width:0.26458332">A)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="105.64626"
+       y="7.8476229"
+       id="text3138-8"><tspan
+         sodipodi:role="line"
+         id="tspan3136-8"
+         x="105.64626"
+         y="7.8476229"
+         style="stroke-width:0.26458332">B)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="65.694183"
+       y="100.71637"
+       id="text3138-4"><tspan
+         sodipodi:role="line"
+         id="tspan3136-7"
+         x="65.694183"
+         y="100.71637"
+         style="stroke-width:0.26458332">C)</tspan></text>
+  </g>
+</svg>
