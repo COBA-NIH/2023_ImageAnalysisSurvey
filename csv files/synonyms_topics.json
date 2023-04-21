@@ -1,0 +1,11 @@
+synonym_dict ={'Python':['python', 'script','scripts', 'scripting', 'coding', 'scriptimg'], 
+'Deep/machine learning':['deep learning','machine learning','deep', 'deeplearning'], 
+'FIJI':['fiji', 'imagej', 'macro', 'macros', 'imagej2'], 
+'Open source':['open source'], 
+'Certain tools':['certain tools', 'certain tool'], 
+'Cellprofiler':['cellprofiler'], 
+'Best practices':['best practices'], 
+'Comparisons':['comparisons', 'comparison'], 
+'Segmentation':['segmentation'], 
+'Napari':['napari'], 
+}
