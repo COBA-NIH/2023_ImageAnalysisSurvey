@@ -166,7 +166,7 @@ def stacked_barchart(data, title='', order_of_axes=[], order_of_stacks=[]):
 
     
 ##### Percentage stacked bar charts 
-def percentage_stackedcharts(data, title='', order_of_axes=[], order_of_stacks=[]):
+def percentage_stackedcharts(data, title='', order_of_axes=[], order_of_stacks=[], colors={}):
     """ 
     Percentage_stacked charts  
     Parameters:
@@ -201,7 +201,7 @@ def percentage_stackedcharts(data, title='', order_of_axes=[], order_of_stacks=[
     per_df = per_df[order_of_stacks]
 
     for i in per_df.columns:
-        fig.add_trace(go.Bar(name=i,x=per_df.index, y=per_df[i], text=[f'{val}%' for val in per_df[i]]))
+        fig.add_trace(go.Bar(name=i,x=per_df.index, y=per_df[i], text=[f'{val}%' for val in per_df[i]], marker={'color':colors[i]}))
     
     fig.update_layout(width=800, height=700, barmode='stack')
     fig.update_yaxes(title='Percent')
@@ -266,41 +266,41 @@ def ngrams(series, range=(), name=''):
     vocab = c_vec.vocabulary_       #creates a dictionary of the 'words' as the key and the position as 'values' 
     df = pd.DataFrame(sorted([(count_values[i],k) for k,i in vocab.items()], reverse=True)).rename(columns={0: 'frequency', 1:'ngram'})       # list of ngrams
     df.to_csv(name + '.csv')
-##### Filtering the CSV of ngrams for the conferences/topics of interest
-def ngram_counts(df1,df2,second_df=False,title='', count_list_uni=[], count_list_bi=[]):
-        """
-        Creates a barchart checking the ngram csvs and the list of strings provided
-        Parameters
-        df1: unigram csv
-        df2: bigram csv
-        second_df: to be set to false if only unigram csv is provided
-        title: csv filename 
-        count_list_uni: list of unigram strings that has to be checked in the unigram csv
-        count_list_bi: list of bigram strings that has to be checked in the bigram csv
-        """
-        #the following runs only if the second_df is set to True and df2 is provided along with the 'count_list_bi' 
-        if second_df:
-            df_counts=pd.DataFrame()
-            for i in count_list_uni:
-                df_uni = df1[df1['ngram'].str.contains(i)]
-                df_counts = pd.concat([df_counts, df_uni], axis=0)
-                        
-            for i in count_list_bi:
-                df_bi = df2[df2['ngram'].str.contains(i)]
-                df_counts = pd.concat([df_counts, df_bi], axis=0)
-            
-        else:
-            df_counts=pd.DataFrame()
-            for i in count_list_uni:
-                df_uni = df1[df1['ngram'].str.contains(i)]
-                df_counts = pd.concat([df_counts, df_uni], axis=0)
-        
-        fig = go.Figure()
 
-        fig = px.bar(x=df_counts['ngram'], y=df_counts['frequency'],labels={'x':'', 'y':'counts'}, text_auto=True)
-        fig.update_layout(title=title, title_x=0.5, width = 500, height=500, showlegend=False, font=dict(family='Helvetica', color="Black", size=16))
-        fig.update_xaxes(categoryorder='total descending', tickangle=45)
-        
-        fig.write_image(title+'.svg')
+#### Word counts 
+def word_counts(series, synonym_dict={}, title=''):
+    """
+    Counts the occurence of the words in the given series.
+    Parameters
+    series: pd.Series. A column of a dataframe which has to be analyzed.
+    synoymn_dict: A dictionary where the keys are axis labels that we woud like to have in the graph and the values are the synonyms of the same word in the key/things want to combine.
+    title:title to be given for the graph
+    """
+    
+    series = series.dropna().tolist()
 
-        return fig.show()
+    vectorizer2 = CountVectorizer(analyzer='word', ngram_range=(1, 3))
+    X2 = vectorizer2.fit_transform(series)
+    question_keys = list(vectorizer2.get_feature_names_out())
+    question_positions = X2.toarray()
+
+    some_final_count_dict = {}
+    for eachkey in synonym_dict.keys(): #for everything you want to graph
+        keylist = []
+        for eachsyn in synonym_dict[eachkey]:
+            keylist.append(question_keys.index(eachsyn)) # make a list of the position of all of the keys we want to include for this entry
+        question_totals = question_positions[:,keylist].sum(axis=1) # sum all the rows with the query terms we want
+        some_final_count_dict[eachkey]= np.where(question_totals >0, 1,0).sum() # make a final count of nonzero answers, and sum it
+        
+    df= pd.DataFrame.from_dict(some_final_count_dict, orient='index')
+    df = df.rename(columns={0:'counts'})
+
+    fig = go.Figure()
+
+    fig= px.bar(x=df.index, y=df.counts, text=df.counts, labels={' ':'counts'})
+    fig.update_layout(title=title, title_x=0.5, width = 500, height=500, showlegend=False)
+    fig.update_xaxes(categoryorder='total descending')
+    fig.update_yaxes(title='Counts')
+    fig.update_layout(width=500, height=500, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+
+    fig.write_image(title+'.svg')
