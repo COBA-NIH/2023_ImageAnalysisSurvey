@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 91.810425 106.09792"
+   height="106.09792mm"
+   width="91.810425mm">
+  <defs
+     id="defs2">
+    <g
+       class="clips"
+       id="g542" />
+    <g
+       class="gradients"
+       id="g544" />
+    <g
+       class="patterns"
+       id="g546" />
+    <g
+       class="clips"
+       id="g1049" />
+    <clipPath
+       id="clipPath1335"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="stroke-width:0.94461012"
+         y="10.285709"
+         x="76.571442"
+         height="401.00003"
+         width="347.00003"
+         id="rect1337" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-57.679166,-34.004166)"
+     id="layer1">
+    <g
+       clip-path="url(#clipPath1335)"
+       transform="matrix(0.26458333,0,0,0.26458333,37.419639,31.282739)"
+       id="g1331">
+      <rect
+         x="0"
+         y="0"
+         width="500"
+         height="500"
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect540" />
+      <g
+         class="bglayer"
+         id="g549" />
+      <g
+         class="layer-below"
+         id="g555">
+        <g
+           class="imagelayer"
+           id="g551" />
+        <g
+           class="shapelayer"
+           id="g553" />
+      </g>
+      <g
+         class="cartesianlayer"
+         id="g557" />
+      <g
+         class="polarlayer"
+         id="g559" />
+      <g
+         class="smithlayer"
+         id="g561" />
+      <g
+         class="ternarylayer"
+         id="g563" />
+      <g
+         class="geolayer"
+         id="g565" />
+      <g
+         class="funnelarealayer"
+         id="g567" />
+      <g
+         class="pielayer"
+         id="g569" />
+      <g
+         class="iciclelayer"
+         id="g571" />
+      <g
+         class="treemaplayer"
+         id="g573" />
+      <g
+         class="sunburstlayer"
+         id="g1045">
+        <g
+           class="trace sunburst"
+           style="opacity:1;stroke-linejoin:round"
+           id="g1043">
+          <g
+             class="slice cursor-pointer"
+             id="g585">
+            <path
+               class="surface"
+               d="m 250,240 h 56.66667 a 56.666667,56.666667 0 0 0 -33.36563,-51.65436 z"
+               style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path575" />
+            <g
+               class="slicetext"
+               id="g583">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.49839747,-0.32193494,0.32193494,0.49839747,279.90856,217.21534)"
+                 id="text581">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan577">Analyst</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan579">18%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g597">
+            <path
+               class="surface"
+               d="m 250,240 23.30104,-51.65436 a 56.666667,56.666667 0 1 0 5.75882,100.30244 z"
+               style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path587" />
+            <g
+               class="slicetext"
+               id="g595">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.73114385,0,0,0.73114385,222.7081,236.41283)"
+                 id="text593">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan589">Balanced</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan591">65%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g609">
+            <path
+               class="surface"
+               d="m 250,240 29.05986,48.64808 A 56.666667,56.666667 0 0 0 306.66667,240 Z"
+               style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path599" />
+            <g
+               class="slicetext"
+               id="g607">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.47797666,0.27124212,-0.27124212,0.47797666,284.36334,256.40023)"
+                 id="text605">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan601">Imaging</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan603">16%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g621">
+            <path
+               class="surface"
+               d="m 306.66667,240 h 56.66666 a 113.33333,113.33333 0 0 0 -0.45071,-10.09747 l -56.44131,5.04874 A 56.666667,56.666667 0 0 1 306.66667,240 Z"
+               style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path611" />
+            <g
+               class="slicetext"
+               id="g619">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.22136003,-0.00988072,0.00988072,0.22136003,356.01909,234.17948)"
+                 id="text617">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan613">Low skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan615">8%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g633">
+            <path
+               class="surface"
+               d="m 306.44131,234.95127 56.44131,-5.04874 a 113.33333,113.33333 0 0 0 -18.47422,-52.6042 l -47.2042,31.35084 a 56.666667,56.666667 0 0 1 9.23711,26.3021 z"
+               style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path623" />
+            <g
+               class="slicetext"
+               id="g631">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.56870799,-0.19972621,0.19972621,0.56870799,328.91739,209.15041)"
+                 id="text629">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan625">Medium skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan627">43%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g645">
+            <path
+               class="surface"
+               d="m 297.2042,208.64917 47.2042,-31.35084 a 113.33333,113.33333 0 0 0 -47.80631,-40.60704 l -23.30105,51.65435 a 56.666667,56.666667 0 0 1 23.90316,20.30353 z"
+               style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path635" />
+            <g
+               class="slicetext"
+               id="g643">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.53023346,-0.62423909,0.62423909,0.53023346,301.62083,173.02014)"
+                 id="text641">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan637">High skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan639">49%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g657">
+            <path
+               class="surface"
+               d="m 273.30104,188.34564 23.30105,-51.65435 A 113.33333,113.33333 0 0 0 181.70141,330.44195 l 34.14929,-45.22097 a 56.666667,56.666667 0 0 1 57.45034,-96.87534 z"
+               style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path647" />
+            <g
+               class="slicetext"
+               id="g655">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.60275976,0,0,0.60275976,165.31879,237.04271)"
+                 id="text653">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan649">Medium skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan651">71%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g669">
+            <path
+               class="surface"
+               d="m 215.8507,285.22098 -34.14929,45.22097 a 113.33333,113.33333 0 0 0 52.81971,21.82937 l 7.73944,-56.13566 A 56.666667,56.666667 0 0 1 215.8507,285.22098 Z"
+               style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path659" />
+            <g
+               class="slicetext"
+               id="g667">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.3051228,-0.73829441,0.73829441,0.3051228,213.25912,318.63891)"
+                 id="text665">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan661">Low skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan663">12%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g681">
+            <path
+               class="surface"
+               d="m 242.26056,296.13566 -7.73944,56.13566 a 113.33333,113.33333 0 0 0 73.59861,-14.97517 l -29.05987,-48.64807 a 56.666667,56.666667 0 0 1 -36.7993,7.48758 z"
+               style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path671" />
+            <g
+               class="slicetext"
+               id="g679">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.16361961,0.80414321,-0.80414321,0.16361961,270.77545,321.91244)"
+                 id="text677">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan673">High skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan675">16%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g693">
+            <path
+               class="surface"
+               d="m 279.05986,288.64808 29.05987,48.64807 a 113.33333,113.33333 0 0 0 21.63512,-16.77529 l -39.87743,-40.26043 a 56.666667,56.666667 0 0 1 -10.81756,8.38765 z"
+               style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path683" />
+            <g
+               class="slicetext"
+               id="g691">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.30352805,0.39146051,-0.39146051,0.30352805,311.41212,315.2371)"
+                 id="text689">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan685">Low skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan687">23%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g705">
+            <path
+               class="surface"
+               d="m 289.87742,280.26043 39.87743,40.26043 a 113.33333,113.33333 0 0 0 33.12777,-70.42339 l -56.44131,-5.04874 a 56.666667,56.666667 0 0 1 -16.56389,35.2117 z"
+               style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path695" />
+            <g
+               class="slicetext"
+               id="g703">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.54542604,0.25657311,-0.25657311,0.54542604,327.88525,273.36974)"
+                 id="text701">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan697">Medium skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan699">68%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice cursor-pointer"
+             id="g717">
+            <path
+               class="surface"
+               d="m 306.44131,245.04873 56.44131,5.04874 A 113.33333,113.33333 0 0 0 363.33333,240 h -56.66666 a 56.666667,56.666667 0 0 1 -0.22536,5.04873 z"
+               style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path707" />
+            <g
+               class="slicetext"
+               id="g715">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.21974514,0.00980863,-0.00980863,0.21974514,355.75519,243.64026)"
+                 id="text713">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan709">High skill</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan711">9%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g729">
+            <path
+               class="surface"
+               d="M 363.33333,240 H 420 a 170,170 0 0 0 -0.0552,-4.33276 l -56.64826,1.44425 A 113.33333,113.33333 0 0 1 363.33333,240 Z"
+               style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path719" />
+            <g
+               class="slicetext"
+               id="g727">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.10437134,-0.00133026,0.00133026,0.10437134,415.19453,237.38236)"
+                 id="text725">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan721">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan723">29%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g741">
+            <path
+               class="surface"
+               d="m 363.29652,237.11149 56.64826,-1.44425 a 170,170 0 0 0 -0.44157,-8.65427 l -56.50107,4.32901 a 113.33333,113.33333 0 0 1 0.29438,5.76951 z"
+               style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path731" />
+            <g
+               class="slicetext"
+               id="g739">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.1911082,-0.00975099,0.00975099,0.1911082,408.22068,230.98698)"
+                 id="text737">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan733">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan735">57%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g753">
+            <path
+               class="surface"
+               d="m 363.00214,231.34198 56.50107,-4.32901 a 170,170 0 0 0 -0.17928,-2.15917 l -56.44131,5.04873 a 113.33333,113.33333 0 0 1 0.11952,1.43945 z"
+               style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path743" />
+            <g
+               class="slicetext"
+               id="g751">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.05344275,-0.00443742,0.00443742,0.05344275,416.84942,225.88228)"
+                 id="text749">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan745">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan747">14%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g765">
+            <path
+               class="surface"
+               d="m 362.88262,229.90253 56.44131,-5.04873 a 170,170 0 0 0 -0.70272,-6.46135 l -56.20707,7.20252 a 113.33333,113.33333 0 0 1 0.46848,4.30756 z"
+               style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path755" />
+            <g
+               class="slicetext"
+               id="g763">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.15142237,-0.01646818,0.01646818,0.15142237,411.97216,221.63276)"
+                 id="text761">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan757">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan759">8%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g777">
+            <path
+               class="surface"
+               d="m 362.41414,225.59497 56.20707,-7.20252 a 170,170 0 0 0 -10.10093,-39.80353 l -52.84009,20.47036 a 113.33333,113.33333 0 0 1 6.73395,26.53569 z"
+               style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path767" />
+            <g
+               class="slicetext"
+               id="g775">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.57648726,-0.14629506,0.14629506,0.57648726,386.24529,202.41452)"
+                 id="text773">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan769">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan771">49%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g789">
+            <path
+               class="surface"
+               d="m 355.68019,199.05928 52.84009,-20.47036 A 170,170 0 0 0 391.6126,145.9475 l -47.2042,31.35083 a 113.33333,113.33333 0 0 1 11.27179,21.76095 z"
+               style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path779" />
+            <g
+               class="slicetext"
+               id="g787">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.41925321,-0.21716584,0.21716584,0.41925321,374.5009,172.90185)"
+                 id="text785">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan781">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan783">44%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g801">
+            <path
+               class="surface"
+               d="M 344.4084,177.29833 391.6126,145.9475 Z"
+               style="opacity:1;fill:#ab63fa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path791" />
+            <g
+               class="slicetext"
+               id="g799">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0,0,0,0,250,98.333333)"
+                 id="text797">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan793">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan795">0%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g813">
+            <path
+               class="surface"
+               d="m 344.4084,177.29833 47.2042,-31.35083 a 170,170 0 0 0 -7.59891,-10.54354 l -44.67123,34.86535 a 113.33333,113.33333 0 0 1 5.06594,7.02902 z"
+               style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path803" />
+            <g
+               class="slicetext"
+               id="g811">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.21818017,-0.15724615,0.15724615,0.21818017,373.98213,149.0175)"
+                 id="text809">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan805">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan807">14%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g825">
+            <path
+               class="surface"
+               d="m 339.34246,170.26931 44.67123,-34.86535 A 170,170 0 0 0 319.90313,85.036934 l -23.30104,51.654356 a 113.33333,113.33333 0 0 1 42.74037,33.57802 z"
+               style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path815" />
+            <g
+               class="slicetext"
+               id="g823">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.36743068,-0.4676906,0.4676906,0.36743068,335.00034,127.08238)"
+                 id="text821">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan817">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan819">86%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g837">
+            <path
+               class="surface"
+               d="M 296.60209,136.69129 319.90313,85.036934 A 170,170 0 0 0 272.1447,71.448488 l -7.38157,56.183842 a 113.33333,113.33333 0 0 1 31.83896,9.05896 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path827" />
+            <g
+               class="slicetext"
+               id="g835">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.16927715,-0.59494747,0.59494747,0.16927715,285.74458,103.28122)"
+                 id="text833">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan829">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan831">10%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g849">
+            <path
+               class="surface"
+               d="M 264.76313,127.63233 272.1447,71.448488 A 170,170 0 0 0 132.69845,116.95389 l 39.10052,41.01537 a 113.33333,113.33333 0 0 1 92.96416,-30.33693 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path839" />
+            <g
+               class="slicetext"
+               id="g847">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.1845118,0.56541595,-0.56541595,0.1845118,208.83647,104.45282)"
+                 id="text845">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan841">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan843">31%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g861">
+            <path
+               class="surface"
+               d="m 171.79897,157.96926 -39.10052,-41.01537 a 170,170 0 0 0 14.85366,258.70904 l 34.1493,-45.22098 a 113.33333,113.33333 0 0 1 -9.90244,-172.47269 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path851" />
+            <g
+               class="slicetext"
+               id="g859">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.47215914,0,0,0.47215914,108.33008,237.68347)"
+                 id="text857">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan853">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan855">59%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g873">
+            <path
+               class="surface"
+               d="m 181.70141,330.44195 -34.1493,45.22098 a 170,170 0 0 0 39.5244,22.26311 l 20.9745,-52.64201 a 113.33333,113.33333 0 0 1 -26.3496,-14.84208 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path863" />
+            <g
+               class="slicetext"
+               id="g871">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.23172353,-0.41138602,0.41138602,0.23172353,178.4537,362.29823)"
+                 id="text869">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan865">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan867">53%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g885">
+            <path
+               class="surface"
+               d="m 208.05101,345.28403 -20.9745,52.64201 a 170,170 0 0 0 33.28477,9.47033 l 9.87957,-55.79879 a 113.33333,113.33333 0 0 1 -22.18984,-6.31355 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path875" />
+            <g
+               class="slicetext"
+               id="g883">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.16431071,-0.57749225,0.57749225,0.16431071,208.17933,376.22017)"
+                 id="text881">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan877">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan879">40%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g897">
+            <path
+               class="surface"
+               d="m 230.24085,351.59758 -9.87957,55.79879 a 170,170 0 0 0 6.4204,1.01061 l 7.73944,-56.13566 a 113.33333,113.33333 0 0 1 -4.28027,-0.67374 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path887" />
+            <g
+               class="slicetext"
+               id="g895">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.02360545,-0.14996659,0.14996659,0.02360545,223.94506,400.73807)"
+                 id="text893">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan889">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan891">8%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g909">
+            <path
+               class="surface"
+               d="m 234.52112,352.27132 -7.73944,56.13566 a 170,170 0 0 0 2.14814,0.28222 l 7.02339,-56.22973 a 113.33333,113.33333 0 0 1 -1.43209,-0.18815 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path899" />
+            <g
+               class="slicetext"
+               id="g907">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.00699371,-0.05323174,0.05323174,0.00699371,227.91055,406.10883)"
+                 id="text905">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan901">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan903">2%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g921">
+            <path
+               class="surface"
+               d="m 235.95321,352.45947 -7.02339,56.22973 a 170,170 0 0 0 25.9444,1.24091 l -1.62474,-56.64337 a 113.33333,113.33333 0 0 1 -17.29627,-0.82727 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path911" />
+            <g
+               class="slicetext"
+               id="g919">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.02161291,-0.45187484,0.45187484,0.02161291,240.95759,382.59692)"
+                 id="text917">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan913">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan915">23%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g933">
+            <path
+               class="surface"
+               d="m 253.24948,353.28674 1.62474,56.64337 a 170,170 0 0 0 82.30537,-23.98588 l -29.05986,-48.64808 a 113.33333,113.33333 0 0 1 -54.87025,15.99059 z"
+               style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path923" />
+            <g
+               class="slicetext"
+               id="g931">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.16640592,0.5710069,-0.5710069,0.16640592,292.33657,374.84458)"
+                 id="text929">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan925">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan927">75%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g945">
+            <path
+               class="surface"
+               d="m 308.11973,337.29615 29.05986,48.64808 a 170,170 0 0 0 9.11691,-5.84789 l -32.09883,-46.69878 a 113.33333,113.33333 0 0 1 -6.07794,3.89859 z"
+               style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path935" />
+            <g
+               class="slicetext"
+               id="g943">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.12494092,0.1947838,-0.1947838,0.12494092,335.20933,370.7391)"
+                 id="text941">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan937">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan939">26%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g957">
+            <path
+               class="surface"
+               d="m 314.19767,333.39756 32.09883,46.69878 a 170,170 0 0 0 18.63146,-14.83037 l -38.30932,-41.75532 a 113.33333,113.33333 0 0 1 -12.42097,9.88691 z"
+               style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path947" />
+            <g
+               class="slicetext"
+               id="g955">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.2857106,0.3589396,-0.3589396,0.2857106,344.41989,355.00598)"
+                 id="text953">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan949">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan951">58%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g969">
+            <path
+               class="surface"
+               d="m 326.61864,323.51065 38.30932,41.75532 a 170,170 0 0 0 4.70431,-4.48468 l -39.87742,-40.26043 a 113.33333,113.33333 0 0 1 -3.13621,2.98979 z"
+               style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path959" />
+            <g
+               class="slicetext"
+               id="g967">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.10475238,0.10988237,-0.10988237,0.10475238,362.83903,357.28559)"
+                 id="text965">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan961">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan963">16%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g981">
+            <path
+               class="surface"
+               d="m 329.75485,320.52086 39.87742,40.26043 a 170,170 0 0 0 17.0037,-19.63481 l -45.54532,-33.71549 a 113.33333,113.33333 0 0 1 -11.3358,13.08987 z"
+               style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path971" />
+            <g
+               class="slicetext"
+               id="g979">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.37007623,0.32048525,-0.32048525,0.37007623,362.9541,334.64066)"
+                 id="text977">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan973">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan975">22%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g993">
+            <path
+               class="surface"
+               d="m 341.09065,307.43099 45.54532,33.71549 a 170,170 0 0 0 6.16377,-8.90639 l -47.59991,-30.7467 a 113.33333,113.33333 0 0 1 -4.10918,5.9376 z"
+               style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path983" />
+            <g
+               class="slicetext"
+               id="g991">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.1969535,0.13630384,-0.13630384,0.1969535,381.03405,329.25445)"
+                 id="text989">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan985">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan987">9%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g1005">
+            <path
+               class="surface"
+               d="m 345.19983,301.49339 47.59991,30.7467 a 170,170 0 0 0 26.52419,-77.09389 l -56.44131,-5.04873 a 113.33333,113.33333 0 0 1 -17.68279,51.39592 z"
+               style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path995" />
+            <g
+               class="slicetext"
+               id="g1003">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.44647332,0.15360934,-0.15360934,0.44647332,384.47244,283.8155)"
+                 id="text1001">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan997">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan999">69%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g1017">
+            <path
+               class="surface"
+               d="m 362.88262,250.09747 56.44131,5.04873 z"
+               style="opacity:1;fill:#ab63fa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path1007" />
+            <g
+               class="slicetext"
+               id="g1015">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0,0,0,0,250,98.333333)"
+                 id="text1013">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan1009">Low comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan1011">0%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g1029">
+            <path
+               class="surface"
+               d="m 362.88262,250.09747 56.44131,5.04873 a 170,170 0 0 0 0.33102,-4.32045 l -56.55165,-3.60858 a 113.33333,113.33333 0 0 1 -0.22068,2.8803 z"
+               style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path1019" />
+            <g
+               class="slicetext"
+               id="g1027">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.10228066,0.00783656,-0.00783656,0.10228066,413.39145,252.014)"
+                 id="text1025">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan1021">Medium comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan1023">29%</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             class="slice"
+             id="g1041">
+            <path
+               class="surface"
+               d="m 363.1033,247.21717 56.55165,3.60858 A 170,170 0 0 0 420,240 h -56.66667 a 113.33333,113.33333 0 0 1 -0.23003,7.21717 z"
+               style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+               id="path1031" />
+            <g
+               class="slicetext"
+               id="g1039">
+              <text
+                 data-notex="1"
+                 class="slicetext"
+                 x="0"
+                 y="0"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 transform="matrix(0.23939757,0.00763027,-0.00763027,0.23939757,408.49687,243.876)"
+                 id="text1037">
+                <tspan
+                   class="line"
+                   dy="0em"
+                   x="0"
+                   y="0"
+                   id="tspan1033">High comfort</tspan>
+                <tspan
+                   class="line"
+                   dy="1.3em"
+                   x="0"
+                   y="0"
+                   id="tspan1035">71%</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="glimages"
+         id="g1047" />
+      <g
+         class="layer-above"
+         id="g1056">
+        <g
+           class="imagelayer"
+           id="g1052" />
+        <g
+           class="shapelayer"
+           id="g1054" />
+      </g>
+      <g
+         class="infolayer"
+         id="g1062">
+        <g
+           class="g-gtitle"
+           id="g1060">
+          <text
+             class="gtitle"
+             x="250"
+             y="30"
+             dy="0em"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             id="text1058">Skills of the participants</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
