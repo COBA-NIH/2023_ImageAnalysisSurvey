@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="209.21mm" height="127.4mm" version="1.1" viewBox="0 0 209.21 127.4" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <g class="clips">
+   <clipPath id="clip432764xyplot" class="plotclip">
+    <rect width="486" height="360"/>
+   </clipPath>
+  </g>
+  <clipPath id="legend432764">
+   <rect width="112" height="107"/>
+  </clipPath>
+  <clipPath id="clipPath870">
+   <rect x="9.7143" y="23.143" width="672" height="417" stroke-width=".98665"/>
+  </clipPath>
+  <g class="clips">
+   <clipPath id="clip314963xyplot" class="plotclip">
+    <rect width="514" height="360"/>
+   </clipPath>
+  </g>
+  <clipPath id="legend314963">
+   <rect width="134" height="107"/>
+  </clipPath>
+  <clipPath id="clipPath1718">
+   <rect x="8.2645" y="20.907" width="725.64" height="419.37" stroke-width=".97413"/>
+  </clipPath>
+  <g class="clips">
+   <clipPath id="clip398163xyplot" class="plotclip">
+    <rect width="487" height="360"/>
+   </clipPath>
+  </g>
+  <clipPath id="legend398163">
+   <rect width="161" height="107"/>
+  </clipPath>
+  <clipPath id="clipPath2532">
+   <rect x="8.4184" y="20.422" width="724.99" height="417.37" stroke-width=".97806"/>
+  </clipPath>
+  <clipPath id="clipPath3801">
+   <rect x="54.709" y="10.381" width="391" height="402" stroke-width=".97892"/>
+  </clipPath>
+  <clipPath id="clipPath4470">
+   <rect x="34.632" y="10.787" width="430.36" height="398.27" stroke-width=".94421"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-.52917 -2.3472)">
+  <g transform="matrix(.10922 0 0 .12182 -.002693 .49318)" clip-path="url(#clipPath870)">
+   <rect width="700" height="500" fill="#fff"/>
+   <g class="bglayer">
+    <rect class="bg" x="80" y="60" width="486" height="360" fill="#e5ecf6" stroke-width="0"/>
+   </g>
+   <g class="layer-below"></g>
+   <g class="cartesianlayer">
+    <g class="subplot xy">
+     <g class="layer-subplot"></g>
+     <g class="minor-gridlayer"></g>
+     <g class="gridlayer">
+      <g class="y" stroke="#fff" stroke-width="1px">
+       <path class="ygrid crisp" transform="translate(0,383.03)" d="m80 0h486"/>
+       <path class="ygrid crisp" transform="translate(0,346.05)" d="m80 0h486"/>
+       <path class="ygrid crisp" transform="translate(0,309.08)" d="m80 0h486"/>
+       <path class="ygrid crisp" transform="translate(0,272.11)" d="m80 0h486"/>
+       <path class="ygrid crisp" transform="translate(0,235.14)" d="m80 0h486"/>
+       <path class="ygrid crisp" transform="translate(0,198.16)" d="m80 0h486"/>
+       <path class="ygrid crisp" transform="translate(0,161.19)" d="m80 0h486"/>
+       <path class="ygrid crisp" transform="translate(0,124.22)" d="m80 0h486"/>
+       <path class="ygrid crisp" transform="translate(0,87.24)" d="m80 0h486"/>
+      </g>
+     </g>
+     <g class="zerolinelayer">
+      <path class="yzl zl crisp" transform="translate(0,420)" d="m80 0h486" stroke="#fff" stroke-width="2px"/>
+     </g>
+     <g class="plot" transform="translate(80,60)" clip-path="url(#clip432764xyplot)">
+      <g class="barlayer mlayer">
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m6.94 360v-33.28h55.55v33.28z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(34.668 343.72)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">18</text>
+         </g>
+         <g class="point">
+          <path d="m76.37 360v-116.46h55.54v116.46z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(104.09 260.54)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">63</text>
+         </g>
+        </g>
+       </g>
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m145.8 360v-162.68h55.54v162.68z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(173.52 214.32)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">88</text>
+         </g>
+         <g class="point">
+          <path d="m215.23 360v-342h55.54v342z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(242.95 35)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">185</text>
+         </g>
+         <g class="point">
+          <path d="m284.66 360v-90.58h55.54v90.58z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(312.38 286.42)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">49</text>
+         </g>
+        </g>
+       </g>
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m354.09 360v-83.19h55.54v83.19z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(381.81 293.81)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">45</text>
+         </g>
+         <g class="point">
+          <path d="m423.51 360v-83.19h55.55v83.19z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(451.24 293.81)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">45</text>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <path class="xlines-above crisp" d="m0 0" fill="none"/>
+     <path class="ylines-above crisp" d="m0 0" fill="none"/>
+     <g class="xaxislayer-above">
+      <g class="xtick">
+       <text transform="translate(114.71)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">1</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(184.14)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">2</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(253.57)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">3</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(323)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">4</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(392.43)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">5</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(461.86)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">6</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(531.29)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">7</text>
+      </g>
+     </g>
+     <g class="yaxislayer-above">
+      <g class="ytick">
+       <text transform="translate(0,420)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">0</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,383.03)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">20</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,346.05)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">40</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,309.08)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">60</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,272.11)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">80</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,235.14)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">100</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,198.16)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">120</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,161.19)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">140</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,124.22)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">160</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,87.24)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">180</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="layer-above"></g>
+   <g class="infolayer">
+    <g class="legend" transform="translate(575.72,60)" pointer-events="all">
+     <rect class="bg" width="112" height="107" fill="#fff" shape-rendering="crispEdges" stroke-width="0px"/>
+     <g class="scrollbox" clip-path="url(#legend432764)">
+      <text class="legendtitletext" x="2" y="24.700001" fill="#000000" font-family="Helvetica" font-size="19px" style="white-space:pre">Category</text>
+      <g class="groups">
+       <g class="traces" transform="translate(0,41.6)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">Imaging</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="106.72" height="23.8" fill-opacity="0"/>
+       </g>
+       <g class="traces" transform="translate(0,65.4)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">Balanced</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="106.72" height="23.8" fill-opacity="0"/>
+       </g>
+       <g class="traces" transform="translate(0,89.2)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">Analyst</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="106.72" height="23.8" fill-opacity="0"/>
+       </g>
+      </g>
+     </g>
+     <rect class="scrollbar" width="0" height="0" rx="20" ry="3" fill="#808ba4"/>
+    </g>
+    <g class="g-gtitle">
+     <text class="gtitle" x="350" y="25" dy="0.69999999em" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle" style="white-space:pre">Work description</text>
+    </g>
+    <g class="g-ytitle">
+     <text class="ytitle" transform="rotate(-90 23.997 240)" x="23.996876" y="240" fill="#000000" font-family="Helvetica" font-size="19px" text-anchor="middle" style="white-space:pre">Counts</text>
+    </g>
+   </g>
+  </g>
+  <g transform="matrix(.09467 0 0 .12263 73.955 .28214)" clip-path="url(#clipPath1718)">
+   <rect width="750" height="500" fill="#fff"/>
+   <g class="bglayer">
+    <rect class="bg" x="80" y="60" width="514" height="360" fill="#e5ecf6" stroke-width="0"/>
+   </g>
+   <g class="layer-below"></g>
+   <g class="cartesianlayer">
+    <g class="subplot xy">
+     <g class="layer-subplot"></g>
+     <g class="minor-gridlayer"></g>
+     <g class="gridlayer">
+      <g class="y" stroke="#fff" stroke-width="1px">
+       <path class="ygrid crisp" transform="translate(0,371.14)" d="m80 0h514"/>
+       <path class="ygrid crisp" transform="translate(0,322.29)" d="m80 0h514"/>
+       <path class="ygrid crisp" transform="translate(0,273.43)" d="m80 0h514"/>
+       <path class="ygrid crisp" transform="translate(0,224.57)" d="m80 0h514"/>
+       <path class="ygrid crisp" transform="translate(0,175.71)" d="m80 0h514"/>
+       <path class="ygrid crisp" transform="translate(0,126.86)" d="m80 0h514"/>
+       <path class="ygrid crisp" transform="translate(0,78)" d="m80 0h514"/>
+      </g>
+     </g>
+     <g class="zerolinelayer">
+      <path class="yzl zl crisp" transform="translate(0,420)" d="m80 0h514" stroke="#fff" stroke-width="2px"/>
+     </g>
+     <g class="plot" transform="translate(80,60)" clip-path="url(#clip314963xyplot)">
+      <g class="barlayer mlayer">
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m7.34 360v-24.43h58.75v24.43z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(36.668 352.57)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">10</text>
+         </g>
+         <g class="point">
+          <path d="m80.77 360v-136.8h58.74v136.8z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(110.09 240.2)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">56</text>
+         </g>
+        </g>
+       </g>
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m154.2 360v-210.09h58.74v210.09z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(183.52 166.91)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">86</text>
+         </g>
+         <g class="point">
+          <path d="m227.63 360v-236.96h58.74v236.96z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(256.95 140.04)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">97</text>
+         </g>
+         <g class="point">
+          <path d="m301.06 360v-342h58.74v342z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(330.38 35)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">140</text>
+         </g>
+        </g>
+       </g>
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m374.49 360v-192.99h58.74v192.99z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(403.81 184.01)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">79</text>
+         </g>
+         <g class="point">
+          <path d="m447.91 360v-61.07h58.75v61.07z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(477.24 315.93)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">25</text>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <path class="xlines-above crisp" d="m0 0" fill="none"/>
+     <path class="ylines-above crisp" d="m0 0" fill="none"/>
+     <g class="xaxislayer-above">
+      <g class="xtick">
+       <text transform="translate(116.71)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">1</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(190.14)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">2</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(263.57)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">3</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(337)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">4</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(410.43)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">5</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(483.86)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">6</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(557.29)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">7</text>
+      </g>
+     </g>
+     <g class="yaxislayer-above">
+      <g class="ytick">
+       <text transform="translate(0,420)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">0</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,371.14)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">20</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,322.29)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">40</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,273.43)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">60</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,224.57)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">80</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,175.71)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">100</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,126.86)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">120</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,78)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">140</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="layer-above"></g>
+   <g class="infolayer">
+    <g class="legend" transform="translate(604.28,60)" pointer-events="all">
+     <rect class="bg" width="134" height="107" fill="#fff" shape-rendering="crispEdges" stroke-width="0px"/>
+     <g class="scrollbox" clip-path="url(#legend314963)">
+      <text class="legendtitletext" x="2" y="24.700001" fill="#000000" font-family="Helvetica" font-size="19px" style="white-space:pre">Category</text>
+      <g class="groups">
+       <g class="traces" transform="translate(0,41.6)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">Low skill</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="128.02" height="23.8" fill-opacity="0"/>
+       </g>
+      </g>
+      <g class="groups">
+       <g class="traces" transform="translate(0,65.4)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">Medium skill</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="128.02" height="23.8" fill-opacity="0"/>
+       </g>
+      </g>
+      <g class="groups">
+       <g class="traces" transform="translate(0,89.2)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">High skill</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="128.02" height="23.8" fill-opacity="0"/>
+       </g>
+      </g>
+     </g>
+     <rect class="scrollbar" width="0" height="0" rx="20" ry="3" fill="#808ba4"/>
+    </g>
+    <g class="g-gtitle">
+     <text class="gtitle" x="375" y="25" dy="0.69999999em" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle" style="white-space:pre">Level of computational skills</text>
+    </g>
+    <g class="g-ytitle">
+     <text class="ytitle" transform="rotate(-90 23.997 240)" x="23.996876" y="240" fill="#000000" font-family="Helvetica" font-size="19px" text-anchor="middle" style="white-space:pre">Counts</text>
+    </g>
+   </g>
+  </g>
+  <g transform="matrix(.089772 0 0 .12226 143.9 .63006)" clip-path="url(#clipPath2532)">
+   <rect width="750" height="500" fill="#fff"/>
+   <g class="bglayer">
+    <rect class="bg" x="80" y="60" width="487" height="360" fill="#e5ecf6" stroke-width="0"/>
+   </g>
+   <g class="layer-below"></g>
+   <g class="cartesianlayer">
+    <g class="subplot xy">
+     <g class="layer-subplot"></g>
+     <g class="minor-gridlayer"></g>
+     <g class="gridlayer">
+      <g class="y" stroke="#fff" stroke-width="1px">
+       <path class="ygrid crisp" transform="translate(0,357.25)" d="m80 0h487"/>
+       <path class="ygrid crisp" transform="translate(0,294.5)" d="m80 0h487"/>
+       <path class="ygrid crisp" transform="translate(0,231.74)" d="m80 0h487"/>
+       <path class="ygrid crisp" transform="translate(0,168.99)" d="m80 0h487"/>
+       <path class="ygrid crisp" transform="translate(0,106.24)" d="m80 0h487"/>
+      </g>
+     </g>
+     <g class="zerolinelayer">
+      <path class="yzl zl crisp" transform="translate(0,420)" d="m80 0h487" stroke="#fff" stroke-width="2px"/>
+     </g>
+     <g class="plot" transform="translate(80,60)" clip-path="url(#clip398163xyplot)">
+      <g class="barlayer mlayer">
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m6.96 360v-56.48h55.65v56.48z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(34.738 320.52)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">18</text>
+         </g>
+         <g class="point">
+          <path d="m76.53 360v-156.88h55.66v156.88z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(104.31 220.12)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">50</text>
+         </g>
+        </g>
+       </g>
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m146.1 360v-188.26h55.66v188.26z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(173.88 188.74)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">60</text>
+         </g>
+         <g class="point">
+          <path d="m215.67 360v-232.18h55.66v232.18z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(243.45 144.82)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">74</text>
+         </g>
+         <g class="point">
+          <path d="m285.24 360v-335.72h55.66v335.72z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(313.02 41.28)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">107</text>
+         </g>
+        </g>
+       </g>
+       <g class="trace bars">
+        <g class="points">
+         <g class="point">
+          <path d="m354.81 360v-342h55.66v342z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(382.59 35)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">109</text>
+         </g>
+         <g class="point">
+          <path d="m424.39 360v-235.32h55.65v235.32z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px" vector-effect="non-scaling-stroke"/>
+          <text class="bartext bartext-inside" transform="translate(452.17 141.68)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1">75</text>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <path class="xlines-above crisp" d="m0 0" fill="none"/>
+     <path class="ylines-above crisp" d="m0 0" fill="none"/>
+     <g class="xaxislayer-above">
+      <g class="xtick">
+       <text transform="translate(114.79)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">1</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(184.36)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">2</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(253.93)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">3</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(323.5)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">4</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(393.07)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">5</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(462.64)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">6</text>
+      </g>
+      <g class="xtick">
+       <text transform="translate(532.21)" y="437" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre">7</text>
+      </g>
+     </g>
+     <g class="yaxislayer-above">
+      <g class="ytick">
+       <text transform="translate(0,420)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">0</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,357.25)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">20</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,294.5)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">40</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,231.74)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">60</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,168.99)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">80</text>
+      </g>
+      <g class="ytick">
+       <text transform="translate(0,106.24)" x="79" y="5.5999999" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="end" style="white-space:pre">100</text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="layer-above"></g>
+   <g class="infolayer">
+    <g class="legend" transform="translate(576.74,60)" pointer-events="all">
+     <rect class="bg" width="161" height="107" fill="#fff" shape-rendering="crispEdges" stroke-width="0px"/>
+     <g class="scrollbox" clip-path="url(#legend398163)">
+      <text class="legendtitletext" x="2" y="24.700001" fill="#000000" font-family="Helvetica" font-size="19px" style="white-space:pre">Category</text>
+      <g class="groups">
+       <g class="traces" transform="translate(0,41.6)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">Low comfort</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#87cefa" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="155.25" height="23.8" fill-opacity="0"/>
+       </g>
+      </g>
+      <g class="groups">
+       <g class="traces" transform="translate(0,65.4)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">Medium comfort</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#8fbc8f" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="155.25" height="23.8" fill-opacity="0"/>
+       </g>
+      </g>
+      <g class="groups">
+       <g class="traces" transform="translate(0,89.2)">
+        <text class="legendtext" x="40" y="6.2399998" fill="#000000" font-family="Helvetica" font-size="16px" style="white-space:pre">High comfort</text>
+        <g class="layers">
+         <g class="legendsymbols">
+          <g class="legendpoints">
+           <path class="legendundefined" transform="translate(20)" d="m6 6h-12v-12h12z" fill="#da70d6" stroke="#e5ecf6" stroke-width=".5px"/>
+          </g>
+         </g>
+        </g>
+        <rect class="legendtoggle" y="-11.9" width="155.25" height="23.8" fill-opacity="0"/>
+       </g>
+      </g>
+     </g>
+     <rect class="scrollbar" width="0" height="0" rx="20" ry="3" fill="#808ba4"/>
+    </g>
+    <g class="g-gtitle">
+     <text class="gtitle" x="375" y="25" dy="0.69999999em" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle" style="white-space:pre">Comfort in developing new computational skills</text>
+    </g>
+    <g class="g-ytitle">
+     <text class="ytitle" transform="rotate(-90 23.997 240)" x="23.996876" y="240" fill="#000000" font-family="Helvetica" font-size="19px" text-anchor="middle" style="white-space:pre">Counts</text>
+    </g>
+   </g>
+  </g>
+  <g transform="matrix(.16646 0 0 .16646 13.038 61.1)" clip-path="url(#clipPath3801)">
+   <rect width="500" height="500" fill="#fff"/>
+   <g class="layer-below"></g>
+   <g class="sunburstlayer">
+    <g class="trace sunburst" stroke-linejoin="round">
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m250 240h56.667a56.667 56.667 0 1 0-90.816 45.221z" fill="#8fbc8f" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.3259 .65449 -.65449 .3259 241.05 213.97)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Balanced</tspan> <tspan class="line" x="0" y="0" dy="1.3em">65%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m250 240-34.149 45.221a56.667 56.667 0 0 0 60.787 4.7945z" fill="#da70d6" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.046467 -.58913 .58913 .046467 244.18 276.97)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Analyst</tspan> <tspan class="line" x="0" y="0" dy="1.3em">18%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m250 240 26.638 50.015a56.667 56.667 0 0 0 30.029-50.015z" fill="#87cefa" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.4805 .28849 -.28849 .4805 283.64 256.99)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Imaging</tspan> <tspan class="line" x="0" y="0" dy="1.3em">17%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m306.67 240h56.667a113.33 113.33 0 0 0-222.23-31.388l54.45 15.694a56.667 56.667 0 0 1 111.12 15.694z" fill="#8fbc8f" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.084296 -.59684 .59684 .084296 258.91 155.74)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">70%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m195.55 224.31-54.45-15.694a113.33 113.33 0 0 0 3.5026 73.051l52.699-20.832a56.667 56.667 0 0 1-1.7513-36.526z" fill="#8fbc8f" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.81968 -.039302 .039302 .81968 165.49 240.02)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">16%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m197.3 260.83-52.699 20.832a113.33 113.33 0 0 0 37.099 48.779l34.149-45.221a56.667 56.667 0 0 1-18.549-24.389z" fill="#8fbc8f" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.66136 -.503 .503 .66136 179.4 288.57)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">13%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m215.85 285.22-34.149 45.221a113.33 113.33 0 0 0 61.709 22.7l3.2949-56.571a56.667 56.667 0 0 1-30.854-11.35z" fill="#da70d6" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.28331 -.77017 .77017 .28331 217.08 317.83)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">52%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m246.71 296.57-3.2949 56.571a113.33 113.33 0 0 0 51.479-9.0771l-22.445-52.032a56.667 56.667 0 0 1-25.739 4.5386z" fill="#da70d6" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.10467 .5936 -.5936 .10467 267.62 322.88)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">41%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m272.44 292.03 22.445 52.032a113.33 113.33 0 0 0 8.3862-4.0335l-26.638-50.015a56.667 56.667 0 0 1-4.1931 2.0168z" fill="#da70d6" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.089307 .18568 -.18568 .089307 297.15 335.7)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">7%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m276.64 290.02 26.638 50.015a113.33 113.33 0 0 0 52.955-60.541l-53.115-19.745a56.667 56.667 0 0 1-26.478 30.27z" fill="#87cefa" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.45369 .39685 -.39685 .45369 315.69 293.53)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">67%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m303.12 259.75 53.115 19.745a113.33 113.33 0 0 0 6.5827-28.647l-56.407-5.4216a56.667 56.667 0 0 1-3.2914 14.324z" fill="#87cefa" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.50805 .11674 -.11674 .50805 344.34 259.05)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">24%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m306.41 245.42 56.407 5.4216a113.33 113.33 0 0 0 0.5199-10.843h-56.667a56.667 56.667 0 0 1-0.25996 5.4216z" fill="#87cefa" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.23371 .011206 -.011206 .23371 355.26 243.9)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">9%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m363.33 240h56.667a170 170 0 0 0-193.77-168.33l7.9249 56.11a113.33 113.33 0 0 1 129.18 112.22z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.30964 -.35645 .35645 .30964 340.99 131.72)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">60%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m234.15 127.78-7.9249-56.11a170 170 0 0 0-116.97 72.977l46.914 31.784a113.33 113.33 0 0 1 77.978-48.652z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.31483 .5046 -.5046 .31483 177.51 118.3)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">29%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m156.17 176.43-46.914-31.784a170 170 0 0 0-22.609 48.27l54.45 15.694a113.33 113.33 0 0 1 15.073-32.18z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.56016 .26237 -.26237 .56016 123.04 177.18)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">11%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m141.1 208.61-54.45-15.694a170 170 0 0 0-3.312 80.604l55.554-11.174a113.33 113.33 0 0 1 2.208-53.736z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.59476 0 0 .59476 108.37 237.08)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">73%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m138.89 262.35-55.554 11.174a170 170 0 0 0 7.7253 26.803l52.979-20.108a113.33 113.33 0 0 1-5.1502-17.869z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.45369 -.13077 .13077 .45369 113.23 277.01)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">25%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m144.04 280.22-52.979 20.108a170 170 0 0 0 0.84064 2.17l52.699-20.832a113.33 113.33 0 0 1-0.56042-1.4466z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.053658 -.020787 .020787 .053658 93.806 300.21)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">2%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m144.6 281.66-52.699 20.832a170 170 0 0 0 24.206 42.26l44.63-34.918a113.33 113.33 0 0 1-16.137-28.173z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.40971 -.23468 .23468 .40971 125.92 308.4)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">53%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m160.74 309.84-44.63 34.918a170 170 0 0 0 25.959 26.588l35.977-43.781a113.33 113.33 0 0 1-17.306-17.726z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.4426 -.43212 .43212 .4426 146.55 336.76)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">40%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m178.05 327.56-35.977 43.781a170 170 0 0 0 5.4833 4.3204l34.149-45.221a113.33 113.33 0 0 1-3.6555-2.8802z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.10029 -.12728 .12728 .10029 148.9 367.03)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">8%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m181.7 330.44-34.149 45.221a170 170 0 0 0 78.673 32.666l7.9249-56.11a113.33 113.33 0 0 1-52.449-21.778z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.22807 -.54929 .54929 .22807 192.99 369.68)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">86%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m234.15 352.22-7.9249 56.11a170 170 0 0 0 13.89 1.383l3.2949-56.571a113.33 113.33 0 0 1-9.26-0.92203z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.028225 -.28347 .28347 .028225 233.45 392.08)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">14%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m243.41 353.14-3.2949 56.571a170 170 0 0 0 37.11-1.9067l-9.0752-55.935a113.33 113.33 0 0 1-24.74 1.2711z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.030518 .59398 -.59398 .030518 260.16 380.97)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">47%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m268.15 351.87 9.0752 55.935a170 170 0 0 0 33.642-9.0762l-20.289-52.91a113.33 113.33 0 0 1-22.428 6.0508z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.12298 .45586 -.45586 .12298 289.07 375.93)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">44%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m290.58 345.82 20.289 52.91a170 170 0 0 0 6.4653-2.6328l-22.445-52.032a113.33 113.33 0 0 1-4.3102 1.7552z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.06133 .15061 -.15061 .06133 312.04 390.23)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">9%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m294.89 344.06 22.445 52.032a170 170 0 0 0 6.3518-2.896l-24.562-51.067a113.33 113.33 0 0 1-4.2345 1.9307z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.065667 .14403 -.14403 .065667 317.28 385.69)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">50%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m299.12 342.13 24.562 51.067a170 170 0 0 0 4.1662-2.0745l-25.95-50.375a113.33 113.33 0 0 1-2.7774 1.383z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.049767 .099945 -.099945 .049767 323.98 387.35)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">33%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m301.9 340.75 25.95 50.375a170 170 0 0 0 2.0614-1.0798l-26.638-50.015a113.33 113.33 0 0 1-1.3743 0.71989z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.026668 .05091 -.05091 .026668 327.86 388.03)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">17%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m303.28 340.03 26.638 50.015a170 170 0 0 0 61.477-55.66l-47.13-31.462a113.33 113.33 0 0 1-40.985 37.107z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.3169 .35002 -.35002 .3169 346.63 343.28)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">68%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m344.26 302.92 47.13 31.462a170 170 0 0 0 13.532-24.392l-51.641-23.332a113.33 113.33 0 0 1-9.021 16.261z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.45106 .25023 -.25023 .45106 379 308.67)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">23%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m353.28 286.66 51.641 23.332a170 170 0 0 0 4.4243-10.759l-53.115-19.745a113.33 113.33 0 0 1-2.9495 7.1728z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.2356 .096882 -.096882 .2356 396.42 298.86)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">9%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m356.23 279.49 53.115 19.745a170 170 0 0 0 7.0828-24.574l-55.476-11.554a113.33 113.33 0 0 1-4.7219 16.382z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.46503 .13403 -.13403 .46503 392.49 278.6)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">58%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m360.95 263.11 55.476 11.554a170 170 0 0 0 1.9809-11.463l-56.137-7.7328a113.33 113.33 0 0 1-1.3206 7.6422z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.24201 .041819 -.041819 .24201 403.13 265.24)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">26%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m362.27 255.47 56.137 7.7328a170 170 0 0 0 0.81043-6.9336l-56.407-5.4216a113.33 113.33 0 0 1-0.54029 4.6224z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.16095 .018812 -.018812 .16095 411.26 258.05)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">16%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m362.81 250.84 56.407 5.4216a170 170 0 0 0 0.71615-11.611l-56.645-1.5512a113.33 113.33 0 0 1-0.47743 7.7408z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.25426 .015682 -.015682 .25426 407.58 248.47)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">71%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m363.29 243.1 56.645 1.5512a170 170 0 0 0 0.06371-4.6536h-56.667a113.33 113.33 0 0 1-0.0425 3.1024z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.10958 .0015002 -.0015002 .10958 413.4 241.7)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">29%</tspan></text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="layer-above"></g>
+   <g class="infolayer">
+    <g class="g-gtitle">
+     <text class="gtitle" x="250" y="30" dy="0em" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle" style="white-space:pre">Skills of the participants (Life Sciences)</text>
+    </g>
+   </g>
+  </g>
+  <g transform="matrix(.16623 0 0 .16623 102.36 60.978)" clip-path="url(#clipPath4470)">
+   <rect width="500" height="500" fill="#fff"/>
+   <g class="layer-below"></g>
+   <g class="sunburstlayer">
+    <g class="trace sunburst" stroke-linejoin="round">
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m250 240h56.667a56.667 56.667 0 1 0-61.895 56.425z" fill="#8fbc8f" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.49257 .54032 -.54032 .49257 234.26 217.41)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Balanced</tspan> <tspan class="line" x="0" y="0" dy="1.3em">74%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m250 240-5.2285 56.425a56.667 56.667 0 0 0 58.069-35.955z" fill="#da70d6" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.32821 .53008 -.53008 .32821 271.78 269.37)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Analyst</tspan> <tspan class="line" x="0" y="0" dy="1.3em">21%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m250 240 52.84 20.47a56.667 56.667 0 0 0 3.8266-20.47z" fill="#87cefa" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.31284 .05848 -.05848 .31284 295.64 246.94)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Imaging</tspan> <tspan class="line" x="0" y="0" dy="1.3em">6%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m306.67 240h56.667a113.33 113.33 0 1 0-209.69 59.662l48.179-29.831a56.667 56.667 0 1 1 104.85-29.831z" fill="#8fbc8f" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.60276 0 0 .60276 165.32 237.04)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">80%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m201.82 269.83-48.179 29.831a113.33 113.33 0 0 0 85.901 53.188l5.2285-56.425a56.667 56.667 0 0 1-42.95-26.594z" fill="#8fbc8f" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.432 -.69771 .69771 .432 202.14 309.65)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">20%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m244.77 296.42-5.2285 56.425a113.33 113.33 0 0 0 94.211-36.498l-41.877-38.176a56.667 56.667 0 0 1-47.106 18.249z" fill="#da70d6" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.21774 .56206 -.56206 .21774 283.35 317.89)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">71%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m291.88 278.18 41.877 38.176a113.33 113.33 0 0 0 12.604-16.69l-48.179-29.831a56.667 56.667 0 0 1-6.3018 8.3449z" fill="#da70d6" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.31874 .2407 -.2407 .31874 330.62 298.43)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">14%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m298.18 269.83 48.179 29.831a113.33 113.33 0 0 0 9.3222-18.722l-52.84-20.47a56.667 56.667 0 0 1-4.6611 9.3608z" fill="#da70d6" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.36233 .18042 -.18042 .36233 340.51 282.85)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Low skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">14%</tspan></text>
+      </g>
+     </g>
+     <g class="slice cursor-pointer">
+      <path class="surface" d="m302.84 260.47 52.84 20.47a113.33 113.33 0 0 0 7.6531-40.941h-56.667a56.667 56.667 0 0 1-3.8266 20.47z" fill="#87cefa" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.55497 .10374 -.10374 .55497 335.57 253.18)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium skill</tspan> <tspan class="line" x="0" y="0" dy="1.3em">100%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m363.33 240h56.667a170 170 0 0 0-245.78-152.18l25.259 50.726a113.33 113.33 0 0 1 163.85 101.45z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.24856 -.40144 .40144 .24856 322.47 118.55)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">55%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m199.48 138.55-25.259-50.726a170 170 0 0 0-68.761 241.67l48.179-29.831a113.33 113.33 0 0 1 45.841-161.11z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.59476 0 0 .59476 108.37 237.08)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">45%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m153.64 299.66-48.179 29.831a170 170 0 0 0 128.85 79.781l5.2285-56.425a113.33 113.33 0 0 1-85.901-53.188z" fill="#8fbc8f" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.3131 -.50568 .50568 .3131 172.96 358.88)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">100%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m239.54 352.85-5.2285 56.425a170 170 0 0 0 91.461-17.097l-25.259-50.726a113.33 113.33 0 0 1-60.974 11.398z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.10929 .58463 -.58463 .10929 278.83 378.36)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">60%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m300.52 341.45 25.259 50.726a170 170 0 0 0 49.856-37.65l-41.877-38.176a113.33 113.33 0 0 1-33.237 25.1z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.28454 .37679 -.37679 .28454 337.07 351.45)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">40%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m333.75 316.35 41.877 38.176a170 170 0 0 0 18.905-25.035l-48.179-29.831a113.33 113.33 0 0 1-12.604 16.69z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.44229 .334 -.334 .44229 365.98 324.18)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">High comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">100%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m346.36 299.66 48.179 29.831a170 170 0 0 0 13.983-28.082l-52.84-20.47a113.33 113.33 0 0 1-9.3222 18.722z" fill="#da70d6" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.42266 .21046 -.21046 .42266 377.62 300.96)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">100%</tspan></text>
+      </g>
+     </g>
+     <g class="slice">
+      <path class="surface" d="m355.68 280.94 52.84 20.47a170 170 0 0 0 11.48-61.411h-56.667a113.33 113.33 0 0 1-7.6531 40.941z" fill="#87cefa" opacity=".7" stroke="#fff"/>
+      <g class="slicetext">
+       <text class="slicetext" transform="matrix(.46412 .086759 -.086759 .46412 389.43 263.71)" fill="#444444" font-family="Helvetica" font-size="16px" text-anchor="middle" style="white-space:pre" data-notex="1"><tspan class="line" x="0" y="0" dy="0em">Medium comfort</tspan> <tspan class="line" x="0" y="0" dy="1.3em">100%</tspan></text>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g class="layer-above"></g>
+   <g class="infolayer">
+    <g class="g-gtitle">
+     <text class="gtitle" x="250" y="30" dy="0em" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle" style="white-space:pre">Skills of the participants (Physical Sciences)</text>
+    </g>
+   </g>
+  </g>
+  <g fill="#000000" font-family="Helvetica" font-size="4.2333px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="2.1166666" y="6.4875002" style="line-height:1.25" xml:space="preserve"><tspan x="2.1166666" y="6.4875002" stroke-width=".26458">A)</tspan></text>
+   <text x="72.837929" y="6.7892904" style="line-height:1.25" xml:space="preserve"><tspan x="72.837929" y="6.7892904" stroke-width=".26458">B)</tspan></text>
+   <text x="144.91107" y="6.5247068" style="line-height:1.25" xml:space="preserve"><tspan x="144.91107" y="6.5247068" stroke-width=".26458">C)</tspan></text>
+   <text x="14.629596" y="64.997627" style="line-height:1.25" xml:space="preserve"><tspan x="14.629596" y="64.997627" stroke-width=".26458">D)</tspan></text>
+   <text x="100.07245" y="64.468452" style="line-height:1.25" xml:space="preserve"><tspan x="100.07245" y="64.468452" stroke-width=".26458">E)</tspan></text>
+  </g>
+ </g>
+</svg>
