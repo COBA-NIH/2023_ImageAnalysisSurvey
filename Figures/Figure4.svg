@@ -729,7 +729,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="1.5"
      inkscape:cx="293.40825"
      inkscape:cy="238.56212"
      inkscape:document-units="mm"
@@ -2454,7 +2454,7 @@
     </g>
     <g
        id="g2814"
-       transform="matrix(0.14187141,0,0,0.13846425,-5.3967402,3.6589869)"
+       transform="matrix(0.1400467,0,0,0.13846425,-5.3164529,3.6589869)"
        clip-path="url(#clipPath2818)">
       <rect
          id="rect2507"
@@ -2862,7 +2862,7 @@
     </g>
     <g
        id="g3305"
-       transform="matrix(0.1413629,0,0,0.14798729,-4.6265844,60.847048)"
+       transform="matrix(0.13955995,0,0,0.14798729,-4.5504276,60.847048)"
        clip-path="url(#clipPath3309)">
       <rect
          id="rect3016"
