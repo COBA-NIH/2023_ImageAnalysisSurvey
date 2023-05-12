@@ -1171,7 +1171,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1182,7 +1182,7 @@
      transform="translate(-2.2372908,-5.5593904)">
     <g
        id="g7611"
-       transform="matrix(0.17525236,0,0,0.17525236,-3.8931315,6.6167943)"
+       transform="matrix(0.17525236,0,0,0.17525236,-3.3639648,6.6167943)"
        clip-path="url(#clipPath7615)">
       <rect
          id="rect7256"
@@ -2231,12 +2231,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.572607"
+       x="3.0434403"
        y="9.734705"
        id="text12558"><tspan
          sodipodi:role="line"
          id="tspan12556"
-         x="3.572607"
+         x="3.0434403"
          y="9.734705"
          style="stroke-width:0.26458332">A)</tspan></text>
     <text
