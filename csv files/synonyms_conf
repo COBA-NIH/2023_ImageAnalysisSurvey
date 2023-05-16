@@ -1,8 +1,8 @@
 {'ASCB':['ascb'], 
-'MMC':['mmc'], 
-'ELMI':['elmi'], 
-'ABRF':['abrf'], 
-'NEUBIAS':['neubias'], 
-'FOM':['fom'], 
+'MMC':['mmc'],
+'ELMI':['elmi'],
+'ABRF':['abrf'],
+'NEUBIAS':['neubias'],
+'FOM':['fom'],
 'Biophysical society':['biophysical society'],
 'Developmental Biology':['developmental biology']}

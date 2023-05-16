@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Figure1.svg">
+   sodipodi:docname="Figure1.svg"
+   inkscape:export-filename="C:\Users\ssivagur\Documents\GitHub\2023_ImageAnalysisSurvey\Figures\Figure1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <g
@@ -196,6 +199,38 @@
          y="2.1059659e-05"
          style="stroke-width:1.60128152" />
     </clipPath>
+    <g
+       id="g2610"
+       class="clips" />
+    <g
+       id="g2612"
+       class="gradients" />
+    <g
+       id="g2614"
+       class="patterns" />
+    <g
+       id="g2713"
+       class="clips" />
+    <clipPath
+       id="legend48e147">
+      <rect
+         id="rect2715"
+         y="0"
+         x="0"
+         height="201"
+         width="293" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3033">
+      <rect
+         id="rect3035"
+         width="578"
+         height="280"
+         x="107.83476"
+         y="48.70694"
+         style="stroke-width:0.99999994" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -205,8 +240,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="398.14281"
-     inkscape:cy="179.0012"
+     inkscape:cx="248.14281"
+     inkscape:cy="299.0012"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -215,9 +250,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1121"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -227,7 +262,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -236,678 +271,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-0.49138237,-0.25089061)">
-    <g
-       transform="translate(-1.2473109,-0.41577761)"
-       id="layer1-2"
-       inkscape:label="Layer 1">
-      <g
-         clip-path="url(#clipPath2178)"
-         transform="matrix(0.26458333,0,0,0.26458333,4.9136934,-11.428569)"
-         id="g2168">
-        <rect
-           clip-path="url(#clipPath2172)"
-           x="0"
-           y="0"
-           width="700"
-           height="400"
-           style="fill:#ffffff;fill-opacity:1"
-           id="rect1747" />
-        <g
-           class="bglayer"
-           id="g1756" />
-        <g
-           class="layer-below"
-           id="g1762">
-          <g
-             class="imagelayer"
-             id="g1758" />
-          <g
-             class="shapelayer"
-             id="g1760" />
-        </g>
-        <g
-           class="cartesianlayer"
-           id="g1764" />
-        <g
-           class="polarlayer"
-           id="g1766" />
-        <g
-           class="smithlayer"
-           id="g1768" />
-        <g
-           class="ternarylayer"
-           id="g1770" />
-        <g
-           class="geolayer"
-           id="g1772" />
-        <g
-           class="funnelarealayer"
-           id="g1774" />
-        <g
-           class="pielayer"
-           id="g1842">
-          <g
-             class="trace"
-             style="opacity:1;stroke-linejoin:round"
-             id="g1840">
-            <g
-               class="slice"
-               id="g1782">
-              <path
-                 inkscape:connector-curvature="0"
-                 class="surface"
-                 d="M 240.5,210 V 100 a 110,110 0 0 1 107.03793,84.64489 z"
-                 style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                 id="path1776" />
-              <g
-                 class="slicetext"
-                 id="g1780">
-                <text
-                   data-notex="1"
-                   class="slicetext"
-                   transform="rotate(-51.663286,310.42731,-213.07815)"
-                   x="0"
-                   y="0"
-                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
-                   id="text1778">21.3%</text>
-              </g>
-            </g>
-            <g
-               class="slice"
-               id="g1790">
-              <path
-                 inkscape:connector-curvature="0"
-                 class="surface"
-                 d="M 240.5,210 145.35425,154.79777 A 110,110 0 0 1 240.5,100 Z"
-                 style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                 id="path1784" />
-              <g
-                 class="slicetext"
-                 id="g1788">
-                <text
-                   data-notex="1"
-                   class="slicetext"
-                   transform="rotate(60.060852,-32.235084,251.60386)"
-                   x="0"
-                   y="0"
-                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-                   id="text1786">16.6%</text>
-              </g>
-            </g>
-            <g
-               class="slice"
-               id="g1798">
-              <path
-                 inkscape:connector-curvature="0"
-                 class="surface"
-                 d="m 240.5,210 -101.66025,42.01421 a 110,110 0 0 1 6.5145,-97.21644 z"
-                 style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                 id="path1792" />
-              <g
-                 class="slicetext"
-                 id="g1796">
-                <text
-                   data-notex="1"
-                   class="slicetext"
-                   transform="translate(168.93414,215.5)"
-                   x="0"
-                   y="0"
-                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-                   id="text1794">14.6%</text>
-              </g>
-            </g>
-            <g
-               class="slice"
-               id="g1806">
-              <path
-                 inkscape:connector-curvature="0"
-                 class="surface"
-                 d="m 240.5,210 -31.11285,105.50825 a 110,110 0 0 1 -70.5474,-63.49404 z"
-                 style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                 id="path1800" />
-              <g
-                 class="slicetext"
-                 id="g1804">
-                <text
-                   data-notex="1"
-                   class="slicetext"
-                   transform="rotate(-48.01217,397.11878,-89.332771)"
-                   x="0"
-                   y="0"
-                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-                   id="text1802">14.2%</text>
-              </g>
-            </g>
-            <g
-               class="slice"
-               id="g1814">
-              <path
-                 inkscape:connector-curvature="0"
-                 class="surface"
-                 d="m 240.5,210 57.90754,93.52388 a 110,110 0 0 1 -89.02039,11.98437 z"
-                 style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                 id="path1808" />
-              <g
-                 class="slicetext"
-                 id="g1812">
-                <text
-                   data-notex="1"
-                   class="slicetext"
-                   transform="rotate(82.332657,-38.291214,280.15942)"
-                   x="0"
-                   y="0"
-                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-                   id="text1810">13.4%</text>
-              </g>
-            </g>
-            <g
-               class="slice"
-               id="g1822">
-              <path
-                 inkscape:connector-curvature="0"
-                 class="surface"
-                 d="m 240.5,210 103.6691,36.77932 a 110,110 0 0 1 -45.76156,56.74456 z"
-                 style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                 id="path1816" />
-              <g
-                 class="slicetext"
-                 id="g1820">
-                <text
-                   data-notex="1"
-                   class="slicetext"
-                   transform="rotate(38.884381,-221.79907,547.15468)"
-                   x="0"
-                   y="0"
-                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-                   id="text1818">10.8%</text>
-              </g>
-            </g>
-            <g
-               class="slice"
-               id="g1830">
-              <path
-                 inkscape:connector-curvature="0"
-                 class="surface"
-                 d="m 240.5,210 108.66212,-17.10393 a 110,110 0 0 1 -4.99302,53.88325 z"
-                 style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                 id="path1824" />
-              <g
-                 class="slicetext"
-                 id="g1828">
-                <text
-                   data-notex="1"
-                   class="slicetext"
-                   transform="translate(325.079,215.5)"
-                   x="0"
-                   y="0"
-                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-                   id="text1826">7.91%</text>
-              </g>
-            </g>
-            <g
-               class="slice"
-               id="g1838">
-              <path
-                 inkscape:connector-curvature="0"
-                 class="surface"
-                 d="m 240.5,210 107.03793,-25.35511 a 110,110 0 0 1 1.62419,8.25118 z"
-                 style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                 id="path1832" />
-              <g
-                 class="slicetext"
-                 id="g1836">
-                <text
-                   data-notex="1"
-                   class="slicetext"
-                   transform="translate(375.3664,193.93788)"
-                   x="0"
-                   y="0"
-                   style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
-                   id="text1834">1.22%</text>
-              </g>
-            </g>
-          </g>
-        </g>
-        <g
-           class="iciclelayer"
-           id="g1844" />
-        <g
-           class="treemaplayer"
-           id="g1846" />
-        <g
-           class="sunburstlayer"
-           id="g1848" />
-        <g
-           class="glimages"
-           id="g1850" />
-        <g
-           class="layer-above"
-           id="g1862">
-          <g
-             class="imagelayer"
-             id="g1858" />
-          <g
-             class="shapelayer"
-             id="g1860" />
-        </g>
-        <g
-           class="infolayer"
-           id="g2022">
-          <g
-             class="legend"
-             pointer-events="all"
-             transform="translate(407.42,100)"
-             id="g2016">
-            <rect
-               class="bg"
-               width="281"
-               height="201"
-               x="0"
-               y="0"
-               style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
-               id="rect1864" />
-            <g
-               class="scrollbox"
-               clip-path="url(#legend6f22e1)"
-               id="g2012">
-              <g
-                 class="groups"
-                 id="g2010">
-                <g
-                   class="traces"
-                   transform="translate(0,16.9)"
-                   style="opacity:1"
-                   id="g1882">
-                  <text
-                     class="legendtext"
-                     x="40"
-                     y="6.2399998"
-                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
-                     id="text1866">Undergraduate/Graduate student</text>
-                  <g
-                     class="layers"
-                     style="opacity:1"
-                     id="g1878">
-                    <g
-                       class="legendfill"
-                       id="g1868" />
-                    <g
-                       class="legendlines"
-                       id="g1870" />
-                    <g
-                       class="legendsymbols"
-                       id="g1876">
-                      <g
-                         class="legendpoints"
-                         id="g1874">
-                        <path
-                           inkscape:connector-curvature="0"
-                           class="legendpie"
-                           d="M 6,6 H -6 V -6 H 6 Z"
-                           transform="translate(20)"
-                           style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                           id="path1872" />
-                      </g>
-                    </g>
-                  </g>
-                  <rect
-                     class="legendtoggle"
-                     x="0"
-                     y="-11.9"
-                     width="275.39062"
-                     height="23.799999"
-                     style="fill:#000000;fill-opacity:0"
-                     id="rect1880" />
-                </g>
-                <g
-                   class="traces"
-                   transform="translate(0,40.7)"
-                   style="opacity:1"
-                   id="g1900">
-                  <text
-                     class="legendtext"
-                     x="40"
-                     y="6.2399998"
-                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
-                     id="text1884">Facility staff</text>
-                  <g
-                     class="layers"
-                     style="opacity:1"
-                     id="g1896">
-                    <g
-                       class="legendfill"
-                       id="g1886" />
-                    <g
-                       class="legendlines"
-                       id="g1888" />
-                    <g
-                       class="legendsymbols"
-                       id="g1894">
-                      <g
-                         class="legendpoints"
-                         id="g1892">
-                        <path
-                           inkscape:connector-curvature="0"
-                           class="legendpie"
-                           d="M 6,6 H -6 V -6 H 6 Z"
-                           transform="translate(20)"
-                           style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                           id="path1890" />
-                      </g>
-                    </g>
-                  </g>
-                  <rect
-                     class="legendtoggle"
-                     x="0"
-                     y="-11.9"
-                     width="275.39062"
-                     height="23.799999"
-                     style="fill:#000000;fill-opacity:0"
-                     id="rect1898" />
-                </g>
-                <g
-                   class="traces"
-                   transform="translate(0,64.5)"
-                   style="opacity:1"
-                   id="g1918">
-                  <text
-                     class="legendtext"
-                     x="40"
-                     y="6.2399998"
-                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
-                     id="text1902">Postdoctoral fellow</text>
-                  <g
-                     class="layers"
-                     style="opacity:1"
-                     id="g1914">
-                    <g
-                       class="legendfill"
-                       id="g1904" />
-                    <g
-                       class="legendlines"
-                       id="g1906" />
-                    <g
-                       class="legendsymbols"
-                       id="g1912">
-                      <g
-                         class="legendpoints"
-                         id="g1910">
-                        <path
-                           inkscape:connector-curvature="0"
-                           class="legendpie"
-                           d="M 6,6 H -6 V -6 H 6 Z"
-                           transform="translate(20)"
-                           style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                           id="path1908" />
-                      </g>
-                    </g>
-                  </g>
-                  <rect
-                     class="legendtoggle"
-                     x="0"
-                     y="-11.9"
-                     width="275.39062"
-                     height="23.799999"
-                     style="fill:#000000;fill-opacity:0"
-                     id="rect1916" />
-                </g>
-                <g
-                   class="traces"
-                   transform="translate(0,88.3)"
-                   style="opacity:1"
-                   id="g1936">
-                  <text
-                     class="legendtext"
-                     x="40"
-                     y="6.2399998"
-                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
-                     id="text1920">Research scientist</text>
-                  <g
-                     class="layers"
-                     style="opacity:1"
-                     id="g1932">
-                    <g
-                       class="legendfill"
-                       id="g1922" />
-                    <g
-                       class="legendlines"
-                       id="g1924" />
-                    <g
-                       class="legendsymbols"
-                       id="g1930">
-                      <g
-                         class="legendpoints"
-                         id="g1928">
-                        <path
-                           inkscape:connector-curvature="0"
-                           class="legendpie"
-                           d="M 6,6 H -6 V -6 H 6 Z"
-                           transform="translate(20)"
-                           style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                           id="path1926" />
-                      </g>
-                    </g>
-                  </g>
-                  <rect
-                     class="legendtoggle"
-                     x="0"
-                     y="-11.9"
-                     width="275.39062"
-                     height="23.799999"
-                     style="fill:#000000;fill-opacity:0"
-                     id="rect1934" />
-                </g>
-                <g
-                   class="traces"
-                   transform="translate(0,112.1)"
-                   style="opacity:1"
-                   id="g1954">
-                  <text
-                     class="legendtext"
-                     x="40"
-                     y="6.2399998"
-                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
-                     id="text1938">Principal investigator</text>
-                  <g
-                     class="layers"
-                     style="opacity:1"
-                     id="g1950">
-                    <g
-                       class="legendfill"
-                       id="g1940" />
-                    <g
-                       class="legendlines"
-                       id="g1942" />
-                    <g
-                       class="legendsymbols"
-                       id="g1948">
-                      <g
-                         class="legendpoints"
-                         id="g1946">
-                        <path
-                           inkscape:connector-curvature="0"
-                           class="legendpie"
-                           d="M 6,6 H -6 V -6 H 6 Z"
-                           transform="translate(20)"
-                           style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                           id="path1944" />
-                      </g>
-                    </g>
-                  </g>
-                  <rect
-                     class="legendtoggle"
-                     x="0"
-                     y="-11.9"
-                     width="275.39062"
-                     height="23.799999"
-                     style="fill:#000000;fill-opacity:0"
-                     id="rect1952" />
-                </g>
-                <g
-                   class="traces"
-                   transform="translate(0,135.9)"
-                   style="opacity:1"
-                   id="g1972">
-                  <text
-                     class="legendtext"
-                     x="40"
-                     y="6.2399998"
-                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
-                     id="text1956">Facility director</text>
-                  <g
-                     class="layers"
-                     style="opacity:1"
-                     id="g1968">
-                    <g
-                       class="legendfill"
-                       id="g1958" />
-                    <g
-                       class="legendlines"
-                       id="g1960" />
-                    <g
-                       class="legendsymbols"
-                       id="g1966">
-                      <g
-                         class="legendpoints"
-                         id="g1964">
-                        <path
-                           inkscape:connector-curvature="0"
-                           class="legendpie"
-                           d="M 6,6 H -6 V -6 H 6 Z"
-                           transform="translate(20)"
-                           style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                           id="path1962" />
-                      </g>
-                    </g>
-                  </g>
-                  <rect
-                     class="legendtoggle"
-                     x="0"
-                     y="-11.9"
-                     width="275.39062"
-                     height="23.799999"
-                     style="fill:#000000;fill-opacity:0"
-                     id="rect1970" />
-                </g>
-                <g
-                   class="traces"
-                   transform="translate(0,159.7)"
-                   style="opacity:1"
-                   id="g1990">
-                  <text
-                     class="legendtext"
-                     x="40"
-                     y="6.2399998"
-                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
-                     id="text1974">Image/data analyst</text>
-                  <g
-                     class="layers"
-                     style="opacity:1"
-                     id="g1986">
-                    <g
-                       class="legendfill"
-                       id="g1976" />
-                    <g
-                       class="legendlines"
-                       id="g1978" />
-                    <g
-                       class="legendsymbols"
-                       id="g1984">
-                      <g
-                         class="legendpoints"
-                         id="g1982">
-                        <path
-                           inkscape:connector-curvature="0"
-                           class="legendpie"
-                           d="M 6,6 H -6 V -6 H 6 Z"
-                           transform="translate(20)"
-                           style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                           id="path1980" />
-                      </g>
-                    </g>
-                  </g>
-                  <rect
-                     class="legendtoggle"
-                     x="0"
-                     y="-11.9"
-                     width="275.39062"
-                     height="23.799999"
-                     style="fill:#000000;fill-opacity:0"
-                     id="rect1988" />
-                </g>
-                <g
-                   class="traces"
-                   transform="translate(0,183.5)"
-                   style="opacity:1"
-                   id="g2008">
-                  <text
-                     class="legendtext"
-                     x="40"
-                     y="6.2399998"
-                     style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
-                     id="text1992">Clinician</text>
-                  <g
-                     class="layers"
-                     style="opacity:1"
-                     id="g2004">
-                    <g
-                       class="legendfill"
-                       id="g1994" />
-                    <g
-                       class="legendlines"
-                       id="g1996" />
-                    <g
-                       class="legendsymbols"
-                       id="g2002">
-                      <g
-                         class="legendpoints"
-                         id="g2000">
-                        <path
-                           inkscape:connector-curvature="0"
-                           class="legendpie"
-                           d="M 6,6 H -6 V -6 H 6 Z"
-                           transform="translate(20)"
-                           style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-                           id="path1998" />
-                      </g>
-                    </g>
-                  </g>
-                  <rect
-                     class="legendtoggle"
-                     x="0"
-                     y="-11.9"
-                     width="275.39062"
-                     height="23.799999"
-                     style="fill:#000000;fill-opacity:0"
-                     id="rect2006" />
-                </g>
-              </g>
-            </g>
-            <rect
-               class="scrollbar"
-               rx="20"
-               ry="3"
-               width="0"
-               height="0"
-               x="0"
-               y="0"
-               style="fill:#808ba4;fill-opacity:1"
-               id="rect2014" />
-          </g>
-          <g
-             class="g-gtitle"
-             id="g2020">
-            <text
-               class="gtitle"
-               x="560"
-               y="80"
-               dy="0.69999999em"
-               style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000"
-               id="text2018">Role</text>
-          </g>
-        </g>
-      </g>
-    </g>
     <g
        id="g4594"
        transform="matrix(0.17898586,0,0,0.17330207,1.5497157,76.658778)"
@@ -3022,5 +2385,671 @@
          x="4.3108473"
          y="88.81012"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.26458332">B)</tspan></text>
+    <g
+       id="g3029"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.6982356,-9.3096392)"
+       clip-path="url(#clipPath3033)">
+      <rect
+         id="rect2608"
+         style="fill:#ffffff;fill-opacity:1"
+         height="400"
+         width="700"
+         y="0"
+         x="0" />
+      <g
+         id="g2617"
+         class="bglayer" />
+      <g
+         id="g2623"
+         class="layer-below">
+        <g
+           id="g2619"
+           class="imagelayer" />
+        <g
+           id="g2621"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g2625"
+         class="cartesianlayer" />
+      <g
+         id="g2627"
+         class="polarlayer" />
+      <g
+         id="g2629"
+         class="smithlayer" />
+      <g
+         id="g2631"
+         class="ternarylayer" />
+      <g
+         id="g2633"
+         class="geolayer" />
+      <g
+         id="g2635"
+         class="funnelarealayer" />
+      <g
+         id="g2703"
+         class="pielayer">
+        <g
+           id="g2701"
+           style="opacity:1;stroke-linejoin:round"
+           class="trace">
+          <g
+             id="g2643"
+             class="slice">
+            <path
+               id="path2637"
+               style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+               d="M 234.5,210 V 100 a 110,110 0 0 1 107.03793,84.64489 z"
+               class="surface"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g2641"
+               class="slicetext">
+              <text
+                 id="text2639"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
+                 y="0"
+                 x="0"
+                 transform="rotate(-51.663286,307.0131,-207.73671)"
+                 class="slicetext"
+                 data-notex="1">21.3%</text>
+            </g>
+          </g>
+          <g
+             id="g2651"
+             class="slice">
+            <path
+               id="path2645"
+               style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+               d="M 234.5,210 139.35425,154.79777 A 110,110 0 0 1 234.5,100 Z"
+               class="surface"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g2649"
+               class="slicetext">
+              <text
+                 id="text2647"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 y="0"
+                 x="0"
+                 transform="rotate(60.060852,-34.718126,245.51978)"
+                 class="slicetext"
+                 data-notex="1">16.6%</text>
+            </g>
+          </g>
+          <g
+             id="g2659"
+             class="slice">
+            <path
+               id="path2653"
+               style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+               d="m 234.5,210 -101.66025,42.01421 a 110,110 0 0 1 6.5145,-97.21644 z"
+               class="surface"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g2657"
+               class="slicetext">
+              <text
+                 id="text2655"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 y="0"
+                 x="0"
+                 transform="translate(161.70075,215.5)"
+                 class="slicetext"
+                 data-notex="1">14.6%</text>
+            </g>
+          </g>
+          <g
+             id="g2667"
+             class="slice">
+            <path
+               id="path2661"
+               style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+               d="m 234.5,210 -31.11285,105.50825 a 110,110 0 0 1 -70.5474,-63.49404 z"
+               class="surface"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g2665"
+               class="slicetext">
+              <text
+                 id="text2663"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 y="0"
+                 x="0"
+                 transform="rotate(-48.01217,394.69349,-81.306129)"
+                 class="slicetext"
+                 data-notex="1">14.2%</text>
+            </g>
+          </g>
+          <g
+             id="g2675"
+             class="slice">
+            <path
+               id="path2669"
+               style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+               d="m 234.5,210 57.90754,93.52388 a 110,110 0 0 1 -89.02039,11.98437 z"
+               class="surface"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g2673"
+               class="slicetext">
+              <text
+                 id="text2671"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 y="0"
+                 x="0"
+                 transform="rotate(82.332657,-41.885631,277.40828)"
+                 class="slicetext"
+                 data-notex="1">13.4%</text>
+            </g>
+          </g>
+          <g
+             id="g2683"
+             class="slice">
+            <path
+               id="path2677"
+               style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+               d="m 234.5,210 103.6691,36.77932 a 110,110 0 0 1 -45.76156,56.74456 z"
+               class="surface"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g2681"
+               class="slicetext">
+              <text
+                 id="text2679"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 y="0"
+                 x="0"
+                 transform="rotate(38.884381,-225.45739,540.52071)"
+                 class="slicetext"
+                 data-notex="1">10.8%</text>
+            </g>
+          </g>
+          <g
+             id="g2691"
+             class="slice">
+            <path
+               id="path2685"
+               style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+               d="m 234.5,210 108.66212,-17.10393 a 110,110 0 0 1 -4.99302,53.88325 z"
+               class="surface"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g2689"
+               class="slicetext">
+              <text
+                 id="text2687"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+                 y="0"
+                 x="0"
+                 transform="rotate(5.2941176,-2253.0197,3496.437)"
+                 class="slicetext"
+                 data-notex="1">7.91%</text>
+            </g>
+          </g>
+          <g
+             id="g2699"
+             class="slice">
+            <path
+               id="path2693"
+               style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+               d="m 234.5,210 107.03793,-25.35511 a 110,110 0 0 1 1.62419,8.25118 z"
+               class="surface"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g2697"
+               class="slicetext">
+              <text
+                 id="text2695"
+                 style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 y="0"
+                 x="0"
+                 transform="translate(369.8664,193.90058)"
+                 class="slicetext"
+                 data-notex="1">1.22%</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g2705"
+         class="iciclelayer" />
+      <g
+         id="g2707"
+         class="treemaplayer" />
+      <g
+         id="g2709"
+         class="sunburstlayer" />
+      <g
+         id="g2711"
+         class="glimages" />
+      <g
+         id="g2723"
+         class="layer-above">
+        <g
+           id="g2719"
+           class="imagelayer" />
+        <g
+           id="g2721"
+           class="shapelayer" />
+      </g>
+      <g
+         id="g2883"
+         class="infolayer">
+        <g
+           id="g2877"
+           transform="translate(395.18,100)"
+           pointer-events="all"
+           class="legend">
+          <rect
+             id="rect2725"
+             y="0"
+             x="0"
+             height="201"
+             width="293"
+             style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+             class="bg" />
+          <g
+             id="g2873"
+             clip-path="url(#legend48e147)"
+             class="scrollbox">
+            <g
+               id="g2871"
+               class="groups">
+              <g
+                 id="g2743"
+                 style="opacity:1"
+                 transform="translate(0,16.9)"
+                 class="traces">
+                <text
+                   id="text2727"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Student - Graduate/Undergraduate</text>
+                <g
+                   id="g2739"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2729"
+                     class="legendfill" />
+                  <g
+                     id="g2731"
+                     class="legendlines" />
+                  <g
+                     id="g2737"
+                     class="legendsymbols">
+                    <g
+                       id="g2735"
+                       class="legendpoints">
+                      <path
+                         id="path2733"
+                         style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendpie"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2741"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="287.375"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2761"
+                 style="opacity:1"
+                 transform="translate(0,40.7)"
+                 class="traces">
+                <text
+                   id="text2745"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Facility staff</text>
+                <g
+                   id="g2757"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2747"
+                     class="legendfill" />
+                  <g
+                     id="g2749"
+                     class="legendlines" />
+                  <g
+                     id="g2755"
+                     class="legendsymbols">
+                    <g
+                       id="g2753"
+                       class="legendpoints">
+                      <path
+                         id="path2751"
+                         style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendpie"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2759"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="287.375"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2779"
+                 style="opacity:1"
+                 transform="translate(0,64.5)"
+                 class="traces">
+                <text
+                   id="text2763"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Postdoctoral fellow</text>
+                <g
+                   id="g2775"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2765"
+                     class="legendfill" />
+                  <g
+                     id="g2767"
+                     class="legendlines" />
+                  <g
+                     id="g2773"
+                     class="legendsymbols">
+                    <g
+                       id="g2771"
+                       class="legendpoints">
+                      <path
+                         id="path2769"
+                         style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendpie"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2777"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="287.375"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2797"
+                 style="opacity:1"
+                 transform="translate(0,88.3)"
+                 class="traces">
+                <text
+                   id="text2781"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Research scientist</text>
+                <g
+                   id="g2793"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2783"
+                     class="legendfill" />
+                  <g
+                     id="g2785"
+                     class="legendlines" />
+                  <g
+                     id="g2791"
+                     class="legendsymbols">
+                    <g
+                       id="g2789"
+                       class="legendpoints">
+                      <path
+                         id="path2787"
+                         style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendpie"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2795"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="287.375"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2815"
+                 style="opacity:1"
+                 transform="translate(0,112.1)"
+                 class="traces">
+                <text
+                   id="text2799"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Principal investigator</text>
+                <g
+                   id="g2811"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2801"
+                     class="legendfill" />
+                  <g
+                     id="g2803"
+                     class="legendlines" />
+                  <g
+                     id="g2809"
+                     class="legendsymbols">
+                    <g
+                       id="g2807"
+                       class="legendpoints">
+                      <path
+                         id="path2805"
+                         style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendpie"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2813"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="287.375"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2833"
+                 style="opacity:1"
+                 transform="translate(0,135.9)"
+                 class="traces">
+                <text
+                   id="text2817"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Facility director</text>
+                <g
+                   id="g2829"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2819"
+                     class="legendfill" />
+                  <g
+                     id="g2821"
+                     class="legendlines" />
+                  <g
+                     id="g2827"
+                     class="legendsymbols">
+                    <g
+                       id="g2825"
+                       class="legendpoints">
+                      <path
+                         id="path2823"
+                         style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendpie"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2831"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="287.375"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2851"
+                 style="opacity:1"
+                 transform="translate(0,159.7)"
+                 class="traces">
+                <text
+                   id="text2835"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Image/data analyst</text>
+                <g
+                   id="g2847"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2837"
+                     class="legendfill" />
+                  <g
+                     id="g2839"
+                     class="legendlines" />
+                  <g
+                     id="g2845"
+                     class="legendsymbols">
+                    <g
+                       id="g2843"
+                       class="legendpoints">
+                      <path
+                         id="path2841"
+                         style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendpie"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2849"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="287.375"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+              <g
+                 id="g2869"
+                 style="opacity:1"
+                 transform="translate(0,183.5)"
+                 class="traces">
+                <text
+                   id="text2853"
+                   style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
+                   y="6.2399998"
+                   x="40"
+                   class="legendtext">Clinician</text>
+                <g
+                   id="g2865"
+                   style="opacity:1"
+                   class="layers">
+                  <g
+                     id="g2855"
+                     class="legendfill" />
+                  <g
+                     id="g2857"
+                     class="legendlines" />
+                  <g
+                     id="g2863"
+                     class="legendsymbols">
+                    <g
+                       id="g2861"
+                       class="legendpoints">
+                      <path
+                         id="path2859"
+                         style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                         transform="translate(20)"
+                         d="M 6,6 H -6 V -6 H 6 Z"
+                         class="legendpie"
+                         inkscape:connector-curvature="0" />
+                    </g>
+                  </g>
+                </g>
+                <rect
+                   id="rect2867"
+                   style="fill:#000000;fill-opacity:0"
+                   height="23.799999"
+                   width="287.375"
+                   y="-11.9"
+                   x="0"
+                   class="legendtoggle" />
+              </g>
+            </g>
+          </g>
+          <rect
+             id="rect2875"
+             y="0"
+             x="0"
+             style="fill:#808ba4;fill-opacity:1"
+             height="0"
+             width="0"
+             ry="3"
+             rx="20"
+             class="scrollbar" />
+        </g>
+        <g
+           id="g2881"
+           class="g-gtitle">
+          <text
+             id="text2879"
+             style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000"
+             dy="0.69999999em"
+             y="80"
+             x="560"
+             class="gtitle">Role</text>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
