@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="265.90427mm"
-   height="126.89898mm"
+   width="207.62907mm"
+   height="198.92352mm"
    version="1.1"
-   viewBox="0 0 265.90426 126.89898"
+   viewBox="0 0 207.62907 198.92352"
    id="svg11418"
    sodipodi:docname="FigureS2.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\ssivagur\Documents\GitHub\2023_ImageAnalysisSurvey\Figures\FigureS2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,12 +37,12 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.3187255"
-     inkscape:cx="478.0496"
-     inkscape:cy="260.45558"
+     inkscape:cx="420.2579"
+     inkscape:cy="572.32029"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g11414" />
+     inkscape:current-layer="g11416" />
   <defs
      id="defs10002">
     <g
@@ -216,15 +219,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-1.5874696,-2.3167987)"
+     transform="translate(-2.1104654,-3.1268538)"
      id="g11416">
     <g
-       transform="matrix(0.10922,0,0,0.12182,2.2672402,0.77692165)"
+       transform="matrix(0.10922,0,0,0.12182,1.2089068,0.77692165)"
        clip-path="url(#clipPath870)"
        id="g10248">
       <rect
@@ -873,7 +876,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.09467,0,0,0.12263,72.8975,0.63006)"
+       transform="matrix(0.09467,0,0,0.12263,75.014168,1.1592267)"
        clip-path="url(#clipPath1718)"
        id="g10484">
       <rect
@@ -1496,7 +1499,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.089772,0,0,0.12226,143.9,0.63006)"
+       transform="matrix(0.089772,0,0,0.12226,143.9,1.6883934)"
        clip-path="url(#clipPath2532)"
        id="g10708">
       <rect
@@ -2085,7 +2088,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.16646,0,0,0.16646,93.346595,58.497643)"
+       transform="matrix(0.16646,0,0,0.16646,16.805724,123.88038)"
        clip-path="url(#clipPath3801)"
        id="g11170">
       <rect
@@ -3386,7 +3389,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.16623,0,0,0.16623,181.07085,57.99976)"
+       transform="matrix(0.16623,0,0,0.16623,109.8217,123.91166)"
        clip-path="url(#clipPath4470)"
        id="g11392">
       <rect
@@ -4013,13 +4016,63 @@
        id="g11414"
        style="font-size:4.23330021px;font-family:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458001">
       <text
-         x="2.1166666"
-         y="6.4875002"
+         x="144.91107"
+         y="7.0538735"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text11404"><tspan
+           x="144.91107"
+           y="7.0538735"
+           id="tspan11402"
+           style="stroke-width:0.26458001">C)</tspan></text>
+      <text
+         x="20.052477"
+         y="63.478436"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text11408"><tspan
+           x="20.052477"
+           y="63.478436"
+           id="tspan11406"
+           style="stroke-width:0.26458001">D)</tspan></text>
+      <text
+         x="101.8326"
+         y="62.877621"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text11412"><tspan
+           x="101.8326"
+           y="62.877621"
+           id="tspan11410"
+           style="stroke-width:0.26458001">E)</tspan></text>
+      <text
+         x="19.50416"
+         y="129.15681"
+         style="font-size:4.23330021px;line-height:1.25;font-family:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458001"
+         xml:space="preserve"
+         id="text11412-8"><tspan
+           x="19.50416"
+           y="129.15681"
+           id="tspan11410-2"
+           style="stroke-width:0.26458001">F)</tspan></text>
+      <text
+         x="106.14831"
+         y="129.11848"
+         style="font-size:4.23330021px;line-height:1.25;font-family:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458001"
+         xml:space="preserve"
+         id="text11412-8-6"><tspan
+           x="106.14831"
+           y="129.11848"
+           id="tspan11410-2-8"
+           style="stroke-width:0.26458001">G)</tspan></text>
+      <text
+         x="2.6458333"
+         y="7.0166669"
          style="line-height:1.25"
          xml:space="preserve"
          id="text11396"><tspan
-           x="2.1166666"
-           y="6.4875002"
+           x="2.6458333"
+           y="7.0166669"
            id="tspan11394"
            style="stroke-width:0.26458001">A)</tspan></text>
       <text
@@ -4032,61 +4085,11 @@
            y="6.7892904"
            id="tspan11398"
            style="stroke-width:0.26458001">B)</tspan></text>
-      <text
-         x="144.91107"
-         y="7.0538735"
-         style="line-height:1.25"
-         xml:space="preserve"
-         id="text11404"><tspan
-           x="144.91107"
-           y="7.0538735"
-           id="tspan11402"
-           style="stroke-width:0.26458001">C)</tspan></text>
-      <text
-         x="204.52444"
-         y="7.1463566"
-         style="line-height:1.25"
-         xml:space="preserve"
-         id="text11408"><tspan
-           x="204.52444"
-           y="7.1463566"
-           id="tspan11406"
-           style="stroke-width:0.26458001">D)</tspan></text>
-      <text
-         x="4.6542368"
-         y="64.012589"
-         style="line-height:1.25"
-         xml:space="preserve"
-         id="text11412"><tspan
-           x="4.6542368"
-           y="64.012589"
-           id="tspan11410"
-           style="stroke-width:0.26458001">E)</tspan></text>
-      <text
-         x="96.045036"
-         y="63.773891"
-         style="font-size:4.23330021px;line-height:1.25;font-family:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458001"
-         xml:space="preserve"
-         id="text11412-8"><tspan
-           x="96.045036"
-           y="63.773891"
-           id="tspan11410-2"
-           style="stroke-width:0.26458001">F)</tspan></text>
-      <text
-         x="177.39751"
-         y="63.206409"
-         style="font-size:4.23330021px;line-height:1.25;font-family:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458001"
-         xml:space="preserve"
-         id="text11412-8-6"><tspan
-           x="177.39751"
-           y="63.206409"
-           id="tspan11410-2-8"
-           style="stroke-width:0.26458001">G)</tspan></text>
     </g>
   </g>
   <g
      id="g15232"
-     transform="matrix(0.11935173,0,0,0.11935173,206.4666,1.9030789)"
+     transform="matrix(0.14918967,0,0,0.14918967,21.574428,55.683751)"
      clip-path="url(#clipPath15236)">
     <rect
        id="rect14999"
@@ -4455,7 +4458,7 @@
   </g>
   <g
      id="g16141"
-     transform="matrix(0.1545668,0,0,0.1545668,8.977427,57.048042)"
+     transform="matrix(0.1545668,0,0,0.1545668,107.47718,55.386762)"
      clip-path="url(#clipPath16145)">
     <rect
        id="rect15602"

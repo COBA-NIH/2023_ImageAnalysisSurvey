@@ -17,8 +17,8 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Figure1.svg"
    inkscape:export-filename="C:\Users\ssivagur\Documents\GitHub\2023_ImageAnalysisSurvey\Figures\Figure1.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2">
     <g
@@ -231,6 +231,38 @@
          y="48.70694"
          style="stroke-width:0.99999994" />
     </clipPath>
+    <g
+       id="g1507"
+       class="clips" />
+    <g
+       id="g1509"
+       class="gradients" />
+    <g
+       id="g1511"
+       class="patterns" />
+    <g
+       id="g1642"
+       class="clips" />
+    <clipPath
+       id="legenda7ae6e">
+      <rect
+         id="rect1644"
+         y="0"
+         x="0"
+         height="201"
+         width="293" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1978">
+      <rect
+         id="rect1980"
+         width="670.00006"
+         height="360"
+         x="115.58762"
+         y="65.598686"
+         style="stroke-width:0.92569673" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -250,9 +282,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-height="1121"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -2386,306 +2418,410 @@
          y="88.81012"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.26458332">B)</tspan></text>
     <g
-       id="g3029"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.6982356,-9.3096392)"
-       clip-path="url(#clipPath3033)">
+       id="g1974"
+       transform="matrix(0.22710069,0,0,0.22710069,9.4601004,-14.006894)"
+       clip-path="url(#clipPath1978)">
       <rect
-         id="rect2608"
+         id="rect1505"
          style="fill:#ffffff;fill-opacity:1"
-         height="400"
-         width="700"
+         height="500"
+         width="800"
          y="0"
          x="0" />
       <g
-         id="g2617"
+         id="g1514"
          class="bglayer" />
       <g
-         id="g2623"
+         id="g1520"
          class="layer-below">
         <g
-           id="g2619"
+           id="g1516"
            class="imagelayer" />
         <g
-           id="g2621"
+           id="g1518"
            class="shapelayer" />
       </g>
       <g
-         id="g2625"
+         id="g1522"
          class="cartesianlayer" />
       <g
-         id="g2627"
+         id="g1524"
          class="polarlayer" />
       <g
-         id="g2629"
+         id="g1526"
          class="smithlayer" />
       <g
-         id="g2631"
+         id="g1528"
          class="ternarylayer" />
       <g
-         id="g2633"
+         id="g1530"
          class="geolayer" />
       <g
-         id="g2635"
+         id="g1532"
          class="funnelarealayer" />
       <g
-         id="g2703"
+         id="g1632"
          class="pielayer">
         <g
-           id="g2701"
+           id="g1630"
            style="opacity:1;stroke-linejoin:round"
            class="trace">
           <g
-             id="g2643"
+             id="g1544"
              class="slice">
             <path
-               id="path2637"
+               id="path1534"
                style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-               d="M 234.5,210 V 100 a 110,110 0 0 1 107.03793,84.64489 z"
+               d="M 283.5,260 V 100 a 160,160 0 0 1 155.69153,123.11983 z"
                class="surface"
                inkscape:connector-curvature="0" />
             <g
-               id="g2641"
+               id="g1542"
                class="slicetext">
               <text
-                 id="text2639"
+                 id="text1540"
                  style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#ffffff;fill-opacity:1"
                  y="0"
                  x="0"
-                 transform="rotate(-51.663286,307.0131,-207.73671)"
+                 transform="rotate(-51.663286,352.93511,-268.36627)"
                  class="slicetext"
-                 data-notex="1">21.3%</text>
+                 data-notex="1">
+                <tspan
+                   id="tspan1536"
+                   y="0"
+                   x="0"
+                   dy="0em"
+                   class="line">105</tspan>
+                <tspan
+                   id="tspan1538"
+                   y="0"
+                   x="0"
+                   dy="1.3em"
+                   class="line">21.3%</tspan>
+              </text>
             </g>
           </g>
           <g
-             id="g2651"
+             id="g1556"
              class="slice">
             <path
-               id="path2645"
+               id="path1546"
                style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-               d="M 234.5,210 139.35425,154.79777 A 110,110 0 0 1 234.5,100 Z"
+               d="M 283.5,260 145.10618,179.70585 A 160,160 0 0 1 283.5,100 Z"
                class="surface"
                inkscape:connector-curvature="0" />
             <g
-               id="g2649"
+               id="g1554"
                class="slicetext">
               <text
-                 id="text2647"
+                 id="text1552"
                  style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                  y="0"
                  x="0"
-                 transform="rotate(60.060852,-34.718126,245.51978)"
+                 transform="rotate(60.060852,-23.264782,281.43076)"
                  class="slicetext"
-                 data-notex="1">16.6%</text>
+                 data-notex="1">
+                <tspan
+                   id="tspan1548"
+                   y="0"
+                   x="0"
+                   dy="0em"
+                   class="line">82</tspan>
+                <tspan
+                   id="tspan1550"
+                   y="0"
+                   x="0"
+                   dy="1.3em"
+                   class="line">16.6%</tspan>
+              </text>
             </g>
           </g>
           <g
-             id="g2659"
+             id="g1568"
              class="slice">
             <path
-               id="path2653"
+               id="path1558"
                style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-               d="m 234.5,210 -101.66025,42.01421 a 110,110 0 0 1 6.5145,-97.21644 z"
+               d="m 283.5,260 -147.86945,61.11158 a 160,160 0 0 1 9.47563,-141.40573 z"
                class="surface"
                inkscape:connector-curvature="0" />
             <g
-               id="g2657"
+               id="g1566"
                class="slicetext">
               <text
-                 id="text2655"
+                 id="text1564"
                  style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                  y="0"
                  x="0"
-                 transform="translate(161.70075,215.5)"
+                 transform="translate(164.9204,255.09375)"
                  class="slicetext"
-                 data-notex="1">14.6%</text>
+                 data-notex="1">
+                <tspan
+                   id="tspan1560"
+                   y="0"
+                   x="0"
+                   dy="0em"
+                   class="line">72</tspan>
+                <tspan
+                   id="tspan1562"
+                   y="0"
+                   x="0"
+                   dy="1.3em"
+                   class="line">14.6%</tspan>
+              </text>
             </g>
           </g>
           <g
-             id="g2667"
+             id="g1580"
              class="slice">
             <path
-               id="path2661"
+               id="path1570"
                style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-               d="m 234.5,210 -31.11285,105.50825 a 110,110 0 0 1 -70.5474,-63.49404 z"
+               d="M 283.5,260 238.24495,413.46655 A 160,160 0 0 1 135.63055,321.11158 Z"
                class="surface"
                inkscape:connector-curvature="0" />
             <g
-               id="g2665"
+               id="g1578"
                class="slicetext">
               <text
-                 id="text2663"
+                 id="text1576"
                  style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                  y="0"
                  x="0"
-                 transform="rotate(-48.01217,394.69349,-81.306129)"
+                 transform="rotate(-48.01217,485.81768,-56.329416)"
                  class="slicetext"
-                 data-notex="1">14.2%</text>
+                 data-notex="1">
+                <tspan
+                   id="tspan1572"
+                   y="0"
+                   x="0"
+                   dy="0em"
+                   class="line">70</tspan>
+                <tspan
+                   id="tspan1574"
+                   y="0"
+                   x="0"
+                   dy="1.3em"
+                   class="line">14.2%</tspan>
+              </text>
             </g>
           </g>
           <g
-             id="g2675"
+             id="g1592"
              class="slice">
             <path
-               id="path2669"
+               id="path1582"
                style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-               d="m 234.5,210 57.90754,93.52388 a 110,110 0 0 1 -89.02039,11.98437 z"
+               d="m 283.5,260 84.22915,136.03474 a 160,160 0 0 1 -129.4842,17.43181 z"
                class="surface"
                inkscape:connector-curvature="0" />
             <g
-               id="g2673"
+               id="g1590"
                class="slicetext">
               <text
-                 id="text2671"
+                 id="text1588"
                  style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                  y="0"
                  x="0"
-                 transform="rotate(82.332657,-41.885631,277.40828)"
+                 transform="rotate(82.332657,-62.53358,361.37116)"
                  class="slicetext"
-                 data-notex="1">13.4%</text>
+                 data-notex="1">
+                <tspan
+                   id="tspan1584"
+                   y="0"
+                   x="0"
+                   dy="0em"
+                   class="line">66</tspan>
+                <tspan
+                   id="tspan1586"
+                   y="0"
+                   x="0"
+                   dy="1.3em"
+                   class="line">13.4%</tspan>
+              </text>
             </g>
           </g>
           <g
-             id="g2683"
+             id="g1604"
              class="slice">
             <path
-               id="path2677"
+               id="path1594"
                style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-               d="m 234.5,210 103.6691,36.77932 a 110,110 0 0 1 -45.76156,56.74456 z"
+               d="m 283.5,260 150.79141,53.49719 a 160,160 0 0 1 -66.56226,82.53755 z"
                class="surface"
                inkscape:connector-curvature="0" />
             <g
-               id="g2681"
+               id="g1602"
                class="slicetext">
               <text
-                 id="text2679"
+                 id="text1600"
                  style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                  y="0"
                  x="0"
-                 transform="rotate(38.884381,-225.45739,540.52071)"
+                 transform="rotate(38.884381,-280.66925,707.06856)"
                  class="slicetext"
-                 data-notex="1">10.8%</text>
+                 data-notex="1">
+                <tspan
+                   id="tspan1596"
+                   y="0"
+                   x="0"
+                   dy="0em"
+                   class="line">53</tspan>
+                <tspan
+                   id="tspan1598"
+                   y="0"
+                   x="0"
+                   dy="1.3em"
+                   class="line">10.8%</tspan>
+              </text>
             </g>
           </g>
           <g
-             id="g2691"
+             id="g1616"
              class="slice">
             <path
-               id="path2685"
+               id="path1606"
                style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-               d="m 234.5,210 108.66212,-17.10393 a 110,110 0 0 1 -4.99302,53.88325 z"
+               d="m 283.5,260 158.05399,-24.87845 a 160,160 0 0 1 -7.26258,78.37564 z"
                class="surface"
                inkscape:connector-curvature="0" />
             <g
-               id="g2689"
+               id="g1614"
                class="slicetext">
               <text
-                 id="text2687"
+                 id="text1612"
                  style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                  y="0"
                  x="0"
-                 transform="rotate(5.2941176,-2253.0197,3496.437)"
+                 transform="rotate(5.2941176,-2681.5669,4594.0073)"
                  class="slicetext"
-                 data-notex="1">7.91%</text>
+                 data-notex="1">
+                <tspan
+                   id="tspan1608"
+                   y="0"
+                   x="0"
+                   dy="0em"
+                   class="line">39</tspan>
+                <tspan
+                   id="tspan1610"
+                   y="0"
+                   x="0"
+                   dy="1.3em"
+                   class="line">7.91%</tspan>
+              </text>
             </g>
           </g>
           <g
-             id="g2699"
+             id="g1628"
              class="slice">
             <path
-               id="path2693"
+               id="path1618"
                style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
-               d="m 234.5,210 107.03793,-25.35511 a 110,110 0 0 1 1.62419,8.25118 z"
+               d="m 283.5,260 155.69153,-36.88017 a 160,160 0 0 1 2.36246,12.00172 z"
                class="surface"
                inkscape:connector-curvature="0" />
             <g
-               id="g2697"
+               id="g1626"
                class="slicetext">
               <text
-                 id="text2695"
+                 id="text1624"
                  style="font-size:16px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
                  y="0"
                  x="0"
-                 transform="translate(369.8664,193.90058)"
+                 transform="translate(473.12812,223.44932)"
                  class="slicetext"
-                 data-notex="1">1.22%</text>
+                 data-notex="1">
+                <tspan
+                   id="tspan1620"
+                   y="0"
+                   x="0"
+                   dy="0em"
+                   class="line">6</tspan>
+                <tspan
+                   id="tspan1622"
+                   y="0"
+                   x="0"
+                   dy="1.3em"
+                   class="line">1.22%</tspan>
+              </text>
             </g>
           </g>
         </g>
       </g>
       <g
-         id="g2705"
+         id="g1634"
          class="iciclelayer" />
       <g
-         id="g2707"
+         id="g1636"
          class="treemaplayer" />
       <g
-         id="g2709"
+         id="g1638"
          class="sunburstlayer" />
       <g
-         id="g2711"
+         id="g1640"
          class="glimages" />
       <g
-         id="g2723"
+         id="g1652"
          class="layer-above">
         <g
-           id="g2719"
+           id="g1648"
            class="imagelayer" />
         <g
-           id="g2721"
+           id="g1650"
            class="shapelayer" />
       </g>
       <g
-         id="g2883"
+         id="g1812"
          class="infolayer">
         <g
-           id="g2877"
-           transform="translate(395.18,100)"
+           id="g1806"
+           transform="translate(495.14,100)"
            pointer-events="all"
            class="legend">
           <rect
-             id="rect2725"
+             id="rect1654"
+             style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
              y="0"
              x="0"
              height="201"
              width="293"
-             style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
              class="bg" />
           <g
-             id="g2873"
-             clip-path="url(#legend48e147)"
+             id="g1802"
+             clip-path="url(#legenda7ae6e)"
              class="scrollbox">
             <g
-               id="g2871"
+               id="g1800"
                class="groups">
               <g
-                 id="g2743"
+                 id="g1672"
                  style="opacity:1"
                  transform="translate(0,16.9)"
                  class="traces">
                 <text
-                   id="text2727"
+                   id="text1656"
                    style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
                    y="6.2399998"
                    x="40"
                    class="legendtext">Student - Graduate/Undergraduate</text>
                 <g
-                   id="g2739"
+                   id="g1668"
                    style="opacity:1"
                    class="layers">
                   <g
-                     id="g2729"
+                     id="g1658"
                      class="legendfill" />
                   <g
-                     id="g2731"
+                     id="g1660"
                      class="legendlines" />
                   <g
-                     id="g2737"
+                     id="g1666"
                      class="legendsymbols">
                     <g
-                       id="g2735"
+                       id="g1664"
                        class="legendpoints">
                       <path
-                         id="path2733"
+                         id="path1662"
                          style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
                          transform="translate(20)"
                          d="M 6,6 H -6 V -6 H 6 Z"
@@ -2695,7 +2831,7 @@
                   </g>
                 </g>
                 <rect
-                   id="rect2741"
+                   id="rect1670"
                    style="fill:#000000;fill-opacity:0"
                    height="23.799999"
                    width="287.375"
@@ -2704,34 +2840,34 @@
                    class="legendtoggle" />
               </g>
               <g
-                 id="g2761"
+                 id="g1690"
                  style="opacity:1"
                  transform="translate(0,40.7)"
                  class="traces">
                 <text
-                   id="text2745"
+                   id="text1674"
                    style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
                    y="6.2399998"
                    x="40"
                    class="legendtext">Facility staff</text>
                 <g
-                   id="g2757"
+                   id="g1686"
                    style="opacity:1"
                    class="layers">
                   <g
-                     id="g2747"
+                     id="g1676"
                      class="legendfill" />
                   <g
-                     id="g2749"
+                     id="g1678"
                      class="legendlines" />
                   <g
-                     id="g2755"
+                     id="g1684"
                      class="legendsymbols">
                     <g
-                       id="g2753"
+                       id="g1682"
                        class="legendpoints">
                       <path
-                         id="path2751"
+                         id="path1680"
                          style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
                          transform="translate(20)"
                          d="M 6,6 H -6 V -6 H 6 Z"
@@ -2741,7 +2877,7 @@
                   </g>
                 </g>
                 <rect
-                   id="rect2759"
+                   id="rect1688"
                    style="fill:#000000;fill-opacity:0"
                    height="23.799999"
                    width="287.375"
@@ -2750,34 +2886,34 @@
                    class="legendtoggle" />
               </g>
               <g
-                 id="g2779"
+                 id="g1708"
                  style="opacity:1"
                  transform="translate(0,64.5)"
                  class="traces">
                 <text
-                   id="text2763"
+                   id="text1692"
                    style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
                    y="6.2399998"
                    x="40"
                    class="legendtext">Postdoctoral fellow</text>
                 <g
-                   id="g2775"
+                   id="g1704"
                    style="opacity:1"
                    class="layers">
                   <g
-                     id="g2765"
+                     id="g1694"
                      class="legendfill" />
                   <g
-                     id="g2767"
+                     id="g1696"
                      class="legendlines" />
                   <g
-                     id="g2773"
+                     id="g1702"
                      class="legendsymbols">
                     <g
-                       id="g2771"
+                       id="g1700"
                        class="legendpoints">
                       <path
-                         id="path2769"
+                         id="path1698"
                          style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
                          transform="translate(20)"
                          d="M 6,6 H -6 V -6 H 6 Z"
@@ -2787,7 +2923,7 @@
                   </g>
                 </g>
                 <rect
-                   id="rect2777"
+                   id="rect1706"
                    style="fill:#000000;fill-opacity:0"
                    height="23.799999"
                    width="287.375"
@@ -2796,34 +2932,34 @@
                    class="legendtoggle" />
               </g>
               <g
-                 id="g2797"
+                 id="g1726"
                  style="opacity:1"
                  transform="translate(0,88.3)"
                  class="traces">
                 <text
-                   id="text2781"
+                   id="text1710"
                    style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
                    y="6.2399998"
                    x="40"
                    class="legendtext">Research scientist</text>
                 <g
-                   id="g2793"
+                   id="g1722"
                    style="opacity:1"
                    class="layers">
                   <g
-                     id="g2783"
+                     id="g1712"
                      class="legendfill" />
                   <g
-                     id="g2785"
+                     id="g1714"
                      class="legendlines" />
                   <g
-                     id="g2791"
+                     id="g1720"
                      class="legendsymbols">
                     <g
-                       id="g2789"
+                       id="g1718"
                        class="legendpoints">
                       <path
-                         id="path2787"
+                         id="path1716"
                          style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
                          transform="translate(20)"
                          d="M 6,6 H -6 V -6 H 6 Z"
@@ -2833,7 +2969,7 @@
                   </g>
                 </g>
                 <rect
-                   id="rect2795"
+                   id="rect1724"
                    style="fill:#000000;fill-opacity:0"
                    height="23.799999"
                    width="287.375"
@@ -2842,34 +2978,34 @@
                    class="legendtoggle" />
               </g>
               <g
-                 id="g2815"
+                 id="g1744"
                  style="opacity:1"
                  transform="translate(0,112.1)"
                  class="traces">
                 <text
-                   id="text2799"
+                   id="text1728"
                    style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
                    y="6.2399998"
                    x="40"
                    class="legendtext">Principal investigator</text>
                 <g
-                   id="g2811"
+                   id="g1740"
                    style="opacity:1"
                    class="layers">
                   <g
-                     id="g2801"
+                     id="g1730"
                      class="legendfill" />
                   <g
-                     id="g2803"
+                     id="g1732"
                      class="legendlines" />
                   <g
-                     id="g2809"
+                     id="g1738"
                      class="legendsymbols">
                     <g
-                       id="g2807"
+                       id="g1736"
                        class="legendpoints">
                       <path
-                         id="path2805"
+                         id="path1734"
                          style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
                          transform="translate(20)"
                          d="M 6,6 H -6 V -6 H 6 Z"
@@ -2879,7 +3015,7 @@
                   </g>
                 </g>
                 <rect
-                   id="rect2813"
+                   id="rect1742"
                    style="fill:#000000;fill-opacity:0"
                    height="23.799999"
                    width="287.375"
@@ -2888,34 +3024,34 @@
                    class="legendtoggle" />
               </g>
               <g
-                 id="g2833"
+                 id="g1762"
                  style="opacity:1"
                  transform="translate(0,135.9)"
                  class="traces">
                 <text
-                   id="text2817"
+                   id="text1746"
                    style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
                    y="6.2399998"
                    x="40"
                    class="legendtext">Facility director</text>
                 <g
-                   id="g2829"
+                   id="g1758"
                    style="opacity:1"
                    class="layers">
                   <g
-                     id="g2819"
+                     id="g1748"
                      class="legendfill" />
                   <g
-                     id="g2821"
+                     id="g1750"
                      class="legendlines" />
                   <g
-                     id="g2827"
+                     id="g1756"
                      class="legendsymbols">
                     <g
-                       id="g2825"
+                       id="g1754"
                        class="legendpoints">
                       <path
-                         id="path2823"
+                         id="path1752"
                          style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
                          transform="translate(20)"
                          d="M 6,6 H -6 V -6 H 6 Z"
@@ -2925,7 +3061,7 @@
                   </g>
                 </g>
                 <rect
-                   id="rect2831"
+                   id="rect1760"
                    style="fill:#000000;fill-opacity:0"
                    height="23.799999"
                    width="287.375"
@@ -2934,34 +3070,34 @@
                    class="legendtoggle" />
               </g>
               <g
-                 id="g2851"
+                 id="g1780"
                  style="opacity:1"
                  transform="translate(0,159.7)"
                  class="traces">
                 <text
-                   id="text2835"
+                   id="text1764"
                    style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
                    y="6.2399998"
                    x="40"
                    class="legendtext">Image/data analyst</text>
                 <g
-                   id="g2847"
+                   id="g1776"
                    style="opacity:1"
                    class="layers">
                   <g
-                     id="g2837"
+                     id="g1766"
                      class="legendfill" />
                   <g
-                     id="g2839"
+                     id="g1768"
                      class="legendlines" />
                   <g
-                     id="g2845"
+                     id="g1774"
                      class="legendsymbols">
                     <g
-                       id="g2843"
+                       id="g1772"
                        class="legendpoints">
                       <path
-                         id="path2841"
+                         id="path1770"
                          style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
                          transform="translate(20)"
                          d="M 6,6 H -6 V -6 H 6 Z"
@@ -2971,7 +3107,7 @@
                   </g>
                 </g>
                 <rect
-                   id="rect2849"
+                   id="rect1778"
                    style="fill:#000000;fill-opacity:0"
                    height="23.799999"
                    width="287.375"
@@ -2980,34 +3116,34 @@
                    class="legendtoggle" />
               </g>
               <g
-                 id="g2869"
+                 id="g1798"
                  style="opacity:1"
                  transform="translate(0,183.5)"
                  class="traces">
                 <text
-                   id="text2853"
+                   id="text1782"
                    style="font-size:16px;font-family:Helvetica;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1"
                    y="6.2399998"
                    x="40"
                    class="legendtext">Clinician</text>
                 <g
-                   id="g2865"
+                   id="g1794"
                    style="opacity:1"
                    class="layers">
                   <g
-                     id="g2855"
+                     id="g1784"
                      class="legendfill" />
                   <g
-                     id="g2857"
+                     id="g1786"
                      class="legendlines" />
                   <g
-                     id="g2863"
+                     id="g1792"
                      class="legendsymbols">
                     <g
-                       id="g2861"
+                       id="g1790"
                        class="legendpoints">
                       <path
-                         id="path2859"
+                         id="path1788"
                          style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
                          transform="translate(20)"
                          d="M 6,6 H -6 V -6 H 6 Z"
@@ -3017,7 +3153,7 @@
                   </g>
                 </g>
                 <rect
-                   id="rect2867"
+                   id="rect1796"
                    style="fill:#000000;fill-opacity:0"
                    height="23.799999"
                    width="287.375"
@@ -3028,10 +3164,10 @@
             </g>
           </g>
           <rect
-             id="rect2875"
+             id="rect1804"
+             style="fill:#808ba4;fill-opacity:1"
              y="0"
              x="0"
-             style="fill:#808ba4;fill-opacity:1"
              height="0"
              width="0"
              ry="3"
@@ -3039,14 +3175,14 @@
              class="scrollbar" />
         </g>
         <g
-           id="g2881"
+           id="g1810"
            class="g-gtitle">
           <text
-             id="text2879"
+             id="text1808"
              style="font-weight:normal;font-size:22px;font-family:Helvetica;text-anchor:end;white-space:pre;opacity:1;fill:#000000"
              dy="0.69999999em"
-             y="80"
-             x="560"
+             y="75"
+             x="640"
              class="gtitle">Role</text>
         </g>
       </g>

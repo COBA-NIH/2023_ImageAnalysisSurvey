@@ -4,8 +4,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
+import numpy as np
 import re
 import kaleido
+from textwrap import wrap
 from sklearn.feature_extraction.text import CountVectorizer
 
 #### Templates for the graphs
@@ -43,7 +45,7 @@ def barchart_vertical(series, title='', order_of_axes=[]):
     #saving the figure as svg file
     fig.write_image(title+'.svg')
 
-    return fig.show()
+    return fig
 def barchart_horizontal(series, title='', order_of_axes=[]):
     """
     Creates a horizontal bar chart.
@@ -65,11 +67,11 @@ def barchart_horizontal(series, title='', order_of_axes=[]):
     #creating a dataframe from the modified dictionary
     df = pd.DataFrame.from_dict(dict_count, orient='index')
     df = df.rename(columns={0:'counts'})
-
-
-    #plotting a graph
-    fig = px.bar(y=df.index, x=df['counts'], labels ={'x':'counts', 'y':''}, text_auto=True, orientation='h')
-    fig.update_layout(width=700, height=600, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+    
+    
+    #plotting a graph 
+    fig = px.bar(y=df.index, x=df['counts'], labels ={'x':'counts', 'y':''}, text_auto=True, orientation='h')                                              
+    fig.update_layout(width=700, height=400, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
         fig.update_yaxes(categoryorder = 'total ascending')
     else:
@@ -78,7 +80,7 @@ def barchart_horizontal(series, title='', order_of_axes=[]):
     #saving the figure as svg file
     fig.write_image(title+'.svg')
 
-    return fig.show()
+    return fig
 def tools_count(series, title=''):
     """
     Creates bar chart for commonly used and most used image analysis tools
@@ -120,7 +122,8 @@ def tools_count(series, title=''):
     #saving the figure as svg file
     fig.write_image(title+'.svg')
 
-    return fig.show()
+    return fig
+
 ##### Stacked barchart
 def stacked_barchart(data, title='', order_of_axes=[], order_of_stacks=[]):
     """
@@ -146,7 +149,8 @@ def stacked_barchart(data, title='', order_of_axes=[], order_of_stacks=[]):
 
 
     #creating the stacked bar chart
-    fig = go.Figure()
+    layout = go.Layout(margin=go.layout.Margin(l=500))
+    fig = go.Figure(layout=layout)
     df = df.set_index('kinds')
     df = df[order_of_stacks]
 
@@ -162,7 +166,7 @@ def stacked_barchart(data, title='', order_of_axes=[], order_of_stacks=[]):
     else:
         fig.update_yaxes(categoryorder='array', categoryarray = order_of_axes)
     fig.write_image(title+'.svg')
-    return fig.show()
+    return fig
 
 
 ##### Percentage stacked bar charts
@@ -199,7 +203,7 @@ def percentage_stackedcharts(data, title='', order_of_axes=[], order_of_stacks=[
     #creating the chart
     fig = go.Figure()
     per_df = per_df[order_of_stacks]
-
+    
     for i in per_df.columns:
         fig.add_trace(go.Bar(name=i,x=per_df.index, y=per_df[i], text=[f'{val}%' for val in per_df[i]], marker={'color':colors[i]}))
 
@@ -209,9 +213,9 @@ def percentage_stackedcharts(data, title='', order_of_axes=[], order_of_stacks=[
     if order_of_axes == []:
         fig.update_layout(yaxis={'categoryorder':'total ascending'})
     else:
-        fig.update_xaxes(categoryorder='array', categoryarray = order_of_axes)
+        fig.update_xaxes(categoryorder='array', categoryarray = order_of_axes, tickangle=90)
     fig.write_image(title+'.svg')
-    return fig.show()
+    return fig
 ##### Wordcloud
 ##### Wordcloud
 def wordcloud(series,extra_stopwords=[]):
@@ -227,10 +231,29 @@ def wordcloud(series,extra_stopwords=[]):
     wc_image = WordCloud(stopwords=stopwords_new, background_color='white', width=600, height=600, random_state=4).generate(input)
     plt.imshow(wc_image)
     plt.tight_layout()
-    plt.title(series.name)
+    plt.title("\n".join(wrap(series.name, 40)))
     plt.axis('off')
     plt.savefig('Image-' +series.name+ '.svg')
-#### Sunburst chart
+    return 
+#worcloud with 50 words 
+def wordcloud_50(series,extra_stopwords=[]):
+    """
+    Makes a wordcloud based on the words in a given column
+    Parameters:
+    series: pd.Series. A dataframe column
+    extra_stopwords: list of words that needs to be removed from the wordcloud
+    """
+    input = ''.join(series.str.lower().str.split().dropna(how='all').astype(str).str.replace(r'[-./?!,":;()\']',' ')) #splitting the strings and replacing the spaces or special characters
+    words_to_remove = series.name.split()
+    stopwords_new = words_to_remove + list(STOPWORDS) + extra_stopwords
+    wc_image = WordCloud(stopwords=stopwords_new,max_words=50, background_color='white', width=600, height=600, random_state=4).generate(input)
+    plt.imshow(wc_image)
+    plt.tight_layout()
+    plt.title(series.name)
+    plt.axis('off')
+    plt.savefig('Image-50' +series.name+ '.svg')
+    return
+
 #### Sunburst chart
 def sunburst(df, order_list, color_column='', custom_colors={}, title=''):
     """
@@ -250,6 +273,8 @@ def sunburst(df, order_list, color_column='', custom_colors={}, title=''):
     fig.update_traces(textinfo="label+percent parent", insidetextorientation = 'radial')
     fig.update_layout(title=title, title_x=0.5, font=dict(family='Helvetica', color="Black", size=16))
     fig.write_image(title+'.svg')
+    fig.write_image(title+'.png')
+    return fig 
 ##### Creating CSVs for ngrams
 def ngrams(series, range=(), name=''):
     """
@@ -297,9 +322,11 @@ def word_counts(series, synonym_dict={}, title=''):
 
     fig = go.Figure()
 
-    fig.add_trace(go.Bar(x=df.index, y=df.counts, text=df.counts))
-    fig.update_layout(title=title, title_x=0.5, width = 500, height=500, showlegend=False)
-    fig.update_xaxes(categoryorder='total descending')
-    fig.update_layout(width=500, height=500, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+    fig= px.bar(y=df.index, x=df.counts, text=df.counts, labels={' ':'counts', 'y':''}, orientation='h')
+    fig.update_layout(title=title, title_x=0.5, width = 500, height=700, showlegend=False)
+    fig.update_yaxes(categoryorder='total ascending')
+    fig.update_xaxes(title='Counts')
+    fig.update_layout(width=500, height=600, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 
     fig.write_image(title+'.svg')
+    return fig 
