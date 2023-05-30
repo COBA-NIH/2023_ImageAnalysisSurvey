@@ -1,6 +1,6 @@
-kaleido
-pandas
-plotly
-scikit-learn
-streamlit
-wordcloud
+kaleido==0.1.0.post1
+pandas==1.4.4
+plotly==5.9.0
+scikit-learn==1.0.2
+streamlit==1.22.0
+wordcloud==1.8.2.2
