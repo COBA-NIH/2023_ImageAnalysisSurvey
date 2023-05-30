@@ -99,10 +99,10 @@ role_val_counts=role_val_counts.reset_index()
 print(role_val_counts.columns)
 
 role_val_counts = role_val_counts.replace('Undergraduate/Graduate student', 'Student - Graduate/Undergraduate')
-role_val_counts = role_val_counts.rename(columns={'index':'role', 'Role':'counts'})
+role_val_counts = role_val_counts.rename(columns={'index':'roles', 'Role':'counts'})
 
 # pie chart for the roles of the survey participants 
-role_pie_chart = px.pie(data, values=role_val_counts['counts'], names=role_val_counts['role'], title="Role", width=800, height=500)
+role_pie_chart = px.pie(data, values=role_val_counts['counts'], names=role_val_counts['roles'], title="Role", width=800, height=500)
 role_pie_chart.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
 role_pie_chart.update_layout(title_x=0.8,title_y = 0.85, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 
