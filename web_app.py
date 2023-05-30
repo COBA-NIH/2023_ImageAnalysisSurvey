@@ -24,6 +24,7 @@ st.set_page_config(
 #reading the data file as dataframe
 url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/Bridging%20Imaging%20Users%20to%20Imaging%20Analysis%20-%202022%20(Responses)%20-%20Form%20Responses%201_copy.csv'
 data = pd.read_csv(url)
+print(data.columns)
 
 #Creating a dictionary to rename
 dict_rename = {
@@ -95,6 +96,7 @@ data.rename(columns=dict_rename, inplace=True)
 
 role_val_counts = pd.DataFrame(data.Role.value_counts())
 role_val_counts=role_val_counts.reset_index()
+print(role_val_counts.columns)
 
 role_val_counts = role_val_counts.replace('Undergraduate/Graduate student', 'Student - Graduate/Undergraduate')
 role_val_counts = role_val_counts.rename(columns={'index':'role', 'Role':'counts'})
