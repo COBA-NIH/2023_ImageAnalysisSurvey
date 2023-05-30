@@ -1,5 +1,4 @@
-kaleido==0.1.0.post1
-pandas==1.4.4
+kaleido
 plotly==5.9.0
 scikit-learn==1.0.2
 streamlit==1.22.0
