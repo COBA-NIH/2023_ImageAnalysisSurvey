@@ -1,10 +1,10 @@
-kinds,3D(<3000x3000x100),3D(largevolume),2D+time,3D+time,3Dlargevolume+time,2D
-Optical microscopy/DIC/fractography,6,5.0,12,3.0,3.0,12
-Scanning electron microscopy,4,3.0,5,,,10
-Transmission electron microscopy,5,3.0,6,1.0,1.0,13
-Spectroscopy/diffractive imaging in the SEM/TEM,3,2.0,6,1.0,,10
-Imaging with mass spectrometry,4,1.0,1,1.0,1.0,3
-X-ray microscopy,5,6.0,2,3.0,4.0,2
-Atomic force microscopy,2,,3,,,4
-Fluorescence microscopy,9,7.0,12,6.0,6.0,12
-Other,3,1.0,6,1.0,1.0,7
+kinds,3D(<3000x3000x100),2D,3D(largevolume),3D+time,3Dlargevolume+time,2D+time
+Optical microscopy/DIC/fractography,6,12,5.0,3.0,3.0,12
+Scanning electron microscopy,4,10,3.0,,,5
+Transmission electron microscopy,5,13,3.0,1.0,1.0,6
+Spectroscopy/diffractive imaging in the SEM/TEM,3,10,2.0,1.0,,6
+Imaging with mass spectrometry,4,3,1.0,1.0,1.0,1
+X-ray microscopy,5,2,6.0,3.0,4.0,2
+Atomic force microscopy,2,4,,,,3
+Fluorescence microscopy,9,12,7.0,6.0,6.0,12
+Other,3,7,1.0,1.0,1.0,6

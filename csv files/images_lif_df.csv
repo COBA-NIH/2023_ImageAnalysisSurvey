@@ -1,12 +1,12 @@
-kinds,3D(<3000x3000x100),3D(SPIM/largevolume),2D+time,3D+time,3Dlargevolume+time,2D
-Brightfield/DIC/phase-contrast manually acquired,45,9.0,145,44,11,188
-Brightfield/DIC/phase-contrast automated,22,4.0,100,28,5,112
-Fluorescent images manually acquired,241,78.0,200,185,70,254
-Fluorescent images automated,105,33.0,122,100,36,158
-Histological tissue sections,33,11.0,16,9,4,195
-Electron microscopy,46,28.0,8,10,16,110
-Imaging mass spectrometry,4,,1,2,1,27
-Imaging flow cytometry,3,1.0,4,3,2,21
-Superresolution (PALM/STORM),53,11.0,42,27,11,77
-Autofluorescence imaging (ie FLIM),17,2.0,34,19,3,45
-Other,22,8.0,14,15,9,21
+kinds,3D(<3000x3000x100),2D,3D+time,3Dlargevolume+time,3D(SPIM/largevolume),2D+time
+Brightfield/DIC/phase-contrast manually acquired,45,188,44,11,9.0,145
+Brightfield/DIC/phase-contrast automated,22,112,28,5,4.0,100
+Fluorescent images manually acquired,241,254,185,70,78.0,200
+Fluorescent images automated,105,158,100,36,33.0,122
+Histological tissue sections,33,195,9,4,11.0,16
+Electron microscopy,46,110,10,16,28.0,8
+Imaging mass spectrometry,4,27,2,1,,1
+Imaging flow cytometry,3,21,3,2,1.0,4
+Superresolution (PALM/STORM),53,77,27,11,11.0,42
+Autofluorescence imaging (ie FLIM),17,45,19,3,2.0,34
+Other,22,21,15,9,8.0,14
