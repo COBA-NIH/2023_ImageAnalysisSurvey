@@ -1,0 +1,33 @@
+,Users role - Imaging,Work type
+23,learn basic coding in order to be able to adapt existing tools to specific needs,Imaging
+28,Contact image analysis specialist before doing the experiment ,Imaging
+80,helpful checklist of simple best practise that is not too onerous?,Imaging
+92,reproducibility,Imaging
+104,Maybe creating a basic package tool to learn in courses,Imaging
+138,practice,Imaging
+146,Document and annotate workflows. Keep some example data with processing workflow for future reference.,Imaging
+165,First do imaging right,Imaging
+173,communicate with developers,Imaging
+192,"Discuss image analysis needs/problems, or desirable workflows",Imaging
+200,Not sure there,Imaging
+207,write full methods desrciptions within publications. Make published data available,Imaging
+216,Pay more attention to dynamic range than what looks pretty to human eyes,Imaging
+219,engage more from the start of experiments. ,Imaging
+229,"incorporation/maintenance of metadata in image files, reporting of methods used",Imaging
+231,Better experimental design and replication. Discuss experiments / best practice guidelines for standard preparations prior to starting.,Imaging
+249,Learn more about the physics and other principals behind imaging to understand potential sources of problems or misleading data. Ideally integrate it more with life science education,Imaging
+256,improve dialogue with creators,Imaging
+261,Report the use of the tools and feedback to developers/creators,Imaging
+270," learn basics of image analysis, participate in workshops etc. ",Imaging
+282,Consider analysis needs before starting data collection!! ,Imaging
+335,Be less willing to use badly designed GUIs and half baked solutions,Imaging
+355,clearer best practices and staining + imaging guidelines ,Imaging
+361,Keep informed of new developments,Imaging
+364,"by creating a common and large platform where several distinct imaging topics or problems,  analyzed by any software, plugins, etc, could be posted as examples, so that they can be used as a guidance by us, the users, to solve our own imaging problems. ",Imaging
+382,"Plan experiments better to obtain data that can be analyzed. Have clear questions that need answers and clear reasons why existing tools are sufficient. Users also need to be more flexible (e.g., learning basic Python or Matlab and be able to run annotated code). ",Imaging
+399,"provide ""bad"" images for software testing, not only the images we are proud of",Imaging
+429,Experiences users can share their expertise at conferences/workshops. Students perhaps can compete for best tutorial?,Imaging
+443,Pilot test an imaging protocol can be used to confirm the desired information can be extracted.,Imaging
+446,Start thinking on image acquisition if aiming for image analysis or just a nice image. Set ups are quite different and sometimes you acquire a data set that is not fir for purpose for image analysis,Imaging
+461,"understand basic coding tasks, educated developers on the limitations of the imaging technique",Imaging
+466,Interact with creators to better inform on analysis outputs ,Imaging

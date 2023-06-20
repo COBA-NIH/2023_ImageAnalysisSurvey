@@ -1,0 +1,44 @@
+,Users role - Analyst,Work type
+4,"Understand what a traceback is/how to properly describe an issue with the software (don't just say, ""it didn't work"").",Analyst
+10,"Users could contribute to step-by-step guides, use cases, videos, webinars etc, but from a user perspective. Also, it is invaluable to see data analysis workflows applied to new data - so users sharing their data and testing workflows on their data is incredibly useful.",Analyst
+12,Being asked about the reproducible way of analyzing their images in submitting papers.,Analyst
+15,Give constructive feedback to the forum and developers,Analyst
+19,Staying up to date with current techniques. Showcasing possibilities and use-cases.,Analyst
+22,"Basic image analysis training, understanding of fundamental theory",Analyst
+30,We should give analysis tool users guidelines and make it easy for them to organize their data and include experiment and microscope information.,Analyst
+31,Report their use case.,Analyst
+45,Learn some scripting,Analyst
+46,"Learn the basics, learn scripting",Analyst
+60,share our data so they have something to test it on,Analyst
+71,"I wish there was a better ""practical knowledge"" guide I could hand to the experimentalists and clinicians who collect data I'm tasked with analyzing - topics like avoiding overlap in events you'd like to quantifying (cell density), adjusting microscope settings so that no pixel values equal 255, choosing appropriate image resolution, and reducing noise and background in images. In my own work, I'm trying to include a ""tips and tricks from the developers"" sort of guide. I also think that we as developers should encourage reaching out for help - image.sc is great for this. I've helped researchers who have already taken months of poor-quality data by the time they get to me, and it would have been easier to help them if I could have guided them to take high-quality images first.",Analyst
+81,Learn how to report bugs/errors and how to ask for help,Analyst
+83,"Seek out help from the imaging community on the image.sc forums, (but they first have to discover the forums!)",Analyst
+97,"closely collaborate with image analysts (for example discuss preliminary results ), so situations can be avoided where images are generated that are insufficient to analyze. learn about the image analysis tools and processes (sessions with image analysts) to gain an understanding of the available tools",Analyst
+119,"Make the tool easy to understand and fun to use! 
+direct working email contact for queries",Analyst
+124,"Tell us what problems need solving, what questions they have, what they want to accomplish",Analyst
+131,understanding fundamental principles first,Analyst
+149,"Users should learn more about basics of images such as what is a pixel, resolution, bit depth etc. These should be included in the microscopy training. ",Analyst
+155,N A,Analyst
+167,Communicate more with the devs,Analyst
+210,Speak to developers about needs etc. Stop reinventing the wheel. Communication via strong community,Analyst
+212,learn the basics and meaning of what is an image,Analyst
+233,"Giving feedback to developers about issues/problems - not everybody dares to and at times the feedback is in a format that does not help the developer identify what the problem might be, i.e. saying ""it does not work"". Then it is difficult to delineate between user error and genuine problems (hardware, software bug, file format). ",Analyst
+240,"Make every effort to avoid manual thresholding/selections/counting and other potential sources of bias. Think critically about appropriateness of certain image processing and analysis tools. Appropriately use the quantitative range of their camera/detector and the highest bit depth available, and stop exporting images in formats that lose data. Report processing and analysis methods thoroughly in publications.",Analyst
+265,"Especially in materials science microscopy we need more raw and annotated data sharing. It is almost non-existent! Dedicated portals for uploading data would be useful, but more broadly a culture of sharing must be fostered.",Analyst
+275,"Standardise imaging conditions - too often given images with varying settings (e.g. exposures, laser powers, channel orders)",Analyst
+276,Thinking about the analysis stage when they're planning their experiments,Analyst
+303,Add more image analysis code/pipelines to repositories (ie GitHub),Analyst
+363,"Interact with the developers and community, Ask detailed questions , report bugs , ask for features.   Cite software !  Publish detailed description of worflows and make the scripts/macros available
+
+Encourage by teaching, talks at comferences , guidelines by journals",Analyst
+404,"Be mindful of minimum image resolution and SNR required for successful use of a tool. Understand how to read documentation, and issues open/closed on github to troubleshoot first.",Analyst
+405,Attend image analysis seminars/tutorials/workshops,Analyst
+409,Workshops probably 3-4 times a year reared to image analysis relevant to different fields.,Analyst
+410,"Read the manual, learn how to search for information, don't put oil on dry objectives :-(",Analyst
+413,Video recordings of their successful analysis.,Analyst
+432,Accurately understand the tool they're using rather than applying it blindly...,Analyst
+434,"Realize that it's an iterative process, not unlike any other experiment.  Many users think there is going to be a solution out of the box, and they'll never have to optimize their image acquisition",Analyst
+458,"You can try to add a new tool-button ""problem"". Its function is to send all actions that were made by the user in the session to programmers. You can add a pop-up dialog box ""what is not working? What did you want to get?"" . It is possible to limit the effect of this function: the session is recorded only after it is pressed.",Analyst
+465,-,Analyst
+487,Users should also make how to videos. It's difficult from the creator side to see how the users might struggle. Users could post to more general sites like reddit or youtube. Legitimate Awards for users that distribute / post content that they could include on CVs.   ,Analyst

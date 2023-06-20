@@ -1,0 +1,48 @@
+,Creators role-Analyst,Work type
+4,Better/more interactions with users.,Analyst
+10,"Personally, I'd suggest more financial and time support for creators to produce step-by-step guides, use cases, videos, webinars etc",Analyst
+15,Find a common way communicating to users not experienced in programming or algorithms (simple language),Analyst
+19,"""idiot-proof"" code/notebooks with over-abundant annotations",Analyst
+22,Better documentation,Analyst
+30,Include better documentation and focus on improving existing software instead of only creating new software.,Analyst
+31,"I'm always interested in visualising the results in a meaningful way. And step by step written examples of how to analyse this or that. Multiple different examples. Most of the time I'm using a new tool, I just want to do something simple and quick, so I don't want to spend hours understanding everything about the software. ",Analyst
+45,"Focus on making their software beginner-friendly, funding for UX work",Analyst
+46,"Better tutorials, documentation; easier to use software; intuitive graphical user interfaces",Analyst
+58,Can we talk to them?,Analyst
+60,funding for tutorials and online learning,Analyst
+71,"I see a need for more standalone tools, especially in medicine-adjacent fields - I design tools for clinicians who have no hope of learning any kind of scripting but whose work could really benefit from more quantitative analysis. I also see a need for tools that give interpretable metrics related to a specific experiment workflow - e.g., I design hematology tools, so adaptations of computer vision that calculate blood flow velocity profiles. I think a major component of developing standalone tools is something that's interactive - perhaps workshops on designing a successful user interface experience would be useful?",Analyst
+81,Fund them properly (and long term!) to allow for stuff like writing documentation and being available for help ,Analyst
+83,"We need a better central repository of the catalog of imaging tools. Ideally prominently connected to the GUIs of ImageJ and Napari. More like an ""App Store"" for the various tools, with good searchability and filtering to find exactly the tools you want. Also, documentation is key.
+",Analyst
+97,share functions between software to minimize switching environments,Analyst
+119,"step by step image analysis tutorial with basic to advance analysis
+'Help' section could be more in layman language when introducing the functions of the software.",Analyst
+124,More GUIs and less coding/scripting for beginners,Analyst
+131,gui is the key,Analyst
+149,"I think creators are doing a good job when they know the biological relevance. If biology is forgotten, analysis often is compromised. ",Analyst
+155,N A,Analyst
+163,Better instructions/help pages,Analyst
+167,Build a repository of available tools,Analyst
+210,"Lowest possible initial barriers, e.g. installation",Analyst
+212,tools that are understandable and easy to apply for regular users,Analyst
+233,Things that are not supported anymore should disappear from the options list. Things that are actively supported should be easily identifiable (easier with the forum.image.sc these days),Analyst
+240,"Keep lowering the learning curve for accessibility to serious/high-throighput analysis tools (e.g. graphical interfaces instead of scripting). Stop trying to replace everything with AI, instead expand opportunities to integrate AI tools with conventional methods (with proper controls and QC).",Analyst
+265,"There are many interesting applications of Deep Learning, but usually I am interested in evergreen problems of separating features of interest. These could be bones, cells, layers of a battery, etc. It is exciting to do what is new, but recognize that the 'old' problems are still here and troublesome for non-experts. If a Deep Learning tool is a better fit, say so in plain language and try to make the barrier to entry as low as possible. Explain what steps are needed to install the tool and do not assume that the end user is also versed in how to install custom code through pip/conda/apt/brew, etc.",Analyst
+276,"Providing access to source code and good documentation would help a lot, lots of time is spent trying to figure out coding options for specific software (more often commercial than open-source)",Analyst
+303,"Better documentation/examples of final results from image analysis, describe how to interface outputs from image analysis with commonly used statistical analysis software (PRISM, MATLAB, R, etc.)",Analyst
+360,"Consistently posting code with papers, making that a requirement for image analysis-based papers at journals",Analyst
+363,"Open access, good documentation, webinars, training workshops, join and be active on image.sc !  Long-term Maintanance and bug fix , interact with users for usability and requested features ",Analyst
+401,coat their tools with a user-friendly GUI and expansive documentation,Analyst
+404,Clear documentation. Ensure working solutions are uploaded to github with clear requirements and small example dataset for troubleshooting.,Analyst
+405,Provide an example dataset and step-by-step instructions for getting the results,Analyst
+409,"Every software developer should mail the users asking about the kind of development they want after every period of 4 months. Also, the developers should remain active to answer all the questions of the customers at any time. Of possible the developers of a particular software should held workshops twice a year to let people know how their software works or how we can do different different image analysis with their softwares.",Analyst
+410,"Solving API / UX / UI issues pointed out by users. Users have expectation of how the tools *should* behave, and unresolved issues can lead to a lot of frustration and absolute dread towards using the  tools (e.g. Visiopharm)",Analyst
+413,Simplify their tools and make video tutorials. ,Analyst
+420,find out and play with varied use cases aside from maybe typical ones such as DAPI staining quantification or something that's relatively common; expand the toolbox of functions your tool may have,Analyst
+432,Commenting code properly so others can understand accurately how it works. ,Analyst
+434,"Try to make more things interoperable, as opposed to reinventing the wheel to get a paper out",Analyst
+455,Graphical User Interface for software,Analyst
+458,"Direct communication with experimenters. It is necessary to create common teams: at least one programmer must always be on the team, in any research.",Analyst
+465,image normalization or standardization (like a  DICOM standard),Analyst
+477,make everything pip installable,Analyst
+487,"Make good videos demonstrating actual use. Videos with careful demonstrations of the programming setups required - for those of us that can code, but are not great at it. Well organized FAQs-like web pages for ""I have this problem, I would like to do this"" with some kind of breakdown of coding that is required.",Analyst

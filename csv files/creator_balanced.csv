@@ -1,0 +1,170 @@
+,Creators role- Balanced,Work type
+3,More extensive explanation of software options and resources regarding how to select the best ones for various scenarios,Balanced
+11,Better tutorials ,Balanced
+13,"Please create better GUI in open-source software. It is still not competitive than commercial ones in this regard. Also optimize for for large data sets,.",Balanced
+17,Softwares based in machine learning  that do not require high programming skills,Balanced
+25,Identify the steps that take the most time in common workflows by wet lab biologists and recursively try to speed then up.,Balanced
+27,Provide more information walking through how to use the software instead of just throwing things on github without much documentation.,Balanced
+29,"Have a forum where users can submit feedback, give better access to training. ",Balanced
+33,"Every commecial software (imaris,volocity) that I have used could be 100x more user friendly. It;s also often difficult to adapt one solution to another problem - eg: tool X will find and track nuclei but not Golgi complex. (I understand why this is the case, but not everyone wants to track nuclei!)",Balanced
+34,"Have open source software instead of Matlab, have intuitive GUIs or stand alone pakages, have Napari working equally well as installable unit as is cellprofiler.  ",Balanced
+36,"Better tutorials with pictures, explaining terms they use in the software and letting it get tested by users ",Balanced
+38,More public deposition of benchmark open-access datasets to use for QA/model calibration by (re)users. ,Balanced
+39,work directly with the intended users (biologists) to see what mistakes are commonly made and what features are commonly wanted. ,Balanced
+40,Most are actively engaging users. Examples to learn from are Pete Bankhead (QuPath),Balanced
+48,"Money. E.g. permanent staff funding for image analysis attached to microscopy cores or HPCs, more mechanisms like Chan Zuckerberg to improve and maintain code, support venues for publication of significant releases (difficult as subsequent release often seen as lacking novelty)",Balanced
+49,More tutorials for the users,Balanced
+52,They should keep in mind that many life scientists are not too comfortable with coding.  ,Balanced
+54,Perhaps publish how to articles?,Balanced
+56,"Grants/awards/recognition/speaking opportunities. There are a lot of resources available, but I think creators need to be incentivized to make the code user friendly or port their code to a FIJI/ImageJ addon",Balanced
+59,"Everything that overcomes initial barriers for users, such as intuitive GUIs and interactive/video tutorials. ",Balanced
+62,better users interfaces and better step-by-step sheets,Balanced
+63,"Relatable terms to end users, as in Find Nuclei, Define Cytoplasm. Not everyone wants to get knee deep into understanding what is going on behind the scenes or knows the names of segmentation/filtering algorithms by heart. Also previews of the different outputs that might come out from a particular pipeline/analysis.",Balanced
+64,"Have idiot-proof guides and help pages to support beginners in using their tool. If there was proper credit given to a developer for a plugin for example (I mean authorship, clear from the start), it might help.",Balanced
+65,Improve utilization of CPU multithreading and GPU wherever possible!,Balanced
+66,"Make it AS EASY AS POSSIBLE to download/use.  I can't tell you the number of cell biologists I know who have shunned amazing computational tools because they couldn't figure out how to even get the program to open on their computer.  It's so frustrating.  If you need to go onto github to download it and the instructions are even remotely complicated, you have just lost a huge fraction of your potential audience.  Once the obstacle to use is lowered, people will invest time.  Also, youtube tutorials from creators would be great. These can show off different features of the tool.  ",Balanced
+67,"Tools need to have user friendly interfaces for non-coding scientists, but should also have hackable APIs/macro languages/scripting interfaces so that coding scientists can extend them. Best practices around separating processing workflow from UI elements should be encouraged. Easy interfaces to standard scripting languages should be promoted more heavily",Balanced
+68,"Test data, examples, step by step guide",Balanced
+70,"easier automation in fiji, e.g. a plugin that applies a workflow on a folder, similar to cellprofiler",Balanced
+75,Jupyter notebooks and horrible to install plugins and github links are not appropriate for general audiences. That's why software that works out of the box from companies hasn't died yet. ,Balanced
+76,Collaborate with scientists and imaging core facilities directly to help developing tools where they are needed. ,Balanced
+77,"Tools that only work for a publication won't be used further, tools should be easy to find, friendly to use and to tweak for the user's own problem. Written tutorials in detail or links to video tutorials are very useful. Including common errors and how to avoid them is very helpful too. These tools should be well cited to encourage creators to do all this work for the users.",Balanced
+78,by providing detail pipeline and ease to use those pipeline can make any analysis tool more better,Balanced
+79,The best analysis is achieved when image acquisition and analysis technique are optimised together in an iterative process. You need to stop students going off and acquiring a tonne of data before they’ve thought how to analyse it. Lost count of the number of times I’ve been presented with large data sets and asked how to analyse it - it’s already too late for anything other than manual tracking at that point.,Balanced
+82,"user friendly documentation. Because many users are NOT programmers, some documentation does not really explain what the tools do well.",Balanced
+84,Know more precise about the needs from users and fix the bug promptly,Balanced
+85,"Be scientists. Lacking that, spend a couple days a month for a year trying to deal with the mess that is imaging data and the wonky tools we have to deal with them.",Balanced
+89,robust segmentation and easy ways of testing/ visualising while writing analysis scripts,Balanced
+93,"Often the image analyssi papers are rpetty hadrcore and teh code can be challenging to use for non-experts - would be super helpful if these could be made more accessible, recognising that you should not need to be a coding expert to use these tools!",Balanced
+98,One thing that is difficult for users is to navigate the vastness of this field. It would be great to have a place where one could look and see which tools are available for each problem and what are the specifics/advantages/drawbacks of each tool.,Balanced
+106,"Sharing the code (open source), conducting workshops/ courses.",Balanced
+109,Adopt common language for I.A. processes. ,Balanced
+113,Good idea - not sure how to encourage it - find funding....,Balanced
+114,These complex processes have to be explained well with examples and tutorials on relevant specimen (not an ideal specimen),Balanced
+116,foster a more interdisciplinary network between developers and biologist and microscopists  to help them 'speak the same language',Balanced
+118,Better integration of lossless image compression tools to allow for opening and storage of massive images on relatively light software. ,Balanced
+120,"Stop making so many new tools.  Everybody seems to think their tool is better than everybody else's.  For instance, I've played with Napair and it's not better; it's just distracting from tools like ImageJ.",Balanced
+123,"Emphasize inputs and outputs. What data types go in? What modalities are recommended? What formats can you handle, and what formats can be output. What other software can you link up with.",Balanced
+126,make it more user friendly/packaged for non-coding people (microscopists only),Balanced
+130,"Better documentation, GUIs with intuitive design ",Balanced
+132,Make it less dependent on scripting - intuitive software that works without needing to know programming,Balanced
+141,talk to people totally new to the field (e.g. teach undergrad course),Balanced
+144,"Community engagement is incredibly helpful, I think. I've had great experiences being able to interact with people who develop napari, for instance, they are really responsive and helpful. My impression is that a lot of people who develop these tools want them to be successful and used by many people, but they don't always have the money and resources to make them the best they can be. I think pushing institutions to recognize how dedicated image analysts and contributing to open source can help everyone so that they will fund it and make positions along those lines would be good, but maybe that's a pipe dream.",Balanced
+147,Clear instructions for use and limitations (i.e. if it will definitely not work on a certain image type),Balanced
+150,Manage to facilitate access to the solutions,Balanced
+151,clear tutorials/instructions and user-friendly GUI,Balanced
+152,Better documentation and keep it updated; for open source software continuation is sometime a problem; ,Balanced
+161," More instructions and manuals! ~ There is a BIG learning gap for someone with no background in computing in being able to understand what developers are talking about in their read me files. Understandably it isn't their job to teach, but it would certainly help bridge the gap if there were more accessible and detailed descriptions.
+
+ Active community for answering difficult questions.",Balanced
+166,"Docs and easy to run examples (notebooks, sample data, etc.)",Balanced
+170,Embrace open file formats. Not sure how to persuade them...,Balanced
+172,much better and clearer documentation that is up to date. providing with training datasets where you can detect mistakes/errors during learning,Balanced
+175,"Make it easier to install python - sort of joking, sort of not - part of the reason Matlab was great was because it was a stable environment where most things were always forward and backward compatible - didn't depend very much on what version you were using (which libraries would work with what version, etc.). But I don't think there is really any hope of achieving this. Also - for the novice image analysts I train - help files/text written in plain English with no image analysis or programming jargon. Finally - better cross-compatibility between analysis platforms - i.e. the ability to link multiple steps in a pipeline that take place in different programs.",Balanced
+178,manuals,Balanced
+180,"Make the software userfriendly, have one common image format",Balanced
+182,sharing data and software when its not perfect! Talking to each other about software. Platforms/persuasion to co-develop software. Encouragement to develop online and openly so people aren't doing the same thing at the same time separately. ,Balanced
+185,"Step by step manual for processing images
+And step by step hardware dealing",Balanced
+186,"May be, not always.",Balanced
+190,"Make it simpler to learn how functions work and, most important , provide a way to test that your images satisfy the assumptions underlying functions. ",Balanced
+195,Make them accessible to non coders (e.g. through Napari),Balanced
+204,"I'm annoyed whenever I see resources being devoted to creating one-off software solutions (""islands"") when it could have been trivially implemented through Fiji/CellProfiler.",Balanced
+206,"I think a lot of creators already are highly active in the community and do a lot to make analysis better (added features, helping users with problems etc.). The image.sc forum is a valuable resource for this purpose and I would encourage software creators to announce software via the forum and offer advice/support via that medium also.",Balanced
+208,Assume *complete* lack of computing knowledge from the user,Balanced
+211,A solution easy to use in FIJI or Napari (use DL model). documentation on youtube,Balanced
+215,"With analysis software, the most off putting thing is when the options window pops up with a bunch of parameters that mean nothing to you. Each parameter should have a lil ? button which provides a link to what this means. More integration of statistical analysis. Biologists love a slide bar. *everyone loves a slide bar. Particularly with real-time update of what happens to the analysis in response to changing said parameter. ",Balanced
+217,"Package things so that the installation is easier, document tools with users in mind (not other developers) ",Balanced
+222,encourage with dedicated funding,Balanced
+225,publish open access papers,Balanced
+230,"1. For point-and-click tools - introduce ""recording"" functions. This would allow improve reproducibility of analysis and from these recorded macros/scripts creators might see how actually end-users apply their tools. 2. Provide a sample scripts / pipelines for some generic analysis. 3. Provide an workflow for results validation (especially for high-throughput tools)",Balanced
+234,Be more open for communication and work with (not for) others to build on their software to stop others reinventing the wheel.,Balanced
+235,Co-authorship ,Balanced
+236,"we need better tutorials with multiple examples of how the software can be used. Ideally, step-by-step tutorials.",Balanced
+239,"Keep things logical, with displayed parameters so users actually know what is going on.  Make an easy way for pipelines to be carried out on similar datasets.  ",Balanced
+245,Standardizing image formats and integrations between softwares would be very helpful.,Balanced
+247,"THIS is a critical point - creators often underestimate how intimidating any ANY coding is for biologists. Simple slip-ups (dependencies, file types etc) are trivial for creators but are game-enders for biologists. It is imperative that documentation (thorough AND updated) + videos + trials (best case AND troublesome data) + caveats/assumptions is included. Be crystal clear of what the inputs/variables and arguments are, and how they alter outputs. Encouragement = have more people use your work! If in industry, please be honest with your users re. capabilities, and have clear agreements re. deliverables if developing something new.",Balanced
+251,GUI,Balanced
+252,User-friendly interfaces are always helpful.,Balanced
+254,"More tutorials, help lines ",Balanced
+257,"Make things open source, in proprietary software make API to integrate user written scripts ",Balanced
+259,"Understanding the needs of the customer is key, but there needs to be a commercial incentive to do it.",Balanced
+262,"I like it when 'basic users' can train a model, then hand over the 'scaling' to an experienced user",Balanced
+266,"They must understand the problems that experimenters need to solve inpractical and contextual detail and not make tools that solve 'problems' they think exist (just because they can 'solve' them) without such background. Also, good documentation and open source.",Balanced
+267,Look at different scientific disciplines for opportunities.,Balanced
+271,Explain the impact of each step/filter on the image with a preview and correction steps,Balanced
+274,Engage with pathologists,Balanced
+278,Make the tutorials more accessible for people without compsci backgrounds. ,Balanced
+279,more user guides to analysis and software outputs,Balanced
+284,"Good supporting information, tutorials available on how features can be used.",Balanced
+288,Be User Friendly,Balanced
+291,GUI with explanations similar to PRISM for statistics,Balanced
+292,Provide training to facility staff as they can train researchers at the institute. Like a positive pyramide scheme,Balanced
+294,"I think there should be easy ways of going between different platforms - MATLAB/Python interfacing with ImageJ, for instance. Certain things are easier and more visual in ImageJ (like drawing regions of interest). Writing complicated analysis code and batch processing is much easier in MATLAB, in my opinion. And certain things like DeepLabCut selectively work in Python. If there were ways to easily import and process images between these softwares, I think it would facilitate testing out new analysis plugins, for example.
+I don't know how to encourage developers to do this, unfortunately. 😅 But maybe getting funds to specifically hire interdisciplinary team of both biologists/experimentalists and computer scientists to work on this would help.",Balanced
+300,Use more accessible language and more comprehensive tutorials,Balanced
+304,Wygiwys approach,Balanced
+309,Have examples of real world data sets when developing analysis tools,Balanced
+310,basically just streamlining it for people w/o comp background,Balanced
+311,"Create more intuitive GUIs. For that, a very good QA is needed, which will most likely not happen because there's not enough money for it",Balanced
+314,More software being open source would be great - so much of what is done in my field is so specific to individual experiments/to wet lab conditions that modularity and ability to mod are great.,Balanced
+318,Better documentation on the parameters that could be changed (vs what is ok to keep on default),Balanced
+323,"Hard to find generalizable solutions...since I'm not a programmer, it's hard to find someone interested in my specific problem (which is partly why we rely on imaris)",Balanced
+324,Comunication with scientific community to create easy to follow pipelines or GUI,Balanced
+325,More interactive/easy to use manuals,Balanced
+328,"Advertise beta versions so they can be user tested, facilitate communication between creators and users (helplines ?) ",Balanced
+330,Very elaborate protocols including justifications for dummies. This is very useful for end-users with little to no coding knowledge. ,Balanced
+332,"For Python tools specifically, I see a lot of YouTube videos showing the POWER of certain tools (e.g., look at all these cool things we can do in Napari), but very few videos showing step by step tutorials to access the power of these tools. Specifically, lets's download Anaconda, make an environment, install napari and plugin libraries, open a shared datasets, and apply these tools step by step (a channel producing content like this in the deep learning sphere is youtube.com/c/NicholasRenotte). 
+
+IMO Robert Haase has by far the best step by step tutorials (notebooks) for new users, but if anybody is feeling outgoing, equivalent YouTube videos  would I think be quite popular in the imaging community. ",Balanced
+334,menu driven scripting to overcome coding inability,Balanced
+336,Have dedicated personnel contributing to image.sc forums for active iteration and quick responses and discussions,Balanced
+339,Ease of use for UI for better experience for all users of all levels,Balanced
+340,Make new FIJI plugins compatible with macros for batch processing.,Balanced
+349,"Underdocumentation is the norm and docs rarely keep pace with software versions. Text/video tutorials today are much better than what came before, though, and the trend is in the right direction. For ML approaches requiring sorting out GPU/driver/library cross compatibility, it would be amazing to adopt one cross platform standard to be stable for 2 years at a time. Colab notebooks are a good step in the right direction there but have their own drawbacks.",Balanced
+352,More online training and practical workshops such as what ORS has done over the past 2 years.,Balanced
+356,"clearly define what biological questions can be answered from each tool. ImageJ contains hundreds of plugins and unless you know exactly what you find, you cannot just browse",Balanced
+372,more automation and prepackaged programs,Balanced
+377,"Obviously, making their software free to use, but that's asking a lot. I think if there's a ""standard"" set of images for applications (like live cell image, fluorescent cell tracking, stain-free segmentation, etc), would be cool for different softwares to show their set-up time, runtime, and results. But obviously this is also from the perspective of an academic.",Balanced
+378,"Everything in this field is better and more successful if it is more broadly and universally applicable. Best encouragement (aside from money) to creators is to include them as co-authors, give kudos, generate awareness, applaud them openly, include them (and their salaries) in grant proposals, treat them not as providers of tools, but as high level partners at equal footing with the biological scientific side of the study.",Balanced
+379,"Better explanations of the different tools and features, and improved computational efficiency ",Balanced
+380,Have an open-source published website or document that contains the basic step-by-step analysis ,Balanced
+386,"Write clear, step-by-step guides",Balanced
+390,Easier to install,Balanced
+392,alternative to 75K MBF system for stereology,Balanced
+395,Sometimes difficult to get certain (Python) packages working - more instructions here would help.,Balanced
+396,Enable better comparison between the numerous tools,Balanced
+400,"spend time looking at real-world data, collected using the techniques researchers have to use (e.g., genetic cell fills can create images with beautifully high SNR, but depending on biological organism, age, target, or other esoteric challenges, not all researchers can use this technique); as a user of existing tools and a developer (when I have to), I like to see open formats and transparency vis a vis algorithms
+ideally, have the developers spend some time in the lab!",Balanced
+402,Make easy manual for people who don't understand math behind an algorithm. Talk with people who are not proficient in developing.,Balanced
+407,"Standardize processes, datatypes and plugin function across the same image analysis platform.",Balanced
+411,Make the software as easy to use as possible - clear pipelines or 'recipe' setup for processing. Make it easier for us to send them $ to help fund their efforts and keep the software open and ideally out of the hands of corporations that want to make everything 'software-as-a-service' with a yearly subscription.,Balanced
+412,Better documentation and example usecases,Balanced
+414,"Be realistic about how generalised their software is. Often tools are talked about as general purpose, but don't perform well outside of the biological field (or sub-field) they were created in.",Balanced
+416,"Make pipelines easy to use, but also transparent so we know exactly what is done to analyze the images.",Balanced
+418,Generalizable tools are needed,Balanced
+421,"Write extensive documentation, provide tutorials",Balanced
+422,"Provide realistic use case scenarios (r.g., based on beta-tester feedback from field experts/potential users) and use those as backbone for manuals/vignettes. Focus on doing a few tasks well rather than trying to cover too many and facilitate modularity (compatibility with other formats/tools) for easy integration into pipelines. Then relentlessly promote that the tool excels at those tasks by getting users involved as advocates.",Balanced
+427,I think a more user friendly way of explaining the codes that are scripted or a tutorial attached with the instructions to personalise some plugins or scripts for image analysis would be helpful.,Balanced
+428,By organizing more free seminars where the understanding of the basics is stressed upon and not something specific.,Balanced
+431,Make things compatible between each others and easy to install,Balanced
+435,make it more entry level friendly with simple tutorials,Balanced
+436,This is vague but I feel like when I read the instruction manual for ImageJ it doesn't really give me a very good sense of what each command actually does. Maybe more detailed instructions?,Balanced
+441,Listen to customers! Each problem is unique. Don't question why we want to do something but to accept our feedback as strong suggestions for improving software!,Balanced
+444,Work more closely with the applications,Balanced
+451,A tighter feedback loop between developers and users,Balanced
+453,"I love a tool that has a PDF guide or youtube walk through. It is important that non-developers help generate these because not all of us have the same though process. Additionally, explaining how to NOT use said tools to prevent the misinterpretation of data. Also,  getting varied data from other similar users to make sure the tool is robust. ",Balanced
+454,Moving away from scripting to GUI tools,Balanced
+456,pay attention to usability,Balanced
+464,"Make it scriptable and make it open source. Do not reinvent the wheel - use Python. Look at NION Swift for example (written by Chris Meyer, who also wrote Digital Micrograph) as best practices. ",Balanced
+473,Better commenting of Source code + including examples on how to contribute to Code development. Making sure everything is Open Source or able to export into non-proprietory/open source formats (i.e. hdf5),Balanced
+474,Beta-test their user guides to make sure they haven't missed things that seem obvious to an expert but not to a beginner.,Balanced
+482,A good documentation about the tool ,Balanced
+483,"GUI interfaces are much easier for the uninitiated to use. Many low budget Research labs do not have access to an imaging analysis core, don't know they exist, and don't know they need one. They may get sold a high dollar software to do something very specific that can be done for free with know how. If you want your tools to really be used by experts and amateurs make your program easy to install and give it a GUI interface.",Balanced
+485,"Write tutorials and help pages in a more accessible way. The jargon currently used is very hard to understand, especially for beginners. ",Balanced
+488,"They develop so many tools, but it is easy to get lost as a user, and takes a huge amount of time to navigate all those tools, understand how they work, test them and successfuly apply them to our own image data. Perhaps is good to have video tutorials that also explain for which type of data the tool is most adequate. Even having a summary table with that would be usefull. Although the ZeroCost4Mic for example is a great initiative, written tutorials are hard to navigate through for non computational biologists. Having more videos like for example the ones that Robert Haase or that Craig Daly has on youtube would be very useful.",Balanced
+490,"Work together to unify image data management and processing pipelines (enough of having to piece together different tools and moving disconnection datasets around). 
+Reward structure 
+More funding for maintenance of software tools
+More funding for documentation
+More funding for serious image analysis remote-access help desks",Balanced
