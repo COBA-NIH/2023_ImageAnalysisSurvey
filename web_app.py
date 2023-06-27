@@ -14,7 +14,7 @@ import requests
 from io import BytesIO
 import textwrap 
 
-from utils_added import *
+from utils import *
 
 st.set_page_config(
    layout='wide',
