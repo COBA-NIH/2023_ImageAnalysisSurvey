@@ -36,9 +36,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.41614445"
-     inkscape:cx="893.48155"
-     inkscape:cy="582.36023"
+     inkscape:zoom="0.29425856"
+     inkscape:cx="383.99983"
+     inkscape:cy="1346.5936"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -147,6 +147,76 @@
          y="0.34715992"
          style="stroke-width:0.99455297" />
     </clipPath>
+    <g
+       id="g4716"
+       class="clips" />
+    <g
+       id="g4718"
+       class="gradients" />
+    <g
+       id="g4720"
+       class="patterns" />
+    <g
+       id="g5199"
+       class="clips" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5473">
+      <rect
+         id="rect5475"
+         width="403.70596"
+         height="415.72104"
+         x="55.356052"
+         y="0.086741984"
+         style="stroke-width:0.99999994" />
+    </clipPath>
+    <g
+       id="g5985"
+       class="clips" />
+    <g
+       id="g5987"
+       class="gradients" />
+    <g
+       id="g5989"
+       class="patterns" />
+    <g
+       id="g6468"
+       class="clips" />
+    <g
+       id="g7248"
+       class="clips" />
+    <g
+       id="g7250"
+       class="gradients" />
+    <g
+       id="g7252"
+       class="patterns" />
+    <g
+       id="g7731"
+       class="clips" />
+    <g
+       id="g8511"
+       class="clips" />
+    <g
+       id="g8513"
+       class="gradients" />
+    <g
+       id="g8515"
+       class="patterns" />
+    <g
+       id="g8994"
+       class="clips" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9268">
+      <rect
+         id="rect9270"
+         width="1935.4227"
+         height="1909.6172"
+         x="37.535011"
+         y="0.92173314"
+         style="stroke-width:1.08478987" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata8990">
@@ -156,131 +226,96 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g14552"
-     transform="matrix(0.26458334,0,0,0.26458334,-17.364985,0.43731394)"
-     clip-path="url(#clipPath14556)">
+     id="g9264"
+     transform="matrix(0.2522652,0,0,0.2608536,-7.3004828,1.385392)"
+     clip-path="url(#clipPath9268)">
     <rect
-       id="rect13797"
+       id="rect8509"
        style="fill:#ffffff;fill-opacity:1"
        height="2000"
        width="2000"
        y="0"
        x="0" />
     <g
-       id="g13806"
+       id="g8518"
        class="bglayer" />
     <g
-       id="g13812"
+       id="g8524"
        class="layer-below">
       <g
-         id="g13808"
+         id="g8520"
          class="imagelayer" />
       <g
-         id="g13810"
+         id="g8522"
          class="shapelayer" />
     </g>
     <g
-       id="g13814"
+       id="g8526"
        class="cartesianlayer" />
     <g
-       id="g13816"
+       id="g8528"
        class="polarlayer" />
     <g
-       id="g13818"
+       id="g8530"
        class="smithlayer" />
     <g
-       id="g13820"
+       id="g8532"
        class="ternarylayer" />
     <g
-       id="g13822"
+       id="g8534"
        class="geolayer" />
     <g
-       id="g13824"
+       id="g8536"
        class="funnelarealayer" />
     <g
-       id="g13826"
+       id="g8538"
        class="pielayer" />
     <g
-       id="g13828"
+       id="g8540"
        class="iciclelayer" />
     <g
-       id="g13830"
+       id="g8542"
        class="treemaplayer" />
     <g
-       id="g14278"
+       id="g8990"
        class="sunburstlayer">
       <g
-         id="g14276"
+         id="g8988"
          style="opacity:1;stroke-linejoin:round"
          class="trace sunburst">
         <g
-           id="g13842"
+           id="g8554"
            class="slice cursor-pointer">
           <path
-             id="path13832"
-             style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1000,990 h 306.6667 A 306.66667,306.66667 0 0 0 1126.0998,710.45878 Z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g13840"
-             class="slicetext">
-            <text
-               id="text13838"
-               transform="rotate(-32.860041,2052.7137,-1540.0346)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan13834"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Analyst</tspan>
-              <tspan
-                 id="tspan13836"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">18%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g13854"
-           class="slice cursor-pointer">
-          <path
-             id="path13844"
+             id="path8544"
              style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1000,990 126.0998,-279.54122 a 306.66667,306.66667 0 1 0 31.1653,542.81312 z"
+             d="m 1000,990 h 306.6667 a 306.66667,306.66667 0 1 0 -481.98495,251.6107 z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g13852"
+             id="g8552"
              class="slicetext">
             <text
-               id="text13850"
-               transform="translate(852.82104,976)"
+               id="text8550"
+               transform="translate(825.45017,976)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan13846"
+                 id="tspan8546"
                  y="0"
                  x="0"
                  dy="0em"
                  class="line">Balanced</tspan>
               <tspan
-                 id="tspan13848"
+                 id="tspan8548"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -289,19 +324,54 @@
           </g>
         </g>
         <g
-           id="g13866"
+           id="g8566"
            class="slice cursor-pointer">
           <path
-             id="path13856"
+             id="path8556"
+             style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1000,990 -175.31825,251.6107 a 306.66667,306.66667 0 0 0 332.58335,11.6612 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8564"
+             class="slicetext">
+            <text
+               id="text8562"
+               transform="rotate(-87.991886,1107.5766,89.972704)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8558"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Analyst</tspan>
+              <tspan
+                 id="tspan8560"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">18%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8578"
+           class="slice cursor-pointer">
+          <path
+             id="path8568"
              style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
              d="m 1000,990 157.2651,263.2719 A 306.66667,306.66667 0 0 0 1306.6667,990 Z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g13864"
+             id="g8576"
              class="slicetext">
             <text
-               id="text13862"
+               id="text8574"
                transform="rotate(29.574037,-1452.1921,2788.2163)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
@@ -309,13 +379,13 @@
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan13858"
+                 id="tspan8570"
                  y="0"
                  x="0"
                  dy="0em"
                  class="line">Imaging</tspan>
               <tspan
-                 id="tspan13860"
+                 id="tspan8572"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -324,138 +394,68 @@
           </g>
         </g>
         <g
-           id="g13878"
+           id="g8590"
            class="slice cursor-pointer">
           <path
-             id="path13868"
-             style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1306.6667,990 h 306.6666 A 613.33333,613.33333 0 0 0 1539.1166,697.54301 L 1269.5583,843.7715 A 306.66667,306.66667 0 0 1 1306.6667,990 Z"
+             id="path8580"
+             style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1306.6667,990 h 306.6666 A 613.33333,613.33333 0 0 0 401.85841,854.33714 L 700.9292,922.16857 A 306.66667,306.66667 0 0 1 1306.6667,990 Z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g13876"
+             id="g8588"
              class="slicetext">
             <text
-               id="text13874"
-               transform="rotate(-14.239351,4177.9069,-5334.8378)"
+               id="text8586"
+               transform="rotate(-83.610548,816.64506,-313.24942)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan13870"
+                 id="tspan8582"
                  y="0"
                  x="0"
                  dy="0em"
                  class="line">Medium skill</tspan>
               <tspan
-                 id="tspan13872"
+                 id="tspan8584"
                  y="0"
                  x="0"
                  dy="1.3em"
-                 class="line">43%</tspan>
+                 class="line">71%</tspan>
             </text>
           </g>
         </g>
         <g
-           id="g13890"
+           id="g8602"
            class="slice cursor-pointer">
           <path
-             id="path13880"
-             style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 1269.5583,843.7715 1539.1166,697.54301 A 613.33333,613.33333 0 0 0 1301.0082,455.61077 l -150.5041,267.19461 a 306.66667,306.66667 0 0 1 119.0542,120.96612 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g13888"
-             class="slicetext">
-            <text
-               id="text13886"
-               transform="rotate(-44.543611,1461.2558,-1281.1078)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan13882"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High skill</tspan>
-              <tspan
-                 id="tspan13884"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">49%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g13902"
-           class="slice cursor-pointer">
-          <path
-             id="path13892"
-             style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1150.5041,722.80538 150.5041,-267.19461 a 613.33333,613.33333 0 0 0 -48.8087,-24.69321 l -126.0997,279.54122 a 306.66667,306.66667 0 0 1 24.4043,12.3466 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g13900"
-             class="slicetext">
-            <text
-               id="text13898"
-               transform="matrix(0.17361511,-0.34316804,0.34316804,0.17361511,1255.2956,473.45524)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan13894"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Low skill</tspan>
-              <tspan
-                 id="tspan13896"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">8%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g13914"
-           class="slice cursor-pointer">
-          <path
-             id="path13904"
+             id="path8592"
              style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 1126.0998,710.45878 1252.1995,430.91756 A 613.33333,613.33333 0 0 0 847.24308,395.99402 l 76.37846,297.00299 a 306.66667,306.66667 0 0 1 202.47826,17.46177 z"
+             d="M 700.9292,922.16857 401.85841,854.33714 a 613.33333,613.33333 0 0 0 46.52004,403.78866 L 724.18922,1124.0629 A 306.66667,306.66667 0 0 1 700.9292,922.16857 Z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g13912"
+             id="g8600"
              class="slicetext">
             <text
-               id="text13910"
-               transform="rotate(-85.070994,803.64723,-291.75688)"
+               id="text8598"
+               transform="translate(520.33161,976)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan13906"
+                 id="tspan8594"
                  y="0"
                  x="0"
                  dy="0em"
                  class="line">High skill</tspan>
               <tspan
-                 id="tspan13908"
+                 id="tspan8596"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -464,33 +464,33 @@
           </g>
         </g>
         <g
-           id="g13926"
+           id="g8614"
            class="slice cursor-pointer">
           <path
-             id="path13916"
+             id="path8604"
              style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 923.62154,692.99701 847.24308,395.99402 A 613.33333,613.33333 0 0 0 576.7944,546.06893 l 211.6028,221.96553 a 306.66667,306.66667 0 0 1 135.22434,-75.03745 z"
+             d="m 724.18922,1124.0629 -275.81077,134.0629 a 613.33333,613.33333 0 0 0 200.98506,235.0957 L 824.68175,1241.6107 A 306.66667,306.66667 0 0 1 724.18922,1124.0629 Z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g13924"
+             id="g8612"
              class="slicetext">
             <text
-               id="text13922"
-               transform="rotate(60.973631,-92.561317,949.851)"
+               id="text8610"
+               transform="rotate(-40.527383,2058.1435,-212.17129)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan13918"
+                 id="tspan8606"
                  y="0"
                  x="0"
                  dy="0em"
                  class="line">Low skill</tspan>
               <tspan
-                 id="tspan13920"
+                 id="tspan8608"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -499,173 +499,33 @@
           </g>
         </g>
         <g
-           id="g13938"
+           id="g8626"
            class="slice cursor-pointer">
           <path
-             id="path13928"
-             style="fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 788.3972,768.03446 576.7944,546.06893 a 613.33333,613.33333 0 0 0 737.7359,970.47497 l -157.2652,-263.272 A 306.66667,306.66667 0 0 1 788.3972,768.03446 Z"
+             id="path8616"
+             style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 824.68175,1241.6107 -175.31824,251.6108 a 613.33333,613.33333 0 0 0 321.33461,109.4115 l 14.65094,-306.3165 a 306.66667,306.66667 0 0 1 -160.66731,-54.7058 z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g13936"
+             id="g8624"
              class="slicetext">
             <text
-               id="text13934"
-               transform="translate(541.89571,976)"
+               id="text8622"
+               transform="rotate(-71.196755,1411.9529,125.2379)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan13930"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Medium skill</tspan>
-              <tspan
-                 id="tspan13932"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">71%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g13950"
-           class="slice cursor-pointer">
-          <path
-             id="path13940"
-             style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1157.2651,1253.2719 157.2652,263.272 a 613.33333,613.33333 0 0 0 45.6617,-30.1172 l -180.096,-248.2133 a 306.66667,306.66667 0 0 1 -22.8309,15.0585 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g13948"
-             class="slicetext">
-            <text
-               id="text13946"
-               transform="matrix(0.21027442,0.31880456,-0.31880456,0.21027442,1320.6619,1466.4562)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan13942"
+                 id="tspan8618"
                  y="0"
                  x="0"
                  dy="0em"
                  class="line">High skill</tspan>
               <tspan
-                 id="tspan13944"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">9%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g13962"
-           class="slice cursor-pointer">
-          <path
-             id="path13952"
-             style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1180.096,1238.2134 180.096,248.2133 a 613.33333,613.33333 0 0 0 108.5301,-100.8545 l -234.361,-197.7861 a 306.66667,306.66667 0 0 1 -54.2651,50.4273 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g13960"
-             class="slicetext">
-            <text
-               id="text13958"
-               transform="matrix(0.58953378,0.63440039,-0.63440039,0.58953378,1368.5125,1368.7472)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan13954"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Low skill</tspan>
-              <tspan
-                 id="tspan13956"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">23%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g13974"
-           class="slice cursor-pointer">
-          <path
-             id="path13964"
-             style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1234.3611,1187.7861 234.361,197.7861 A 613.33333,613.33333 0 0 0 1613.3333,990 h -306.6666 a 306.66667,306.66667 0 0 1 -72.3056,197.7861 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g13972"
-             class="slicetext">
-            <text
-               id="text13970"
-               transform="rotate(20.081136,-2485.2247,4619.6096)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan13966"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Medium skill</tspan>
-              <tspan
-                 id="tspan13968"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">68%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g13986"
-           class="slice">
-          <path
-             id="path13976"
-             style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 1613.3333,990 H 1920 A 920,920 0 0 0 1893.1584,769.39175 L 1595.439,842.92783 A 613.33333,613.33333 0 0 1 1613.3333,990 Z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g13984"
-             class="slicetext">
-            <text
-               id="text13982"
-               transform="rotate(-6.9371197,8168.4987,-14061.687)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan13978"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High comfort</tspan>
-              <tspan
-                 id="tspan13980"
+                 id="tspan8620"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -674,68 +534,68 @@
           </g>
         </g>
         <g
-           id="g13998"
-           class="slice">
+           id="g8638"
+           class="slice cursor-pointer">
           <path
-             id="path13988"
-             style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1595.439,842.92783 297.7194,-73.53608 a 920,920 0 0 0 -68.3058,-186.84496 l -274.9508,135.81773 a 613.33333,613.33333 0 0 1 45.5372,124.56331 z"
+             id="path8628"
+             style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 985.34906,1296.3165 -14.65094,306.3165 a 613.33333,613.33333 0 0 0 295.66878,-60.1599 l -133.1835,-276.2366 a 306.66667,306.66667 0 0 1 -147.83434,30.08 z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g13996"
+             id="g8636"
              class="slicetext">
             <text
-               id="text13994"
-               transform="matrix(0.79437094,-0.29040195,0.29040195,0.79437094,1715.2827,715.90323)"
+               id="text8634"
+               transform="rotate(78.498986,-326.3451,1394.3314)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan13990"
+                 id="tspan8630"
                  y="0"
                  x="0"
                  dy="0em"
-                 class="line">Medium comfort</tspan>
+                 class="line">Medium skill</tspan>
               <tspan
-                 id="tspan13992"
+                 id="tspan8632"
                  y="0"
                  x="0"
                  dy="1.3em"
-                 class="line">44%</tspan>
+                 class="line">43%</tspan>
             </text>
           </g>
         </g>
         <g
-           id="g14010"
-           class="slice">
+           id="g8650"
+           class="slice cursor-pointer">
           <path
-             id="path14000"
-             style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1549.9018,718.36452 274.9508,-135.81773 a 920,920 0 0 0 -16.1777,-31.23228 l -269.5583,146.2285 a 613.33333,613.33333 0 0 1 10.7852,20.82151 z"
+             id="path8640"
+             style="fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1133.1834,1266.2365 133.1835,276.2366 a 613.33333,613.33333 0 0 0 48.1634,-25.9292 l -157.2652,-263.272 a 306.66667,306.66667 0 0 1 -24.0817,12.9646 z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g14008"
+             id="g8648"
              class="slicetext">
             <text
-               id="text14006"
-               transform="matrix(0.23084938,-0.11957595,0.11957595,0.23084938,1783.4704,580.07701)"
+               id="text8646"
+               transform="matrix(0.18230498,0.33863166,-0.33863166,0.18230498,1277.8594,1494.7657)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan14002"
+                 id="tspan8642"
                  y="0"
                  x="0"
                  dy="0em"
-                 class="line">Low comfort</tspan>
+                 class="line">Low skill</tspan>
               <tspan
-                 id="tspan14004"
+                 id="tspan8644"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -744,278 +604,68 @@
           </g>
         </g>
         <g
-           id="g14022"
-           class="slice">
+           id="g8662"
+           class="slice cursor-pointer">
           <path
-             id="path14012"
-             style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1539.1166,697.54301 269.5583,-146.2285 A 920,920 0 0 0 1511.4292,225.25159 l -170.4764,254.91613 a 613.33333,613.33333 0 0 1 198.1638,217.37529 z"
+             id="path8652"
+             style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1157.2651,1253.2719 157.2652,263.272 a 613.33333,613.33333 0 0 0 265.4372,-327.0058 l -289.9837,-99.7691 a 306.66667,306.66667 0 0 1 -132.7187,163.5029 z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g14020"
+             id="g8660"
              class="slicetext">
             <text
-               id="text14018"
-               transform="rotate(-42.352941,1376.9412,-1776.594)"
+               id="text8658"
+               transform="rotate(39.066937,-1104.5676,2556.9641)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan14014"
+                 id="tspan8654"
                  y="0"
                  x="0"
                  dy="0em"
-                 class="line">High comfort</tspan>
+                 class="line">Medium skill</tspan>
               <tspan
-                 id="tspan14016"
+                 id="tspan8656"
                  y="0"
                  x="0"
                  dy="1.3em"
-                 class="line">86%</tspan>
+                 class="line">68%</tspan>
             </text>
           </g>
         </g>
         <g
-           id="g14034"
-           class="slice">
+           id="g8674"
+           class="slice cursor-pointer">
           <path
-             id="path14024"
-             style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1340.9528,480.16772 170.4764,-254.91613 a 920,920 0 0 0 -59.9169,-36.83544 l -150.5041,267.19462 a 613.33333,613.33333 0 0 1 39.9446,24.55695 z"
+             id="path8664"
+             style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1289.9838,1089.769 289.9837,99.7691 a 613.33333,613.33333 0 0 0 30.9267,-144.893 l -305.4471,-27.3225 a 306.66667,306.66667 0 0 1 -15.4633,72.4464 z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g14032"
+             id="g8672"
              class="slicetext">
             <text
-               id="text14030"
-               transform="matrix(0.24173411,-0.39320762,0.39320762,0.24173411,1432.4741,274.19371)"
+               id="text8670"
+               transform="matrix(0.84695525,0.18077816,-0.18077816,0.84695525,1519.1956,1088.422)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan14026"
+                 id="tspan8666"
                  y="0"
                  x="0"
                  dy="0em"
-                 class="line">Medium comfort</tspan>
+                 class="line">Low skill</tspan>
               <tspan
-                 id="tspan14028"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">14%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14046"
-           class="slice">
-          <path
-             id="path14036"
-             style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1301.0082,455.61077 150.5041,-267.19462 a 920,920 0 0 0 -20.5765,-11.24723 l -143.6453,270.94369 a 613.33333,613.33333 0 0 1 13.7177,7.49816 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14044"
-             class="slicetext">
-            <text
-               id="text14042"
-               transform="matrix(0.08533508,-0.15611824,0.15611824,0.08533508,1427.3455,202.98954)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14038"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Low comfort</tspan>
-              <tspan
-                 id="tspan14040"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">29%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14058"
-           class="slice">
-          <path
-             id="path14048"
-             style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1287.2905,448.11261 143.6453,-270.94369 a 920,920 0 0 0 -10.3941,-5.42603 l -140.1806,272.75237 a 613.33333,613.33333 0 0 1 6.9294,3.61735 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14056"
-             class="slicetext">
-            <text
-               id="text14054"
-               transform="matrix(0.04224234,-0.08091932,0.08091932,0.04224234,1418.5805,185.40665)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14050"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High comfort</tspan>
-              <tspan
-                 id="tspan14052"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">14%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14070"
-           class="slice">
-          <path
-             id="path14060"
-             style="opacity:1;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1280.3611,444.49526 140.1806,-272.75237 a 920,920 0 0 0 -42.2424,-20.36654 l -126.0998,279.54121 a 613.33333,613.33333 0 0 1 28.1616,13.5777 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14068"
-             class="slicetext">
-            <text
-               id="text14066"
-               transform="matrix(0.14222486,-0.29498942,0.29498942,0.14222486,1369.6652,212.71843)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14062"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Medium comfort</tspan>
-              <tspan
-                 id="tspan14064"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">57%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14082"
-           class="slice">
-          <path
-             id="path14072"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1252.1995,430.91756 126.0998,-279.54121 a 920,920 0 0 0 -10.7185,-4.75311 l -122.5269,281.12558 a 613.33333,613.33333 0 0 1 7.1456,3.16874 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14080"
-             class="slicetext">
-            <text
-               id="text14078"
-               transform="matrix(0.03704463,-0.08353767,0.08353767,0.03704463,1366.6934,159.93041)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14074"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Low comfort</tspan>
-              <tspan
-                 id="tspan14076"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">2%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14094"
-           class="slice">
-          <path
-             id="path14084"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 1245.0539,427.74882 1367.5808,146.62324 A 920,920 0 0 0 909.27727,74.484087 l 30.24091,305.171973 a 613.33333,613.33333 0 0 1 305.53572,48.09276 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14092"
-             class="slicetext">
-            <text
-               id="text14090"
-               transform="rotate(-81.054767,688.08991,-530.54672)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14086"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High comfort</tspan>
-              <tspan
-                 id="tspan14088"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">75%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14106"
-           class="slice">
-          <path
-             id="path14096"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 939.51818,379.65606 909.27727,74.484087 A 920,920 0 0 0 770.86462,98.991035 l 76.37846,297.002985 a 613.33333,613.33333 0 0 1 92.2751,-16.33796 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14104"
-             class="slicetext">
-            <text
-               id="text14102"
-               transform="matrix(0.13628091,0.76970022,-0.76970022,0.13628091,875.18787,222.30572)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14098"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Medium comfort</tspan>
-              <tspan
-                 id="tspan14100"
+                 id="tspan8668"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -1024,418 +674,33 @@
           </g>
         </g>
         <g
-           id="g14118"
-           class="slice">
+           id="g8686"
+           class="slice cursor-pointer">
           <path
-             id="path14108"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 847.24308,395.99402 770.86462,98.991035 A 920,920 0 0 0 595.17699,163.85332 L 730.118,439.23555 a 613.33333,613.33333 0 0 1 117.12508,-43.24153 z"
+             id="path8676"
+             style="fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1305.4471,1017.3226 305.4471,27.3225 A 613.33333,613.33333 0 0 0 1613.3333,990 h -306.6666 a 306.66667,306.66667 0 0 1 -1.2196,27.3226 z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g14116"
+             id="g8684"
              class="slicetext">
             <text
-               id="text14114"
-               transform="rotate(69.736308,187.35968,663.13965)"
+               id="text8682"
+               transform="matrix(0.38152544,0.01702992,-0.01702992,0.38152544,1573.9545,1010.2673)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan14110"
+                 id="tspan8678"
                  y="0"
                  x="0"
                  dy="0em"
-                 class="line">Low comfort</tspan>
+                 class="line">High skill</tspan>
               <tspan
-                 id="tspan14112"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">40%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14130"
-           class="slice">
-          <path
-             id="path14120"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 730.118,439.23555 595.17699,163.85332 A 920,920 0 0 0 563.89334,179.9315 L 709.26222,449.95433 A 613.33333,613.33333 0 0 1 730.118,439.23555 Z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14128"
-             class="slicetext">
-            <text
-               id="text14126"
-               transform="matrix(0.11846604,0.23050196,-0.23050196,0.11846604,599.6494,203.0917)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14122"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High comfort</tspan>
-              <tspan
-                 id="tspan14124"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">8%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14142"
-           class="slice">
-          <path
-             id="path14132"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 709.26222,449.95433 563.89334,179.9315 A 920,920 0 0 0 365.1916,324.10339 l 211.6028,221.96554 a 613.33333,613.33333 0 0 1 132.46782,-96.1146 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14140"
-             class="slicetext">
-            <text
-               id="text14138"
-               transform="matrix(0.49670597,0.68457407,-0.68457407,0.49670597,559.78838,363.12516)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14134"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Medium comfort</tspan>
-              <tspan
-                 id="tspan14136"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">53%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14154"
-           class="slice">
-          <path
-             id="path14144"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 576.7944,546.06893 365.1916,324.10339 A 920,920 0 0 0 83.15502,1066.1267 l 305.61499,-25.3755 A 613.33333,613.33333 0 0 1 576.7944,546.06893 Z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14152"
-             class="slicetext">
-            <text
-               id="text14150"
-               transform="rotate(20.811359,-1774.6872,1140.5864)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14146"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High comfort</tspan>
-              <tspan
-                 id="tspan14148"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">31%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14166"
-           class="slice">
-          <path
-             id="path14156"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="M 388.77001,1040.7512 83.15502,1066.1267 A 920,920 0 0 0 1223.4529,1882.451 l -74.4843,-297.4837 A 613.33333,613.33333 0 0 1 388.77001,1040.7512 Z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14164"
-             class="slicetext">
-            <text
-               id="text14162"
-               transform="matrix(0.49233354,-0.68772536,0.68772536,0.49233354,544.53568,1605.882)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14158"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Medium comfort</tspan>
-              <tspan
-                 id="tspan14160"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">59%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14178"
-           class="slice">
-          <path
-             id="path14168"
-             style="opacity:1;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1148.9686,1584.9673 74.4843,297.4837 a 920,920 0 0 0 248.3425,-102.6352 l -157.2651,-263.2719 a 613.33333,613.33333 0 0 1 -165.5617,68.4234 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14176"
-             class="slicetext">
-            <text
-               id="text14174"
-               transform="rotate(67.545639,-612.39722,1821.8901)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14170"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Low comfort</tspan>
-              <tspan
-                 id="tspan14172"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">10%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14190"
-           class="slice">
-          <path
-             id="path14180"
-             style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1314.5303,1516.5439 157.2651,263.2719 a 920,920 0 0 0 49.3386,-31.6474 l -173.7113,-252.7228 a 613.33333,613.33333 0 0 1 -32.8924,21.0983 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14188"
-             class="slicetext">
-            <text
-               id="text14186"
-               transform="matrix(0.22133665,0.34506546,-0.34506546,0.22133665,1469.7822,1711.7638)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14182"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High comfort</tspan>
-              <tspan
-                 id="tspan14184"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">71%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14202"
-           class="slice">
-          <path
-             id="path14192"
-             style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1347.4227,1495.4456 173.7113,252.7228 a 920,920 0 0 0 19.154,-13.5283 l -180.096,-248.2134 a 613.33333,613.33333 0 0 1 -12.7693,9.0189 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14200"
-             class="slicetext">
-            <text
-               id="text14198"
-               transform="matrix(0.10095064,0.14293041,-0.14293041,0.10095064,1514.5067,1714.2151)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14194"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Medium comfort</tspan>
-              <tspan
-                 id="tspan14196"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">29%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14214"
-           class="slice">
-          <path
-             id="path14204"
-             style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1360.192,1486.4267 180.096,248.2134 a 920,920 0 0 0 28.0691,-21.1968 l -189.4524,-241.1478 a 613.33333,613.33333 0 0 1 -18.7127,14.1312 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14212"
-             class="slicetext">
-            <text
-               id="text14210"
-               transform="matrix(0.15618048,0.20681638,-0.20681638,0.15618048,1534.9546,1692.3737)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14206"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High comfort</tspan>
-              <tspan
-                 id="tspan14208"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">16%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14226"
-           class="slice">
-          <path
-             id="path14216"
-             style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1378.9047,1472.2955 189.4524,241.1478 a 920,920 0 0 0 44.9159,-37.6618 l -204.4243,-228.5939 a 613.33333,613.33333 0 0 1 -29.944,25.1079 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14224"
-             class="slicetext">
-            <text
-               id="text14222"
-               transform="matrix(0.25483128,0.30391454,-0.30391454,0.25483128,1549.1856,1636.3227)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14218"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Medium comfort</tspan>
-              <tspan
-                 id="tspan14220"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">26%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14238"
-           class="slice">
-          <path
-             id="path14228"
-             style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1408.8487,1447.1876 204.4243,228.5939 a 920,920 0 0 0 89.8102,-92.4233 l -234.3611,-197.786 a 613.33333,613.33333 0 0 1 -59.8734,61.6154 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14236"
-             class="slicetext">
-            <text
-               id="text14234"
-               transform="matrix(0.56652192,0.550505,-0.550505,0.56652192,1588.9077,1546.8374)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14230"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">Low comfort</tspan>
-              <tspan
-                 id="tspan14232"
-                 y="0"
-                 x="0"
-                 dy="1.3em"
-                 class="line">58%</tspan>
-            </text>
-          </g>
-        </g>
-        <g
-           id="g14250"
-           class="slice">
-          <path
-             id="path14240"
-             style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1468.7221,1385.5722 234.3611,197.786 a 920,920 0 0 0 36.3585,-45.9772 l -246.4805,-182.4604 a 613.33333,613.33333 0 0 1 -24.2391,30.6516 z"
-             class="surface"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g14248"
-             class="slicetext">
-            <text
-               id="text14246"
-               transform="matrix(0.32155723,0.25428533,-0.25428533,0.32155723,1679.0399,1519.6632)"
-               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
-               y="0"
-               x="0"
-               class="slicetext"
-               data-notex="1">
-              <tspan
-                 id="tspan14242"
-                 y="0"
-                 x="0"
-                 dy="0em"
-                 class="line">High comfort</tspan>
-              <tspan
-                 id="tspan14244"
+                 id="tspan8680"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -1444,33 +709,663 @@
           </g>
         </g>
         <g
-           id="g14262"
+           id="g8698"
            class="slice">
           <path
-             id="path14252"
-             style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1492.9612,1354.9206 246.4805,182.4604 A 920,920 0 0 0 1814.2,1418.3437 l -271.4,-142.7812 a 613.33333,613.33333 0 0 1 -49.8388,79.3581 z"
+             id="path8688"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="M 1613.3333,990 H 1920 A 920,920 0 0 0 851.16056,82.119599 L 900.77371,384.7464 A 613.33333,613.33333 0 0 1 1613.3333,990 Z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g14260"
+             id="g8696"
              class="slicetext">
             <text
-               id="text14258"
-               transform="matrix(0.71448214,0.44871211,-0.44871211,0.71448214,1686.173,1406.9853)"
+               id="text8694"
+               transform="matrix(0.54755199,-0.64462804,0.64462804,0.54755199,1486.8148,398.58673)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan14254"
+                 id="tspan8690"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Medium comfort</tspan>
+              <tspan
+                 id="tspan8692"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">59%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8710"
+           class="slice">
+          <path
+             id="path8700"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="M 900.77371,384.7464 851.16056,82.119599 A 920,920 0 0 0 199.85882,535.93602 L 466.57255,687.29068 A 613.33333,613.33333 0 0 1 900.77371,384.7464 Z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8708"
+             class="slicetext">
+            <text
+               id="text8706"
+               transform="rotate(55.131846,-52.079629,726.63826)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8702"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8704"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">31%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8722"
+           class="slice">
+          <path
+             id="path8712"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="M 466.57255,687.29068 199.85882,535.93602 a 920,920 0 0 0 -97.07121,250.56969 l 299.0708,67.83143 a 613.33333,613.33333 0 0 1 64.71414,-167.04646 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8720"
+             class="slicetext">
+            <text
+               id="text8718"
+               transform="rotate(21.176471,-1727.8865,1129.5909)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8714"
                  y="0"
                  x="0"
                  dy="0em"
                  class="line">Low comfort</tspan>
               <tspan
-                 id="tspan14256"
+                 id="tspan8716"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">10%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8734"
+           class="slice">
+          <path
+             id="path8724"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 401.85841,854.33714 -299.0708,-67.83143 a 920,920 0 0 0 14.77975,463.71079 l 294.14422,-86.7388 a 613.33333,613.33333 0 0 1 -9.85317,-309.14056 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8732"
+             class="slicetext">
+            <text
+               id="text8730"
+               transform="translate(234.53596,976)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8726"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8728"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">75%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8746"
+           class="slice">
+          <path
+             id="path8736"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 411.71158,1163.4777 -294.14422,86.7388 a 920,920 0 0 0 49.94183,131.3944 l 277.49694,-130.537 a 613.33333,613.33333 0 0 1 -33.29455,-87.5962 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8744"
+             class="slicetext">
+            <text
+               id="text8742"
+               transform="matrix(0.73067189,-0.27772199,0.27772199,0.73067189,269.15542,1256.0804)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8738"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Medium comfort</tspan>
+              <tspan
+                 id="tspan8740"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">23%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8758"
+           class="slice">
+          <path
+             id="path8748"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 445.00613,1251.0739 -277.49694,130.537 a 920,920 0 0 0 5.05848,10.5778 l 275.81078,-134.0629 a 613.33333,613.33333 0 0 1 -3.37232,-7.0519 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8756"
+             class="slicetext">
+            <text
+               id="text8754"
+               transform="matrix(0.08244118,-0.03942458,0.03942458,0.08244118,180.78545,1380.3423)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8750"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Low comfort</tspan>
+              <tspan
+                 id="tspan8752"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">2%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8770"
+           class="slice">
+          <path
+             id="path8760"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="M 448.37845,1258.1258 172.56767,1392.1887 A 920,920 0 0 0 308.38791,1596.69 l 230.53737,-202.23 a 613.33333,613.33333 0 0 1 -90.54683,-136.3342 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8768"
+             class="slicetext">
+            <text
+               id="text8766"
+               transform="matrix(0.70455488,-0.46793259,0.46793259,0.70455488,355.43422,1403.8759)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8762"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Medium comfort</tspan>
+              <tspan
+                 id="tspan8764"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">53%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8782"
+           class="slice">
+          <path
+             id="path8772"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 538.92528,1394.46 -230.53737,202.23 a 920,920 0 0 0 137.18822,127.4858 L 630.38409,1479.4506 A 613.33333,613.33333 0 0 1 538.92528,1394.46 Z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8780"
+             class="slicetext">
+            <text
+               id="text8778"
+               transform="rotate(-47.099391,2007.3869,244.38614)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8774"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Low comfort</tspan>
+              <tspan
+                 id="tspan8776"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">40%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8794"
+           class="slice">
+          <path
+             id="path8784"
+             style="opacity:0.7;fill:#8fbc8f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 630.38409,1479.4506 -184.80796,244.7252 a 920,920 0 0 0 28.46913,20.6564 l 175.31825,-251.6107 a 613.33333,613.33333 0 0 1 -18.97942,-13.7709 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8792"
+             class="slicetext">
+            <text
+               id="text8790"
+               transform="matrix(0.15219843,-0.20976414,0.20976414,0.15219843,478.56973,1702.4716)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8786"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8788"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">8%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8806"
+           class="slice">
+          <path
+             id="path8796"
+             style="opacity:0.7;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 649.36351,1493.2215 -175.31825,251.6107 a 920,920 0 0 0 411.92788,158.0741 l 38.00895,-304.3021 A 613.33333,613.33333 0 0 1 649.36351,1493.2215 Z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8804"
+             class="slicetext">
+            <text
+               id="text8802"
+               transform="rotate(-69.006085,1592.6957,331.39344)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8798"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8800"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">86%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8818"
+           class="slice">
+          <path
+             id="path8808"
+             style="opacity:0.7;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 923.98209,1598.6042 -38.00895,304.3021 a 920,920 0 0 0 70.07404,6.0432 l 14.65094,-306.3165 a 613.33333,613.33333 0 0 1 -46.71603,-4.0288 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8816"
+             class="slicetext">
+            <text
+               id="text8814"
+               transform="matrix(0.03965877,-0.45986389,0.45986389,0.03965877,921.70729,1822.636)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8810"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Medium comfort</tspan>
+              <tspan
+                 id="tspan8812"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">14%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8830"
+           class="slice">
+          <path
+             id="path8820"
+             style="opacity:0.7;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 970.69812,1602.633 -14.65094,306.3165 a 920,920 0 0 0 221.63872,-16.2714 l -59.2286,-300.8927 a 613.33333,613.33333 0 0 1 -147.75918,10.8476 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8828"
+             class="slicetext">
+            <text
+               id="text8826"
+               transform="rotate(85.801217,-407.87138,1451.9126)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8822"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8824"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">49%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8842"
+           class="slice">
+          <path
+             id="path8832"
+             style="opacity:0.7;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1118.4573,1591.7854 59.2286,300.8927 a 920,920 0 0 0 189.8949,-59.3013 l -122.5269,-281.1256 a 613.33333,613.33333 0 0 1 -126.5966,39.5342 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8840"
+             class="slicetext">
+            <text
+               id="text8838"
+               transform="matrix(0.25211944,0.80733777,-0.80733777,0.25211944,1239.6113,1717.5608)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8834"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Medium comfort</tspan>
+              <tspan
+                 id="tspan8836"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">44%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8854"
+           class="slice">
+          <path
+             id="path8844"
+             style="opacity:0.7;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1245.0539,1552.2512 122.5269,281.1256 a 920,920 0 0 0 31.9695,-14.6672 l -133.1834,-276.2365 a 613.33333,613.33333 0 0 1 -21.313,9.7781 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8852"
+             class="slicetext">
+            <text
+               id="text8850"
+               transform="matrix(0.10841062,0.2362985,-0.2362985,0.10841062,1372.0248,1792.1598)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8846"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Low comfort</tspan>
+              <tspan
+                 id="tspan8848"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">8%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8866"
+           class="slice">
+          <path
+             id="path8856"
+             style="opacity:0.7;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1266.3669,1542.4731 133.1834,276.2365 a 920,920 0 0 0 41.7096,-21.4366 l -147.0867,-269.091 a 613.33333,613.33333 0 0 1 -27.8063,14.2911 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8864"
+             class="slicetext">
+            <text
+               id="text8862"
+               transform="matrix(0.14969701,0.29126873,-0.29126873,0.14969701,1397.5111,1753.416)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8858"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Medium comfort</tspan>
+              <tspan
+                 id="tspan8860"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">57%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8878"
+           class="slice">
+          <path
+             id="path8868"
+             style="opacity:0.7;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1294.1732,1528.182 147.0867,269.091 a 920,920 0 0 0 20.4314,-11.5085 l -153.8971,-265.2549 a 613.33333,613.33333 0 0 1 -13.621,7.6724 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8876"
+             class="slicetext">
+            <text
+               id="text8874"
+               transform="matrix(0.0873178,0.15501801,-0.15501801,0.0873178,1441.6814,1769.0554)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8870"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Low comfort</tspan>
+              <tspan
+                 id="tspan8872"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">29%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8890"
+           class="slice">
+          <path
+             id="path8880"
+             style="opacity:0.7;fill:#da70d6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1307.7942,1520.5096 153.8971,265.2549 a 920,920 0 0 0 10.1041,-5.9487 l -157.2651,-263.2719 a 613.33333,613.33333 0 0 1 -6.7361,3.9657 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8888"
+             class="slicetext">
+            <text
+               id="text8886"
+               transform="matrix(0.04631087,0.07866165,-0.07866165,0.04631087,1461.239,1770.9217)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8882"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8884"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">14%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8902"
+           class="slice">
+          <path
+             id="path8892"
+             style="opacity:0.7;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1314.5303,1516.5439 157.2651,263.2719 a 920,920 0 0 0 313.4747,-310.4925 l -261.7567,-159.7744 a 613.33333,613.33333 0 0 1 -208.9831,206.995 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8900"
+             class="slicetext">
+            <text
+               id="text8898"
+               transform="matrix(0.59519777,0.60091439,-0.60091439,0.59519777,1547.3984,1525.8296)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8894"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Medium comfort</tspan>
+              <tspan
+                 id="tspan8896"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">69%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8914"
+           class="slice">
+          <path
+             id="path8904"
+             style="opacity:0.7;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1523.5134,1309.5489 261.7567,159.7744 a 920,920 0 0 0 63.8553,-125.2244 l -283.0418,-118.033 a 613.33333,613.33333 0 0 1 -42.5702,83.483 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8912"
+             class="slicetext">
+            <text
+               id="text8910"
+               transform="matrix(0.75161886,0.38327064,-0.38327064,0.75161886,1720.5956,1344.1922)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8906"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Low comfort</tspan>
+              <tspan
+                 id="tspan8908"
                  y="0"
                  x="0"
                  dy="1.3em"
@@ -1479,66 +1374,241 @@
           </g>
         </g>
         <g
-           id="g14274"
+           id="g8926"
            class="slice">
           <path
-             id="path14264"
-             style="opacity:1;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-             d="m 1542.8,1275.5625 271.4,142.7812 A 920,920 0 0 0 1920,990 H 1613.3333 A 613.33333,613.33333 0 0 1 1542.8,1275.5625 Z"
+             id="path8916"
+             style="opacity:0.7;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1566.0836,1226.0659 283.0418,118.033 a 920,920 0 0 0 20.8259,-54.7918 l -289.9838,-99.769 a 613.33333,613.33333 0 0 1 -13.8839,36.5278 z"
              class="surface"
              inkscape:connector-curvature="0" />
           <g
-             id="g14272"
+             id="g8924"
              class="slicetext">
             <text
-               id="text14270"
-               transform="matrix(0.82111228,0.202813,-0.202813,0.82111228,1746.4035,1162.1632)"
+               id="text8922"
+               transform="matrix(0.38320415,0.14565254,-0.14565254,0.38320415,1807.0178,1290.6005)"
                style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
                y="0"
                x="0"
                class="slicetext"
                data-notex="1">
               <tspan
-                 id="tspan14266"
+                 id="tspan8918"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8920"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">9%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8938"
+           class="slice">
+          <path
+             id="path8928"
+             style="opacity:0.7;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1579.9675,1189.5381 289.9838,99.769 a 920,920 0 0 0 33.2883,-124.4982 l -301.0798,-58.2697 a 613.33333,613.33333 0 0 1 -22.1923,82.9989 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8936"
+             class="slicetext">
+            <text
+               id="text8934"
+               transform="matrix(0.76313046,0.20404591,-0.20404591,0.76313046,1785.76,1188.649)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8930"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Low comfort</tspan>
+              <tspan
+                 id="tspan8932"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">58%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8950"
+           class="slice">
+          <path
+             id="path8940"
+             style="opacity:0.7;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1602.1598,1106.5392 301.0798,58.2697 a 920,920 0 0 0 9.2987,-57.8739 l -304.1794,-38.9783 a 613.33333,613.33333 0 0 1 -6.1991,38.5825 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8948"
+             class="slicetext">
+            <text
+               id="text8946"
+               transform="matrix(0.39159212,0.06291771,-0.06291771,0.39159212,1838.2608,1119.0608)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8942"
                  y="0"
                  x="0"
                  dy="0em"
                  class="line">Medium comfort</tspan>
               <tspan
-                 id="tspan14268"
+                 id="tspan8944"
                  y="0"
                  x="0"
                  dy="1.3em"
-                 class="line">69%</tspan>
+                 class="line">26%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8962"
+           class="slice">
+          <path
+             id="path8952"
+             style="opacity:0.7;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1608.3589,1067.9567 304.1794,38.9783 a 920,920 0 0 0 3.803,-34.9673 l -305.4471,-27.3226 a 613.33333,613.33333 0 0 1 -2.5353,23.3116 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8960"
+             class="slicetext">
+            <text
+               id="text8958"
+               transform="matrix(0.25764358,0.02802043,-0.02802043,0.25764358,1878.1053,1081.85)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8954"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8956"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">16%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8974"
+           class="slice">
+          <path
+             id="path8964"
+             style="opacity:0.7;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1610.8942,1044.6451 305.4471,27.3226 a 920,920 0 0 0 3.3598,-58.5198 l -306.567,-7.816 a 613.33333,613.33333 0 0 1 -2.2399,39.0132 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8972"
+             class="slicetext">
+            <text
+               id="text8970"
+               transform="matrix(0.40927729,0.02349847,-0.02349847,0.40927729,1860.0782,1033.6322)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8966"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">High comfort</tspan>
+              <tspan
+                 id="tspan8968"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">71%</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g8986"
+           class="slice">
+          <path
+             id="path8976"
+             style="opacity:0.7;fill:#87cefa;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+             d="m 1613.1341,1005.6319 306.567,7.816 A 920,920 0 0 0 1920,990 h -306.6667 a 613.33333,613.33333 0 0 1 -0.1992,15.6319 z"
+             class="surface"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8984"
+             class="slicetext">
+            <text
+               id="text8982"
+               transform="matrix(0.17497189,0.0022301,-0.0022301,0.17497189,1888.3276,998.87216)"
+               style="font-size:50px;font-family:Helvetica;text-anchor:middle;white-space:pre;fill:#444444;fill-opacity:1"
+               y="0"
+               x="0"
+               class="slicetext"
+               data-notex="1">
+              <tspan
+                 id="tspan8978"
+                 y="0"
+                 x="0"
+                 dy="0em"
+                 class="line">Medium comfort</tspan>
+              <tspan
+                 id="tspan8980"
+                 y="0"
+                 x="0"
+                 dy="1.3em"
+                 class="line">29%</tspan>
             </text>
           </g>
         </g>
       </g>
     </g>
     <g
-       id="g14280"
+       id="g8992"
        class="glimages" />
     <g
-       id="g14289"
+       id="g9001"
        class="layer-above">
       <g
-         id="g14285"
+         id="g8997"
          class="imagelayer" />
       <g
-         id="g14287"
+         id="g8999"
          class="shapelayer" />
     </g>
     <g
-       id="g14295"
+       id="g9007"
        class="infolayer">
       <g
-         id="g14293"
+         id="g9005"
          class="g-gtitle">
         <text
-           id="text14291"
+           id="text9003"
            style="font-weight:normal;font-size:70px;font-family:Helvetica;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
            dy="0.69999999em"
-           y="10"
+           y="2.2"
            x="1000"
            class="gtitle">Skills of the participants</text>
       </g>
