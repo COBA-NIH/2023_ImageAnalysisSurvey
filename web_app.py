@@ -86,7 +86,7 @@ training_pie.update_layout(title_x=0.95,title_y = 0.85, font=dict(family='Helvet
 st.subheader('Figure S1')
 st.subheader('Survey respondents were drawn primarily from North America and Europe')
 st.write('A)')
-st.image(training_pie)
+st.plotly_chart(training_pie)
 st.write('Figure S1A) Training and experience of the survey respondents')
 st.write('B)')
 st.image(img)
