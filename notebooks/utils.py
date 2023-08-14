@@ -510,6 +510,7 @@ def ngrams(series, range=(), name=''):
     vocab = c_vec.vocabulary_       #creates a dictionary of the 'words' as the key and the position as 'values'
     df = pd.DataFrame(sorted([(count_values[i],k) for k,i in vocab.items()], reverse=True)).rename(columns={0: 'frequency', 1:'ngram'})       # list of ngrams
     df.to_csv(name + '.csv')
+    return df 
 
 #### Word counts
 def word_counts(series, synonym_dict={}, title=''):
@@ -611,4 +612,23 @@ def fig_subgroups(combined_data, list_of_col=[], list_of_groups=[], colorkey=[],
     fig.update_layout(yaxis=dict(title='Percent'), yaxis3=dict(title='Percent'),yaxis5=dict(title='Percent'), yaxis7=dict(title='Percent'))
     fig.update_layout(title=title, title_x =0.5)
 
+    return fig 
+### Another customwrap that is specifically used for the `wordcount_barchart`
+def customwrap2(s,width=15):
+    return "<br>".join(textwrap.wrap(s,width=width))
+
+### Creates a barchart from the dataframe and also lists the total number of entries in the dataframe 
+def wordcount_barchart(data, title='', total=()):
+    """
+    data: pd.DataFrame. The dataframe entries are filtered for the top 10 entries.
+    title: a string. The title for the barchart
+    total:pd.series. The total number of this particular series is tken as the total number of respondents and displayed in the figure
+    """
+    wordcount_df = data.filter(items=list(range(0,10)), axis=0)
+    fig = px.bar(y=wordcount_df['ngram'].map(customwrap2), x=wordcount_df['frequency'],orientation='h', labels={'x':'frequency', 'y':''}, text_auto=True)
+    fig.update_layout(width=500, height=600, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+    fig.update_yaxes(categoryorder='total ascending')
+    fig.update_layout(title=title, title_x=0.5)
+    fig.add_annotation(text="Total number of respondents = " + str(len(total)),xref="paper", yref="paper",x=0.5, y=1.05, showarrow=False)
+    fig.write_image(title+'.svg')
     return fig 
