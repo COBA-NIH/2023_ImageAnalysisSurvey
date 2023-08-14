@@ -32,8 +32,21 @@ role_val_counts =pd.read_csv(role_url)
 role_pie_chart = px.pie(role_val_counts, values=role_val_counts['counts'], names=role_val_counts['role'], title="Role", width=800, height=500)
 role_pie_chart.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
 role_pie_chart.update_layout(title_x=0.8,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+# Including the trainee information in the legend 
+role_pie_chart['data'][0]['labels'][0] = 'Student - Graduate/Undergraduate <br> (trainee)'
+role_pie_chart['data'][0]['labels'][2] = 'Postdoctoral fellow (trainee)'
 
-#Figure 1B -graphs
+#Figure 1B 
+#Geo chart for the location of the participants; locations were given based on a country that is centrally located in a continent
+demographics = data["Location"]
+demographics_chart = px.scatter_geo(demographics, locations=['UKR', 'USA', 'KGZ', 'BRA', 'AUS','TCD'],size_max=20,opacity=0.2, projection="natural earth", color = data.Location.value_counts().values,text=data.Location.value_counts(), title="Location", labels={'color':'Continent'}, width=600, height=400)
+demographics_chart.update_layout(title_x=0.50,title_y=0.80, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+demographics_chart.update_layout(showlegend=False)
+demographics_chart.update_coloraxes(showscale=False)
+demographics_chart.update_traces(marker=dict(color='blue'))
+demographics_chart.update_traces(marker={'size':25})
+
+#Figure 1C -graphs
 df_domains_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/role_and_domains.csv'
 df_domains = pd.read_csv(df_domains_url, index_col=0)
 
@@ -49,30 +62,32 @@ with st.container():
     st.plotly_chart(role_pie_chart,theme=None)
     st.write('Figure 1A) Answers to the multiple-choice question “Which of the following roles best describes you?”')
     st.write('B)')
+    st.plotly_chart(demographics_chart)
+    st.write('Figure 1B)- Answers to the multiple-choice question “Where do you currently primarily work?”')
+    st.write('C)')
     st.plotly_chart(role_domain_fig, theme=None, use_container_width=True)
-    st.write('Figure 1B) Answers to the check-box question “Which of the following do you have significant formal training in or experience with? Select all that apply.” Responses were categorized based on the answers provided for part 1A.')
+    st.write('Figure 1C) Answers to the check-box question “Which of the following do you have significant formal training in or experience with? Select all that apply.” Responses were categorized based on the answers provided for part 1A.')
 
 #Figure S1A -graphs 
-#Geo chart for the location of the participants; locations were given based on a country that is centrally located in a continent
-demographics = data["Location"]
-demographics_chart = px.scatter_geo(demographics, locations=['UKR', 'USA', 'KGZ', 'BRA', 'AUS','TCD'],size_max=20,opacity=0.2, projection="natural earth", color = data.Location.value_counts().values,text=data.Location.value_counts(), title="Location", labels={'color':'Continent'}, width=600, height=400)
-demographics_chart.update_layout(title_x=0.50,title_y=0.80, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
-demographics_chart.update_layout(showlegend=False)
-demographics_chart.update_coloraxes(showscale=False)
-demographics_chart.update_traces(marker=dict(color='blue'))
-demographics_chart.update_traces(marker={'size':25})
+training_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/training_experience.csv'
+training_df = pd.read_csv(training_csv_url)
 
 #Figure S1B -graphs
 url = 'https://github.com/COBA-NIH/2023_ImageAnalysisSurvey/raw/main/Graphs/cellprofiler_website_access_2022.tif'
 response = requests.get(url)
 img = Image.open(BytesIO(response.content))
 
+#Creating the figures
+training_pie =px.pie(training_df, values=training_df['counts'],names=training_df.index, title="Training and experience", width=700, height=500)
+training_pie.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
+training_pie.update_layout(title_x=0.95,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+
 ## Supplementary figure S1
 st.subheader('Figure S1')
 st.subheader('Survey respondents were drawn primarily from North America and Europe')
 st.write('A)')
-st.plotly_chart(demographics_chart)
-st.write('Figure S1A)- Answers to the multiple-choice question “Where do you currently primarily work?”')
+st.image(training_pie)
+st.write('Figure S1A) Training and experience of the survey respondents')
 st.write('B)')
 st.image(img)
 st.write('Figure S1B) Image from Google Analytics showing the number of visitors to the Cellprofiler website in the year 2022. The scale bar indicates the number of visitors')
@@ -381,10 +396,10 @@ fold_change_int = pd.read_csv(fold_change_int_url, index_col=0)
 
 
 #Creating the figures 
-top_int = percentage_stackedcharts_fig(top_int_df, title='How interested are you in learning more about the following topics',order_of_stacks=['Very interested', 'Moderately interested', 'Somewhat interested', 'Not at all interested'],order_of_axes=['Topics related to sub<br>discipline', 'Visualization of results', 'Analyzing large images', 'Image analysis practices', 'Specific software tool', 'Deep learning for image<br>analysis', 'Image analysis theory'], colors={'Very interested':'royalblue','Moderately interested':'dodgerblue','Somewhat interested':'cornflowerblue','Not at all interested':'skyblue'})
+top_int = percentage_stackedcharts_fig_horizontal(top_int_df, title='How interested are you in learning more about the following topics',order_of_stacks=['Very interested', 'Moderately interested', 'Somewhat interested', 'Not at all interested'],order_of_axes=['Topics related to sub<br>discipline', 'Visualization of results', 'Analyzing large images', 'Image analysis practices', 'Specific software tool', 'Deep learning for image<br>analysis', 'Image analysis theory'], colors={'Very interested':'royalblue','Moderately interested':'dodgerblue','Somewhat interested':'cornflowerblue','Not at all interested':'skyblue'})
 top_int.update_layout(title_x =0.2)
 
-pre_mtd  = percentage_stackedcharts_fig(pre_mtd_df, title='How preferable do you find each of these instructional methods',order_of_stacks=['Very preferable', 'Moderately preferable', 'Somewhat preferable', 'Not at all preferable'],order_of_axes=['Written tutorials', 'Video tutorial', 'Office hours', 'One day seminar', 'Interactive webinar','Best practices articles', 'Multiday workshop'], colors={'Very preferable':'royalblue','Moderately preferable':'dodgerblue','Somewhat preferable':'cornflowerblue','Not at all preferable':'skyblue'})
+pre_mtd  = percentage_stackedcharts_fig_horizontal(pre_mtd_df, title='How preferable do you find each of these instructional methods',order_of_stacks=['Very preferable', 'Moderately preferable', 'Somewhat preferable', 'Not at all preferable'],order_of_axes=['Written tutorials', 'Video tutorial', 'Office hours', 'One day seminar', 'Interactive webinar','Best practices articles', 'Multiday workshop'], colors={'Very preferable':'royalblue','Moderately preferable':'dodgerblue','Somewhat preferable':'cornflowerblue','Not at all preferable':'skyblue'})
 pre_mtd.update_layout(title_x =0.2)
 
 
@@ -513,6 +528,61 @@ with st.container():
    st.write('Figure 9F) Answers to an open-ended question “What do you think analysis tool USERS (such as microscopists) could/should do to make image analysis better and more successful? How best could we encourage them to do it?” was categorized based on the “work type” as described in supplementary S2A and the unigrams of the answers from the "Analyst" work type are represented as wordclouds')
 
 
+#Reading the dataframe for figure S7 
+#Creator
+#Creator-imaging 
+creator_imaging_csv_url =  'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_imaging.csv'
+creator_imaging = pd.read_csv(creator_imaging_csv_url, index_col=0)
+
+creator_imaging_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_imaging_ngrams.csv'
+creator_imaging_ngrams = pd.read_csv(creator_imaging_ngrams_url, index_col=0)
+
+#Creator- Balanced 
+creator_balanced_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_balanced.csv'
+creator_balanced = pd.read_csv(creator_balanced_csv_url, index_col =0)
+
+creator_balanced_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_balanced_ngrams.csv'
+creator_balanced_ngrams = pd.read_csv(creator_balanced_ngrams_url, index_col=0)
+
+#Creator -Analyst 
+creator_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_analyst.csv'
+creator_analyst = pd.read_csv(creator_analyst_csv_url, index_col=0)
+
+creator_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_analyst_ngrams.csv'
+creator_analyst_ngrams = pd.read_csv(creator_analyst_ngrams_url, index_col=0)
+
+#User 
+#User -Imaging 
+user_imaging_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_role_imaging.csv'
+user_imaging_csv = pd.read_csv(user_imaging_csv_url, index_col=0)
+
+user_imaging_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_imaging_ngrams.csv'
+user_imaging_ngrams = pd.read_csv(user_imaging_ngrams_url, index_col=0)
+
+#User - Balanced 
+user_balanced_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_role_balanced.csv'
+user_balanced_csv = pd.read_csv(user_balanced_csv_url, index_col=0)
+
+user_balanced_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_balanced_ngrams.csv'
+user_balanced_ngrams =pd.read_csv(user_balanced_ngrams_url, index_col=0)
+
+#User-analyst
+user_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_role_analyst.csv'
+user_analyst_csv = pd.read_csv(user_analyst_csv_url, index_col=0)
+
+user_analyst_ngrams_url = 'https://github.com/COBA-NIH/2023_ImageAnalysisSurvey/blob/main/csv%20files/user_analyst_ngrams.csv'
+user_analyst_ngrams = pd.read_csv(user_analyst_ngrams_url, index_col=0)
+
+#Creating the barcharts for figure S7 
+creator_imaging = wordcount_barchart(creator_imaging_ngrams, title='Creators role-Imaging', total=creator_imaging["Creators role-Imaging"])
+creator_balanced = wordcount_barchart(creator_balanced_ngrams, title='Creators role-Balanced', total=creator_balanced['Creators role- Balanced'])
+creator_analyst = wordcount_barchart(creator_analyst_ngrams, title='Creators role-Analyst', total = creator_analyst['Creators role-Analyst'])
+
+user_imaging = wordcount_barchart(user_imaging_bigram, title='Users role-Imaging', total=user_role_imaging["Users role - Imaging"])
+user_balanced  = wordcount_barchart(user_balanced_bigram, title='Users role-Balanced', total=user_role_balanced["Users role-Balanced"])
+user_analyst = wordcount_barchart(user_analyst_bigram, title='Users role-Analyst', total=user_role_analyst["Users role - Analyst"])
+
+
 #Figure S7 
 with st.container():
    st.subheader('Figure S7')
@@ -525,6 +595,17 @@ with st.container():
    st.image('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/Graphs/wordclouds/Image-50Users%20role.svg')
    st.write('Figure S7 B) Wordcloud representation of the unigrams of the answers to an open-ended question “What do you think analysis tool USERS (such as microscopists) could/should do to make image analysis better and more successful? How best could we encourage them to do it?”')
 
+   st.write('C)')
+   st.image(creator_imaging)
+   st.image(creator_balanced)
+   st.image(creator_analyst)
+   st.write('Figure S7 C) Answers to an open-ended question “What do you think analysis tool CREATORS (such as software developers)could/should do to make image analysis better and more successful? How best could we encourage them to do it?” was categorized based on the “work type” as described in supplementary S2A and the top ten bigrams of the responses are represented as bar charts.')
+
+   st.write('D)')
+   st.image(user_imaging)
+   st.image(user_balanced)
+   st.image(user_analyst)
+   st.write('Figure S7 D) Answers to an open-ended question “What do you think analysis tool USERS (such as microscopists) could/should do to make image analysis better and more successful? How best could we encourage them to do it?” was categorized based on the “work type” as described in supplementary S2A and the top ten bigrams of the responses are represented as bar charts.')
 
 #Figure S8 
 comparison_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Comparison_google_data_with_survey.csv'

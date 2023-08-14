@@ -409,6 +409,32 @@ def percentage_stackedcharts_fig(data, title='', order_of_axes=[], order_of_stac
     fig.write_image(title+'.svg')
     return fig
 
+def percentage_stackedcharts_fig_horizontal(data, title='', order_of_axes=[], order_of_stacks=[], colors={}):
+    """
+    Percentage_stacked charts
+    Parameters:
+    data: pd.DataFrame
+    title: title to be given to the plot.Images get saved in this name
+    order_of_axes: list of index names as strings. It defines the order of the x axes.
+    order_of_stacks: list of the column names as strings. It defines the order of the stacks
+    """
+    #creating the chart
+    fig = go.Figure()
+    data = data[order_of_stacks]
+    
+    for i in data.columns:
+        fig.add_trace(go.Bar(name="<br>".join(textwrap.wrap(i,width=12)),x=data[i], y=data.index.map(customwrap),orientation='h', text=[f'{val}%' for val in data[i]], marker={'color':colors[i]}))
+
+    fig.update_layout(width=800, height=700, barmode='stack')
+    fig.update_xaxes(title='Percent')
+    fig.update_layout(title=title, title_x = 0.5, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")), xaxis_range= [0, 110])
+    if order_of_axes == []:
+        fig.update_layout(xaxis={'categoryorder':'total ascending'})
+    else:
+        fig.update_yaxes(categoryorder='array', categoryarray = order_of_axes)
+    fig.write_image(title+'horizontal.svg')
+    return fig
+
 ##### Wordcloud
 #### Worcloud with wrapped titles 
 def wordcloud(series,extra_stopwords=[]):
