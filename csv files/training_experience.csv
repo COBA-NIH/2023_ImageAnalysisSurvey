@@ -1,11 +1,10 @@
-,counts
-Statistics/Biostatistics,74
-Physics/Biophysics,108
-Developmental Biology,127
-Chemistry/Biochemistry,119
-nan,1
-Cell/Molecular Biology,365
-Medicine,40
-Computer science,76
-Deep learning,40
-Computer vision,46
+,training,counts
+0,Computer vision,46
+1,Physics/Biophysics,108
+2,Cell/Molecular Biology,365
+3,Deep learning,40
+4,Chemistry/Biochemistry,119
+5,Statistics/Biostatistics,74
+6,Developmental Biology,127
+7,Computer science,76
+8,Medicine,40

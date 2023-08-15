@@ -78,9 +78,10 @@ response = requests.get(url)
 img = Image.open(BytesIO(response.content))
 
 #Creating the figures
-training_pie =px.pie(training_df, values=training_df['counts'],names=training_df.index, title="Training and experience", width=700, height=500)
+training_pie =px.pie(training_df, values=training_df['counts'],names=training_df['training'], title="Training and experience", width=700, height=500)
 training_pie.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
 training_pie.update_layout(title_x=0.95,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+
 
 ## Supplementary figure S1
 st.subheader('Figure S1')
@@ -570,7 +571,7 @@ user_balanced_ngrams =pd.read_csv(user_balanced_ngrams_url, index_col=0)
 user_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_role_analyst.csv'
 user_analyst_csv = pd.read_csv(user_analyst_csv_url, index_col=0)
 
-user_analyst_ngrams_url = 'https://github.com/COBA-NIH/2023_ImageAnalysisSurvey/blob/main/csv%20files/user_analyst_ngrams.csv'
+user_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_analyst_ngrams.csv'
 user_analyst_ngrams = pd.read_csv(user_analyst_ngrams_url, index_col=0)
 
 #Creating the barcharts for figure S7 
@@ -578,9 +579,9 @@ creator_imaging = wordcount_barchart(creator_imaging_ngrams, title='Creators rol
 creator_balanced = wordcount_barchart(creator_balanced_ngrams, title='Creators role-Balanced', total=creator_balanced['Creators role- Balanced'])
 creator_analyst = wordcount_barchart(creator_analyst_ngrams, title='Creators role-Analyst', total = creator_analyst['Creators role-Analyst'])
 
-user_imaging = wordcount_barchart(user_imaging_bigram, title='Users role-Imaging', total=user_role_imaging["Users role - Imaging"])
-user_balanced  = wordcount_barchart(user_balanced_bigram, title='Users role-Balanced', total=user_role_balanced["Users role-Balanced"])
-user_analyst = wordcount_barchart(user_analyst_bigram, title='Users role-Analyst', total=user_role_analyst["Users role - Analyst"])
+user_imaging = wordcount_barchart(user_imaging_ngrams, title='Users role-Imaging', total=user_imaging_csv["Users role - Imaging"])
+user_balanced  = wordcount_barchart(user_balanced_ngrams, title='Users role-Balanced', total=user_balanced_csv["Users role-Balanced"])
+user_analyst = wordcount_barchart(user_analyst_ngrams, title='Users role-Analyst', total=user_analyst_csv["Users role - Analyst"])
 
 
 #Figure S7 
@@ -596,15 +597,15 @@ with st.container():
    st.write('Figure S7 B) Wordcloud representation of the unigrams of the answers to an open-ended question “What do you think analysis tool USERS (such as microscopists) could/should do to make image analysis better and more successful? How best could we encourage them to do it?”')
 
    st.write('C)')
-   st.image(creator_imaging)
-   st.image(creator_balanced)
-   st.image(creator_analyst)
+   st.plotly_chart(creator_imaging)
+   st.plotly_chart(creator_balanced)
+   st.plotly_chart(creator_analyst)
    st.write('Figure S7 C) Answers to an open-ended question “What do you think analysis tool CREATORS (such as software developers)could/should do to make image analysis better and more successful? How best could we encourage them to do it?” was categorized based on the “work type” as described in supplementary S2A and the top ten bigrams of the responses are represented as bar charts.')
 
    st.write('D)')
-   st.image(user_imaging)
-   st.image(user_balanced)
-   st.image(user_analyst)
+   st.plotly_chart(user_imaging)
+   st.plotly_chart(user_balanced)
+   st.plotly_chart(user_analyst)
    st.write('Figure S7 D) Answers to an open-ended question “What do you think analysis tool USERS (such as microscopists) could/should do to make image analysis better and more successful? How best could we encourage them to do it?” was categorized based on the “work type” as described in supplementary S2A and the top ten bigrams of the responses are represented as bar charts.')
 
 #Figure S8 
