@@ -29,7 +29,7 @@ role_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/
 role_val_counts =pd.read_csv(role_url)
 
 # pie chart for the roles of the survey participants 
-role_pie_chart = px.pie(role_val_counts, values=role_val_counts['counts'], names=role_val_counts['role'], title="Role", width=800, height=500)
+role_pie_chart = px.pie(role_val_counts, values=role_val_counts['counts'], names=role_val_counts['role'], title="Role", width=850, height=500)
 role_pie_chart.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
 role_pie_chart.update_layout(title_x=0.8,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 # Including the trainee information in the legend 
@@ -80,7 +80,7 @@ img = Image.open(BytesIO(response.content))
 #Creating the figures
 training_pie =px.pie(training_df, values=training_df['counts'],names=training_df['training'], title="Training and experience", width=700, height=500)
 training_pie.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
-training_pie.update_layout(title_x=0.95,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
+training_pie.update_layout(title_x=0.70,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 
 
 ## Supplementary figure S1
