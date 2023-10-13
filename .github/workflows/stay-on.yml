@@ -2,7 +2,7 @@ name: stay-on
 
 on:
   schedule:
-  - cron: '05 16 * * *'
+    - cron: '15 16 * * *'
 
 jobs:
   stay-on:
