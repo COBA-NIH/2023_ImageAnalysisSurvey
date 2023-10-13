@@ -1,9 +1,8 @@
 name: stay-on
 
 on:
-  push:
-    schedule:
-    - cron: '0 0 * * *'
+  schedule:
+  - cron: '05 16 * * *'
 
 jobs:
   stay-on:
