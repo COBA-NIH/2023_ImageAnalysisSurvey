@@ -13,4 +13,4 @@ jobs:
     steps:
     - name: curl the site
       run: |
-        curl https://coba-nih.github.io/2023_ImageAnalysisSurvey/
+        curl https://coba-nih-2023-survey.streamlit.app/
