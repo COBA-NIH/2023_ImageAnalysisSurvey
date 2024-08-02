@@ -484,11 +484,8 @@ def sunburst_chart(df, order_list, color_column='', custom_colors={}, title=''):
 
     """
     #Creating the dataframe
-    print("hiiiiiiiiii")
-    print(df.columns)
     df = df.groupby(order_list[-1]).value_counts().reset_index()  #creating the counts based on grouping the column that was last in the 'order_list'
     df = df.rename(columns={0:'count'})
-    print(df.columns)
     #creating the sunburst chart
     fig = px.sunburst(df, path=order_list,color = color_column, color_discrete_map = custom_colors, values='count', width=500, height=500)
     fig.update_traces(textinfo="label+percent parent", insidetextorientation = 'radial')
