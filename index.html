@@ -22,27 +22,6 @@
       gtag('config', 'G-MJ3C2K5RFM');
     </script>
     <title>Bridging Imaging Users to Imaging Analysis - A community survey</title>
-    <style type="text/css">
-      html {
-        overflow: auto;
-      }
-      html,
-      body,
-      div,
-      iframe {
-        margin: 0px;
-        padding: 0px;
-        height: 100%;
-        border: none;
-      }
-      iframe {
-        display: block;
-        width: 100%;
-        border: none;
-        overflow-y: auto;
-        overflow-x: hidden;
-      }
-    </style>
   </head>
   <body>
     <div id="root"></div>
@@ -53,18 +32,6 @@ stlite.mount(
     requirements: ["kaleido","pandas=1.4.4","plotly==5.9.0","scikit-learn==1.0.2","wordcloud==1.8.2.2"], // Packages to install
     entrypoint: "web_app.py", // The target file of the `streamlit run` command
     files: {
-      "figure.png":{
-        url: "https://raw.githubusercontent.com/COBA-NIH/bioimage_object_analysis_schema/main/figure.png",
-      },
-      "jsons/master_schema.json":{
-        url: "https://raw.githubusercontent.com/COBA-NIH/bioimage_object_analysis_schema/main/jsons/master_schema.json",
-      },
-      "bioimage_object_analysis_questions.json":{
-        url: "https://raw.githubusercontent.com/COBA-NIH/bioimage_object_analysis_schema/main/bioimage_object_analysis_questions.json",
-      },
-      "bioimage_object_analysis_questions.csv":{
-        url: "https://raw.githubusercontent.com/COBA-NIH/bioimage_object_analysis_schema/main/bioimage_object_analysis_questions.csv",
-      },
       "web_app.py": `
 import pandas as pd
 import plotly.express as px
