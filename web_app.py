@@ -20,11 +20,11 @@ st.set_page_config(
    initial_sidebar_state='collapsed'
 )
 
-url = 'csv files/data.csv'
+url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/data.csv'
 data = pd.read_csv(url)
 
 #Figure 1A -graphs
-role_url = 'csv files/role.csv'
+role_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/role.csv'
 role_val_counts =pd.read_csv(role_url)
 
 # pie chart for the roles of the survey participants 
@@ -46,7 +46,7 @@ demographics_chart.update_traces(marker=dict(color='blue'))
 demographics_chart.update_traces(marker={'size':25})
 
 #Figure 1C -graphs
-df_domains_url = 'csv files/role_and_domains.csv'
+df_domains_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/role_and_domains.csv'
 df_domains = pd.read_csv(df_domains_url, index_col=0)
 
 #Role and domains
@@ -68,7 +68,7 @@ with st.container():
     st.write('Figure 1C) Answers to the check-box question “Which of the following do you have significant formal training in or experience with? Select all that apply.” Responses were categorized based on the answers provided for part 1A.')
 
 #Figure S1A -graphs 
-training_csv_url = 'csv files/training_experience.csv'
+training_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/training_experience.csv'
 training_df = pd.read_csv(training_csv_url)
 
 #Figure S1B -graphs
@@ -93,7 +93,7 @@ st.image(img)
 st.write('Figure S1B) Image from Google Analytics showing the number of visitors to the Cellprofiler website in the year 2022. The scale bar indicates the number of visitors')
 
 ##Figure 2
-work_comp_com_df_url = 'csv files/work_comp_com_df.csv'
+work_comp_com_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_comp_com_df.csv'
 work_comp_com_df = pd.read_csv(work_comp_com_df_url, index_col=0)
 
 #Overall chart
@@ -109,25 +109,25 @@ with st.container():
 
 ###Figure S2
 # Reading the CSVs
-work_cat_url = 'csv files/work_des.csv'
+work_cat_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_des.csv'
 work_cat = pd.read_csv(work_cat_url, index_col=0)
 
-comp_skill_distbn_url = 'csv files/comp_skill_distbn.csv'
+comp_skill_distbn_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/comp_skill_distbn.csv'
 comp_skill_distbn = pd.read_csv(comp_skill_distbn_url, index_col=0)
 
-comf_distbn_url = 'csv files/comf_distbn.csv'
+comf_distbn_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/comf_distbn.csv'
 comf_distbn = pd.read_csv(comf_distbn_url, index_col=0)
 
-trainee_df_url = 'csv files/trainee_df.csv'
+trainee_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/trainee_df.csv'
 trainee_df = pd.read_csv(trainee_df_url, index_col=0)
 
-trainee_comp_comf_df_url = 'csv files/trainee_comp_comf_df.csv'
+trainee_comp_comf_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/trainee_comp_comf_df.csv'
 trainee_comp_comf_df = pd.read_csv(trainee_comp_comf_df_url)
 
-work_comp_com_lif_df_url ='csv files/work_comp_com_lif_df.csv'
+work_comp_com_lif_df_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_comp_com_lif_df.csv'
 work_comp_com_lif_df =pd.read_csv(work_comp_com_lif_df_url)
 
-work_comp_com_phy_df_url ='csv files/work_comp_com_phy_df.csv'
+work_comp_com_phy_df_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_comp_com_phy_df.csv'
 work_comp_com_phy_df =pd.read_csv(work_comp_com_phy_df_url)
 
 # Creating the figures
@@ -182,11 +182,11 @@ with st.container():
  
 
  ### Figure 3
- images_lif_df_url = 'csv files/images_lif_df.csv'
+ images_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/images_lif_df.csv'
  images_lif_df = pd.read_csv(images_lif_df_url, index_col=0)
  
 
- images_phy_df_url = 'csv files/images_phy_df.csv'
+ images_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/images_phy_df.csv'
  images_phy_df = pd.read_csv(images_phy_df_url, index_col=0)
  
 
@@ -205,22 +205,22 @@ with st.container():
 
 ###Figure 4
 ### Reading the CSVs
-com_lif_df_url = 'csv files/com_lif_df.csv'
+com_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/com_lif_df.csv'
 com_lif_df = pd.read_csv(com_lif_df_url, index_col=0)
 
-most_lif_df_url = 'csv files/most_lif_df.csv'
+most_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/most_lif_df.csv'
 most_lif_df = pd.read_csv(most_lif_df_url, index_col=0)
 
-fre_lif_df_counts_url = 'csv files/freq_lif_df_counts.csv'
+fre_lif_df_counts_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/freq_lif_df_counts.csv'
 fre_lif_df_counts = pd.read_csv(fre_lif_df_counts_url,index_col=0)
 
-com_phy_df_url = 'csv files/com_phy_df.csv'
+com_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/com_phy_df.csv'
 com_phy_df = pd.read_csv(com_phy_df_url,index_col=0)
 
-most_phy_df_url = 'csv files/most_phy_df.csv'
+most_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/most_phy_df.csv'
 most_phy_df = pd.read_csv(most_phy_df_url, index_col=0)
 
-fre_phy_df_counts_url = 'csv files/freq_phy_df_counts.csv'
+fre_phy_df_counts_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/freq_phy_df_counts.csv'
 fre_phy_df_counts = pd.read_csv(fre_phy_df_counts_url, index_col=0)
 
 #Life sciences
@@ -267,10 +267,10 @@ with st.container():
 
 #Figure S3 
 #Reading dataframes 
-scp_df_1_url = 'csv files/script_usage_lif.csv'
+scp_df_1_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/script_usage_lif.csv'
 scp_df_1 = pd.read_csv(scp_df_1_url, index_col=0)
 
-scp_df_phy_1_url  = 'csv files/script_usage_phy.csv'
+scp_df_phy_1_url  = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/script_usage_phy.csv'
 scp_df_phy_1 = pd.read_csv(scp_df_phy_1_url, index_col=0)
 
 #Creating the Fig S3 figures 
@@ -325,7 +325,7 @@ with st.container():
    st.write('Figure 5E) Wordcloud representation of the unigrams of the answers by ‘’physical science’ participants to an open-ended question “What image analysis problems (i.e. finding nuclei, tissue analysis, analysis of super-resolution data, etc) do you wish had easier/better solutions?”')
 
 #Figure S4
-per_sc_usage_df_url = 'csv files/usage_sc_forum.csv'
+per_sc_usage_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/usage_sc_forum.csv'
 per_sc_usage_df = pd.read_csv(per_sc_usage_df_url, index_col=0)
 
 sc_usage_fig = px.bar(per_sc_usage_df, per_sc_usage_df['index'], y=per_sc_usage_df['percentage'], text_auto=True, width=500, height=500,labels={'index':'', 'percentage':'Percent'}, title='Usage of image sc forum')
@@ -349,13 +349,13 @@ with st.container():
 
 # Figure 6
 #Reading the CSVs
-pre_exp_url = 'csv files/previous_experience.csv'
+pre_exp_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/previous_experience.csv'
 pre_exp_df = pd.read_csv(pre_exp_url, index_col=0)
 
-conf_att_df_url = 'csv files/conf_att_df.csv'
+conf_att_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/conf_att_df.csv'
 conf_att_df = pd.read_csv(conf_att_df_url, index_col=0)
 
-workshops_for_chart_url = 'csv files/workshops_for_chart.csv'
+workshops_for_chart_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/workshops_for_chart.csv'
 workshops_for_chart = pd.read_csv(workshops_for_chart_url, index_col=0)
 
 #Creating the figures 
@@ -381,17 +381,17 @@ with st.container():
 
 #Figure 7
 #Reading the CSVs
-top_int_df_url = 'csv files/topics_interest_df.csv'
+top_int_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/topics_interest_df.csv'
 top_int_df = pd.read_csv(top_int_df_url, index_col=0)
 
 
-pre_mtd_url ='csv files/preferred_mtds_df.csv'
+pre_mtd_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/preferred_mtds_df.csv'
 pre_mtd_df = pd.read_csv(pre_mtd_url, index_col=0)
 
-fold_change_top_url =('csv files/fold_change_topics.csv')
+fold_change_top_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/fold_change_topics.csv')
 fold_change_top = pd.read_csv(fold_change_top_url, index_col=0)
 
-fold_change_int_url = ('csv files/fold_change_instructional.csv')
+fold_change_int_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/fold_change_instructional.csv')
 fold_change_int = pd.read_csv(fold_change_int_url, index_col=0)
 
 
@@ -425,7 +425,7 @@ with st.container():
    st.write('Figure 7C) Percent change in the “Very interested/Very preferable” category of part A and B compared to the results from the 2020 bioimage analysis survey.')
    
 #Figure S5
-int_ski_df_url = ('csv files/Skill_topicscombined.csv')
+int_ski_df_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Skill_topicscombined.csv')
 int_ski_df = pd.read_csv(int_ski_df_url, index_col=0)
 
 int_ski = utils.fig_subgroups(int_ski_df,list_of_col=['Image analysis theory', 'Image analysis practices', 'Topics related to sub discipline', 'Specific software tool', 'Deep learning for image analysis', 'Analyzing large images', 'Visualization of results'],list_of_groups = ['High skill', 'Medium skill', 'Low skill'],colorkey=['cornflowerblue', 'deepskyblue', 'lightskyblue'], title='Topics of interest for the future workshops')
@@ -438,15 +438,15 @@ with st.container():
 
 
 #Figure S6
-ins_com_url =('csv files/Comfort_methodscombined.csv')
+ins_com_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Comfort_methodscombined.csv')
 ins_com_df = pd.read_csv(ins_com_url, index_col=0)
 ins_com = utils.fig_subgroups(ins_com_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['High comfort', 'Medium comfort', 'Low comfort'],colorkey = ['darkviolet', 'blueviolet', 'violet'],title = 'Preferable instructional methods')
 
-wrk_chart_url = ('csv files/Worktype_methodscombined.csv')
+wrk_chart_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Worktype_methodscombined.csv')
 wrk_chart_df = pd.read_csv(wrk_chart_url, index_col=0)
 wrk_chart = utils.fig_subgroups(wrk_chart_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['Imaging', 'Balanced', 'Analyst'],colorkey = ['royalblue', 'plum', 'darkturquoise'],title = 'Preferable instructional methods')
 
-ins_skill_url =('csv files/Skill_methodscombined.csv')
+ins_skill_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Skill_methodscombined.csv')
 ins_skill_df = pd.read_csv(ins_skill_url, index_col=0)
 ins_skill = utils.fig_subgroups(ins_skill_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['High skill', 'Medium skill', 'Low skill'],colorkey = ['darkgreen', 'green', 'lightgreen'],title = 'Preferable instructional methods')
 
@@ -531,46 +531,46 @@ with st.container():
 #Reading the dataframe for figure S7 
 #Creator
 #Creator-imaging 
-creator_imaging_csv_url =  'csv files/creator_imaging.csv'
+creator_imaging_csv_url =  'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_imaging.csv'
 creator_imaging = pd.read_csv(creator_imaging_csv_url, index_col=0)
 
-creator_imaging_ngrams_url = 'csv files/creator_imaging_ngrams.csv'
+creator_imaging_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_imaging_ngrams.csv'
 creator_imaging_ngrams = pd.read_csv(creator_imaging_ngrams_url, index_col=0)
 
 #Creator- Balanced 
-creator_balanced_csv_url = 'csv files/creator_balanced.csv'
+creator_balanced_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_balanced.csv'
 creator_balanced = pd.read_csv(creator_balanced_csv_url, index_col =0)
 
-creator_balanced_ngrams_url = 'csv files/creator_balanced_ngrams.csv'
+creator_balanced_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_balanced_ngrams.csv'
 creator_balanced_ngrams = pd.read_csv(creator_balanced_ngrams_url, index_col=0)
 
 #Creator -Analyst 
-creator_analyst_csv_url = 'csv files/creator_analyst.csv'
+creator_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_analyst.csv'
 creator_analyst = pd.read_csv(creator_analyst_csv_url, index_col=0)
 
-creator_analyst_ngrams_url = 'csv files/creator_analyst_ngrams.csv'
+creator_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_analyst_ngrams.csv'
 creator_analyst_ngrams = pd.read_csv(creator_analyst_ngrams_url, index_col=0)
 
 #User 
 #User -Imaging 
-user_imaging_csv_url = 'csv files/user_role_imaging.csv'
+user_imaging_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_role_imaging.csv'
 user_imaging_csv = pd.read_csv(user_imaging_csv_url, index_col=0)
 
-user_imaging_ngrams_url = 'csv files/user_imaging_ngrams.csv'
+user_imaging_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_imaging_ngrams.csv'
 user_imaging_ngrams = pd.read_csv(user_imaging_ngrams_url, index_col=0)
 
 #User - Balanced 
-user_balanced_csv_url = 'csv files/user_role_balanced.csv'
+user_balanced_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_role_balanced.csv'
 user_balanced_csv = pd.read_csv(user_balanced_csv_url, index_col=0)
 
-user_balanced_ngrams_url = 'csv files/user_balanced_ngrams.csv'
+user_balanced_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_balanced_ngrams.csv'
 user_balanced_ngrams =pd.read_csv(user_balanced_ngrams_url, index_col=0)
 
 #User-analyst
-user_analyst_csv_url = 'csv files/user_role_analyst.csv'
+user_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_role_analyst.csv'
 user_analyst_csv = pd.read_csv(user_analyst_csv_url, index_col=0)
 
-user_analyst_ngrams_url = 'csv files/user_analyst_ngrams.csv'
+user_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_analyst_ngrams.csv'
 user_analyst_ngrams = pd.read_csv(user_analyst_ngrams_url, index_col=0)
 
 #Creating the barcharts for figure S7 
@@ -608,7 +608,7 @@ with st.container():
    st.write('Figure S7 D) Answers to an open-ended question “What do you think analysis tool USERS (such as microscopists) could/should do to make image analysis better and more successful? How best could we encourage them to do it?” was categorized based on the “work type” as described in supplementary S2A and the top ten bigrams of the responses are represented as bar charts.')
 
 #Figure S8 
-comparison_df_url = 'csv files/Comparison_google_data_with_survey.csv'
+comparison_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Comparison_google_data_with_survey.csv'
 comparison_df = pd.read_csv(comparison_df_url, index_col=0)
 
 S8_fig = go.Figure()
