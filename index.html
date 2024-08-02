@@ -707,7 +707,7 @@ def df_for_barcharts(series):
     """
 #creating the dcitionary of the unique values with the counts
     list = series.dropna(how='all').tolist()
-    list_split = [re.split(r',\s*(?![^()]*\))', i) for i in list]   #splitting the list based on comma but not the ones inside the bracket
+    list_split = [re.split(r',\\s*(?![^()]*\\))', i) for i in list]   #splitting the list based on comma but not the ones inside the bracket
     list_flat = [i for innerlist in list_split for i in innerlist]  #converting a nested list to a flat list
     list_wo_spaces = [i.lstrip() for i in list_flat] #removing the leading spaces in the string
     dict_count = dict((x,list_wo_spaces.count(x)) for x in set(list_wo_spaces)) # creating a dictionary with counts of each unique values
