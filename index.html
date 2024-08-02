@@ -39,7 +39,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import matplotlib.pyplot as plt
 import numpy as np
-import re 
+import re
 from sklearn.feature_extraction.text import CountVectorizer
 import streamlit as st
 from PIL import Image
@@ -52,15 +52,15 @@ st.set_page_config(
    initial_sidebar_state='collapsed'
 )
 
-url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/data.csv'
+url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/data.csv'
 data = pd.read_csv(url)
 
 #Figure 1A -graphs
-role_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/role.csv'
+role_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/role.csv'
 role_val_counts =pd.read_csv(role_url)
 
 # pie chart for the roles of the survey participants 
-role_pie_chart = px.pie(role_val_counts, values=role_val_counts['counts'], names=role_val_counts['role'], title="Role", width=850, height=500)
+role_pie_chart = px.pie(role_val_counts, values=role_val_counts['count'], names=role_val_counts['role'], title="Role", width=850, height=500)
 role_pie_chart.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
 role_pie_chart.update_layout(title_x=0.8,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 # Including the trainee information in the legend 
@@ -70,7 +70,7 @@ role_pie_chart['data'][0]['labels'][2] = 'Postdoctoral fellow (trainee)'
 #Figure 1B 
 #Geo chart for the location of the participants; locations were given based on a country that is centrally located in a continent
 demographics = data["Location"]
-demographics_chart = px.scatter_geo(demographics, locations=['UKR', 'USA', 'KGZ', 'BRA', 'AUS','TCD'],size_max=20,opacity=0.2, projection="natural earth", color = data.Location.value_counts().values,text=data.Location.value_counts(), title="Location", labels={'color':'Continent'}, width=600, height=400)
+demographics_chart = px.scatter_geo(demographics, locations=['UKR', 'USA', 'KGZ', 'BRA', 'AUS','TCD'],size_max=20,opacity=0.2, projection="natural earth", color = demographics.value_counts().values,text=demographics.value_counts().keys(), title="Location", labels={'color':'Continent'}, width=600, height=400)
 demographics_chart.update_layout(title_x=0.50,title_y=0.80, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 demographics_chart.update_layout(showlegend=False)
 demographics_chart.update_coloraxes(showscale=False)
@@ -78,7 +78,7 @@ demographics_chart.update_traces(marker=dict(color='blue'))
 demographics_chart.update_traces(marker={'size':25})
 
 #Figure 1C -graphs
-df_domains_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/role_and_domains.csv'
+df_domains_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/role_and_domains.csv'
 df_domains = pd.read_csv(df_domains_url, index_col=0)
 
 #Role and domains
@@ -100,7 +100,7 @@ with st.container():
     st.write('Figure 1C) Answers to the check-box question “Which of the following do you have significant formal training in or experience with? Select all that apply.” Responses were categorized based on the answers provided for part 1A.')
 
 #Figure S1A -graphs 
-training_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/training_experience.csv'
+training_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/training_experience.csv'
 training_df = pd.read_csv(training_csv_url)
 
 #Figure S1B -graphs
@@ -109,7 +109,7 @@ response = requests.get(url)
 img = Image.open(BytesIO(response.content))
 
 #Creating the figures
-training_pie =px.pie(training_df, values=training_df['counts'],names=training_df['training'], title="Training and experience", width=700, height=500)
+training_pie =px.pie(training_df, values=training_df['count'],names=training_df['training'], title="Training and experience", width=700, height=500)
 training_pie.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
 training_pie.update_layout(title_x=0.70,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 
@@ -125,7 +125,7 @@ st.image(img)
 st.write('Figure S1B) Image from Google Analytics showing the number of visitors to the Cellprofiler website in the year 2022. The scale bar indicates the number of visitors')
 
 ##Figure 2
-work_comp_com_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/work_comp_com_df.csv'
+work_comp_com_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_comp_com_df.csv'
 work_comp_com_df = pd.read_csv(work_comp_com_df_url, index_col=0)
 
 #Overall chart
@@ -141,25 +141,25 @@ with st.container():
 
 ###Figure S2
 # Reading the CSVs
-work_cat_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/work_des.csv'
+work_cat_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_des.csv'
 work_cat = pd.read_csv(work_cat_url, index_col=0)
 
-comp_skill_distbn_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/comp_skill_distbn.csv'
+comp_skill_distbn_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/comp_skill_distbn.csv'
 comp_skill_distbn = pd.read_csv(comp_skill_distbn_url, index_col=0)
 
-comf_distbn_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/comf_distbn.csv'
+comf_distbn_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/comf_distbn.csv'
 comf_distbn = pd.read_csv(comf_distbn_url, index_col=0)
 
-trainee_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/trainee_df.csv'
+trainee_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/trainee_df.csv'
 trainee_df = pd.read_csv(trainee_df_url, index_col=0)
 
-trainee_comp_comf_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/trainee_comp_comf_df.csv'
+trainee_comp_comf_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/trainee_comp_comf_df.csv'
 trainee_comp_comf_df = pd.read_csv(trainee_comp_comf_df_url)
 
-work_comp_com_lif_df_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/work_comp_com_lif_df.csv'
+work_comp_com_lif_df_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_comp_com_lif_df.csv'
 work_comp_com_lif_df =pd.read_csv(work_comp_com_lif_df_url)
 
-work_comp_com_phy_df_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/work_comp_com_phy_df.csv'
+work_comp_com_phy_df_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_comp_com_phy_df.csv'
 work_comp_com_phy_df =pd.read_csv(work_comp_com_phy_df_url)
 
 # Creating the figures
@@ -214,11 +214,11 @@ with st.container():
  
 
  ### Figure 3
- images_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/images_lif_df.csv'
+ images_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/images_lif_df.csv'
  images_lif_df = pd.read_csv(images_lif_df_url, index_col=0)
  
 
- images_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/images_phy_df.csv'
+ images_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/images_phy_df.csv'
  images_phy_df = pd.read_csv(images_phy_df_url, index_col=0)
  
 
@@ -237,22 +237,22 @@ with st.container():
 
 ###Figure 4
 ### Reading the CSVs
-com_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/com_lif_df.csv'
+com_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/com_lif_df.csv'
 com_lif_df = pd.read_csv(com_lif_df_url, index_col=0)
 
-most_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/most_lif_df.csv'
+most_lif_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/most_lif_df.csv'
 most_lif_df = pd.read_csv(most_lif_df_url, index_col=0)
 
-fre_lif_df_counts_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/freq_lif_df_counts.csv'
+fre_lif_df_counts_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/freq_lif_df_counts.csv'
 fre_lif_df_counts = pd.read_csv(fre_lif_df_counts_url,index_col=0)
 
-com_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/com_phy_df.csv'
+com_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/com_phy_df.csv'
 com_phy_df = pd.read_csv(com_phy_df_url,index_col=0)
 
-most_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/most_phy_df.csv'
+most_phy_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/most_phy_df.csv'
 most_phy_df = pd.read_csv(most_phy_df_url, index_col=0)
 
-fre_phy_df_counts_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/freq_phy_df_counts.csv'
+fre_phy_df_counts_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/freq_phy_df_counts.csv'
 fre_phy_df_counts = pd.read_csv(fre_phy_df_counts_url, index_col=0)
 
 #Life sciences
@@ -299,10 +299,10 @@ with st.container():
 
 #Figure S3 
 #Reading dataframes 
-scp_df_1_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/script_usage_lif.csv'
+scp_df_1_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/script_usage_lif.csv'
 scp_df_1 = pd.read_csv(scp_df_1_url, index_col=0)
 
-scp_df_phy_1_url  = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/script_usage_phy.csv'
+scp_df_phy_1_url  = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/script_usage_phy.csv'
 scp_df_phy_1 = pd.read_csv(scp_df_phy_1_url, index_col=0)
 
 #Creating the Fig S3 figures 
@@ -357,7 +357,7 @@ with st.container():
    st.write('Figure 5E) Wordcloud representation of the unigrams of the answers by ‘’physical science’ participants to an open-ended question “What image analysis problems (i.e. finding nuclei, tissue analysis, analysis of super-resolution data, etc) do you wish had easier/better solutions?”')
 
 #Figure S4
-per_sc_usage_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/usage_sc_forum.csv'
+per_sc_usage_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/usage_sc_forum.csv'
 per_sc_usage_df = pd.read_csv(per_sc_usage_df_url, index_col=0)
 
 sc_usage_fig = px.bar(per_sc_usage_df, per_sc_usage_df['index'], y=per_sc_usage_df['percentage'], text_auto=True, width=500, height=500,labels={'index':'', 'percentage':'Percent'}, title='Usage of image sc forum')
@@ -381,13 +381,13 @@ with st.container():
 
 # Figure 6
 #Reading the CSVs
-pre_exp_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/previous_experience.csv'
+pre_exp_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/previous_experience.csv'
 pre_exp_df = pd.read_csv(pre_exp_url, index_col=0)
 
-conf_att_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/conf_att_df.csv'
+conf_att_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/conf_att_df.csv'
 conf_att_df = pd.read_csv(conf_att_df_url, index_col=0)
 
-workshops_for_chart_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/workshops_for_chart.csv'
+workshops_for_chart_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/workshops_for_chart.csv'
 workshops_for_chart = pd.read_csv(workshops_for_chart_url, index_col=0)
 
 #Creating the figures 
@@ -413,17 +413,17 @@ with st.container():
 
 #Figure 7
 #Reading the CSVs
-top_int_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/topics_interest_df.csv'
+top_int_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/topics_interest_df.csv'
 top_int_df = pd.read_csv(top_int_df_url, index_col=0)
 
 
-pre_mtd_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/preferred_mtds_df.csv'
+pre_mtd_url ='https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/preferred_mtds_df.csv'
 pre_mtd_df = pd.read_csv(pre_mtd_url, index_col=0)
 
-fold_change_top_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/fold_change_topics.csv')
+fold_change_top_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/fold_change_topics.csv')
 fold_change_top = pd.read_csv(fold_change_top_url, index_col=0)
 
-fold_change_int_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/fold_change_instructional.csv')
+fold_change_int_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/fold_change_instructional.csv')
 fold_change_int = pd.read_csv(fold_change_int_url, index_col=0)
 
 
@@ -457,7 +457,7 @@ with st.container():
    st.write('Figure 7C) Percent change in the “Very interested/Very preferable” category of part A and B compared to the results from the 2020 bioimage analysis survey.')
    
 #Figure S5
-int_ski_df_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Skill_topicscombined.csv')
+int_ski_df_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Skill_topicscombined.csv')
 int_ski_df = pd.read_csv(int_ski_df_url, index_col=0)
 
 int_ski = utils.fig_subgroups(int_ski_df,list_of_col=['Image analysis theory', 'Image analysis practices', 'Topics related to sub discipline', 'Specific software tool', 'Deep learning for image analysis', 'Analyzing large images', 'Visualization of results'],list_of_groups = ['High skill', 'Medium skill', 'Low skill'],colorkey=['cornflowerblue', 'deepskyblue', 'lightskyblue'], title='Topics of interest for the future workshops')
@@ -470,15 +470,15 @@ with st.container():
 
 
 #Figure S6
-ins_com_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Comfort_methodscombined.csv')
+ins_com_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Comfort_methodscombined.csv')
 ins_com_df = pd.read_csv(ins_com_url, index_col=0)
 ins_com = utils.fig_subgroups(ins_com_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['High comfort', 'Medium comfort', 'Low comfort'],colorkey = ['darkviolet', 'blueviolet', 'violet'],title = 'Preferable instructional methods')
 
-wrk_chart_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Worktype_methodscombined.csv')
+wrk_chart_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Worktype_methodscombined.csv')
 wrk_chart_df = pd.read_csv(wrk_chart_url, index_col=0)
 wrk_chart = utils.fig_subgroups(wrk_chart_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['Imaging', 'Balanced', 'Analyst'],colorkey = ['royalblue', 'plum', 'darkturquoise'],title = 'Preferable instructional methods')
 
-ins_skill_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Skill_methodscombined.csv')
+ins_skill_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Skill_methodscombined.csv')
 ins_skill_df = pd.read_csv(ins_skill_url, index_col=0)
 ins_skill = utils.fig_subgroups(ins_skill_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['High skill', 'Medium skill', 'Low skill'],colorkey = ['darkgreen', 'green', 'lightgreen'],title = 'Preferable instructional methods')
 
@@ -563,56 +563,56 @@ with st.container():
 #Reading the dataframe for figure S7 
 #Creator
 #Creator-imaging 
-creator_imaging_csv_url =  'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_imaging.csv'
+creator_imaging_csv_url =  'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_imaging.csv'
 creator_imaging = pd.read_csv(creator_imaging_csv_url, index_col=0)
 
-creator_imaging_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_imaging_ngrams.csv'
+creator_imaging_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_imaging_ngrams.csv'
 creator_imaging_ngrams = pd.read_csv(creator_imaging_ngrams_url, index_col=0)
 
 #Creator- Balanced 
-creator_balanced_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_balanced.csv'
+creator_balanced_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_balanced.csv'
 creator_balanced = pd.read_csv(creator_balanced_csv_url, index_col =0)
 
-creator_balanced_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_balanced_ngrams.csv'
+creator_balanced_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_balanced_ngrams.csv'
 creator_balanced_ngrams = pd.read_csv(creator_balanced_ngrams_url, index_col=0)
 
 #Creator -Analyst 
-creator_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_analyst.csv'
+creator_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_analyst.csv'
 creator_analyst = pd.read_csv(creator_analyst_csv_url, index_col=0)
 
-creator_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/creator_analyst_ngrams.csv'
+creator_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/creator_analyst_ngrams.csv'
 creator_analyst_ngrams = pd.read_csv(creator_analyst_ngrams_url, index_col=0)
 
 #User 
 #User -Imaging 
-user_imaging_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_role_imaging.csv'
+user_imaging_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_role_imaging.csv'
 user_imaging_csv = pd.read_csv(user_imaging_csv_url, index_col=0)
 
-user_imaging_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_imaging_ngrams.csv'
+user_imaging_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_imaging_ngrams.csv'
 user_imaging_ngrams = pd.read_csv(user_imaging_ngrams_url, index_col=0)
 
 #User - Balanced 
-user_balanced_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_role_balanced.csv'
+user_balanced_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_role_balanced.csv'
 user_balanced_csv = pd.read_csv(user_balanced_csv_url, index_col=0)
 
-user_balanced_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_balanced_ngrams.csv'
+user_balanced_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_balanced_ngrams.csv'
 user_balanced_ngrams =pd.read_csv(user_balanced_ngrams_url, index_col=0)
 
 #User-analyst
-user_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_role_analyst.csv'
+user_analyst_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_role_analyst.csv'
 user_analyst_csv = pd.read_csv(user_analyst_csv_url, index_col=0)
 
-user_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/user_analyst_ngrams.csv'
+user_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/user_analyst_ngrams.csv'
 user_analyst_ngrams = pd.read_csv(user_analyst_ngrams_url, index_col=0)
 
 #Creating the barcharts for figure S7 
-creator_imaging = wordcount_barchart(creator_imaging_ngrams, title='Creators role-Imaging', total=creator_imaging["Creators role-Imaging"])
-creator_balanced = wordcount_barchart(creator_balanced_ngrams, title='Creators role-Balanced', total=creator_balanced['Creators role- Balanced'])
-creator_analyst = wordcount_barchart(creator_analyst_ngrams, title='Creators role-Analyst', total = creator_analyst['Creators role-Analyst'])
+creator_imaging = utils.wordcount_barchart(creator_imaging_ngrams, title='Creators role-Imaging', total=creator_imaging["Creators role-Imaging"])
+creator_balanced = utils.wordcount_barchart(creator_balanced_ngrams, title='Creators role-Balanced', total=creator_balanced['Creators role- Balanced'])
+creator_analyst = utils.wordcount_barchart(creator_analyst_ngrams, title='Creators role-Analyst', total = creator_analyst['Creators role-Analyst'])
 
-user_imaging = wordcount_barchart(user_imaging_ngrams, title='Users role-Imaging', total=user_imaging_csv["Users role - Imaging"])
-user_balanced  = wordcount_barchart(user_balanced_ngrams, title='Users role-Balanced', total=user_balanced_csv["Users role-Balanced"])
-user_analyst = wordcount_barchart(user_analyst_ngrams, title='Users role-Analyst', total=user_analyst_csv["Users role - Analyst"])
+user_imaging = utils.wordcount_barchart(user_imaging_ngrams, title='Users role-Imaging', total=user_imaging_csv["Users role - Imaging"])
+user_balanced  = utils.wordcount_barchart(user_balanced_ngrams, title='Users role-Balanced', total=user_balanced_csv["Users role-Balanced"])
+user_analyst = utils.wordcount_barchart(user_analyst_ngrams, title='Users role-Analyst', total=user_analyst_csv["Users role - Analyst"])
 
 
 #Figure S7 
@@ -640,7 +640,7 @@ with st.container():
    st.write('Figure S7 D) Answers to an open-ended question “What do you think analysis tool USERS (such as microscopists) could/should do to make image analysis better and more successful? How best could we encourage them to do it?” was categorized based on the “work type” as described in supplementary S2A and the top ten bigrams of the responses are represented as bar charts.')
 
 #Figure S8 
-comparison_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Comparison_google_data_with_survey.csv'
+comparison_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/Comparison_google_data_with_survey.csv'
 comparison_df = pd.read_csv(comparison_df_url, index_col=0)
 
 S8_fig = go.Figure()
@@ -687,11 +687,11 @@ def barchart_vertical(series, title='', order_of_axes=[]):
 
     #creating a dataframe from the modified dictionary
     df = pd.DataFrame.from_dict(dict_count, orient='index')
-    df = df.rename(columns={0:'counts'})
+    df = df.rename(columns={0:'count'})
 
 
     #plotting a graph
-    fig = px.bar(x=df.index, y=df['counts'], labels ={'x':'', 'y':'counts'}, text_auto=True, orientation='v')
+    fig = px.bar(x=df.index, y=df['count'], labels ={'x':'', 'y':'count'}, text_auto=True, orientation='v')
     fig.update_layout(width=500, height=500, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
         fig.update_xaxes(categoryorder = 'total descending')
@@ -719,7 +719,7 @@ def df_for_barcharts(series):
 
     #creating a dataframe from the modified dictionary
     df = pd.DataFrame.from_dict(dict_count, orient='index')
-    df = df.rename(columns={0:'counts'})
+    df = df.rename(columns={0:'count'})
     return df 
 
 ### Vertical barchart - produces the figure and not the dataframe
@@ -733,7 +733,7 @@ def barchart_vertical_distbnfig(df, title='', order_of_axes=[], color_by='', cat
     color_by: string is given as input. Takes a dataframe column name as input and the bars are colored based on the column values.
     category_color: a dictionary is given as input. The dictionary keys are the values in the dataframe columns and the dictionary values are the colors of the bars that a user needs. 
     """
-    fig = px.bar(x=df.iloc[:,0], y=df.iloc[:,1], labels ={'x':'', 'y':'counts'}, text_auto=True, orientation='v', text=df.iloc[:,2], color=df[color_by], color_discrete_map = category_color)
+    fig = px.bar(x=df.iloc[:,0], y=df.iloc[:,1], labels ={'x':'', 'y':'count'}, text_auto=True, orientation='v', text=df.iloc[:,2], color=df[color_by], color_discrete_map = category_color)
     fig.update_layout(width=700, height=500, legend_traceorder = 'normal', legend_title = color_by)
     fig.update_layout(title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
@@ -762,11 +762,11 @@ def barchart_horizontal(series, title='', order_of_axes=[]):
 
     #creating a dataframe from the modified dictionary
     df = pd.DataFrame.from_dict(dict_count, orient='index')
-    df = df.rename(columns={0:'counts'})
+    df = df.rename(columns={0:'count'})
     
     
     #plotting a graph 
-    fig = px.bar(y=df.index, x=df['counts'], labels ={'x':'counts', 'y':''}, text_auto=True, orientation='h')                                              
+    fig = px.bar(y=df.index, x=df['count'], labels ={'x':'count', 'y':''}, text_auto=True, orientation='h')                                              
     fig.update_layout(width=700, height=400, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
         fig.update_yaxes(categoryorder = 'total ascending')
@@ -779,7 +779,7 @@ def barchart_horizontal(series, title='', order_of_axes=[]):
     return fig
 
 def customwrap(s,width=25):
-    return "<br>".join(textwrap.wrap(s,width=width))
+    return "<br>".join(textwrap.wrap(str(s),width=width))
 
 def barchart_horizontal_fig(df, title='', order_of_axes=[]):
     """
@@ -790,7 +790,7 @@ def barchart_horizontal_fig(df, title='', order_of_axes=[]):
     order_of_axes: list of index names as strings. It defines the order of the x axes (Optional)
     """
     #plotting a graph 
-    fig = px.bar(y=df.index.map(customwrap), x=df['counts'], labels ={'x':'counts', 'y':''}, text_auto=True, orientation='h')                                              
+    fig = px.bar(y=df.index.map(customwrap), x=df['count'], labels ={'x':'count', 'y':''}, text_auto=True, orientation='h')                                              
     fig.update_layout(width=700, height=400, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
         fig.update_yaxes(categoryorder = 'total ascending')
@@ -827,12 +827,12 @@ def tools_count(series, title=''):
 
     #creating a dataframe from the modified dictionary
     tools_df = pd.DataFrame.from_dict(final_dict, orient='index')
-    tools_df = tools_df.rename(columns={0:'counts'})
+    tools_df = tools_df.rename(columns={0:'count'})
     tools_df = tools_df.drop('None')
 
 
     #plotting a graph
-    fig = px.bar(x=tools_df['counts'], y=tools_df.index, labels ={'x':'counts', 'y':''}, text_auto=True, orientation='h')
+    fig = px.bar(x=tools_df['count'], y=tools_df.index, labels ={'x':'count', 'y':''}, text_auto=True, orientation='h')
     fig.update_layout(width=700, height=400, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     fig.update_yaxes(categoryorder = 'total ascending')
 
@@ -869,7 +869,7 @@ def tools_count_df(series):
 
     #creating a dataframe from the modified dictionary
     tools_df = pd.DataFrame.from_dict(final_dict, orient='index')
-    tools_df = tools_df.rename(columns={0:'counts'})
+    tools_df = tools_df.rename(columns={0:'count'})
     if 'None' in tools_df.index.values.tolist():
         tools_df = tools_df.drop('None')
     return tools_df 
@@ -1139,10 +1139,10 @@ def sunburst_chart(df, order_list, color_column='', custom_colors={}, title=''):
     """
     #Creating the dataframe
     df = df.groupby(order_list[-1]).value_counts().reset_index()  #creating the counts based on grouping the column that was last in the 'order_list'
-    df = df.rename(columns={0:'counts'})
-
+    df = df.rename(columns={0:'count'})
+    print(df.columns)
     #creating the sunburst chart
-    fig = px.sunburst(df, path=order_list,color = color_column, color_discrete_map = custom_colors, values='counts', width=500, height=500)
+    fig = px.sunburst(df, path=order_list,color = color_column, color_discrete_map = custom_colors, values='count', width=500, height=500)
     fig.update_traces(textinfo="label+percent parent", insidetextorientation = 'radial')
     fig.update_layout(title=title, title_x=0.5, font=dict(family='Helvetica', color="Black", size=16))
     fig.write_image(title+'.svg')
@@ -1192,14 +1192,14 @@ def word_counts(series, synonym_dict={}, title=''):
         some_final_count_dict[eachkey]= np.where(question_totals >0, 1,0).sum() # make a final count of nonzero answers, and sum it
 
     df= pd.DataFrame.from_dict(some_final_count_dict, orient='index')
-    df = df.rename(columns={0:'counts'})
+    df = df.rename(columns={0:'count'})
 
     fig = go.Figure()
 
-    fig= px.bar(y=df.index, x=df.counts, text=df.counts, labels={' ':'counts', 'y':''}, orientation='h')
+    fig= px.bar(y=df.index, x=df['count'], text=df['count'], labels={' ':'count', 'y':''}, orientation='h')
     fig.update_layout(title=title, title_x=0.5, width = 500, height=700, showlegend=False)
     fig.update_yaxes(categoryorder='total ascending')
-    fig.update_xaxes(title='Counts')
+    fig.update_xaxes(title='count')
     fig.update_layout(width=500, height=600, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if len(title)>20:
         fig.update_layout(title = title[0:23]+ '<br>' +title[23:], title_x = 0.45)
@@ -1270,7 +1270,7 @@ def fig_subgroups(combined_data, list_of_col=[], list_of_groups=[], colorkey=[],
 
 ### Another customwrap that is specifically used for the wordcount_barchart
 def customwrap2(s,width=15):
-    return "<br>".join(textwrap.wrap(s,width=width))
+    return "<br>".join(textwrap.wrap(str(s),width=width))
 
 ### Creates a barchart from the dataframe and also lists the total number of entries in the dataframe 
 def wordcount_barchart(data, title='', total=()):
