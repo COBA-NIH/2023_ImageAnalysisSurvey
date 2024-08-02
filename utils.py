@@ -33,11 +33,11 @@ def barchart_vertical(series, title='', order_of_axes=[]):
 
     #creating a dataframe from the modified dictionary
     df = pd.DataFrame.from_dict(dict_count, orient='index')
-    df = df.rename(columns={0:'counts'})
+    df = df.rename(columns={0:'count'})
 
 
     #plotting a graph
-    fig = px.bar(x=df.index, y=df['counts'], labels ={'x':'', 'y':'counts'}, text_auto=True, orientation='v')
+    fig = px.bar(x=df.index, y=df['count'], labels ={'x':'', 'y':'count'}, text_auto=True, orientation='v')
     fig.update_layout(width=500, height=500, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
         fig.update_xaxes(categoryorder = 'total descending')
@@ -65,7 +65,7 @@ def df_for_barcharts(series):
 
     #creating a dataframe from the modified dictionary
     df = pd.DataFrame.from_dict(dict_count, orient='index')
-    df = df.rename(columns={0:'counts'})
+    df = df.rename(columns={0:'count'})
     return df 
 
 ### Vertical barchart - produces the figure and not the dataframe
@@ -79,7 +79,7 @@ def barchart_vertical_distbnfig(df, title='', order_of_axes=[], color_by='', cat
     color_by: string is given as input. Takes a dataframe column name as input and the bars are colored based on the column values.
     category_color: a dictionary is given as input. The dictionary keys are the values in the dataframe columns and the dictionary values are the colors of the bars that a user needs. 
     """
-    fig = px.bar(x=df.iloc[:,0], y=df.iloc[:,1], labels ={'x':'', 'y':'counts'}, text_auto=True, orientation='v', text=df.iloc[:,2], color=df[color_by], color_discrete_map = category_color)
+    fig = px.bar(x=df.iloc[:,0], y=df.iloc[:,1], labels ={'x':'', 'y':'count'}, text_auto=True, orientation='v', text=df.iloc[:,2], color=df[color_by], color_discrete_map = category_color)
     fig.update_layout(width=700, height=500, legend_traceorder = 'normal', legend_title = color_by)
     fig.update_layout(title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
@@ -108,11 +108,11 @@ def barchart_horizontal(series, title='', order_of_axes=[]):
 
     #creating a dataframe from the modified dictionary
     df = pd.DataFrame.from_dict(dict_count, orient='index')
-    df = df.rename(columns={0:'counts'})
+    df = df.rename(columns={0:'count'})
     
     
     #plotting a graph 
-    fig = px.bar(y=df.index, x=df['counts'], labels ={'x':'counts', 'y':''}, text_auto=True, orientation='h')                                              
+    fig = px.bar(y=df.index, x=df['count'], labels ={'x':'count', 'y':''}, text_auto=True, orientation='h')                                              
     fig.update_layout(width=700, height=400, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
         fig.update_yaxes(categoryorder = 'total ascending')
@@ -125,7 +125,7 @@ def barchart_horizontal(series, title='', order_of_axes=[]):
     return fig
 
 def customwrap(s,width=25):
-    return "<br>".join(textwrap.wrap(s,width=width))
+    return "<br>".join(textwrap.wrap(str(s),width=width))
 
 def barchart_horizontal_fig(df, title='', order_of_axes=[]):
     """
@@ -136,7 +136,7 @@ def barchart_horizontal_fig(df, title='', order_of_axes=[]):
     order_of_axes: list of index names as strings. It defines the order of the x axes (Optional)
     """
     #plotting a graph 
-    fig = px.bar(y=df.index.map(customwrap), x=df['counts'], labels ={'x':'counts', 'y':''}, text_auto=True, orientation='h')                                              
+    fig = px.bar(y=df.index.map(customwrap), x=df['count'], labels ={'x':'count', 'y':''}, text_auto=True, orientation='h')                                              
     fig.update_layout(width=700, height=400, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if order_of_axes == []:
         fig.update_yaxes(categoryorder = 'total ascending')
@@ -173,12 +173,12 @@ def tools_count(series, title=''):
 
     #creating a dataframe from the modified dictionary
     tools_df = pd.DataFrame.from_dict(final_dict, orient='index')
-    tools_df = tools_df.rename(columns={0:'counts'})
+    tools_df = tools_df.rename(columns={0:'count'})
     tools_df = tools_df.drop('None')
 
 
     #plotting a graph
-    fig = px.bar(x=tools_df['counts'], y=tools_df.index, labels ={'x':'counts', 'y':''}, text_auto=True, orientation='h')
+    fig = px.bar(x=tools_df['count'], y=tools_df.index, labels ={'x':'count', 'y':''}, text_auto=True, orientation='h')
     fig.update_layout(width=700, height=400, title=title, title_x=0.5, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     fig.update_yaxes(categoryorder = 'total ascending')
 
@@ -215,7 +215,7 @@ def tools_count_df(series):
 
     #creating a dataframe from the modified dictionary
     tools_df = pd.DataFrame.from_dict(final_dict, orient='index')
-    tools_df = tools_df.rename(columns={0:'counts'})
+    tools_df = tools_df.rename(columns={0:'count'})
     if 'None' in tools_df.index.values.tolist():
         tools_df = tools_df.drop('None')
     return tools_df 
@@ -484,11 +484,13 @@ def sunburst_chart(df, order_list, color_column='', custom_colors={}, title=''):
 
     """
     #Creating the dataframe
+    print("hiiiiiiiiii")
+    print(df.columns)
     df = df.groupby(order_list[-1]).value_counts().reset_index()  #creating the counts based on grouping the column that was last in the 'order_list'
-    df = df.rename(columns={0:'counts'})
-
+    df = df.rename(columns={0:'count'})
+    print(df.columns)
     #creating the sunburst chart
-    fig = px.sunburst(df, path=order_list,color = color_column, color_discrete_map = custom_colors, values='counts', width=500, height=500)
+    fig = px.sunburst(df, path=order_list,color = color_column, color_discrete_map = custom_colors, values='count', width=500, height=500)
     fig.update_traces(textinfo="label+percent parent", insidetextorientation = 'radial')
     fig.update_layout(title=title, title_x=0.5, font=dict(family='Helvetica', color="Black", size=16))
     fig.write_image(title+'.svg')
@@ -538,14 +540,14 @@ def word_counts(series, synonym_dict={}, title=''):
         some_final_count_dict[eachkey]= np.where(question_totals >0, 1,0).sum() # make a final count of nonzero answers, and sum it
 
     df= pd.DataFrame.from_dict(some_final_count_dict, orient='index')
-    df = df.rename(columns={0:'counts'})
+    df = df.rename(columns={0:'count'})
 
     fig = go.Figure()
 
-    fig= px.bar(y=df.index, x=df.counts, text=df.counts, labels={' ':'counts', 'y':''}, orientation='h')
+    fig= px.bar(y=df.index, x=df['count'], text=df['count'], labels={' ':'count', 'y':''}, orientation='h')
     fig.update_layout(title=title, title_x=0.5, width = 500, height=700, showlegend=False)
     fig.update_yaxes(categoryorder='total ascending')
-    fig.update_xaxes(title='Counts')
+    fig.update_xaxes(title='count')
     fig.update_layout(width=500, height=600, title_y=0.95, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
     if len(title)>20:
         fig.update_layout(title = title[0:23]+ '<br>' +title[23:], title_x = 0.45)
@@ -616,7 +618,7 @@ def fig_subgroups(combined_data, list_of_col=[], list_of_groups=[], colorkey=[],
 
 ### Another customwrap that is specifically used for the wordcount_barchart
 def customwrap2(s,width=15):
-    return "<br>".join(textwrap.wrap(s,width=width))
+    return "<br>".join(textwrap.wrap(str(s),width=width))
 
 ### Creates a barchart from the dataframe and also lists the total number of entries in the dataframe 
 def wordcount_barchart(data, title='', total=()):
