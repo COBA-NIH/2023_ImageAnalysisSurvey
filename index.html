@@ -29,9 +29,12 @@
     <script>
 stlite.mount(
   {
-    requirements: ["pandas","plotly","scikit-learn","requests","matplotlib"], // Packages to install
+    requirements: ["pandas","plotly","scikit-learn","matplotlib"], // Packages to install
     entrypoint: "web_app.py", // The target file of the `streamlit run` command
     files: {
+      "Graphs/cellprofiler_website_access_2022.tif":{
+        url: "https://github.com/COBA-NIH/2023_ImageAnalysisSurvey/raw/serverless/Graphs/cellprofiler_website_access_2022.tif"
+      },
       "web_app.py": `
 import pandas as pd
 import plotly.express as px
@@ -43,7 +46,6 @@ import re
 from sklearn.feature_extraction.text import CountVectorizer
 import streamlit as st
 from PIL import Image
-import requests
 from io import BytesIO
 import textwrap
 import utils
@@ -104,9 +106,7 @@ training_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysi
 training_df = pd.read_csv(training_csv_url)
 
 #Figure S1B -graphs
-url = 'https://github.com/COBA-NIH/2023_ImageAnalysisSurvey/raw/main/Graphs/cellprofiler_website_access_2022.tif'
-response = requests.get(url)
-img = Image.open(BytesIO(response.content))
+st.image("Graphs/cellprofiler_website_access_2022.tif")
 
 #Creating the figures
 training_pie =px.pie(training_df, values=training_df['count'],names=training_df['training'], title="Training and experience", width=700, height=500)
