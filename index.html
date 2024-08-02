@@ -1089,43 +1089,6 @@ def percentage_stackedcharts_fig_horizontal(data, title='', order_of_axes=[], or
     fig.write_image(title+'horizontal.svg')
     return fig
 
-##### Wordcloud
-#### Worcloud with wrapped titles 
-def wordcloud(series,extra_stopwords=[]):
-    """
-    Makes a wordcloud based on the words in a given column
-    Parameters:
-    series: pd.Series. A dataframe column
-    extra_stopwords: list of words that needs to be removed from the wordcloud
-    """
-    input = ''.join(series.str.lower().str.split().dropna(how='all').astype(str).str.replace(r'[-./?!,":;()\']',' ')) #splitting the strings and replacing the spaces or special characters
-    words_to_remove = series.name.split()
-    stopwords_new = words_to_remove + list(STOPWORDS) + extra_stopwords
-    wc_image = WordCloud(stopwords=stopwords_new, background_color='white', width=600, height=600, random_state=4).generate(input)
-    plt.imshow(wc_image)
-    plt.tight_layout()
-    plt.title("\n".join(textwrap.wrap(series.name, 40)))
-    plt.axis('off')
-    plt.savefig('Image-' +series.name+ '.svg', bbox_inches='tight', dpi=300)
-    return 
-#worcloud with 50 words 
-def wordcloud_50(series,extra_stopwords=[]):
-    """
-    Makes a wordcloud based on the words in a given column
-    Parameters:
-    series: pd.Series. A dataframe column
-    extra_stopwords: list of words that needs to be removed from the wordcloud
-    """
-    input = ''.join(series.str.lower().str.split().dropna(how='all').astype(str).str.replace(r'[-./?!,":;()\']',' ')) #splitting the strings and replacing the spaces or special characters
-    words_to_remove = series.name.split()
-    stopwords_new = words_to_remove + list(STOPWORDS) + extra_stopwords
-    wc_image = WordCloud(stopwords=stopwords_new,max_words=50, background_color='white', width=600, height=600, random_state=4).generate(input)
-    plt.imshow(wc_image)
-    plt.tight_layout()
-    plt.title(series.name)
-    plt.axis('off')
-    plt.savefig('Image-50' +series.name+ '.svg')
-    return
 
 #### Sunburst chart
 def sunburst_chart(df, order_list, color_column='', custom_colors={}, title=''):
