@@ -32,9 +32,6 @@ stlite.mount(
     requirements: ["pandas","plotly","scikit-learn","matplotlib"], // Packages to install
     entrypoint: "web_app.py", // The target file of the `streamlit run` command
     files: {
-      "Graphs/cellprofiler_website_access_2022.png":{
-        url: "https:/raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/Graphs/cellprofiler_website_access_2022.png"
-      },
       "web_app.py": `
 import pandas as pd
 import plotly.express as px
@@ -121,7 +118,7 @@ with st.container():
     st.plotly_chart(training_pie)
     st.write('Figure S1A) Training and experience of the survey respondents')
     st.write('B)')
-    st.image('Graphs/cellprofiler_website_access_2022.png')
+    st.image('https:/raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/Graphs/cellprofiler_website_access_2022.png')
     st.write('Figure S1B) Image from Google Analytics showing the number of visitors to the Cellprofiler website in the year 2022. The scale bar indicates the number of visitors')
 
 ##Figure 2
