@@ -697,7 +697,6 @@ def barchart_vertical(series, title='', order_of_axes=[]):
         fig.update_xaxes(categoryorder='array', categoryarray = order_of_axes)
 
     #saving the figure as svg file
-    fig.write_image(title+'.svg')
 
     return fig
 ### Dataframe for the barcharts
@@ -772,7 +771,6 @@ def barchart_horizontal(series, title='', order_of_axes=[]):
         fig.update_yaxes(categoryorder='array', categoryarray = order_of_axes)
 
     #saving the figure as svg file
-    fig.write_image(title+'.svg')
 
     return fig
 
@@ -835,7 +833,6 @@ def tools_count(series, title=''):
     fig.update_yaxes(categoryorder = 'total ascending')
 
     #saving the figure as svg file
-    fig.write_image(title+'.svg')
 
     return fig
 
@@ -913,7 +910,6 @@ def stacked_barchart(data, title='', order_of_axes=[], order_of_stacks=[]):
         fig.update_layout(yaxis={'categoryorder':'total ascending'})
     else:
         fig.update_yaxes(categoryorder='array', categoryarray = order_of_axes)
-    fig.write_image(title+'.svg')
     return fig
 #Creation of dataframes for the stacked barchart
     """
@@ -1008,7 +1004,6 @@ def percentage_stackedcharts(data, title='', order_of_axes=[], order_of_stacks=[
         fig.update_layout(yaxis={'categoryorder':'total ascending'})
     else:
         fig.update_xaxes(categoryorder='array', categoryarray = order_of_axes, tickangle=90)
-    fig.write_image(title+'.svg')
     return fig
 
 def df_for_percentage_stackedcharts(data):
@@ -1058,7 +1053,6 @@ def percentage_stackedcharts_fig(data, title='', order_of_axes=[], order_of_stac
         fig.update_layout(yaxis={'categoryorder':'total ascending'})
     else:
         fig.update_xaxes(categoryorder='array', categoryarray = order_of_axes, tickangle=90)
-    fig.write_image(title+'.svg')
     return fig
 
 def percentage_stackedcharts_fig_horizontal(data, title='', order_of_axes=[], order_of_stacks=[], colors={}):
@@ -1084,7 +1078,6 @@ def percentage_stackedcharts_fig_horizontal(data, title='', order_of_axes=[], or
         fig.update_layout(xaxis={'categoryorder':'total ascending'})
     else:
         fig.update_yaxes(categoryorder='array', categoryarray = order_of_axes)
-    fig.write_image(title+'horizontal.svg')
     return fig
 
 
@@ -1106,8 +1099,6 @@ def sunburst_chart(df, order_list, color_column='', custom_colors={}, title=''):
     fig = px.sunburst(df, path=order_list,color = color_column, color_discrete_map = custom_colors, values='count', width=500, height=500)
     fig.update_traces(textinfo="label+percent parent", insidetextorientation = 'radial')
     fig.update_layout(title=title, title_x=0.5, font=dict(family='Helvetica', color="Black", size=16))
-    fig.write_image(title+'.svg')
-    fig.write_image(title+'.png')
     return fig 
 ##### Creating CSVs for ngrams
 def ngrams(series, range=(), name=''):
@@ -1166,7 +1157,6 @@ def word_counts(series, synonym_dict={}, title=''):
         fig.update_layout(title = title[0:23]+ '<br>' +title[23:], title_x = 0.45)
     else:
         fig.update_layout(title=title)
-    fig.write_image(title+'.svg')
     return fig 
 
 ### To create a dataframe comparing the topics/methods based on the subgroups such work type, comfort, comp skill
@@ -1246,7 +1236,6 @@ def wordcount_barchart(data, title='', total=()):
     fig.update_yaxes(categoryorder='total ascending')
     fig.update_layout(title=title, title_x=0.5)
     fig.add_annotation(text="Total number of respondents = " + str(len(total)),xref="paper", yref="paper",x=0.5, y=1.05, showarrow=False)
-    fig.write_image(title+'.svg')
     return fig
 `,
     },
