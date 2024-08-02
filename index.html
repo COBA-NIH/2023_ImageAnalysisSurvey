@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta charset="UTF-8" />
@@ -7,26 +7,17 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <title>Bridging Imaging Users to Imaging Analysis - A community survey</title>
+    <title>stlite app</title>
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.60.2/build/stlite.css"
     />
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-31BSNBR4N9"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-MJ3C2K5RFM');
-    </script>
   </head>
   <body>
     <div id="root"></div>
     <script src="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.60.2/build/stlite.js"></script>
     <script>
-stlite.mount(
+      stlite.mount(
   {
     requirements: ["pandas","plotly","scikit-learn","matplotlib"], // Packages to install
     entrypoint: "web_app.py", // The target file of the `streamlit run` command
