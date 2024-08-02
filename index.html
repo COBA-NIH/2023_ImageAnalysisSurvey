@@ -29,7 +29,7 @@
     <script>
 stlite.mount(
   {
-    requirements: ["kaleido","pandas","plotly","scikit-learn","wordcloud"], // Packages to install
+    requirements: ["pandas","plotly","scikit-learn","wordcloud"], // Packages to install
     entrypoint: "web_app.py", // The target file of the `streamlit run` command
     files: {
       "web_app.py": `
@@ -41,7 +41,6 @@ from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 import numpy as np
 import re 
-import kaleido
 from sklearn.feature_extraction.text import CountVectorizer
 import streamlit as st
 from PIL import Image
@@ -665,7 +664,6 @@ from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 import numpy as np
 import re
-import kaleido
 import textwrap 
 from pandas.api.types import CategoricalDtype
 from plotly.subplots import make_subplots
