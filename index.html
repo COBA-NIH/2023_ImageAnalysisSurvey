@@ -106,7 +106,6 @@ training_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysi
 training_df = pd.read_csv(training_csv_url)
 
 #Figure S1B -graphs
-#combe bakck to this later st.image('Graphs/cellprofiler_website_access_2022.png')
 
 #Creating the figures
 training_pie =px.pie(training_df, values=training_df['count'],names=training_df['training'], title="Training and experience", width=700, height=500)
@@ -121,7 +120,7 @@ st.write('A)')
 st.plotly_chart(training_pie)
 st.write('Figure S1A) Training and experience of the survey respondents')
 st.write('B)')
-st.image(img)
+#combe bakck to this later st.image('Graphs/cellprofiler_website_access_2022.png')
 st.write('Figure S1B) Image from Google Analytics showing the number of visitors to the Cellprofiler website in the year 2022. The scale bar indicates the number of visitors')
 
 ##Figure 2
