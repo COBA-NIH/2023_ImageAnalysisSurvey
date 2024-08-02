@@ -32,8 +32,8 @@ stlite.mount(
     requirements: ["pandas","plotly","scikit-learn","matplotlib"], // Packages to install
     entrypoint: "web_app.py", // The target file of the `streamlit run` command
     files: {
-      "Graphs/cellprofiler_website_access_2022.tif":{
-        url: "https:/raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/Graphs/cellprofiler_website_access_2022.tif"
+      "Graphs/cellprofiler_website_access_2022.png":{
+        url: "https:/raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/Graphs/cellprofiler_website_access_2022.png"
       },
       "web_app.py": `
 import pandas as pd
@@ -106,7 +106,7 @@ training_csv_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysi
 training_df = pd.read_csv(training_csv_url)
 
 #Figure S1B -graphs
-st.image("Graphs/cellprofiler_website_access_2022.tif")
+st.image("Graphs/cellprofiler_website_access_2022.png")
 
 #Creating the figures
 training_pie =px.pie(training_df, values=training_df['count'],names=training_df['training'], title="Training and experience", width=700, height=500)
