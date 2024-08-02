@@ -114,14 +114,15 @@ training_pie.update_layout(title_x=0.70,title_y = 0.85, font=dict(family='Helvet
 
 
 ## Supplementary figure S1
-st.subheader('Figure S1')
-st.subheader('Survey respondents were drawn primarily from North America and Europe')
-st.write('A)')
-st.plotly_chart(training_pie)
-st.write('Figure S1A) Training and experience of the survey respondents')
-st.write('B)')
-#combe bakck to this later st.image('Graphs/cellprofiler_website_access_2022.png')
-st.write('Figure S1B) Image from Google Analytics showing the number of visitors to the Cellprofiler website in the year 2022. The scale bar indicates the number of visitors')
+with st.container():
+    st.subheader('Figure S1')
+    st.subheader('Survey respondents were drawn primarily from North America and Europe')
+    st.write('A)')
+    st.plotly_chart(training_pie)
+    st.write('Figure S1A) Training and experience of the survey respondents')
+    st.write('B)')
+    st.image('Graphs/cellprofiler_website_access_2022.png')
+    st.write('Figure S1B) Image from Google Analytics showing the number of visitors to the Cellprofiler website in the year 2022. The scale bar indicates the number of visitors')
 
 ##Figure 2
 work_comp_com_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/serverless/csv%20files/work_comp_com_df.csv'
