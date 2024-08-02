@@ -30,8 +30,12 @@
 stlite.mount(
   {
     requirements: ["kaleido","pandas=1.4.4","plotly==5.9.0","scikit-learn==1.0.2","wordcloud==1.8.2.2"], // Packages to install
-    entrypoint: "web_app.py", // The target file of the `streamlit run` command
+    entrypoint: "hello_world.py", // The target file of the `streamlit run` command
     files: {
+      "hello_world.py": `
+import streamlit as st
+st.write("hello world")
+`,
       "web_app.py": `
 import pandas as pd
 import plotly.express as px
