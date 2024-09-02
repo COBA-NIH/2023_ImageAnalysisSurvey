@@ -2,7 +2,6 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 import numpy as np
 import re 
@@ -14,7 +13,7 @@ import requests
 from io import BytesIO
 import textwrap 
 
-from utils import *
+import utils
 
 st.set_page_config(
    layout='wide',
@@ -29,7 +28,7 @@ role_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/
 role_val_counts =pd.read_csv(role_url)
 
 # pie chart for the roles of the survey participants 
-role_pie_chart = px.pie(role_val_counts, values=role_val_counts['counts'], names=role_val_counts['role'], title="Role", width=850, height=500)
+role_pie_chart = px.pie(role_val_counts, values=role_val_counts['count'], names=role_val_counts['role'], title="Role", width=850, height=500)
 role_pie_chart.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
 role_pie_chart.update_layout(title_x=0.8,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 # Including the trainee information in the legend 
@@ -39,7 +38,7 @@ role_pie_chart['data'][0]['labels'][2] = 'Postdoctoral fellow (trainee)'
 #Figure 1B 
 #Geo chart for the location of the participants; locations were given based on a country that is centrally located in a continent
 demographics = data["Location"]
-demographics_chart = px.scatter_geo(demographics, locations=['UKR', 'USA', 'KGZ', 'BRA', 'AUS','TCD'],size_max=20,opacity=0.2, projection="natural earth", color = data.Location.value_counts().values,text=data.Location.value_counts(), title="Location", labels={'color':'Continent'}, width=600, height=400)
+demographics_chart = px.scatter_geo(demographics, locations=['UKR', 'USA', 'KGZ', 'BRA', 'AUS','TCD'],size_max=20,opacity=0.2, projection="natural earth", color = demographics.value_counts().values,text=demographics.value_counts().keys(), title="Location", labels={'color':'Continent'}, width=600, height=400)
 demographics_chart.update_layout(title_x=0.50,title_y=0.80, font=dict(family='Helvetica', color="Black", size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 demographics_chart.update_layout(showlegend=False)
 demographics_chart.update_coloraxes(showscale=False)
@@ -51,7 +50,7 @@ df_domains_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisS
 df_domains = pd.read_csv(df_domains_url, index_col=0)
 
 #Role and domains
-role_domain_fig = stacked_barchart_fig(df_domains, title='Role Based Training & Experience', order_of_stacks=['Developmental Biology','Deep learning','Computer vision','Computer science','Medicine','Statistics/Biostatistics','Chemistry/Biochemistry','Physics/Biophysics','Cell/Molecular Biology' ])
+role_domain_fig = utils.stacked_barchart_fig(df_domains, title='Role Based Training & Experience', order_of_stacks=['Developmental Biology','Deep learning','Computer vision','Computer science','Medicine','Statistics/Biostatistics','Chemistry/Biochemistry','Physics/Biophysics','Cell/Molecular Biology' ])
 
 st.title('Bridging Imaging Users to Imaging Analysis - A community survey')
 ## Figure 1
@@ -78,7 +77,7 @@ response = requests.get(url)
 img = Image.open(BytesIO(response.content))
 
 #Creating the figures
-training_pie =px.pie(training_df, values=training_df['counts'],names=training_df['training'], title="Training and experience", width=700, height=500)
+training_pie =px.pie(training_df, values=training_df['count'],names=training_df['training'], title="Training and experience", width=700, height=500)
 training_pie.update_traces(insidetextorientation = 'radial', textinfo='value+percent')
 training_pie.update_layout(title_x=0.70,title_y = 0.85, font=dict(family='Helvetica', color='Black', size=16), legend=dict(title_font_family = 'Helvetica', font=dict(size=16, color="Black")))
 
@@ -98,7 +97,7 @@ work_comp_com_df_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAna
 work_comp_com_df = pd.read_csv(work_comp_com_df_url, index_col=0)
 
 #Overall chart
-lif_phy = sunburst_chart(work_comp_com_df,order_list=["Work type", 'Knowledge of computational skills', 'Comfort'], color_column = 'Work type', custom_colors= {'Imaging':'lightskyblue', 'Balanced':'darkseagreen', 'Analyst':'orchid'}, title='Skills of the participants' )
+lif_phy = utils.sunburst_chart(work_comp_com_df,order_list=["Work type", 'Knowledge of computational skills', 'Comfort'], color_column = 'Work type', custom_colors= {'Imaging':'lightskyblue', 'Balanced':'darkseagreen', 'Analyst':'orchid'}, title='Skills of the participants' )
 lif_phy.update_layout(title_x=0.35, width=1000, height=1000)
 
 ## Figure 2
@@ -132,27 +131,27 @@ work_comp_com_phy_df_url ='https://raw.githubusercontent.com/COBA-NIH/2023_Image
 work_comp_com_phy_df =pd.read_csv(work_comp_com_phy_df_url)
 
 # Creating the figures
-work_cat_bar = barchart_vertical_distbnfig(work_cat, title = 'Work description',color_by='Category', category_color={'Imaging':'lightskyblue', 'Balanced':'darkseagreen', 'Analyst':'orchid'})
+work_cat_bar = utils.barchart_vertical_distbnfig(work_cat, title = 'Work description',color_by='Category', category_color={'Imaging':'lightskyblue', 'Balanced':'darkseagreen', 'Analyst':'orchid'})
 work_cat_bar.update_layout(title_x=0.4)
 
-comp_skill_distbn_bar = barchart_vertical_distbnfig(comp_skill_distbn, title='Level of computational skills', color_by='Category', category_color={'Low skill':'lightskyblue', 'Medium skill':'darkseagreen', 'High skill':'orchid'})
+comp_skill_distbn_bar = utils.barchart_vertical_distbnfig(comp_skill_distbn, title='Level of computational skills', color_by='Category', category_color={'Low skill':'lightskyblue', 'Medium skill':'darkseagreen', 'High skill':'orchid'})
 comp_skill_distbn_bar.update_layout(title_x=0.3)
 
-comf_distbn_bar = barchart_vertical_distbnfig(comf_distbn, title='Comfort in developing new computational skills', color_by='Category', category_color={'Low comfort':'lightskyblue', 'Medium comfort':'darkseagreen', 'High  comfort':'orchid'})
+comf_distbn_bar = utils.barchart_vertical_distbnfig(comf_distbn, title='Comfort in developing new computational skills', color_by='Category', category_color={'Low comfort':'lightskyblue', 'Medium comfort':'darkseagreen', 'High  comfort':'orchid'})
 comf_distbn_bar.update_layout(title_x=0.2)
 
 # Charts for the tarinees vs non-trainees
-trainee_worktype_fig  = sunburst_chart(trainee_df, order_list=['Trainee status', "Work type"], color_column='Trainee status', custom_colors={'Trainee':'lightskyblue', 'Nontrainee':'darkseagreen'}, title='Worktype categorized based on trainee status')
+trainee_worktype_fig  = utils.sunburst_chart(trainee_df, order_list=['Trainee status', "Work type"], color_column='Trainee status', custom_colors={'Trainee':'lightskyblue', 'Nontrainee':'darkseagreen'}, title='Worktype categorized based on trainee status')
 trainee_worktype_fig.update_layout(title_x=0.3)
 
-trainee_comp_comf_fig = sunburst_chart(trainee_comp_comf_df, order_list=['Trainee status', 'Knowledge of computational skills', 'Comfort'], color_column='Trainee status', custom_colors={'Trainee':'lightskyblue', 'Nontrainee':'darkseagreen'}, title='Computational skills of the trainees and nontrainees') 
+trainee_comp_comf_fig = utils.sunburst_chart(trainee_comp_comf_df, order_list=['Trainee status', 'Knowledge of computational skills', 'Comfort'], color_column='Trainee status', custom_colors={'Trainee':'lightskyblue', 'Nontrainee':'darkseagreen'}, title='Computational skills of the trainees and nontrainees') 
 trainee_comp_comf_fig.update_layout(title_x=0.25)
 
 #Charts for the life sciences vs physical sciences 
-sun_lif = sunburst_chart(work_comp_com_lif_df, order_list=["Work type", 'Knowledge of computational skills', 'Comfort'], color_column='Work type', custom_colors={'Imaging':'lightskyblue', 'Balanced':'darkseagreen', 'Analyst':'orchid'}, title='Skills of the participants (Life Sciences)')
+sun_lif = utils.sunburst_chart(work_comp_com_lif_df, order_list=["Work type", 'Knowledge of computational skills', 'Comfort'], color_column='Work type', custom_colors={'Imaging':'lightskyblue', 'Balanced':'darkseagreen', 'Analyst':'orchid'}, title='Skills of the participants (Life Sciences)')
 sun_lif.update_layout(title_x=0.3)
 
-sun_phy = sunburst_chart(work_comp_com_phy_df, order_list=["Work type", 'Knowledge of computational skills', 'Comfort'], color_column='Work type', custom_colors={'Imaging':'lightskyblue', 'Balanced':'darkseagreen', 'Analyst':'orchid'}, title='Skills of the participants (Physical Sciences)')
+sun_phy = utils.sunburst_chart(work_comp_com_phy_df, order_list=["Work type", 'Knowledge of computational skills', 'Comfort'], color_column='Work type', custom_colors={'Imaging':'lightskyblue', 'Balanced':'darkseagreen', 'Analyst':'orchid'}, title='Skills of the participants (Physical Sciences)')
 sun_phy.update_layout(title_x=0.3)
 
 ###Figure S2 
@@ -191,8 +190,8 @@ with st.container():
  images_phy_df = pd.read_csv(images_phy_df_url, index_col=0)
  
 
- kinds_life = stacked_barchart_fig(images_lif_df,title="What kinds of images do you commonly want to analyze (life sciences)", order_of_stacks=['2D', '2D+time','3D(<3000x3000x100)', '3D+time','3D(SPIM/largevolume)', '3Dlargevolume+time'])
- kinds_phy = stacked_barchart_fig(images_phy_df,title="What kinds of images do you commonly want to analyze (physical sciences)", order_of_stacks=['2D', '2D+time','3D(<3000x3000x100)', '3D+time','3D(largevolume)','3Dlargevolume+time'])
+ kinds_life = utils.stacked_barchart_fig(images_lif_df,title="What kinds of images do you commonly want to analyze (life sciences)", order_of_stacks=['2D', '2D+time','3D(<3000x3000x100)', '3D+time','3D(SPIM/largevolume)', '3Dlargevolume+time'])
+ kinds_phy = utils.stacked_barchart_fig(images_phy_df,title="What kinds of images do you commonly want to analyze (physical sciences)", order_of_stacks=['2D', '2D+time','3D(<3000x3000x100)', '3D+time','3D(largevolume)','3Dlargevolume+time'])
 
 with st.container():
    st.subheader('Figure 3')
@@ -225,23 +224,23 @@ fre_phy_df_counts_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_ImageAn
 fre_phy_df_counts = pd.read_csv(fre_phy_df_counts_url, index_col=0)
 
 #Life sciences
-com_lif = barchart_horizontal_fig(com_lif_df, title='Commonly used image analysis tools (life sciences)')
+com_lif = utils.barchart_horizontal_fig(com_lif_df, title='Commonly used image analysis tools (life sciences)')
 com_lif.update_layout(title_x=0.3)
 
-most_lif = barchart_horizontal_fig(most_lif_df, title='Most used image analysis tools (life sciences)')
+most_lif = utils.barchart_horizontal_fig(most_lif_df, title='Most used image analysis tools (life sciences)')
 most_lif.update_layout(title_x=0.3)
 
-freq_lif = barchart_horizontal_fig(fre_lif_df_counts, title='Frequency of script usage (life sciences)', order_of_axes=['Most of the time','Often','Sometimes','Never'])
+freq_lif = utils.barchart_horizontal_fig(fre_lif_df_counts, title='Frequency of script usage (life sciences)', order_of_axes=['Most of the time','Often','Sometimes','Never'])
 freq_lif.update_layout(title_x=0.3)
 
 #Physical sciences
-com_phy = barchart_horizontal_fig(com_phy_df, title='Commonly used image analysis tools (physical sciences)', order_of_axes=['Computational libraries<br>and scripts','Other commercial software','Commercial software that<br>comes with my microscope', 'Open source point-and-<br>click software'])
+com_phy = utils.barchart_horizontal_fig(com_phy_df, title='Commonly used image analysis tools (physical sciences)', order_of_axes=['Computational libraries<br>and scripts','Other commercial software','Commercial software that<br>comes with my microscope', 'Open source point-and-<br>click software'])
 com_phy.update_layout(title_x=0.3)
 
-most_phy = barchart_horizontal_fig(most_phy_df, title='Most used image analysis tools (physical sciences)', order_of_axes=['Other commercial software','Commercial software that<br>comes with my microscope','Computational libraries<br>and scripts','Open source point-and-<br>click software'])
+most_phy = utils.barchart_horizontal_fig(most_phy_df, title='Most used image analysis tools (physical sciences)', order_of_axes=['Other commercial software','Commercial software that<br>comes with my microscope','Computational libraries<br>and scripts','Open source point-and-<br>click software'])
 most_phy.update_layout(title_x=0.3)
 
-freq_phy = barchart_horizontal_fig(fre_phy_df_counts, title='Frequency of script usage (physical sciences)', order_of_axes=['Most of the time','Often','Sometimes','Never'])
+freq_phy = utils.barchart_horizontal_fig(fre_phy_df_counts, title='Frequency of script usage (physical sciences)', order_of_axes=['Most of the time','Often','Sometimes','Never'])
 freq_phy.update_layout(title_x=0.3)
 
 with st.container():
@@ -295,9 +294,9 @@ st.plotly_chart(scp_phy)
 st.write('Figure S3 B) Usage of computational scripts and libraries among physical science participants was categorized based on the ‘work type’ as described in supplementary figure 2.')
 
 ## Figure 5 
-way_analyze_df = df_for_barcharts(data["Approach to solutions"])
+way_analyze_df = utils.df_for_barcharts(data["Approach to solutions"])
 
-approach = barchart_horizontal_fig(way_analyze_df, title='Approach to solutions')
+approach = utils.barchart_horizontal_fig(way_analyze_df, title='Approach to solutions')
 approach.update_layout(height=550)
 
 #Reading the images from github
@@ -360,11 +359,11 @@ workshops_for_chart_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_Image
 workshops_for_chart = pd.read_csv(workshops_for_chart_url, index_col=0)
 
 #Creating the figures 
-pre_exp = barchart_horizontal_fig(pre_exp_df, title='Previous experience')
+pre_exp = utils.barchart_horizontal_fig(pre_exp_df, title='Previous experience')
 
-conf_att = barchart_horizontal_fig(conf_att_df, title='Conferences attended by the survey participants', order_of_axes=['Many','Some','Few','None'])
+conf_att = utils.barchart_horizontal_fig(conf_att_df, title='Conferences attended by the survey participants', order_of_axes=['Many','Some','Few','None'])
 
-workshops_chart = barchart_horizontal_fig(workshops_for_chart, title='Workshops attended by the participants')
+workshops_chart = utils.barchart_horizontal_fig(workshops_for_chart, title='Workshops attended by the participants')
 
 with st.container():
    st.subheader('Figure 6')
@@ -397,16 +396,16 @@ fold_change_int = pd.read_csv(fold_change_int_url, index_col=0)
 
 
 #Creating the figures 
-top_int = percentage_stackedcharts_fig_horizontal(top_int_df, title='How interested are you in learning more about the following topics',order_of_stacks=['Very interested', 'Moderately interested', 'Somewhat interested', 'Not at all interested'],order_of_axes=['Topics related to sub<br>discipline', 'Visualization of results', 'Analyzing large images', 'Image analysis practices', 'Specific software tool', 'Deep learning for image<br>analysis', 'Image analysis theory'], colors={'Very interested':'royalblue','Moderately interested':'dodgerblue','Somewhat interested':'cornflowerblue','Not at all interested':'skyblue'})
+top_int = utils.percentage_stackedcharts_fig_horizontal(top_int_df, title='How interested are you in learning more about the following topics',order_of_stacks=['Very interested', 'Moderately interested', 'Somewhat interested', 'Not at all interested'],order_of_axes=['Topics related to sub<br>discipline', 'Visualization of results', 'Analyzing large images', 'Image analysis practices', 'Specific software tool', 'Deep learning for image<br>analysis', 'Image analysis theory'], colors={'Very interested':'royalblue','Moderately interested':'dodgerblue','Somewhat interested':'cornflowerblue','Not at all interested':'skyblue'})
 top_int.update_layout(title_x =0.2)
 
-pre_mtd  = percentage_stackedcharts_fig_horizontal(pre_mtd_df, title='How preferable do you find each of these instructional methods',order_of_stacks=['Very preferable', 'Moderately preferable', 'Somewhat preferable', 'Not at all preferable'],order_of_axes=['Written tutorials', 'Video tutorial', 'Office hours', 'One day seminar', 'Interactive webinar','Best practices articles', 'Multiday workshop'], colors={'Very preferable':'royalblue','Moderately preferable':'dodgerblue','Somewhat preferable':'cornflowerblue','Not at all preferable':'skyblue'})
+pre_mtd  = utils.percentage_stackedcharts_fig_horizontal(pre_mtd_df, title='How preferable do you find each of these instructional methods',order_of_stacks=['Very preferable', 'Moderately preferable', 'Somewhat preferable', 'Not at all preferable'],order_of_axes=['Written tutorials', 'Video tutorial', 'Office hours', 'One day seminar', 'Interactive webinar','Best practices articles', 'Multiday workshop'], colors={'Very preferable':'royalblue','Moderately preferable':'dodgerblue','Somewhat preferable':'cornflowerblue','Not at all preferable':'skyblue'})
 pre_mtd.update_layout(title_x =0.2)
 
 
 int_top_subplots = make_subplots(rows=1, cols=2, shared_yaxes='all', subplot_titles=('Interest for future workshops', 'Preferable instructional methods'))
-int_top_subplots.add_trace(go.Bar(x=fold_change_top.index.map(customwrap), y=fold_change_top['fold'], orientation='v',showlegend=False, marker_color='royalblue', yaxis='y1'), 1,1)
-int_top_subplots.add_trace(go.Bar(x=fold_change_int.index.map(customwrap), y=fold_change_int['fold'],orientation='v',showlegend=False, marker_color='royalblue'), 1,2)
+int_top_subplots.add_trace(go.Bar(x=fold_change_top.index.map(utils.customwrap), y=fold_change_top['fold'], orientation='v',showlegend=False, marker_color='royalblue', yaxis='y1'), 1,1)
+int_top_subplots.add_trace(go.Bar(x=fold_change_int.index.map(utils.customwrap), y=fold_change_int['fold'],orientation='v',showlegend=False, marker_color='royalblue'), 1,2)
 int_top_subplots.update_layout(width=1000, height=500)
 int_top_subplots.update_xaxes(categoryorder ='total ascending', tickangle = 90)
 int_top_subplots.update_layout(yaxis1 =(dict(title='Fold change')))
@@ -429,7 +428,7 @@ with st.container():
 int_ski_df_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Skill_topicscombined.csv')
 int_ski_df = pd.read_csv(int_ski_df_url, index_col=0)
 
-int_ski = fig_subgroups(int_ski_df,list_of_col=['Image analysis theory', 'Image analysis practices', 'Topics related to sub discipline', 'Specific software tool', 'Deep learning for image analysis', 'Analyzing large images', 'Visualization of results'],list_of_groups = ['High skill', 'Medium skill', 'Low skill'],colorkey=['cornflowerblue', 'deepskyblue', 'lightskyblue'], title='Topics of interest for the future workshops')
+int_ski = utils.fig_subgroups(int_ski_df,list_of_col=['Image analysis theory', 'Image analysis practices', 'Topics related to sub discipline', 'Specific software tool', 'Deep learning for image analysis', 'Analyzing large images', 'Visualization of results'],list_of_groups = ['High skill', 'Medium skill', 'Low skill'],colorkey=['cornflowerblue', 'deepskyblue', 'lightskyblue'], title='Topics of interest for the future workshops')
 
 with st.container():
    st.subheader("Figure S5")
@@ -441,15 +440,15 @@ with st.container():
 #Figure S6
 ins_com_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Comfort_methodscombined.csv')
 ins_com_df = pd.read_csv(ins_com_url, index_col=0)
-ins_com = fig_subgroups(ins_com_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['High comfort', 'Medium comfort', 'Low comfort'],colorkey = ['darkviolet', 'blueviolet', 'violet'],title = 'Preferable instructional methods')
+ins_com = utils.fig_subgroups(ins_com_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['High comfort', 'Medium comfort', 'Low comfort'],colorkey = ['darkviolet', 'blueviolet', 'violet'],title = 'Preferable instructional methods')
 
 wrk_chart_url = ('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Worktype_methodscombined.csv')
 wrk_chart_df = pd.read_csv(wrk_chart_url, index_col=0)
-wrk_chart = fig_subgroups(wrk_chart_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['Imaging', 'Balanced', 'Analyst'],colorkey = ['royalblue', 'plum', 'darkturquoise'],title = 'Preferable instructional methods')
+wrk_chart = utils.fig_subgroups(wrk_chart_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['Imaging', 'Balanced', 'Analyst'],colorkey = ['royalblue', 'plum', 'darkturquoise'],title = 'Preferable instructional methods')
 
 ins_skill_url =('https://raw.githubusercontent.com/COBA-NIH/2023_ImageAnalysisSurvey/main/csv%20files/Skill_methodscombined.csv')
 ins_skill_df = pd.read_csv(ins_skill_url, index_col=0)
-ins_skill = fig_subgroups(ins_skill_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['High skill', 'Medium skill', 'Low skill'],colorkey = ['darkgreen', 'green', 'lightgreen'],title = 'Preferable instructional methods')
+ins_skill = utils.fig_subgroups(ins_skill_df,list_of_col = ['Best practices articles', 'Written tutorials', 'Video tutorial', 'Interactive webinar', 'Office hours', 'One day seminar', 'Multiday workshop'], list_of_groups = ['High skill', 'Medium skill', 'Low skill'],colorkey = ['darkgreen', 'green', 'lightgreen'],title = 'Preferable instructional methods')
 
 with st.container():
    st.subheader('Figure S6')
@@ -466,7 +465,7 @@ with st.container():
 
 
    ## Figure 8 
-fig_8a = word_counts(data['Recommended conferences/workshops'],synonym_dict={'ASCB':['ascb'], 
+fig_8a = utils.word_counts(data['Recommended conferences/workshops'],synonym_dict={'ASCB':['ascb'], 
 'MMC':['mmc'], 
 'ELMI':['elmi'], 
 'ABRF':['abrf'], 
@@ -476,7 +475,7 @@ fig_8a = word_counts(data['Recommended conferences/workshops'],synonym_dict={'AS
 'Developmental Biology':['developmental biology']}, title='Conferences that would benefit image analysis offerings')
 fig_8a.update_layout(title_x=0.2)
 
-fig_8b = word_counts(data['Topics of interest'], synonym_dict ={'Python/coding':['python', 'script','scripts', 'scripting', 'coding', 'scriptimg'], 
+fig_8b = utils.word_counts(data['Topics of interest'], synonym_dict ={'Python/coding':['python', 'script','scripts', 'scripting', 'coding', 'scriptimg'], 
 'Deep/machine learning':['deep learning','machine learning','deep', 'deeplearning'], 
 'FIJI':['fiji', 'imagej', 'macro', 'macros', 'imagej2'], 
 'Open source':['open source'], 
@@ -575,13 +574,13 @@ user_analyst_ngrams_url = 'https://raw.githubusercontent.com/COBA-NIH/2023_Image
 user_analyst_ngrams = pd.read_csv(user_analyst_ngrams_url, index_col=0)
 
 #Creating the barcharts for figure S7 
-creator_imaging = wordcount_barchart(creator_imaging_ngrams, title='Creators role-Imaging', total=creator_imaging["Creators role-Imaging"])
-creator_balanced = wordcount_barchart(creator_balanced_ngrams, title='Creators role-Balanced', total=creator_balanced['Creators role- Balanced'])
-creator_analyst = wordcount_barchart(creator_analyst_ngrams, title='Creators role-Analyst', total = creator_analyst['Creators role-Analyst'])
+creator_imaging = utils.wordcount_barchart(creator_imaging_ngrams, title='Creators role-Imaging', total=creator_imaging["Creators role-Imaging"])
+creator_balanced = utils.wordcount_barchart(creator_balanced_ngrams, title='Creators role-Balanced', total=creator_balanced['Creators role- Balanced'])
+creator_analyst = utils.wordcount_barchart(creator_analyst_ngrams, title='Creators role-Analyst', total = creator_analyst['Creators role-Analyst'])
 
-user_imaging = wordcount_barchart(user_imaging_ngrams, title='Users role-Imaging', total=user_imaging_csv["Users role - Imaging"])
-user_balanced  = wordcount_barchart(user_balanced_ngrams, title='Users role-Balanced', total=user_balanced_csv["Users role-Balanced"])
-user_analyst = wordcount_barchart(user_analyst_ngrams, title='Users role-Analyst', total=user_analyst_csv["Users role - Analyst"])
+user_imaging = utils.wordcount_barchart(user_imaging_ngrams, title='Users role-Imaging', total=user_imaging_csv["Users role - Imaging"])
+user_balanced  = utils.wordcount_barchart(user_balanced_ngrams, title='Users role-Balanced', total=user_balanced_csv["Users role-Balanced"])
+user_analyst = utils.wordcount_barchart(user_analyst_ngrams, title='Users role-Analyst', total=user_analyst_csv["Users role - Analyst"])
 
 
 #Figure S7 
