@@ -4,3 +4,4 @@ plotly==5.2.1
 scikit-learn==1.5.1
 streamlit
 wordcloud==1.9.3
+numpy==1.26.4
