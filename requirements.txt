@@ -1,6 +1,6 @@
 kaleido
 pandas
-plotly
+plotly==5.2.1
 scikit-learn
 streamlit
 wordcloud
